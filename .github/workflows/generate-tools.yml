@@ -1,9 +1,9 @@
 name: Generate Emulator Tools
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */2 * * *"
-  workflow_dispatch:
 
 jobs:
   generate:
@@ -26,5 +26,5 @@ jobs:
           git config --global user.name "zag-bot"
           git config --global user.email "bot@zag.dev"
           git add .
-          git commit -m "Auto update tools" || echo "No changes"
+          git commit -m "Auto update emulator tools" || echo "No changes"
           git push
