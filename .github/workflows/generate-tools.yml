@@ -1,16 +1,15 @@
-name: Generate Tools Pages
+name: Generate Emulators Pages
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # runs every 6 hours
-  workflow_dispatch:      # allows manual run from GitHub UI
+    - cron: '0 */6 * * *'   # runs every 6 hours
+  workflow_dispatch:        # allows manual run
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Setup Node.js
@@ -19,15 +18,16 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: npm install
+        run: npm install axios cheerio
 
-      - name: Run tool generator
+      - name: Run Tool Generator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # pass token to JS script
         run: node generateTools.js
 
-      - name: Commit and push updates
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Automatic update of tools pages" || echo "No changes to commit"
-          git push
+      - name: Commit & Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'ZAG Bot'
+          author_email: 'zagbot@example.com'
+          message: 'Auto-update emulator pages'
