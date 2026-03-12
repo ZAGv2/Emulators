@@ -1,30 +1,113 @@
-name: Generate Emulator Tools
+const fs = require("fs");
+const path = require("path");
 
-on:
-  schedule:
-    - cron: "0 */2 * * *"
-  workflow_dispatch:
+const toolsFile = "tools.json";
+const templateFile = "template.html";
+const toolsDir = "tools";
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+const sources = [
+"https://api.github.com/search/repositories?q=emulator&sort=stars&per_page=20",
+"https://api.github.com/search/repositories?q=nes+emulator&sort=stars&per_page=20",
+"https://api.github.com/search/repositories?q=snes+emulator&sort=stars&per_page=20",
+"https://api.github.com/search/repositories?q=ps2+emulator&sort=stars&per_page=20",
+"https://api.github.com/search/repositories?q=retro+emulator&sort=stars&per_page=20"
+];
 
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+async function fetchRepos() {
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
+let results = [];
 
-      - name: Run Generator
-        run: node generateTools.js
+for (let url of sources) {
 
-      - name: Commit Changes
-        run: |
-          git config --global user.name "zag-bot"
-          git config --global user.email "bot@zag.dev"
-          git add .
-          git commit -m "Auto update emulator tools" || echo "No changes"
-          git push
+const res = await fetch(url, {
+headers: { "User-Agent": "zag-bot" }
+});
+
+const data = await res.json();
+
+if (data.items) {
+results.push(...data.items);
+}
+
+}
+
+return results;
+
+}
+
+function loadTools() {
+
+if (!fs.existsSync(toolsFile)) return [];
+
+return JSON.parse(fs.readFileSync(toolsFile));
+
+}
+
+function saveTools(tools) {
+
+fs.writeFileSync(toolsFile, JSON.stringify(tools, null, 2));
+
+}
+
+function generatePage(tool, template) {
+
+let page = template
+.replace(/GAME_TITLE/g, tool.name)
+.replace(/CREATOR_NAME/g, tool.creator)
+.replace(/GAME_DESCRIPTION/g, tool.description)
+.replace(/GAME_ZIP_LINK/g, tool.url)
+.replace(/CONSOLE_NAME/g, "Multi Platform")
+.replace(/RELEASE_YEAR/g, tool.year);
+
+const folder = path.join(toolsDir, tool.slug);
+
+if (!fs.existsSync(folder)) {
+fs.mkdirSync(folder, { recursive: true });
+}
+
+fs.writeFileSync(path.join(folder, "index.html"), page);
+
+}
+
+function slugify(name) {
+return name.toLowerCase().replace(/[^a-z0-9]/g,"-");
+}
+
+async function run() {
+
+const template = fs.readFileSync(templateFile, "utf8");
+
+let tools = loadTools();
+
+let repos = await fetchRepos();
+
+for (let repo of repos) {
+
+const slug = slugify(repo.name);
+
+if (tools.find(t => t.slug === slug)) continue;
+
+const tool = {
+
+name: repo.name,
+creator: repo.owner.login,
+description: repo.description || "Open source emulator",
+url: repo.html_url,
+year: repo.created_at.split("-")[0],
+slug: slug
+
+};
+
+tools.push(tool);
+
+generatePage(tool, template);
+
+console.log("Added:", tool.name);
+
+}
+
+saveTools(tools);
+
+}
+
+run();
