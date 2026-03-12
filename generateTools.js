@@ -191,3 +191,7 @@ ${rows}
         console.error('❌ Error generating tools:', err.message);
     }
 })();
+
+// Save tools log for checking progress
+fs.writeFileSync(path.join(__dirname, 'tools_log.json'), JSON.stringify(allTools, null, 2), 'utf-8');
+console.log('✅ Saved tools_log.json for inspection');
