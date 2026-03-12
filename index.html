@@ -56,7 +56,7 @@ footer { background:#fff; padding:25px; text-align:center; border-top:1px solid 
 </tr>
 </thead>
 <tbody>
-<!-- JS will populate rows here from emulators.json -->
+<!-- JS will populate rows here from tools.json -->
 </tbody>
 </table>
 </div>
@@ -64,10 +64,10 @@ footer { background:#fff; padding:25px; text-align:center; border-top:1px solid 
 <footer>© 2026 ZAG Archive - Emulators</footer>
 
 <script>
-// --- Populate table from emulators.json ---
+// --- Populate table from tools.json ---
 const tbody = document.querySelector('#allGamesTable tbody');
 
-fetch('emulators.json')
+fetch('tools.json')
   .then(res => res.json())
   .then(tools => {
     tools.forEach(tool => {
@@ -82,7 +82,7 @@ fetch('emulators.json')
       tbody.appendChild(tr);
     });
   })
-  .catch(err => console.error("Failed to load emulators.json:", err));
+  .catch(err => console.error("Failed to load tools.json:", err));
 
 // --- Search bar filter ---
 document.getElementById('searchBar').addEventListener('input', function(){
