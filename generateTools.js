@@ -8,7 +8,7 @@ const TOOLS_DIR = path.join(__dirname, 'tools');
 const INDEX_FILE = path.join(__dirname, 'index.html');
 const DATA_JSON = path.join(__dirname, 'emulators.json');
 
-// Official sites + GitHub releases
+// Official emulator websites
 const SOURCES = [
     { type: 'web', name: 'Dolphin', url: 'https://dolphin-emu.org/download/' },
     { type: 'web', name: 'PCSX2', url: 'https://pcsx2.net/download.html' },
@@ -21,34 +21,37 @@ const SOURCES = [
     { type: 'github', name: 'PPSSPP', url: 'https://api.github.com/repos/hrydgard/ppsspp/releases' },
 ];
 
-// GitHub search query for any emulator repos
+// GitHub search for new emulator repos
 const GITHUB_SEARCH = {
     query: 'emulator',
     language: 'cpp',
-    per_page: 10, // limit to top 10 new repos per run
-    token: process.env.GITHUB_TOKEN || null, // set in GitHub secrets
+    per_page: 20
 };
 
 async function fetchWebSource(source) {
     const { data } = await axios.get(source.url);
     const $ = cheerio.load(data);
 
-    // Example selectors (adjust per site)
-    return [{
-        name: source.name,
-        description: $('meta[name="description"]').attr('content') || 'No description',
-        platform: 'Multiple',
-        download: source.url,
-        image: $('img').first().attr('src') || ''
-    }];
+    switch (source.name) {
+        case 'Dolphin':
+            return [{ name: 'Dolphin Emulator', description: $('.download-description').text().trim() || 'No description', platform: 'Windows / Mac / Linux', download: source.url, image: 'https://dolphin-emu.org/images/dolphin-emu-logo.png' }];
+        case 'PCSX2':
+            return [{ name: 'PCSX2', description: $('.download-text').text().trim() || 'No description', platform: 'Windows / Linux', download: source.url, image: 'https://pcsx2.net/images/logo-pcsx2.png' }];
+        case 'MAME':
+            return [{ name: 'MAME', description: 'Multi Arcade Machine Emulator', platform: 'Windows / Mac / Linux', download: source.url, image: 'https://www.mamedev.org/images/mame-logo.png' }];
+        case 'RetroArch':
+            return [{ name: 'RetroArch', description: 'Cross-platform emulator frontend', platform: 'Multiple', download: source.url, image: 'https://www.retroarch.com/images/retroarch_logo.png' }];
+        case 'PPSSPP':
+            return [{ name: 'PPSSPP', description: 'PSP emulator for multiple platforms', platform: 'Windows / Android / Linux / iOS', download: source.url, image: 'https://www.ppsspp.org/images/ppsspp_logo.png' }];
+        default:
+            return [];
+    }
 }
 
 async function fetchGitHubReleases(source) {
-    const headers = {};
-    if (GITHUB_SEARCH.token) headers.Authorization = `token ${GITHUB_SEARCH.token}`;
+    const headers = { Authorization: `token ${process.env.GITHUB_TOKEN}` };
     const { data } = await axios.get(source.url, { headers });
     if (!Array.isArray(data)) return [];
-
     return data.map(release => ({
         name: release.name || source.name,
         description: release.body || 'No description',
@@ -59,8 +62,7 @@ async function fetchGitHubReleases(source) {
 }
 
 async function searchGitHubRepos() {
-    const headers = {};
-    if (GITHUB_SEARCH.token) headers.Authorization = `token ${GITHUB_SEARCH.token}`;
+    const headers = { Authorization: `token ${process.env.GITHUB_TOKEN}` };
     const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(GITHUB_SEARCH.query)}+language:${GITHUB_SEARCH.language}&sort=updated&order=desc&per_page=${GITHUB_SEARCH.per_page}`;
     const { data } = await axios.get(url, { headers });
     return data.items.map(repo => ({
@@ -68,7 +70,7 @@ async function searchGitHubRepos() {
         description: repo.description || 'No description',
         platform: 'Multiple',
         download: repo.html_url,
-        image: '' // can later scrape README for image if needed
+        image: '' // optional: can scrape README later
     }));
 }
 
@@ -96,7 +98,7 @@ function updateIndex(tools) {
 <td><img src="${tool.image}" width="60"></td>
 <td><a href="tools/${folder}/index.html" style="color:#1e90ff;">${tool.name}</a></td>
 <td>${tool.platform}</td>
-<td>${'Unknown'}</td>
+<td>Unknown</td>
 <td>${new Date().getFullYear()}</td>
 </tr>\n`;
     });
@@ -108,7 +110,6 @@ function updateIndex(tools) {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Emulators - ZAG Archive</title>
 <style>
-/* basic table styles */
 table {width:100%;border-collapse:collapse;}
 th,td {padding:12px;border-bottom:1px solid #ddd;}
 th {background:#f7f7f7;color:#1e90ff;}
