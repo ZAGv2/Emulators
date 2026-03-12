@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Emulators - ZAG Archive</title>
 <style>
-body { margin:0; font-family:'Segoe UI', Tahoma, sans-serif; background:#f0f2f5; color:#222; }
+body { margin:0; font-family:'Segoe UI',sans-serif; background:#f0f2f5; color:#222; }
 header { background:#fff; padding:15px 30px; display:flex; justify-content:space-between; align-items:center; box-shadow:0 2px 6px rgba(0,0,0,0.1); flex-wrap:wrap; }
 .site-title { font-weight:700; font-size:20px; color:#1e90ff; text-transform:uppercase; }
-nav { display:flex; flex-wrap:wrap; align-items:center; }
+nav { display:flex; flex-wrap:wrap; }
 nav a { margin-left:20px; text-decoration:none; color:#333; font-weight:600; }
 nav a:hover { color:#1e90ff; }
 .dropdown { position:relative; }
@@ -19,12 +19,12 @@ nav a:hover { color:#1e90ff; }
 .dropdown:hover .dropdown-content { display:block; }
 .container { max-width:1100px; margin:40px auto; padding:0 15px; }
 #searchBar { width:100%; max-width:350px; padding:8px 12px; margin-bottom:20px; border-radius:6px; border:1px solid #ccc; }
-.tool-table { width:100%; border-collapse:collapse; background:#fff; border-radius:12px; overflow:hidden; box-shadow:0 6px 12px rgba(0,0,0,0.08); margin-bottom:50px; }
-.tool-table th, .tool-table td { padding:12px 10px; border-bottom:1px solid #ddd; font-size:14px; text-align:left; }
-.tool-table th { background:#f7f7f7; color:#1e90ff; }
-.tool-table tr:hover { background:#f0f8ff; cursor:pointer; }
+.game-table { width:100%; border-collapse:collapse; background:#fff; border-radius:12px; overflow:hidden; box-shadow:0 6px 12px rgba(0,0,0,0.08); margin-bottom:50px; }
+.game-table th, .game-table td { padding:12px 10px; border-bottom:1px solid #ddd; font-size:14px; text-align:left; }
+.game-table th { background:#f7f7f7; color:#1e90ff; }
+.game-table tr:hover { background:#f0f8ff; cursor:pointer; }
 footer { background:#fff; padding:25px; text-align:center; border-top:1px solid #ddd; color:#555; font-size:14px; }
-@media(max-width:768px){ #searchBar { max-width:100%; } }
+@media(max-width:768px){ #searchBar { max-width:100%; } .game-table th, .game-table td { font-size:12px; } }
 </style>
 </head>
 <body>
@@ -32,41 +32,44 @@ footer { background:#fff; padding:25px; text-align:center; border-top:1px solid 
 <header>
 <div class="site-title">ZAG Archive</div>
 <nav>
-<a href="https://zagv2.github.io/ZAGArchive-/index.html">Home</a>
+<a href="../index.html">Home</a>
 <div class="dropdown">
-  <button class="dropbtn">Sections ▼</button>
-  <div class="dropdown-content">
-    <a href="https://zagv2.github.io/Homebrew-Games/">Homebrew Games</a>
-    <a href="https://zagv2.github.io/romhacks-patches/">ROM Hacks & Patches</a>
-    <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
-  </div>
+<button class="dropbtn">Sections ▼</button>
+<div class="dropdown-content">
+<a href="../Homebrew-Games/">Homebrew Games</a>
+<a href="../romhacks-patches/">ROM Hacks & Patches</a>
+<a href="../resources-tools/">Resources & Tools</a>
 </div>
-<a href="https://zagv2.github.io/ZAGArchive-/about.html">About</a>
-<a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
+</div>
+<a href="../about.html">About</a>
+<a href="../contact.html">Contact</a>
 </nav>
 </header>
 
 <div class="container">
-<input type="text" id="searchBar" placeholder="Search by name or platform">
-<table class="tool-table" id="allToolsTable">
+<input type="text" id="searchBar" placeholder="Search by title or platform">
+
+<table class="game-table" id="allGamesTable">
 <thead>
-<tr><th>Icon</th><th>Tool</th><th>Platform</th><th>Developer</th><th>Latest Version</th></tr>
+<tr>
+<th>Icon</th><th>Emulator</th><th>Platform</th><th>Developer</th><th>Version</th>
+</tr>
 </thead>
 <tbody>
-<!-- Auto.js or workflow will populate all tools here -->
+<!-- Workflow will populate rows here from emulators.json -->
 </tbody>
 </table>
 </div>
 
-<footer>© 2026 ZAG Archive</footer>
+<footer>© 2026 ZAG Archive - Emulators</footer>
 
 <script>
-document.getElementById('searchBar').addEventListener('input',function(){
-  let val=this.value.toLowerCase();
-  document.querySelectorAll('#allToolsTable tbody tr').forEach(tr=>{
-    let name=tr.cells[1].textContent.toLowerCase();
-    let platform=tr.cells[2].textContent.toLowerCase();
-    tr.style.display=(name.includes(val)||platform.includes(val))?'':'none';
+document.getElementById('searchBar').addEventListener('input', function(){
+  let val = this.value.toLowerCase();
+  document.querySelectorAll('#allGamesTable tbody tr').forEach(tr=>{
+    let name = tr.cells[1].textContent.toLowerCase();
+    let platform = tr.cells[2].textContent.toLowerCase();
+    tr.style.display = (name.includes(val) || platform.includes(val)) ? '' : 'none';
   });
 });
 </script>
