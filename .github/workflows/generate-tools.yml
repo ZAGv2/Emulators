@@ -1,5 +1,10 @@
 name: Generate Emulator Tools
 
+# Give workflow permission to push
+permissions:
+  contents: write
+
+# Trigger every 2 hours and manually
 on:
   workflow_dispatch:
   schedule:
@@ -10,21 +15,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      # Checkout the repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Node
+      # Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 18
 
+      # Run your automation script
       - name: Run generator
         run: node generateTools.js
 
-      - name: Commit changes
+      # Commit & push changes using GitHub token
+      - name: Commit and push changes
         run: |
           git config --global user.name "zag-bot"
           git config --global user.email "bot@zag.dev"
           git add .
           git commit -m "Auto update emulator tools" || echo "No changes"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/ZAGv2/Emulators.git HEAD:main
