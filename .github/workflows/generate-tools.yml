@@ -1,41 +1,30 @@
-name: Generate Tools
+name: Generate Emulator Tools
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour at minute 0
-  workflow_dispatch:      # allows manual run
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
+      - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: 18
 
-      - name: Install dependencies
-        run: npm install axios cheerio
-
-      - name: Generate tools
+      - name: Run Generator
         run: node generateTools.js
 
-      - name: Commit log JSON
+      - name: Commit Changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add tools_log.json
-          git commit -m "Update tools log" || echo "No changes to commit"
+          git config --global user.name "zag-bot"
+          git config --global user.email "bot@zag.dev"
+          git add .
+          git commit -m "Auto update emulator tools" || echo "No changes"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # your repo root or the folder with index.html
