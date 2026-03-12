@@ -22,7 +22,7 @@ jobs:
 
       - name: Run Tool Generator
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # pass token to JS script
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # default token provided by GitHub Actions
         run: node generateTools.js
 
       - name: Commit & Push changes
