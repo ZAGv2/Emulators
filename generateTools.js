@@ -1,37 +1,30 @@
 // generateTools.js
-// Fully automatic system for Emulators repo
+// Fully automatic system for Emulators (tool name links → tool page, download opens official page)
 
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
-const cheerio = require('cheerio'); // for HTML parsing
+const cheerio = require('cheerio');
 
 const TEMPLATE_FILE = path.join(__dirname, 'templates', 'template.html');
 const TOOLS_DIR = path.join(__dirname, 'tools');
 const INDEX_FILE = path.join(__dirname, 'index.html');
-const DATA_JSON = path.join(__dirname, 'emulators.json'); // optional: store current tools
+const DATA_JSON = path.join(__dirname, 'emulators.json');
 
-// Legal sources (replace with actual legal URLs)
 const SOURCES = [
-  'https://example-legal-emulator-site.com/list', 
+  'https://example-legal-emulator-site.com/list',
 ];
 
-// Read template
 const template = fs.readFileSync(TEMPLATE_FILE, 'utf8');
-
-// Ensure tools folder exists
 if (!fs.existsSync(TOOLS_DIR)) fs.mkdirSync(TOOLS_DIR);
 
-// Fetch data from legal sources
 async function fetchTools() {
     const tools = [];
-
     for (const url of SOURCES) {
         try {
             const res = await axios.get(url);
             const $ = cheerio.load(res.data);
 
-            // Example: parse each tool entry (update selectors according to source)
             $('.tool-entry').each((i, el) => {
                 const name = $(el).find('.tool-name').text().trim();
                 const platform = $(el).find('.tool-platform').text().trim();
@@ -39,22 +32,19 @@ async function fetchTools() {
                 const version = $(el).find('.tool-version').text().trim();
                 const description = $(el).find('.tool-description').text().trim();
                 const cover = $(el).find('.tool-cover img').attr('src');
-                const download = $(el).find('.tool-download a').attr('href');
+                const download = $(el).find('.tool-download a').attr('href'); // official page
 
-                if(name && download) {
+                if(name && download){
                     tools.push({name, platform, developer, version, description, cover, download});
                 }
             });
-
         } catch(err) {
             console.error(`Error fetching from ${url}:`, err.message);
         }
     }
-
     return tools;
 }
 
-// Generate individual tool page
 function generateToolPage(tool) {
     const toolFolder = path.join(TOOLS_DIR, tool.name.replace(/\s+/g,'_'));
     if(!fs.existsSync(toolFolder)) fs.mkdirSync(toolFolder);
@@ -71,7 +61,6 @@ function generateToolPage(tool) {
     fs.writeFileSync(path.join(toolFolder, 'index.html'), html, 'utf8');
 }
 
-// Update main index.html table
 function updateIndex(tools) {
     let rows = '';
     tools.forEach(tool => {
@@ -115,14 +104,10 @@ ${rows}
     fs.writeFileSync(INDEX_FILE, indexContent, 'utf8');
 }
 
-// Main
 (async () => {
     const tools = await fetchTools();
     tools.forEach(generateToolPage);
     updateIndex(tools);
-
-    // Optionally save JSON of current tools
-    fs.writeFileSync(DATA_JSON, JSON.stringify(tools, null, 2), 'utf8');
-
+    fs.writeFileSync(DATA_JSON, JSON.stringify(tools,null,2),'utf8');
     console.log(`Updated ${tools.length} tools.`);
 })();
