@@ -32,17 +32,17 @@ footer { background:#fff; padding:25px; text-align:center; border-top:1px solid 
 <header>
 <div class="site-title">ZAG Archive</div>
 <nav>
-<a href="../index.html">Home</a>
+<a href="https://zagv2.github.io/ZAGArchive-/">Home</a>
 <div class="dropdown">
 <button class="dropbtn">Sections ▼</button>
 <div class="dropdown-content">
-<a href="../Homebrew-Games/">Homebrew Games</a>
-<a href="../romhacks-patches/">ROM Hacks & Patches</a>
-<a href="../resources-tools/">Resources & Tools</a>
+<a href="https://zagv2.github.io/Homebrew-Games/">Homebrew Games</a>
+<a href="https://zagv2.github.io/romhacks-patches/">ROM Hacks & Patches</a>
+<a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
 </div>
 </div>
-<a href="../about.html">About</a>
-<a href="../contact.html">Contact</a>
+<a href="https://zagv2.github.io/ZAGArchive-/about.html">About</a>
+<a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
 </nav>
 </header>
 
@@ -56,7 +56,7 @@ footer { background:#fff; padding:25px; text-align:center; border-top:1px solid 
 </tr>
 </thead>
 <tbody>
-<!-- Workflow will populate rows here from emulators.json -->
+<!-- JS will populate rows here from emulators.json -->
 </tbody>
 </table>
 </div>
@@ -64,11 +64,32 @@ footer { background:#fff; padding:25px; text-align:center; border-top:1px solid 
 <footer>© 2026 ZAG Archive - Emulators</footer>
 
 <script>
+// --- Populate table from emulators.json ---
+const tbody = document.querySelector('#allGamesTable tbody');
+
+fetch('emulators.json')
+  .then(res => res.json())
+  .then(tools => {
+    tools.forEach(tool => {
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td><img src="${tool.icon || 'https://via.placeholder.com/32'}" alt="${tool.name} icon" style="width:32px;height:32px;border-radius:4px;"></td>
+        <td><a href="tools/${tool.slug}/index.html" target="_blank">${tool.name}</a></td>
+        <td>Multi Platform</td>
+        <td>${tool.creator}</td>
+        <td><a href="${tool.url}" target="_blank">Official Page</a></td>
+      `;
+      tbody.appendChild(tr);
+    });
+  })
+  .catch(err => console.error("Failed to load emulators.json:", err));
+
+// --- Search bar filter ---
 document.getElementById('searchBar').addEventListener('input', function(){
-  let val = this.value.toLowerCase();
-  document.querySelectorAll('#allGamesTable tbody tr').forEach(tr=>{
-    let name = tr.cells[1].textContent.toLowerCase();
-    let platform = tr.cells[2].textContent.toLowerCase();
+  const val = this.value.toLowerCase();
+  document.querySelectorAll('#allGamesTable tbody tr').forEach(tr => {
+    const name = tr.cells[1].textContent.toLowerCase();
+    const platform = tr.cells[2].textContent.toLowerCase();
     tr.style.display = (name.includes(val) || platform.includes(val)) ? '' : 'none';
   });
 });
