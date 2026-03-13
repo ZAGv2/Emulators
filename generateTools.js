@@ -82,7 +82,7 @@ function slugify(text){
 }
 
 // --- Recursively get image link from repo, including README.md fallback ---
-async function getRepoImage(owner, repo, pathInRepo = "") {
+async function getRepoImage(owner, repo, branch, pathInRepo = "") {
   const imageExtensions = ["jpg","jpeg","png","gif","webp"]
   const priorityFiles = ["cover", "screenshot", "logo"]
 
@@ -92,41 +92,49 @@ async function getRepoImage(owner, repo, pathInRepo = "") {
     const files = await res.json()
     if (!Array.isArray(files)) return null
 
-    // 1️⃣ Priority filenames
+    // Priority filenames
     for (const file of files) {
       if (file.type === "file") {
         const lowerName = file.name.toLowerCase()
         if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
           for (const prefix of priorityFiles) {
-            if (lowerName.startsWith(prefix)) return `https://raw.githubusercontent.com/${owner}/${repo}/main/${file.path}`
+            if (lowerName.startsWith(prefix)) {
+              return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${file.path}`
+            }
           }
         }
       }
     }
 
-    // 2️⃣ Any image recursively
+    // Any image recursively
     for (const file of files) {
       if (file.type === "file") {
         const lowerName = file.name.toLowerCase()
         if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
-          return `https://raw.githubusercontent.com/${owner}/${repo}/main/${file.path}`
+          return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${file.path}`
         }
       } else if (file.type === "dir") {
-        const nested = await getRepoImage(owner, repo, file.path)
+        const nested = await getRepoImage(owner, repo, branch, file.path)
         if (nested) return nested
       }
     }
 
-    // 3️⃣ Fallback: look for first image in README.md
+    // README image fallback
     const readmeUrl = `https://api.github.com/repos/${owner}/${repo}/contents/README.md`
     const readmeRes = await fetch(readmeUrl)
     const readmeData = await readmeRes.json()
+
     if (readmeData && readmeData.content) {
       const decoded = Buffer.from(readmeData.content, "base64").toString("utf-8")
       const match = decoded.match(/!\[.*?\]\((.*?)\)/)
+
       if (match && match[1]) {
         let imgUrl = match[1]
-        if (!imgUrl.startsWith("http")) imgUrl = `https://raw.githubusercontent.com/${owner}/${repo}/main/${imgUrl.replace(/^.\//,'')}`
+
+        if (!imgUrl.startsWith("http")) {
+          imgUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${imgUrl.replace(/^.\//,'')}`
+        }
+
         return imgUrl
       }
     }
@@ -184,23 +192,11 @@ nav a:hover{color:#1e90ff;}
 .download-btn{display:inline-block;margin-top:15px;padding:10px 18px;background:#1e90ff;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;transition:0.3s;}
 .download-btn:hover{background:#187bcd;}
 footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top:1px solid #ddd;color:#555;font-size:14px;}
-@media(max-width:768px){
-.game-header{flex-direction:column;align-items:center;}
-.game-cover img{max-width:100%;}
-.game-info h1{text-align:center;font-size:22px;}
-.meta{text-align:center;}
-.download-btn{display:block;width:100%;text-align:center;}
-}
 </style>
 </head>
 <body>
 <header>
-  <div class="site-title">ZAG Archive</div>
-  <nav>
-    <a href="../../..">Home</a>
-    <a href="../../categories.html">Categories</a>
-    <a href="../../about.html">About</a>
-  </nav>
+<div class="site-title">ZAG Archive</div>
 </header>
 <div class="container">
 <a class="download-btn" href="../../..">← Back</a>
@@ -248,7 +244,7 @@ async function run(){
         seen.add(repo.html_url)
 
         const slug = slugify(repo.name)
-        const repoImage = await getRepoImage(repo.owner.login, repo.name)
+        const repoImage = await getRepoImage(repo.owner.login, repo.name, repo.default_branch)
 
         const tool = {
           name: repo.name,
@@ -257,8 +253,8 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          repoImage: repoImage, // only link
-          description: repo.description // GitHub repo description
+          repoImage: repoImage,
+          description: repo.description
         }
 
         tools.push(tool)
@@ -269,7 +265,6 @@ async function run(){
     }
   }
 
-  // --- Self-healing and rebuild ---
   tools.forEach(tool=>{
     tool.console = detectConsole(tool.name)
     createToolPage(tool)
