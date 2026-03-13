@@ -238,18 +238,19 @@ const end=start+itemsPerPage
 const pageItems=tools.slice(start,end)
 
 pageItems.forEach(tool=>{
+  // --- Updated: console-based folder path ---
+  const consoleFolder = (tool.console || "Multi Platform").toLowerCase().replace(/[^a-z0-9]+/g,"-")
+  const img = tool.cover || "tools/logos/Default-cover.jpg"
 
-const img=tool.cover || "tools/logos/Default-cover.jpg"
+  const tr=document.createElement("tr")
 
-const tr=document.createElement("tr")
-
-tr.innerHTML=`
+  tr.innerHTML=`
 <td>
 <img src="${img}" style="width:32px;height:32px;border-radius:4px;">
 </td>
 
 <td>
-<a href="tools/${tool.slug}/index.html" target="_blank">${tool.name}</a>
+<a href="tools/${consoleFolder}/${tool.slug}/index.html" target="_blank">${tool.name}</a>
 </td>
 
 <td>${tool.console || "Multi Platform"}</td>
@@ -259,8 +260,7 @@ tr.innerHTML=`
 <td>${tool.version || "..."}</td>
 `
 
-tbody.appendChild(tr)
-
+  tbody.appendChild(tr)
 })
 
 renderPagination(tools.length,page)
