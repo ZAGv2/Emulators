@@ -3508,5 +3508,1695 @@
     "url": "https://github.com/hulkholden/daedalus",
     "repoImage": null,
     "description": "An N64 emulator for Windows, OSX and PSP."
+  },
+  {
+    "name": "SkyEmu",
+    "slug": "skyemu",
+    "creator": "skylersaleh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/skylersaleh/SkyEmu",
+    "repoImage": "https://raw.githubusercontent.com/skylersaleh/SkyEmu/dev/docs/accuracy_screenshots/NBA/DigimonRacing.png",
+    "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator"
+  },
+  {
+    "name": "reicast-emulator",
+    "slug": "reicast-emulator",
+    "creator": "skmp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/skmp/reicast-emulator",
+    "repoImage": null,
+    "description": "Reicast was a multiplatform Sega Dreamcast emulator"
+  },
+  {
+    "name": "pcjs",
+    "slug": "pcjs",
+    "creator": "jeffpar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jeffpar/pcjs",
+    "repoImage": null,
+    "description": "The original IBM PC and other machine emulations in JavaScript"
+  },
+  {
+    "name": "aws-lambda-runtime-interface-emulator",
+    "slug": "aws-lambda-runtime-interface-emulator",
+    "creator": "aws",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aws/aws-lambda-runtime-interface-emulator",
+    "repoImage": null,
+    "description": null
+  },
+  {
+    "name": "swieros",
+    "slug": "swieros",
+    "creator": "rswier",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rswier/swieros",
+    "repoImage": null,
+    "description": "A tiny hand crafted CPU emulator, C compiler, and Operating System"
+  },
+  {
+    "name": "make-it-heavy",
+    "slug": "make-it-heavy",
+    "creator": "Doriandarko",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Doriandarko/make-it-heavy",
+    "repoImage": null,
+    "description": "A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query."
+  },
+  {
+    "name": "nemu",
+    "slug": "nemu",
+    "creator": "NJU-ProjectN",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NJU-ProjectN/nemu",
+    "repoImage": null,
+    "description": "NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching"
+  },
+  {
+    "name": "Gearboy",
+    "slug": "gearboy",
+    "creator": "drhelius",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drhelius/Gearboy",
+    "repoImage": null,
+    "description": "Game Boy / Gameboy Color emulator and debugger for macOS, Windows, Linux, BSD and RetroArch."
+  },
+  {
+    "name": "CLK",
+    "slug": "clk",
+    "creator": "TomHarte",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TomHarte/CLK",
+    "repoImage": null,
+    "description": "A latency-hating emulator of: the Acorn Electron, BBC Micro and Archimedes, Amstrad CPC, Apple II/II+/IIe and early Macintosh, Atari 2600 and ST, ColecoVision, Enterprise 64/128, Commodore Vic-20 and Amiga, MSX 1/2, Oric 1/Atmos, early PC compatibles, Sega Master System, Sinclair ZX80/81 and ZX Spectrum."
+  },
+  {
+    "name": "NooDS",
+    "slug": "noods",
+    "creator": "Hydr8gon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Hydr8gon/NooDS",
+    "repoImage": null,
+    "description": "A (hopefully!) speedy DS emulator"
+  },
+  {
+    "name": "ProjectPSX",
+    "slug": "projectpsx",
+    "creator": "BluestormDNA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BluestormDNA/ProjectPSX",
+    "repoImage": null,
+    "description": "Experimental C# Playstation Emulator"
+  },
+  {
+    "name": "8086tiny",
+    "slug": "8086tiny",
+    "creator": "adriancable",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/adriancable/8086tiny",
+    "repoImage": null,
+    "description": "Official repository for 8086tiny: a tiny PC emulator/virtual machine"
+  },
+  {
+    "name": "bigquery-emulator",
+    "slug": "bigquery-emulator",
+    "creator": "goccy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/goccy/bigquery-emulator",
+    "repoImage": null,
+    "description": "BigQuery emulator server implemented in Go"
+  },
+  {
+    "name": "gearmulator",
+    "slug": "gearmulator",
+    "creator": "dsp56300",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dsp56300/gearmulator",
+    "repoImage": null,
+    "description": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs"
+  },
+  {
+    "name": "BotW-BetterVR",
+    "slug": "botw-bettervr",
+    "creator": "Crementif",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Crementif/BotW-BetterVR",
+    "repoImage": null,
+    "description": "A project aimed at providing a better PC VR mode for BotW using the Cemu emulator"
+  },
+  {
+    "name": "twin",
+    "slug": "twin",
+    "creator": "cosmos72",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cosmos72/twin",
+    "repoImage": null,
+    "description": "Text mode window environment. A terminal emulator and multiplexer with mouse support, overlapped windows and networked clients. Text-mode equivalent of X11 server + VNC server"
+  },
+  {
+    "name": "aclock",
+    "slug": "aclock",
+    "creator": "tenox7",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tenox7/aclock",
+    "repoImage": null,
+    "description": "ascii analog clock for text console displays and terminals and terminal emulators"
+  },
+  {
+    "name": "langterm",
+    "slug": "langterm",
+    "creator": "statico",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/statico/langterm",
+    "repoImage": null,
+    "description": "🕹️ WebGL-based VT220 emulator, made as a learning example and frontend for a text adventure"
+  },
+  {
+    "name": "Qonsole",
+    "slug": "qonsole",
+    "creator": "joedf",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joedf/Qonsole",
+    "repoImage": null,
+    "description": "A Quake-like Console Emulator written in AutoHotkey."
+  },
+  {
+    "name": "Thrustmaster-T300-Steering-Wheel-Emulator",
+    "slug": "thrustmaster-t300-steering-wheel-emulator",
+    "creator": "cdemetriadis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cdemetriadis/Thrustmaster-T300-Steering-Wheel-Emulator",
+    "repoImage": null,
+    "description": "Arduino Nano based emulator for an advanced Console Sim-Racing experience on a Thrustmaster T300 base."
+  },
+  {
+    "name": "Cranked",
+    "slug": "cranked",
+    "creator": "TheLogicMaster",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheLogicMaster/Cranked",
+    "repoImage": null,
+    "description": "A WIP Playdate console emulator"
+  },
+  {
+    "name": "virtualc64",
+    "slug": "virtualc64",
+    "creator": "dirkwhoffmann",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dirkwhoffmann/virtualc64",
+    "repoImage": null,
+    "description": "VirtualC64 is a cycle-accurate C64 emulator for macOS"
+  },
+  {
+    "name": "RetroPlug",
+    "slug": "retroplug",
+    "creator": "tommitytom",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tommitytom/RetroPlug",
+    "repoImage": null,
+    "description": "A frontend for the SameBoy GameBoy emulator, with a focus on music creation. It runs standalone and can be used as an audio plugin (VST) in your favourite DAW!"
+  },
+  {
+    "name": "Adafruit-Retrogame",
+    "slug": "adafruit-retrogame",
+    "creator": "adafruit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/adafruit/Adafruit-Retrogame",
+    "repoImage": null,
+    "description": "Raspberry Pi GPIO-to-virtual-keyboard utility for classic game emulators"
+  },
+  {
+    "name": "melonds-ds",
+    "slug": "melonds-ds",
+    "creator": "JesseTG",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/JesseTG/melonds-ds",
+    "repoImage": null,
+    "description": "A remake of the libretro melonDS core that prioritizes standalone parity, reliability, and usability."
+  },
+  {
+    "name": "tabline.wez",
+    "slug": "tabline-wez",
+    "creator": "michaelbrusegard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/michaelbrusegard/tabline.wez",
+    "repoImage": null,
+    "description": "A versatile and easy to use retro tab bar plugin for the WezTerm terminal emulator created with the lualine.nvim configuration format"
+  },
+  {
+    "name": "ManicEMU",
+    "slug": "manicemu",
+    "creator": "Manic-EMU",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Manic-EMU/ManicEMU",
+    "repoImage": null,
+    "description": "Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping a clean, sleek UI and delivering buttery-smooth gameplay."
+  },
+  {
+    "name": "hypseus-singe",
+    "slug": "hypseus-singe",
+    "creator": "DirtBagXon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DirtBagXon/hypseus-singe",
+    "repoImage": null,
+    "description": "Hypseus is a SDL2 version of Daphne and Singe. Laserdisc game emulation."
+  },
+  {
+    "name": "posterpole.nvim",
+    "slug": "posterpole-nvim",
+    "creator": "ilof2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ilof2/posterpole.nvim",
+    "repoImage": null,
+    "description": "Nvim theme with pastel colors emulated a retro posters vibe"
+  },
+  {
+    "name": "SimpleLauncher",
+    "slug": "simplelauncher",
+    "creator": "drpetersonfernandes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drpetersonfernandes/SimpleLauncher",
+    "repoImage": null,
+    "description": "High-performance, open-source emulator frontend built with C# and WPF. Designed for both casual gamers and power users, it provides a seamless interface to organize, browse, and launch your retro gaming collection with deep integration for modern emulators and RetroAchievements."
+  },
+  {
+    "name": "pico-56",
+    "slug": "pico-56",
+    "creator": "visrealm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/visrealm/pico-56",
+    "repoImage": null,
+    "description": "The HBC-56 (65C02/TMS9918A/AY-3-8910 retro computer) fully emulated on a Raspberry Pi Pico"
+  },
+  {
+    "name": "artie",
+    "slug": "artie",
+    "creator": "milouk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/milouk/artie",
+    "repoImage": null,
+    "description": "Art Scraper for Anbernic Devices"
+  },
+  {
+    "name": "RetroPass",
+    "slug": "retropass",
+    "creator": "retropassdev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/retropassdev/RetroPass",
+    "repoImage": null,
+    "description": "Retro Pass is a simple frontend for emulators running on Xbox."
+  },
+  {
+    "name": "RetroPie-Godot-Engine-Emulator",
+    "slug": "retropie-godot-engine-emulator",
+    "creator": "hiulit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hiulit/RetroPie-Godot-Engine-Emulator",
+    "repoImage": null,
+    "description": "A scriptmodule to install a Godot \"emulator\" for RetroPie."
+  },
+  {
+    "name": "BulkyMIDI-32",
+    "slug": "bulkymidi-32",
+    "creator": "tebl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tebl/BulkyMIDI-32",
+    "repoImage": null,
+    "description": "A HW build of the MT32-PI project, allowing you to emulate a Roland MT-32 using a Raspberry Pi. Includes enough additional modules to build a MIDI-mountain as well as adapters for connecting to most things retro."
+  },
+  {
+    "name": "retroputer",
+    "slug": "retroputer",
+    "creator": "kerrishotts",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kerrishotts/retroputer",
+    "repoImage": null,
+    "description": "An emulator for a hypothetical 16-bit computer from the 80s and 90s. Intended as a play-thing and educational tool."
+  },
+  {
+    "name": "gms-bjortfx-filter",
+    "slug": "gms-bjortfx-filter",
+    "creator": "TandyRum1024",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TandyRum1024/gms-bjortfx-filter",
+    "repoImage": null,
+    "description": "A GameMaker demo project of shader-based postprocessing effect that emulates CRT-like retro screen.... or not, I guess."
+  },
+  {
+    "name": "CycloneIO",
+    "slug": "cycloneio",
+    "creator": "itsezc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/itsezc/CycloneIO",
+    "repoImage": null,
+    "description": " Cyclone is the complete HTML5 Habbo Package, packing with a CMS, Housekeeping, Server, Client, Assets and all necessary tools and resources to run a 'Habbo Retro' for the Desktop, Mobile and Web."
+  },
+  {
+    "name": "ComputerSoftware",
+    "slug": "computersoftware",
+    "creator": "vircon32",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vircon32/ComputerSoftware",
+    "repoImage": null,
+    "description": "Vircon32 is a 32-bit game console. This is the general repository for software like emulators and dev tools, that is related to Vircon32 but not running on console itself."
+  },
+  {
+    "name": "Pixboard",
+    "slug": "pixboard",
+    "creator": "lihaoyun6",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lihaoyun6/Pixboard",
+    "repoImage": null,
+    "description": "A retro display emulator for Mac / 在 macOS 桌面上模拟各种复古显示设备"
+  },
+  {
+    "name": "minisynth32",
+    "slug": "minisynth32",
+    "creator": "grantek",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/grantek/minisynth32",
+    "repoImage": null,
+    "description": "A 3D-printable MIDI synthesiser inspired by the Roland MT-32 and clumsyMIDI, and powered by the mt32-pi MT-32 emulator."
+  },
+  {
+    "name": "Delta-iPac-Edition",
+    "slug": "delta-ipac-edition",
+    "creator": "ianclawson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ianclawson/Delta-iPac-Edition",
+    "repoImage": null,
+    "description": "A Fan-build of the Delta iOS Retro Gaming Emulator"
+  },
+  {
+    "name": "SharpRetro",
+    "slug": "sharpretro",
+    "creator": "daeken",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/daeken/SharpRetro",
+    "repoImage": null,
+    "description": "A libretro-inspired system for .NET emulators"
+  },
+  {
+    "name": "retroTerm",
+    "slug": "retroterm",
+    "creator": "ncmreynolds",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ncmreynolds/retroTerm",
+    "repoImage": null,
+    "description": "An Arduino library for creating user interfaces in a terminal emulator, with mouse clickable widgets"
+  },
+  {
+    "name": "retroexternalmodem",
+    "slug": "retroexternalmodem",
+    "creator": "caiot5",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/caiot5/retroexternalmodem",
+    "repoImage": null,
+    "description": "A project that aims to turn a Raspberry Pi device into an external modem connected to wi-fi emulating both dial-up ISP connections and BBS"
+  },
+  {
+    "name": "SAASound",
+    "slug": "saasound",
+    "creator": "stripwax",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stripwax/SAASound",
+    "repoImage": null,
+    "description": "SAASound is a software implementation of the SAA-1099 soundchip found in a variety of mid/late 1980s computing and gaming devices.  SAASound provides the audio for the SimCoupe retro emulator "
+  },
+  {
+    "name": "RetroArch-ARM",
+    "slug": "retroarch-arm",
+    "creator": "basharast",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/basharast/RetroArch-ARM",
+    "repoImage": null,
+    "description": "RetroArch UWP (ARM32 only)"
+  },
+  {
+    "name": "ascii-ui",
+    "slug": "ascii-ui",
+    "creator": "danikaze",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/danikaze/ascii-ui",
+    "repoImage": null,
+    "description": "Emulate a terminal in a HTML canvas element"
+  },
+  {
+    "name": "hyperterm-retro",
+    "slug": "hyperterm-retro",
+    "creator": "alfg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alfg/hyperterm-retro",
+    "repoImage": null,
+    "description": ":black_medium_square: A retro HyperTerm theme inspired by the cool-retro-term terminal emulator."
+  },
+  {
+    "name": "OkamiStation",
+    "slug": "okamistation",
+    "creator": "TalonFloof",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TalonFloof/OkamiStation",
+    "repoImage": null,
+    "description": "A Fantasy Computer inspired by 80s workstations."
+  },
+  {
+    "name": "rust-z80emu",
+    "slug": "rust-z80emu",
+    "creator": "royaltm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/royaltm/rust-z80emu",
+    "repoImage": null,
+    "description": "A minimalistic Z80 Cpu emulation library in Rust."
+  },
+  {
+    "name": "ARK-Retro-Forge",
+    "slug": "ark-retro-forge",
+    "creator": "koobie777",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/koobie777/ARK-Retro-Forge",
+    "repoImage": null,
+    "description": "Portable .NET 8 C# ROM manager for PS/Nintendo/Xbox/SEGA: scan/clean/verify/compress/organize + emulator launch. Single-file EXE, no installer, dry-run by default."
+  },
+  {
+    "name": "retro",
+    "slug": "retro",
+    "creator": "dtgorski",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dtgorski/retro",
+    "repoImage": null,
+    "description": "[X11/CLI] Retro Apple II Emulator - Ubuntu tested, X11 required - Embark on a nostalgic journey ..."
+  },
+  {
+    "name": "RetroDisassemblerStudio",
+    "slug": "retrodisassemblerstudio",
+    "creator": "sarchar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sarchar/RetroDisassemblerStudio",
+    "repoImage": null,
+    "description": "A complete disassembler studio for retro systems"
+  },
+  {
+    "name": "Continuum-93",
+    "slug": "continuum-93",
+    "creator": "EnthusiastGuy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EnthusiastGuy/Continuum-93",
+    "repoImage": null,
+    "description": "Continuum 93 is an open-source fantasy computer emulator. It offers nostalgic 90s architecture with modern, scalable performance, 8 video layers, and a custom assembly instruction set. Built for retro developers, by a retro developer."
+  },
+  {
+    "name": "RetroMiniPC",
+    "slug": "retrominipc",
+    "creator": "TheStockPot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheStockPot/RetroMiniPC",
+    "repoImage": null,
+    "description": "A HTPC / Emulator console case for cheap HP Mini PC's"
+  },
+  {
+    "name": "Integrum-Retro-Lightgun-Assistant",
+    "slug": "integrum-retro-lightgun-assistant",
+    "creator": "IntegrumRetro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/IntegrumRetro/Integrum-Retro-Lightgun-Assistant",
+    "repoImage": null,
+    "description": "Automatic Lightgun configuration tool for MAME, Demulshooter and Teknoparrot emulators"
+  },
+  {
+    "name": "RetroGBm",
+    "slug": "retrogbm",
+    "creator": "Callum5042",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Callum5042/RetroGBm",
+    "repoImage": null,
+    "description": "A gameboy colour emulator"
+  },
+  {
+    "name": "bitboy",
+    "slug": "bitboy",
+    "creator": "makapuf",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/makapuf/bitboy",
+    "repoImage": null,
+    "description": "BitBoy : a Gameboy emulator for bitbox !"
+  },
+  {
+    "name": "marley",
+    "slug": "marley",
+    "creator": "beaumanvienna",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/beaumanvienna/marley",
+    "repoImage": null,
+    "description": "\"Many Awesome Retro Linux Emulators, Yay!\" -- A bundle of gaming console emulators for the x86_64 Linux platform"
+  },
+  {
+    "name": "game_box",
+    "slug": "game-box",
+    "creator": "QQxiaoming",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/QQxiaoming/game_box",
+    "repoImage": null,
+    "description": "GameBox is a retro console game emulator. This project only relies on the Qt framework and can be used on multiple platforms such as windows, macos, linux and even embedded linux. GameBox 是一款游戏家用机模拟器，本项目仅依赖Qt框架,可在windows、macos、linux甚至嵌入式linux等多平台使用。"
+  },
+  {
+    "name": "Nintendo64",
+    "slug": "nintendo64",
+    "creator": "lrusso",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lrusso/Nintendo64",
+    "repoImage": null,
+    "description": "A Nintendo 64 emulator designed for running in vanilla JavaScript pre-ECMAScript 2015 (no WebAssembly)"
+  },
+  {
+    "name": "godot-sprite-label",
+    "slug": "godot-sprite-label",
+    "creator": "LauraWebdev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LauraWebdev/godot-sprite-label",
+    "repoImage": null,
+    "description": "SpriteLabel enables you to use pixel fonts provided as a spritesheet like a text label. It was created to emulate how retro consoles render text in a sprite-based way."
+  },
+  {
+    "name": "retro-terminal",
+    "slug": "retro-terminal",
+    "creator": "ogulkokan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ogulkokan/retro-terminal",
+    "repoImage": null,
+    "description": "A simple terminal emulator built with JavaScript"
+  },
+  {
+    "name": "es40",
+    "slug": "es40",
+    "creator": "veprbl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/veprbl/es40",
+    "repoImage": null,
+    "description": "A portable emulator for the HP (DEC, Compaq) AlphaServer ES40. The current version is capable of running OpenVMS with some limitations. The goal is to have a drop-in replacement for real ES40's. Emulates the Alpha AXP EV68CB processor and other devices. This particular fork is able to run NetBSD/alpha."
+  },
+  {
+    "name": "libretro.py",
+    "slug": "libretro-py",
+    "creator": "JesseTG",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JesseTG/libretro.py",
+    "repoImage": null,
+    "description": "A Python binding for libretro. Intended for writing test scripts for cores, but can be used for any purpose."
+  },
+  {
+    "name": "habbokt",
+    "slug": "habbokt",
+    "creator": "ultraviolet-jordan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ultraviolet-jordan/habbokt",
+    "repoImage": null,
+    "description": "A v31 Habbo Hotel Private Server Written in Kotlin"
+  },
+  {
+    "name": "retroJam",
+    "slug": "retrojam",
+    "creator": "fhoedemakers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fhoedemakers/retroJam",
+    "repoImage": null,
+    "description": "This project is a multi retro console emulator for Adafruit Fruit Jam, capable of emulating a few classic 8-bit systems and even the 16-bit Sega Genesis"
+  },
+  {
+    "name": "kaillerareborn.github.io",
+    "slug": "kaillerareborn-github-io",
+    "creator": "kaillerareborn",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kaillerareborn/kaillerareborn.github.io",
+    "repoImage": null,
+    "description": "Community dedicated to maintain the Kaillera network, a platform to play retro games online with emulators."
+  },
+  {
+    "name": "hdmi-audio",
+    "slug": "hdmi-audio",
+    "creator": "fintros",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fintros/hdmi-audio",
+    "repoImage": null,
+    "description": "HDMI Audio/Video signal generation for HW emulators of retro comuters"
+  },
+  {
+    "name": "erc",
+    "slug": "erc",
+    "creator": "pevans",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pevans/erc",
+    "repoImage": null,
+    "description": "A small program for the emulation of retro computers"
+  },
+  {
+    "name": "spectrusty",
+    "slug": "spectrusty",
+    "creator": "royaltm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/royaltm/spectrusty",
+    "repoImage": null,
+    "description": "A Rust library for building emulators based on various ZX Spectrum computer models and clones."
+  },
+  {
+    "name": "retrobob",
+    "slug": "retrobob",
+    "creator": "iury",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iury/retrobob",
+    "repoImage": null,
+    "description": "retrobob is a retro gaming emulator that runs directly on your browser. Super Nintendo, NES/Famicom, Gameboy and Gameboy Color are currently supported, with more systems to come."
+  },
+  {
+    "name": "cozy-gb",
+    "slug": "cozy-gb",
+    "creator": "hazyuun",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hazyuun/cozy-gb",
+    "repoImage": null,
+    "description": "A cozy, aesthetic Gameboy emulator"
+  },
+  {
+    "name": "Full-Diablo-NX",
+    "slug": "full-diablo-nx",
+    "creator": "jeb495",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jeb495/Full-Diablo-NX",
+    "repoImage": null,
+    "description": "A full port of diablo for the switch with all of the necessary files included. "
+  },
+  {
+    "name": "vz200-remake",
+    "slug": "vz200-remake",
+    "creator": "cwahlmann",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cwahlmann/vz200-remake",
+    "repoImage": null,
+    "description": "A remake of the VZ200 Color Computer (Vtech / Dick Smith 1983) - ein Nachbau des VZ200 Color Computers (Vtech / Dick Smith 1983)"
+  },
+  {
+    "name": "retro6502",
+    "slug": "retro6502",
+    "creator": "seasalim",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/seasalim/retro6502",
+    "repoImage": null,
+    "description": "Emulate a 6502 CPU and run Basic in your console window"
+  },
+  {
+    "name": "Emulator-Auto-downloads",
+    "slug": "emulator-auto-downloads",
+    "creator": "ScriptedBits",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ScriptedBits/Emulator-Auto-downloads",
+    "repoImage": null,
+    "description": "Application to download the top Retro gaming emulators"
+  },
+  {
+    "name": "retrofuzz",
+    "slug": "retrofuzz",
+    "creator": "zznop",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zznop/retrofuzz",
+    "repoImage": null,
+    "description": "RetroFuzz is a fuzzer for SEGA Genesis emulators"
+  },
+  {
+    "name": "VHDLSonic",
+    "slug": "vhdlsonic",
+    "creator": "TheLogicMaster",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheLogicMaster/VHDLSonic",
+    "repoImage": null,
+    "description": "A custom 32-bit architecture, microcontroller, retro console, and software suite"
+  },
+  {
+    "name": "RetroFreak_Toolkit",
+    "slug": "retrofreak-toolkit",
+    "creator": "GoobyCorp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GoobyCorp/RetroFreak_Toolkit",
+    "repoImage": null,
+    "description": "A toolkit designed to help root the RetroFreak emulator console."
+  },
+  {
+    "name": "Hylib",
+    "slug": "hylib",
+    "creator": "flaviobdev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/flaviobdev/Hylib",
+    "repoImage": null,
+    "description": "A CMS developed in ReactJS using NodeJS as backend for the Comet Emulator. Join the community on Discord!"
+  },
+  {
+    "name": "system-7",
+    "slug": "system-7",
+    "creator": "boramalper",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/boramalper/system-7",
+    "repoImage": null,
+    "description": "A System 7 (aka Mac OS 7) emulator for mobile devices."
+  },
+  {
+    "name": "LlamaTerminal",
+    "slug": "llamaterminal",
+    "creator": "BleuLlama",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BleuLlama/LlamaTerminal",
+    "repoImage": null,
+    "description": "A retro-looking, classic-computer themed terminal emulator."
+  },
+  {
+    "name": "UMPK-80-Emulator",
+    "slug": "umpk-80-emulator",
+    "creator": "GalaxyShad",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GalaxyShad/UMPK-80-Emulator",
+    "repoImage": null,
+    "description": "The UMPK-80 Emulator (CORE) is an open-source project that aims to provide a simple and modern INTEL 8080 / KR580VM80A-based microcomputer emulator."
+  },
+  {
+    "name": "noentiendo",
+    "slug": "noentiendo",
+    "creator": "breqdev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/breqdev/noentiendo",
+    "repoImage": null,
+    "description": "A modular retro emulation framework, supporting the Commodore PET, VIC-20, and others across desktop and WASM platforms!"
+  },
+  {
+    "name": "RetroArch-problematic-cheevos",
+    "slug": "retroarch-problematic-cheevos",
+    "creator": "meleu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/meleu/RetroArch-problematic-cheevos",
+    "repoImage": null,
+    "description": "A place to put the savestates of games with cheevos problems when running in RetroArch and no problems in official emulators."
+  },
+  {
+    "name": "RetroAppleJS.github.io",
+    "slug": "retroapplejs-github-io",
+    "creator": "RetroAppleJS",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RetroAppleJS/RetroAppleJS.github.io",
+    "repoImage": null,
+    "description": "A complete AppleII+ assembler debugger and emulator environment, browser-native JavaScript (serverless)."
+  },
+  {
+    "name": "RustRetro",
+    "slug": "rustretro",
+    "creator": "RustRetro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RustRetro/RustRetro",
+    "repoImage": null,
+    "description": "A WIP multisystem emulator"
+  },
+  {
+    "name": "my-retro-setup",
+    "slug": "my-retro-setup",
+    "creator": "gamemann",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gamemann/my-retro-setup",
+    "repoImage": null,
+    "description": "Details going over my retro setup which consists of game streaming and emulation along with details on getting Wii Remotes and a Dolphinbar to work on Linux/Debian 12."
+  },
+  {
+    "name": "Retro6502.jl",
+    "slug": "retro6502-jl",
+    "creator": "zot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zot/Retro6502.jl",
+    "repoImage": null,
+    "description": "Julia 6502 development tools including a pure-Julia 6502 emulator"
+  },
+  {
+    "name": "catui",
+    "slug": "catui",
+    "creator": "arthiee4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/arthiee4/catui",
+    "repoImage": null,
+    "description": "A emulator front end."
+  },
+  {
+    "name": "pfe",
+    "slug": "pfe",
+    "creator": "game-de-it",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/game-de-it/pfe",
+    "repoImage": null,
+    "description": "PFE is a retro game front-end app with a dot-based design created using the retro game engine pyxel."
+  },
+  {
+    "name": "possum",
+    "slug": "possum",
+    "creator": "lavignes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lavignes/possum",
+    "repoImage": null,
+    "description": "Rust z80 computer emulator with a custom OS"
+  },
+  {
+    "name": "EightyEighty.js",
+    "slug": "eightyeighty-js",
+    "creator": "jonasgeiler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jonasgeiler/EightyEighty.js",
+    "repoImage": null,
+    "description": "A nice little Intel 8080 emulator for Node.js and Browser! 💾"
+  },
+  {
+    "name": "robco-terminal",
+    "slug": "robco-terminal",
+    "creator": "AlrikOlson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AlrikOlson/robco-terminal",
+    "repoImage": null,
+    "description": "A Fallout-inspired terminal emulator with retro CRT effects and AI-driven interactions using OpenAI, Anthropic, and Meta models."
+  },
+  {
+    "name": "TGR-PRTO-RAYLIB",
+    "slug": "tgr-prto-raylib",
+    "creator": "BILLPC2684",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BILLPC2684/TGR-PRTO-RAYLIB",
+    "repoImage": null,
+    "description": "TheGameRazer is a modern, retro styled 16-bit emulator(Fantasy Console) made in C using RayLib, this is still in prototype stages... "
+  },
+  {
+    "name": "MDA-JX10-Synth",
+    "slug": "mda-jx10-synth",
+    "creator": "Kiptoo-Deus",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kiptoo-Deus/MDA-JX10-Synth",
+    "repoImage": null,
+    "description": "A retro synth that emulates the features of the classic analog Roland hardware synths from the 1980s."
+  },
+  {
+    "name": "dosemu",
+    "slug": "dosemu",
+    "creator": "bog2k3",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/bog2k3/dosemu",
+    "repoImage": null,
+    "description": "A JavaScript library that emulates the look and feel of MS-DOS 8-bit graphics and sound for building retro games in the browser."
+  },
+  {
+    "name": "awesome-game-revivals",
+    "slug": "awesome-game-revivals",
+    "creator": "patricklarose",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/patricklarose/awesome-game-revivals",
+    "repoImage": null,
+    "description": "A curated list of community projects, ports, remakes, mods, and private servers that revive classic games."
+  },
+  {
+    "name": "RetroPie-Extra",
+    "slug": "retropie-extra",
+    "creator": "ziviani",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ziviani/RetroPie-Extra",
+    "repoImage": null,
+    "description": "A collection of unofficial scripts for adding more emulators/ports/games to RetroPie."
+  },
+  {
+    "name": "RetroMatic2000",
+    "slug": "retromatic2000",
+    "creator": "richardloxley",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/richardloxley/RetroMatic2000",
+    "repoImage": null,
+    "description": "The RetroMatic 2000 - a project to combine a RGB->VGA converter, a scanline generator, and an HxC/Gotek floppy emulator to make an all-in-one retro computer companion."
+  },
+  {
+    "name": "AnkamaLauncherEmulator",
+    "slug": "ankamalauncheremulator",
+    "creator": "Valentin-alix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Valentin-alix/AnkamaLauncherEmulator",
+    "repoImage": null,
+    "description": "Dofus 3 & Dofus Retro Launcher"
+  },
+  {
+    "name": "dromaius",
+    "slug": "dromaius",
+    "creator": "JohanSmet",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JohanSmet/dromaius",
+    "repoImage": null,
+    "description": "A hobby project emulator of retro hardware."
+  },
+  {
+    "name": "RetroAcknex",
+    "slug": "retroacknex",
+    "creator": "3RUN",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/3RUN/RetroAcknex",
+    "repoImage": null,
+    "description": "Shader collection that emulates PSone graphics."
+  },
+  {
+    "name": "dae-retro-console-and-emulator-programming-neslides",
+    "slug": "dae-retro-console-and-emulator-programming-neslides",
+    "creator": "knapeczadam",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/knapeczadam/dae-retro-console-and-emulator-programming-neslides",
+    "repoImage": null,
+    "description": "🕹️ A NES homebrew project written in pure 6502 Assembly. NESlides is an interactive “presentation” where you can move between slides and shoot every tile off the screen. Includes a companion editor: NESlidesEditor ."
+  },
+  {
+    "name": "RetroStation",
+    "slug": "retrostation",
+    "creator": "KieranMcCool",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KieranMcCool/RetroStation",
+    "repoImage": null,
+    "description": "A graphical front-end for emulators providing management tools for your ROM library as well as basic statistic logging."
+  },
+  {
+    "name": "retroweb-components",
+    "slug": "retroweb-components",
+    "creator": "marciot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/marciot/retroweb-components",
+    "repoImage": null,
+    "description": "RetroWeb Components is a library of WebComponents for working with JavaScript-based emulators."
+  },
+  {
+    "name": "rusty-retro",
+    "slug": "rusty-retro",
+    "creator": "rumbleFTW",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rumbleFTW/rusty-retro",
+    "repoImage": null,
+    "description": "A collection of retro system emulators written in Rust. Currently implemented systems include CHIP-8 and NES"
+  },
+  {
+    "name": "dac-attack",
+    "slug": "dac-attack",
+    "creator": "saybur",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/saybur/dac-attack",
+    "repoImage": null,
+    "description": "S/PDIF to line-level audio board for use with retro computer device emulators, such as ZuluSCSI and friends."
+  },
+  {
+    "name": "portable-retro-games",
+    "slug": "portable-retro-games",
+    "creator": "aciderix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aciderix/portable-retro-games",
+    "repoImage": null,
+    "description": "Play retro games instantly — each game is a single standalone HTML file, no install, no server, works offline in any browser forever"
+  },
+  {
+    "name": "pico8-winlator-controls",
+    "slug": "pico8-winlator-controls",
+    "creator": "DDD66218",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DDD66218/pico8-winlator-controls",
+    "repoImage": null,
+    "description": "A pre-configured control scheme for Pico-8 games on Winlator (Android x86 emulator), featuring gamepad support, ESC key mapping, right-click button, and a virtual trackpad for seamless cursor control. Perfect for retro gaming on the go!"
+  },
+  {
+    "name": "PY-DOS",
+    "slug": "py-dos",
+    "creator": "EgeOnderX",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/EgeOnderX/PY-DOS",
+    "repoImage": null,
+    "description": "PY-DOS is a retro-inspired, terminal-based operating system simulation written entirely in Python, requiring no external libraries and designed to be minimal."
+  },
+  {
+    "name": "GameCoverScraper",
+    "slug": "gamecoverscraper",
+    "creator": "drpetersonfernandes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drpetersonfernandes/GameCoverScraper",
+    "repoImage": null,
+    "description": "A powerful Windows desktop application for automatically finding and downloading missing cover art for your retro gaming ROM collection. Supports both Bing Web Image Search, Google Web Image Search, and Google Custom Search API to fetch high-quality game cover images."
+  },
+  {
+    "name": "Convergence-Jukebox-2",
+    "slug": "convergence-jukebox-2",
+    "creator": "bradfortner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bradfortner/Convergence-Jukebox-2",
+    "repoImage": null,
+    "description": "Update to the original Convergence Jukebox using a Kivy based GUI in place of Tkinter. Convergence Jukebox is a fully functional retro jukebox application. It emulates \"physical\" jukeboxes and is written in Python. The software has been designed to be fully functional, playing mp3's both randomly and via a credit system. More at www.convergencejukebox.com http:\\\\www.convergencejukebox.com"
+  },
+  {
+    "name": "em-retro",
+    "slug": "em-retro",
+    "creator": "andrew-jacobs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/andrew-jacobs/em-retro",
+    "repoImage": null,
+    "description": "A PIC24 Based Retro Microprocessor Emulator"
+  },
+  {
+    "name": "TGR-PRTO-C",
+    "slug": "tgr-prto-c",
+    "creator": "BILLPC2684",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BILLPC2684/TGR-PRTO-C",
+    "repoImage": null,
+    "description": "TheGameRazer is a custom retro 16-bit style emulator made in C, this is still in prototype stages..."
+  },
+  {
+    "name": "yummy-gba4ios",
+    "slug": "yummy-gba4ios",
+    "creator": "jessemillar",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/jessemillar/yummy-gba4ios",
+    "repoImage": null,
+    "description": "A retro Game Boy emulator skin"
+  },
+  {
+    "name": "adm3a",
+    "slug": "adm3a",
+    "creator": "mastmees",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mastmees/adm3a",
+    "repoImage": null,
+    "description": "Retro-looking Lear Siegler ADM-3A terminal emulator written in python"
+  },
+  {
+    "name": "rom-loader",
+    "slug": "rom-loader",
+    "creator": "sc0ttj",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sc0ttj/rom-loader",
+    "repoImage": null,
+    "description": "A multi-emulator frontend for retro gaming"
+  },
+  {
+    "name": "retrobox",
+    "slug": "retrobox",
+    "creator": "jbruns",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jbruns/retrobox",
+    "repoImage": null,
+    "description": "Scripts and configuration for building a console and handheld emulator appliance."
+  },
+  {
+    "name": "emulatorjs",
+    "slug": "emulatorjs",
+    "creator": "SSP6904",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SSP6904/emulatorjs",
+    "repoImage": null,
+    "description": "A JavaScript-based website that lets you play retro games! :video_game:"
+  },
+  {
+    "name": "Emulator",
+    "slug": "emulator",
+    "creator": "azizsoule",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/azizsoule/Emulator",
+    "repoImage": null,
+    "description": "A try to emulate some retro gaming consoles hardware using dart/flutter. I am starting by chip8 for learning purpose. The second step will be to emulate the Nintendo64(N64) console 😉. And why not, maybe many other consoles will be added 😁"
+  },
+  {
+    "name": "GBEmulator",
+    "slug": "gbemulator",
+    "creator": "AlexSutila",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AlexSutila/GBEmulator",
+    "repoImage": null,
+    "description": "A hobbyist DMG gameboy emulator written in C using win32 api"
+  },
+  {
+    "name": "retrogauntlet",
+    "slug": "retrogauntlet",
+    "creator": "BasFaggingerAuer",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BasFaggingerAuer/retrogauntlet",
+    "repoImage": null,
+    "description": "Retro Gauntlet is a wrapper for the libretro API to host and join races of your favorite retro games locally or over the internet."
+  },
+  {
+    "name": "quatorze-bis",
+    "slug": "quatorze-bis",
+    "creator": "cruzdanilo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cruzdanilo/quatorze-bis",
+    "repoImage": null,
+    "description": "a libretro core for web games. as its namesake, 14-bis is retro, v8 powered, very lightweight and created by a brazilian"
+  },
+  {
+    "name": "webrcade-app-retro-genplusgx",
+    "slug": "webrcade-app-retro-genplusgx",
+    "creator": "webrcade",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/webrcade/webrcade-app-retro-genplusgx",
+    "repoImage": null,
+    "description": "Sega Genesis - Master System - Game Gear - SG-1000 - Sega CD emulators for webЯcade"
+  },
+  {
+    "name": "TorturedRetro3D",
+    "slug": "torturedretro3d",
+    "creator": "nklapste",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nklapste/TorturedRetro3D",
+    "repoImage": null,
+    "description": "A derivative work of keijiro/Retro3D's shader. Adding additional features to emulate glitchy behavour."
+  },
+  {
+    "name": "RetroBatGFN",
+    "slug": "retrobatgfn",
+    "creator": "dpadGuy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dpadGuy/RetroBatGFN",
+    "repoImage": null,
+    "description": "RetroBatGFN is a RetroBat installer that gives you the ability of emulating your favourite game consoles on Geforce NOW withouth the need of powerful hardware. (Only for I2P game sessions with persistent storage !)"
+  },
+  {
+    "name": "Retro-King",
+    "slug": "retro-king",
+    "creator": "rishiigupta04",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rishiigupta04/Retro-King",
+    "repoImage": null,
+    "description": "This is \"Retro King\" - a web-based retro game emulation platform built with Next.js - Prisma - PostgreSQL. The application allows users to play classic retro video games directly in their browser using EmulatorJS."
+  },
+  {
+    "name": "retromania",
+    "slug": "retromania",
+    "creator": "theopnv",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/theopnv/retromania",
+    "repoImage": null,
+    "description": "A C++ modular retro games emulator"
+  },
+  {
+    "name": "makecode-arcade-emulator",
+    "slug": "makecode-arcade-emulator",
+    "creator": "jan4984",
+    "version": "...",
+    "console": "Arcade",
+    "url": "https://github.com/jan4984/makecode-arcade-emulator",
+    "repoImage": null,
+    "description": "run makecode arcade in retro"
+  },
+  {
+    "name": "retrojs",
+    "slug": "retrojs",
+    "creator": "bbgott",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bbgott/retrojs",
+    "repoImage": null,
+    "description": "A i8080/z80 retro computer emulator in JavaScript"
+  },
+  {
+    "name": "RetroGB",
+    "slug": "retrogb",
+    "creator": "TheCodez",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheCodez/RetroGB",
+    "repoImage": null,
+    "description": "[WIP] A platform independent Gameboy/Gameboy Color Emulator written in modern C++ 11"
+  },
+  {
+    "name": "gemu",
+    "slug": "gemu",
+    "creator": "Grazen0",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Grazen0/gemu",
+    "repoImage": null,
+    "description": "[Mirror] A Game Boy emulator written in C."
+  },
+  {
+    "name": "JoystickEmulator",
+    "slug": "joystickemulator",
+    "creator": "LeifBloomquist",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LeifBloomquist/JoystickEmulator",
+    "repoImage": null,
+    "description": "Code to emulate a 9-pin retro joystick with an Arduino Nano"
+  },
+  {
+    "name": "retropie_yuzu",
+    "slug": "retropie-yuzu",
+    "creator": "NGC602",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NGC602/retropie_yuzu",
+    "repoImage": null,
+    "description": "A repository for RetroPie Scripts to install and/or update the Yuzu Linux emulator"
+  },
+  {
+    "name": "nesEmulator",
+    "slug": "nesemulator",
+    "creator": "AlexSutila",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/AlexSutila/nesEmulator",
+    "repoImage": null,
+    "description": "A hobbyist NES emulator written in C++"
+  },
+  {
+    "name": "emulatorbox",
+    "slug": "emulatorbox",
+    "creator": "jessewagner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jessewagner/emulatorbox",
+    "repoImage": null,
+    "description": "c# program with gui that will launch rom files in emulators for a variety of retro consoles"
+  },
+  {
+    "name": "Emulators-and-ROMS-ISOs-Personal-Megathread",
+    "slug": "emulators-and-roms-isos-personal-megathread",
+    "creator": "WrichmondChua",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/WrichmondChua/Emulators-and-ROMS-ISOs-Personal-Megathread",
+    "repoImage": null,
+    "description": "This repository was made to help other people get into retro gaming or into emulator gaming."
+  },
+  {
+    "name": "CHIP8-Emulator",
+    "slug": "chip8-emulator",
+    "creator": "Souhail-Bel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Souhail-Bel/CHIP8-Emulator",
+    "repoImage": null,
+    "description": "This is a simple CHIP8 emulator made in C."
+  },
+  {
+    "name": "TGR-PRTO-JS",
+    "slug": "tgr-prto-js",
+    "creator": "BILLPC2684",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BILLPC2684/TGR-PRTO-JS",
+    "repoImage": null,
+    "description": "TheGameRazer is a modern, retro 16-bit emulator(Fantasy Console) made in JavaScript, this is still in prototype stages..."
+  },
+  {
+    "name": "moth",
+    "slug": "moth",
+    "creator": "tkaden4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tkaden4/moth",
+    "repoImage": null,
+    "description": "A library for MOS 6502 code generation"
+  },
+  {
+    "name": "atat",
+    "slug": "atat",
+    "creator": "Xertes0",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Xertes0/atat",
+    "repoImage": null,
+    "description": "Library for developing Intel 8080 based hardware emulators"
+  },
+  {
+    "name": "EmuFlash-V10",
+    "slug": "emuflash-v10",
+    "creator": "Royhtml",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Royhtml/EmuFlash-V10",
+    "repoImage": null,
+    "description": "A very light emulator application that is very suitable for potato laptops to play 2D and 3D games easily without getting bored."
+  },
+  {
+    "name": "pcd68",
+    "slug": "pcd68",
+    "creator": "jrsharp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jrsharp/pcd68",
+    "repoImage": null,
+    "description": "PCD-68: a 68000-based virtual retro computer (inspired by the Macintosh, Canon Cat, etc.)"
+  },
+  {
+    "name": "Rom-Sorter",
+    "slug": "rom-sorter",
+    "creator": "Abbin44",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Abbin44/Rom-Sorter",
+    "repoImage": null,
+    "description": "A program to automatically remove all roms that are locked to other regions than yours."
+  },
+  {
+    "name": "JEmu",
+    "slug": "jemu",
+    "creator": "Peterwerno",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Peterwerno/JEmu",
+    "repoImage": null,
+    "description": "This project is a Java emulator for various retro computer systems from Z80 and 6502 processors in the Sinclair or Commodore computers to some very special items such as 1980s digital watches, etc."
+  },
+  {
+    "name": "SuqoLauncher",
+    "slug": "suqolauncher",
+    "creator": "cwowqqq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cwowqqq/SuqoLauncher",
+    "repoImage": null,
+    "description": "SuqoLauncher is a batch script that lets you easily select emulators and launch games from various consoles, supporting both uncompressed and compressed ROMs for a seamless retro gaming experience."
+  },
+  {
+    "name": "qandy",
+    "slug": "qandy",
+    "creator": "Quintrix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Quintrix/qandy",
+    "repoImage": null,
+    "description": "Qandy Pocket Computer emulates a retro device that never existed that was specially built to play Queville on with all graphics included: tileset for ground, items, and characters embeded into a single .htm page.  Also included is an emulated Tandy Pocket Computer running the first version of Queville ever. "
+  },
+  {
+    "name": "Arduino-Project",
+    "slug": "arduino-project",
+    "creator": "OriBraverman",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OriBraverman/Arduino-Project",
+    "repoImage": null,
+    "description": "Arduino Icy Tower Motion Controller lets you play the classic Icy Tower game with motion controls! A wearable Arduino-based transmitter detects your head tilts and jumps, sending commands wirelessly to a receiver Arduino that emulates keyboard inputs for immersive retro gaming."
+  },
+  {
+    "name": "1_BIT_Games_Remastered",
+    "slug": "1-bit-games-remastered",
+    "creator": "Ayushanbhore",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ayushanbhore/1_BIT_Games_Remastered",
+    "repoImage": null,
+    "description": "Legendary 1-Bit Games is a collection of classic games recreated with minimalist, retro-style graphics that emulate the early days of video gaming. Created by Ayush Anbhore, this project brings back iconic games such as Pong, Tetris, Spacewar!, Snake, Asteroids, and more."
+  },
+  {
+    "name": "retropie-pcsx2-wrapper",
+    "slug": "retropie-pcsx2-wrapper",
+    "creator": "ringnutz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ringnutz/retropie-pcsx2-wrapper",
+    "repoImage": null,
+    "description": "This is a wrapper for PCSX2 for Retropie, it uses a simple python wrapper to intercept a key combination to exit the emulator on keypress"
+  },
+  {
+    "name": "RetroDevEm",
+    "slug": "retrodevem",
+    "creator": "FlorentFlament",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/FlorentFlament/RetroDevEm",
+    "repoImage": null,
+    "description": "Retro Device Emulator is a free input devices emulator for retro consoles and computers."
+  },
+  {
+    "name": "RetroGB",
+    "slug": "retrogb",
+    "creator": "GaminRick7",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GaminRick7/RetroGB",
+    "repoImage": null,
+    "description": "A Game Boy Emulator written entirely in C++"
+  },
+  {
+    "name": "retro-game",
+    "slug": "retro-game",
+    "creator": "esqu1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/esqu1/retro-game",
+    "repoImage": null,
+    "description": "A Rust NES Emulator."
+  },
+  {
+    "name": "retro3",
+    "slug": "retro3",
+    "creator": "juztamau5",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/juztamau5/retro3",
+    "repoImage": null,
+    "description": "retro3 is a multi-system emulator that targets web3."
+  },
+  {
+    "name": "RetroBox",
+    "slug": "retrobox",
+    "creator": "smeny",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/smeny/RetroBox",
+    "repoImage": null,
+    "description": "A multiple platform emulator written in Java for learning purpose"
+  },
+  {
+    "name": "the_pico_retro_tape",
+    "slug": "the-pico-retro-tape",
+    "creator": "ThKattanek",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ThKattanek/the_pico_retro_tape",
+    "repoImage": null,
+    "description": "a multi retro system tape emulator"
+  },
+  {
+    "name": "RetroArch-Multi-System-Game-Emulator",
+    "slug": "retroarch-multi-system-game-emulator",
+    "creator": "bridges6713",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bridges6713/RetroArch-Multi-System-Game-Emulator",
+    "repoImage": null,
+    "description": "RetroArch is a powerful, multi-system emulator for classic and retro games, supporting a wide variety of consoles and platforms. 🎮📺"
+  },
+  {
+    "name": "lazy-nes",
+    "slug": "lazy-nes",
+    "creator": "sunverwerth",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/sunverwerth/lazy-nes",
+    "repoImage": null,
+    "description": "Emulator of a particular retro gaming console"
+  },
+  {
+    "name": "cool-retro-term-threejs",
+    "slug": "cool-retro-term-threejs",
+    "creator": "dodola",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dodola/cool-retro-term-threejs",
+    "repoImage": null,
+    "description": "A cool retro terminal emulator with a 3D effect."
+  },
+  {
+    "name": "Retro-All-In-One",
+    "slug": "retro-all-in-one",
+    "creator": "AbusementGaming",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AbusementGaming/Retro-All-In-One",
+    "repoImage": null,
+    "description": "Emulator Game System Including all old games."
+  },
+  {
+    "name": "Raspberry-PI-retro-console-emulator",
+    "slug": "raspberry-pi-retro-console-emulator",
+    "creator": "bharvey2023",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bharvey2023/Raspberry-PI-retro-console-emulator",
+    "repoImage": null,
+    "description": "Raspberry model 3b+ used for casual gaming of old school classics. Bought a nespi+ case to give it a more retro theme. Made a background theme and added a shutdown script."
+  },
+  {
+    "name": "chip8",
+    "slug": "chip8",
+    "creator": "justinawrey",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/justinawrey/chip8",
+    "repoImage": null,
+    "description": "A chip8 emulator for the web."
+  },
+  {
+    "name": "retro8",
+    "slug": "retro8",
+    "creator": "tonytins",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tonytins/retro8",
+    "repoImage": null,
+    "description": "Retro-8 is a CHIP-8 emulator based on Godot 3 and written in GDScript that I hope to turn into a fantasy console."
+  },
+  {
+    "name": "chip8js",
+    "slug": "chip8js",
+    "creator": "austin-io",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/austin-io/chip8js",
+    "repoImage": null,
+    "description": "Chip8 emulator in a web browser"
+  },
+  {
+    "name": "RetroPieWebServer",
+    "slug": "retropiewebserver",
+    "creator": "tstone2077",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tstone2077/RetroPieWebServer",
+    "repoImage": null,
+    "description": "A simple web server control for RetroPie.  This can be used to reboot the box, restart emulation station, or kill a rogue emulator process."
+  },
+  {
+    "name": "webrcade-app-retro-dosbox-pure",
+    "slug": "webrcade-app-retro-dosbox-pure",
+    "creator": "webrcade",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/webrcade/webrcade-app-retro-dosbox-pure",
+    "repoImage": null,
+    "description": "Emulator that runs programs or games that were designed for DOS-based systems."
   }
 ]
