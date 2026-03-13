@@ -5198,5 +5198,315 @@
     "url": "https://github.com/webrcade/webrcade-app-retro-dosbox-pure",
     "repoImage": null,
     "description": "Emulator that runs programs or games that were designed for DOS-based systems."
+  },
+  {
+    "name": "GIOVANNI",
+    "slug": "giovanni",
+    "creator": "gabrieloc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gabrieloc/GIOVANNI",
+    "repoImage": "https://raw.githubusercontent.com/gabrieloc/GIOVANNI/main/banner.png",
+    "description": "A Gameboy Emulator for the Apple Watch"
+  },
+  {
+    "name": "mooneye-gb",
+    "slug": "mooneye-gb",
+    "creator": "Gekkio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Gekkio/mooneye-gb",
+    "repoImage": null,
+    "description": "A Game Boy research project and emulator written in Rust"
+  },
+  {
+    "name": "gameboy",
+    "slug": "gameboy",
+    "creator": "raphamorim",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/raphamorim/gameboy",
+    "repoImage": "https://raw.githubusercontent.com/raphamorim/gameboy/main/resources/demo-web.png",
+    "description": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)"
+  },
+  {
+    "name": "boytacean",
+    "slug": "boytacean",
+    "creator": "joamag",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joamag/boytacean",
+    "repoImage": "https://github.com/joamag/boytacean/workflows/Main%20Workflow/badge.svg",
+    "description": "A GB emulator that is written in Rust 🦀!"
+  },
+  {
+    "name": "rboy",
+    "slug": "rboy",
+    "creator": "mvdnes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mvdnes/rboy",
+    "repoImage": null,
+    "description": "A Gameboy Emulator in Rust"
+  },
+  {
+    "name": "CAMLBOY",
+    "slug": "camlboy",
+    "creator": "linoscope",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linoscope/CAMLBOY",
+    "repoImage": "https://github.com/linoscope/CAMLBOY/actions/workflows/workflow.yml/badge.svg",
+    "description": "A Game Boy emulator written in OCaml that runs in your browser 🐫 🎮"
+  },
+  {
+    "name": "GameBoy-Online",
+    "slug": "gameboy-online",
+    "creator": "taisel",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/taisel/GameBoy-Online",
+    "repoImage": null,
+    "description": "JavaScript GameBoy Color emulator."
+  },
+  {
+    "name": "binjgb",
+    "slug": "binjgb",
+    "creator": "binji",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/binji/binjgb",
+    "repoImage": null,
+    "description": "Gameboy emulator implemented in C, that also runs in the browser"
+  },
+  {
+    "name": "worldwide",
+    "slug": "worldwide",
+    "creator": "akatsuki105",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/akatsuki105/worldwide",
+    "repoImage": null,
+    "description": "This is my OLD and BAD GameBoy Emulator, please visit DawnGB, my new GameBoy emulator!"
+  },
+  {
+    "name": "VerilogBoy",
+    "slug": "verilogboy",
+    "creator": "zephray",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zephray/VerilogBoy",
+    "repoImage": null,
+    "description": "A Pi emulating a GameBoy sounds cheap. What about an FPGA?"
+  },
+  {
+    "name": "CoreBoy",
+    "slug": "coreboy",
+    "creator": "davidwhitney",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/davidwhitney/CoreBoy",
+    "repoImage": null,
+    "description": "A GameBoy Emulator, in C#"
+  },
+  {
+    "name": "rosettaboy",
+    "slug": "rosettaboy",
+    "creator": "shish",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shish/rosettaboy",
+    "repoImage": null,
+    "description": "A gameboy emulator in several different languages"
+  },
+  {
+    "name": "Peanut-GB",
+    "slug": "peanut-gb",
+    "creator": "deltabeard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/deltabeard/Peanut-GB",
+    "repoImage": null,
+    "description": "A very fast and portable Game Boy (DMG) emulator single header library written in C99."
+  },
+  {
+    "name": "eboy",
+    "slug": "eboy",
+    "creator": "vreeze",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vreeze/eboy",
+    "repoImage": null,
+    "description": "A Gameboy emulator for Emacs"
+  },
+  {
+    "name": "LuaGB",
+    "slug": "luagb",
+    "creator": "zeta0134",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zeta0134/LuaGB",
+    "repoImage": null,
+    "description": "A gameboy emulator written in pure Lua. Work in progress."
+  },
+  {
+    "name": "gomeboycolor",
+    "slug": "gomeboycolor",
+    "creator": "djhworld",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/djhworld/gomeboycolor",
+    "repoImage": null,
+    "description": "Gameboy Color emulator"
+  },
+  {
+    "name": "gbe-plus",
+    "slug": "gbe-plus",
+    "creator": "shonumi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shonumi/gbe-plus",
+    "repoImage": null,
+    "description": "DMG/GBC/GBA emulator and experimental NDS emulator."
+  },
+  {
+    "name": "magia",
+    "slug": "magia",
+    "creator": "akatsuki105",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/akatsuki105/magia",
+    "repoImage": null,
+    "description": "This emulator is OLD and BAD, please visit DawnGBA"
+  },
+  {
+    "name": "gba.js.org",
+    "slug": "gba-js-org",
+    "creator": "ayvacs",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/ayvacs/gba.js.org",
+    "repoImage": null,
+    "description": "👾 Emulate GBA games for free, right in your browser."
+  },
+  {
+    "name": "VGMusicStudio",
+    "slug": "vgmusicstudio",
+    "creator": "Kermalis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kermalis/VGMusicStudio",
+    "repoImage": null,
+    "description": "🎵 A program that lets you listen to the music from popular video game formats. 🎵"
+  },
+  {
+    "name": "IodineGBA",
+    "slug": "iodinegba",
+    "creator": "taisel",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/taisel/IodineGBA",
+    "repoImage": null,
+    "description": "JavaScript GameBoy Advance emulator."
+  },
+  {
+    "name": "Hades",
+    "slug": "hades",
+    "creator": "hades-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hades-emu/Hades",
+    "repoImage": null,
+    "description": "🔥 A Nintendo Game Boy Advance Emulator"
+  },
+  {
+    "name": "gbajs2",
+    "slug": "gbajs2",
+    "creator": "andychase",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/andychase/gbajs2",
+    "repoImage": null,
+    "description": "gbajs2 is a Game Boy Advance emulator written in Javascript from scratch using HTML5 technologies like Canvas and Web Audio. It is freely licensed and works in any modern browser without plugins."
+  },
+  {
+    "name": "giibiiadvance",
+    "slug": "giibiiadvance",
+    "creator": "AntonioND",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AntonioND/giibiiadvance",
+    "repoImage": null,
+    "description": "A GB, GBC and GBA emulator with GB Camera support."
+  },
+  {
+    "name": "GBA4iOS",
+    "slug": "gba4ios",
+    "creator": "CocoaBob",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/CocoaBob/GBA4iOS",
+    "repoImage": null,
+    "description": "A fork of https://bitbucket.org/rileytestut/gba4ios"
+  },
+  {
+    "name": "awesome-emu-resources",
+    "slug": "awesome-emu-resources",
+    "creator": "marethyu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/marethyu/awesome-emu-resources",
+    "repoImage": null,
+    "description": "A curated list of emulator development resources"
+  },
+  {
+    "name": "GBA4iOS",
+    "slug": "gba4ios",
+    "creator": "vladignatyev",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/vladignatyev/GBA4iOS",
+    "repoImage": null,
+    "description": "GBA4iOS mirror working on iOS 8. It's an emulator of GameBoy Advance console for Apple iPhone gadget"
+  },
+  {
+    "name": "ReGBA",
+    "slug": "regba",
+    "creator": "Nebuleon",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/Nebuleon/ReGBA",
+    "repoImage": null,
+    "description": "Recompiling Emulator for the Game Boy Advance"
+  },
+  {
+    "name": "gbaemu4DS",
+    "slug": "gbaemu4ds",
+    "creator": "ichfly",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/ichfly/gbaemu4DS",
+    "repoImage": null,
+    "description": "this is the gba emulator for the DS"
+  },
+  {
+    "name": "switch-gba",
+    "slug": "switch-gba",
+    "creator": "itsbjoern",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/itsbjoern/switch-gba",
+    "repoImage": null,
+    "description": "Browser based Nintendo Switch GBA Emulator"
+  },
+  {
+    "name": "gba.ninja",
+    "slug": "gba-ninja",
+    "creator": "simon-paris",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/simon-paris/gba.ninja",
+    "repoImage": null,
+    "description": "A port of visualboyadvance-m to JavaScript and a custom frontend"
   }
 ]
