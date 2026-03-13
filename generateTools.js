@@ -147,7 +147,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
 </div>
 </div>
-<a class="download-btn" href="../../index.html">← Back to Emulators</a>
+<a class="download-btn" href="https://zagv2.github.io/Emulators/">← Back to Emulators</a>
 </nav>
 </header>
 
