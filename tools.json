@@ -7,7 +7,8 @@
     "homepage": "https://alacritty.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/29714349?v=4",
-    "slug": "alacritty"
+    "slug": "alacritty",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "termux-app",
@@ -17,7 +18,8 @@
     "homepage": "https://f-droid.org/en/packages/com.termux",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/8104776?v=4",
-    "slug": "termux-app"
+    "slug": "termux-app",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "ghostty",
@@ -27,7 +29,8 @@
     "homepage": "https://ghostty.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/169223740?v=4",
-    "slug": "ghostty"
+    "slug": "ghostty",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "edex-ui",
@@ -37,7 +40,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/24496417?v=4",
-    "slug": "edex-ui"
+    "slug": "edex-ui",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "shadPS4",
@@ -47,7 +51,8 @@
     "homepage": "https://shadps4.net/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/152868421?v=4",
-    "slug": "shadps4"
+    "slug": "shadps4",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "cmder",
@@ -57,7 +62,8 @@
     "homepage": "https://cmder.app",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/11646750?v=4",
-    "slug": "cmder"
+    "slug": "cmder",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "cool-retro-term",
@@ -67,7 +73,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/6009070?v=4",
-    "slug": "cool-retro-term"
+    "slug": "cool-retro-term",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "wezterm",
@@ -77,7 +84,8 @@
     "homepage": "https://wezterm.org/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/198158019?v=4",
-    "slug": "wezterm"
+    "slug": "wezterm",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "v86",
@@ -87,7 +95,8 @@
     "homepage": "https://copy.sh/v86/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1816456?v=4",
-    "slug": "v86"
+    "slug": "v86",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "ish",
@@ -97,7 +106,8 @@
     "homepage": "https://ish.app",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/38895825?v=4",
-    "slug": "ish"
+    "slug": "ish",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "upterm",
@@ -107,7 +117,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/9354?v=4",
-    "slug": "upterm"
+    "slug": "upterm",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "rpcs3",
@@ -117,7 +128,8 @@
     "homepage": "https://rpcs3.net/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/8070735?v=4",
-    "slug": "rpcs3"
+    "slug": "rpcs3",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "ruffle",
@@ -127,7 +139,8 @@
     "homepage": "https://ruffle.rs",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/50037962?v=4",
-    "slug": "ruffle"
+    "slug": "ruffle",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "OpenEmu",
@@ -137,7 +150,8 @@
     "homepage": "https://openemu.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/528189?v=4",
-    "slug": "openemu"
+    "slug": "openemu",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "iTerm2",
@@ -147,7 +161,8 @@
     "homepage": "https://iterm2.com/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/427546?v=4",
-    "slug": "iterm2"
+    "slug": "iterm2",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "dolphin",
@@ -157,7 +172,8 @@
     "homepage": "https://dolphin-emu.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/5050316?v=4",
-    "slug": "dolphin"
+    "slug": "dolphin",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "pcsx2",
@@ -167,7 +183,8 @@
     "homepage": "https://pcsx2.net",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/6278711?v=4",
-    "slug": "pcsx2"
+    "slug": "pcsx2",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "docker-android",
@@ -177,7 +194,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/22218312?v=4",
-    "slug": "docker-android"
+    "slug": "docker-android",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "ppsspp",
@@ -187,7 +205,8 @@
     "homepage": "https://www.ppsspp.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/130929?v=4",
-    "slug": "ppsspp"
+    "slug": "ppsspp",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Locale-Emulator",
@@ -197,7 +216,8 @@
     "homepage": "https://pooi.moe/Locale-Emulator/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1687847?v=4",
-    "slug": "locale-emulator"
+    "slug": "locale-emulator",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "jsnes",
@@ -207,7 +227,8 @@
     "homepage": "https://jsnes.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/40906?v=4",
-    "slug": "jsnes"
+    "slug": "jsnes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Provenance",
@@ -217,7 +238,8 @@
     "homepage": "https://provenance-emu.com",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/37421993?v=4",
-    "slug": "provenance"
+    "slug": "provenance",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "nes",
@@ -227,7 +249,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/520208?v=4",
-    "slug": "nes"
+    "slug": "nes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "SimpleNES",
@@ -237,7 +260,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/2724742?v=4",
-    "slug": "simplenes"
+    "slug": "simplenes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Lemuroid",
@@ -247,7 +271,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/6009070?v=4",
-    "slug": "lemuroid"
+    "slug": "lemuroid",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "EmulatorJS",
@@ -257,7 +282,8 @@
     "homepage": "https://emulatorjs.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/113546769?v=4",
-    "slug": "emulatorjs"
+    "slug": "emulatorjs",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Mesen2",
@@ -267,7 +293,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/21093973?v=4",
-    "slug": "mesen2"
+    "slug": "mesen2",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "olcNES",
@@ -277,7 +304,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/25419386?v=4",
-    "slug": "olcnes"
+    "slug": "olcnes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "LaiNES",
@@ -287,7 +315,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/3673952?v=4",
-    "slug": "laines"
+    "slug": "laines",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "fceux",
@@ -297,7 +326,8 @@
     "homepage": "http://fceux.com",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/11743303?v=4",
-    "slug": "fceux"
+    "slug": "fceux",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Mesen",
@@ -307,7 +337,8 @@
     "homepage": "https://www.mesen.ca",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/21093973?v=4",
-    "slug": "mesen"
+    "slug": "mesen",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "nintengo",
@@ -317,7 +348,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/486290?v=4",
-    "slug": "nintengo"
+    "slug": "nintengo",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "retro-go",
@@ -327,7 +359,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/13711380?v=4",
-    "slug": "retro-go"
+    "slug": "retro-go",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "nostalgist",
@@ -337,7 +370,8 @@
     "homepage": "https://nostalgist.js.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/10987902?v=4",
-    "slug": "nostalgist"
+    "slug": "nostalgist",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "nestopia",
@@ -347,7 +381,8 @@
     "homepage": "http://0ldsk00l.ca/nestopia",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/36061446?v=4",
-    "slug": "nestopia"
+    "slug": "nestopia",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "optcarrot",
@@ -357,7 +392,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/21557?v=4",
-    "slug": "optcarrot"
+    "slug": "optcarrot",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "retroassembly",
@@ -367,7 +403,8 @@
     "homepage": "https://retroassembly.com",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/10987902?v=4",
-    "slug": "retroassembly"
+    "slug": "retroassembly",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "pinky",
@@ -377,7 +414,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/246574?v=4",
-    "slug": "pinky"
+    "slug": "pinky",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "puNES",
@@ -387,7 +425,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/14859058?v=4",
-    "slug": "punes"
+    "slug": "punes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "smolnes",
@@ -397,7 +436,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1245315?v=4",
-    "slug": "smolnes"
+    "slug": "smolnes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "snes9x",
@@ -407,7 +447,8 @@
     "homepage": "http://www.snes9x.com",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/415737?v=4",
-    "slug": "snes9x"
+    "slug": "snes9x",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "bsnes",
@@ -417,7 +458,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/62430984?v=4",
-    "slug": "bsnes"
+    "slug": "bsnes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "bsnes-hd",
@@ -427,7 +469,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/6045077?v=4",
-    "slug": "bsnes-hd"
+    "slug": "bsnes-hd",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Mesen-S",
@@ -437,7 +480,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/21093973?v=4",
-    "slug": "mesen-s"
+    "slug": "mesen-s",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Emulatrix",
@@ -447,7 +491,8 @@
     "homepage": "https://www.emulatrix.com",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/11498901?v=4",
-    "slug": "emulatrix"
+    "slug": "emulatrix",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "bsnes-plus",
@@ -457,7 +502,8 @@
     "homepage": "http://bsnes.revenant1.net",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/4616298?v=4",
-    "slug": "bsnes-plus"
+    "slug": "bsnes-plus",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "sodium64",
@@ -467,7 +513,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/3057954?v=4",
-    "slug": "sodium64"
+    "slug": "sodium64",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "jgenesis",
@@ -477,7 +524,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1137683?v=4",
-    "slug": "jgenesis"
+    "slug": "jgenesis",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "MeSNEmu",
@@ -487,7 +535,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/51199?v=4",
-    "slug": "mesnemu"
+    "slug": "mesnemu",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "xnes",
@@ -497,7 +546,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1032522?v=4",
-    "slug": "xnes"
+    "slug": "xnes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "retrograde-android",
@@ -507,7 +557,8 @@
     "homepage": "https://play.google.com/store/apps/details?id=com.codebutler.retrograde",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/34558086?v=4",
-    "slug": "retrograde-android"
+    "slug": "retrograde-android",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "zsnes",
@@ -517,7 +568,8 @@
     "homepage": "https://zsnes.com",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/52813?v=4",
-    "slug": "zsnes"
+    "slug": "zsnes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "blargSnes",
@@ -527,7 +579,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1311867?v=4",
-    "slug": "blargsnes"
+    "slug": "blargsnes",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "NetherSX2-patch",
@@ -537,7 +590,8 @@
     "homepage": "https://discord.gg/xRh3NnYyMa",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/983358?v=4",
-    "slug": "nethersx2-patch"
+    "slug": "nethersx2-patch",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "FabGL",
@@ -547,7 +601,8 @@
     "homepage": "http://www.fabglib.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/9754506?v=4",
-    "slug": "fabgl"
+    "slug": "fabgl",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "NetherSX2-classic",
@@ -557,7 +612,8 @@
     "homepage": "https://discord.gg/xRh3NnYyMa",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/983358?v=4",
-    "slug": "nethersx2-classic"
+    "slug": "nethersx2-classic",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "DobieStation",
@@ -567,7 +623,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/12768103?v=4",
-    "slug": "dobiestation"
+    "slug": "dobiestation",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "neutrino",
@@ -577,7 +634,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/4712159?v=4",
-    "slug": "neutrino"
+    "slug": "neutrino",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "ps2dev",
@@ -587,7 +645,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/276504?v=4",
-    "slug": "ps2dev"
+    "slug": "ps2dev",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "PSX2",
@@ -597,7 +656,8 @@
     "homepage": "https://www.izzy2lost.com/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/170889516?v=4",
-    "slug": "psx2"
+    "slug": "psx2",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Myrient-Downloader-GUI",
@@ -607,7 +667,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/34556645?v=4",
-    "slug": "myrient-downloader-gui"
+    "slug": "myrient-downloader-gui",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "mymcplus",
@@ -617,7 +678,8 @@
     "homepage": "https://git.sr.ht/~thestr4ng3r/mymcplus",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1460997?v=4",
-    "slug": "mymcplus"
+    "slug": "mymcplus",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "orbum",
@@ -627,7 +689,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1343222?v=4",
-    "slug": "orbum"
+    "slug": "orbum",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Play--CodeGen",
@@ -637,7 +700,8 @@
     "homepage": "http://purei.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/6760433?v=4",
-    "slug": "play-codegen"
+    "slug": "play-codegen",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Instalador-POPStarter",
@@ -647,7 +711,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/53555314?v=4",
-    "slug": "instalador-popstarter"
+    "slug": "instalador-popstarter",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Play--Framework",
@@ -657,7 +722,8 @@
     "homepage": "http://purei.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/6760433?v=4",
-    "slug": "play-framework"
+    "slug": "play-framework",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "moestation",
@@ -667,7 +733,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/51570316?v=4",
-    "slug": "moestation"
+    "slug": "moestation",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Fceumm-PS2",
@@ -677,7 +744,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/23712284?v=4",
-    "slug": "fceumm-ps2"
+    "slug": "fceumm-ps2",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Ps2Plus",
@@ -687,7 +755,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/12448030?v=4",
-    "slug": "ps2plus"
+    "slug": "ps2plus",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Breakin-In",
@@ -697,7 +766,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/6294155?v=4",
-    "slug": "breakin-in"
+    "slug": "breakin-in",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "pgen",
@@ -707,7 +777,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/23712284?v=4",
-    "slug": "pgen"
+    "slug": "pgen",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Ps2ControllerEmulator",
@@ -717,7 +788,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/12448030?v=4",
-    "slug": "ps2controlleremulator"
+    "slug": "ps2controlleremulator",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "mgba",
@@ -727,7 +799,8 @@
     "homepage": "https://mgba.io/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/10085927?v=4",
-    "slug": "mgba"
+    "slug": "mgba",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "PyBoy",
@@ -737,7 +810,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/5528170?v=4",
-    "slug": "pyboy"
+    "slug": "pyboy",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "gameboy.live",
@@ -747,7 +821,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/16058869?v=4",
-    "slug": "gameboy-live"
+    "slug": "gameboy-live",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "awesome-gbdev",
@@ -757,7 +832,8 @@
     "homepage": "https://gbdev.io/resources",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/29732935?v=4",
-    "slug": "awesome-gbdev"
+    "slug": "awesome-gbdev",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "visualboyadvance-m",
@@ -767,7 +843,8 @@
     "homepage": "https://visualboyadvance-m.org",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/12837344?v=4",
-    "slug": "visualboyadvance-m"
+    "slug": "visualboyadvance-m",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "goboy",
@@ -777,7 +854,8 @@
     "homepage": "https://humpheh.github.io/goboy/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1696213?v=4",
-    "slug": "goboy"
+    "slug": "goboy",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "SameBoy",
@@ -787,7 +865,8 @@
     "homepage": "https://sameboy.github.io/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/2345928?v=4",
-    "slug": "sameboy"
+    "slug": "sameboy",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "php-terminal-gameboy-emulator",
@@ -797,7 +876,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/2197005?v=4",
-    "slug": "php-terminal-gameboy-emulator"
+    "slug": "php-terminal-gameboy-emulator",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "wasmboy",
@@ -807,7 +887,8 @@
     "homepage": "https://wasmboy.app/",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1448289?v=4",
-    "slug": "wasmboy"
+    "slug": "wasmboy",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "gameboy",
@@ -817,7 +898,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/12387889?v=4",
-    "slug": "gameboy"
+    "slug": "gameboy",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "pokegb",
@@ -827,7 +909,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/1245315?v=4",
-    "slug": "pokegb"
+    "slug": "pokegb",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "metroboy",
@@ -837,7 +920,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/778399?v=4",
-    "slug": "metroboy"
+    "slug": "metroboy",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "coffee-gb",
@@ -847,7 +931,8 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/142138?v=4",
-    "slug": "coffee-gb"
+    "slug": "coffee-gb",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "SkyEmu",
@@ -857,7 +942,8 @@
     "homepage": "http://skyemu.app",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/7118296?v=4",
-    "slug": "skyemu"
+    "slug": "skyemu",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "Gearboy",
@@ -867,7 +953,8 @@
     "homepage": "https://x.com/drhelius",
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/863613?v=4",
-    "slug": "gearboy"
+    "slug": "gearboy",
+    "cover": "../default-cover.jpg"
   },
   {
     "name": "GIOVANNI",
@@ -877,6 +964,7 @@
     "homepage": null,
     "version": "...",
     "avatar": "https://avatars.githubusercontent.com/u/983669?v=4",
-    "slug": "giovanni"
+    "slug": "giovanni",
+    "cover": "../default-cover.jpg"
   }
 ]
