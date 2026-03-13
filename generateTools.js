@@ -1,5 +1,6 @@
 const fs = require("fs")
 const path = require("path")
+const fetch = require("node-fetch")
 
 const TOOLS_FILE = "tools.json"
 const TOOLS_DIR = "tools"
@@ -81,85 +82,17 @@ function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
-// --- Recursively get image link from repo, including README.md fallback ---
-async function getRepoImage(owner, repo, branch, pathInRepo = "") {
-  const imageExtensions = ["jpg","jpeg","png","gif","webp"]
-  const priorityFiles = ["cover", "screenshot", "logo"]
-
-  try {
-    const url = `https://api.github.com/repos/${owner}/${repo}/contents/${pathInRepo}`
-    const res = await fetch(url)
-    const files = await res.json()
-    if (!Array.isArray(files)) return null
-
-    // Priority filenames
-    for (const file of files) {
-      if (file.type === "file") {
-        const lowerName = file.name.toLowerCase()
-        if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
-          for (const prefix of priorityFiles) {
-            if (lowerName.startsWith(prefix)) {
-              return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${file.path}`
-            }
-          }
-        }
-      }
-    }
-
-    // Any image recursively
-    for (const file of files) {
-      if (file.type === "file") {
-        const lowerName = file.name.toLowerCase()
-        if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
-          return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${file.path}`
-        }
-      } else if (file.type === "dir") {
-        const nested = await getRepoImage(owner, repo, branch, file.path)
-        if (nested) return nested
-      }
-    }
-
-    // README image fallback
-    const readmeUrl = `https://api.github.com/repos/${owner}/${repo}/contents/README.md`
-    const readmeRes = await fetch(readmeUrl)
-    const readmeData = await readmeRes.json()
-
-    if (readmeData && readmeData.content) {
-      const decoded = Buffer.from(readmeData.content, "base64").toString("utf-8")
-      const match = decoded.match(/!\[.*?\]\((.*?)\)/)
-
-      if (match && match[1]) {
-        let imgUrl = match[1]
-
-        if (!imgUrl.startsWith("http")) {
-          imgUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${imgUrl.replace(/^.\//,'')}`
-        }
-
-        return imgUrl
-      }
-    }
-
-  } catch(e) {
-    console.log(`Failed to fetch images for ${owner}/${repo}:`, e.message)
-  }
-
-  return null
-}
-
-// Get logo for HTML page
-function getLogo(slug, repoImage) {
-  if (repoImage) return repoImage
-
+// Get custom logo if exists
+function getLogo(slug) {
   const logoExtensions = ["jpg","jpeg","png","webp","gif"]
   for (const ext of logoExtensions) {
     const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
     if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
   }
-
   return "logos/Default-cover.jpg"
 }
 
-// Create tool page
+// Create tool page using the fixed template
 function createToolPage(tool){
   const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
   const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
@@ -167,7 +100,8 @@ function createToolPage(tool){
 
   const htmlPath = path.join(folder,"index.html")
   
-  const coverImage = getLogo(tool.slug, tool.repoImage)
+  // Determine logo to use
+  const coverImage = getLogo(tool.slug)
 
   const html = `
 <!DOCTYPE html>
@@ -176,30 +110,56 @@ function createToolPage(tool){
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>${tool.name} - ZAG Archive</title>
+
 <style>
 body{margin:0;font-family:'Segoe UI',sans-serif;background:#f0f2f5;color:#222;}
 header{background:#fff;padding:15px 40px;display:flex;justify-content:space-between;align-items:center;box-shadow:0 2px 6px rgba(0,0,0,0.1);position:sticky;top:0;z-index:100;flex-wrap:wrap;}
 .site-title{font-weight:700;font-size:20px;color:#1e90ff;text-transform:uppercase;}
+.site-title span{margin-left:5px;}
 nav{display:flex;align-items:center;flex-wrap:wrap;}
 nav a{margin-left:25px;text-decoration:none;color:#333;font-weight:600;transition:0.2s;}
 nav a:hover{color:#1e90ff;}
+.dropdown{position:relative;display:inline-block;}
+.dropbtn{margin-left:25px;font-weight:600;background:none;border:none;cursor:pointer;color:#333;font-size:16px;}
+.dropdown-content{display:none;position:absolute;background:#fff;min-width:200px;box-shadow:0 6px 12px rgba(0,0,0,0.1);border-radius:6px;overflow:hidden;top:38px;z-index:200;}
+.dropdown-content a{display:block;padding:10px 15px;text-decoration:none;color:#333;font-weight:500;}
+.dropdown-content a:hover{background:#f0f2f5;color:#1e90ff;}
 .container{max-width:1100px;margin:40px auto;padding:0 20px;}
 .game-header{display:flex;gap:40px;flex-wrap:wrap;align-items:flex-start;}
 .game-cover img{width:100%;max-width:320px;border-radius:12px;box-shadow:0 6px 12px rgba(0,0,0,0.1);}
 .game-info{flex:1;min-width:260px;}
 .game-info h1{margin-top:0;color:#1e90ff;font-size:28px;}
-.meta p{margin:6px 0;font-size:15px;}
-.download-btn{display:inline-block;margin-top:15px;padding:10px 18px;background:#1e90ff;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;transition:0.3s;}
+.meta p{margin:6px 0;font-size:15px;color:#444;}
+.description{margin-top:15px;line-height:1.6;color:#444;}
+.download-btn{display:inline-block;margin-top:15px;padding:6px 14px;font-size:14px;background:#1e90ff;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;transition:0.3s;}
 .download-btn:hover{background:#187bcd;}
 footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top:1px solid #ddd;color:#555;font-size:14px;}
+@media(max-width:768px){header{flex-direction:row;padding:15px 20px;}nav{flex-wrap:wrap;}nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}.game-header{flex-direction:column;align-items:center;}.game-cover img{max-width:100%;}.game-info h1{text-align:center;font-size:22px;}.meta,.description{text-align:center;}.download-btn{display:block;width:100%;text-align:center;}}
 </style>
 </head>
+
 <body>
+
 <header>
-<div class="site-title">ZAG Archive</div>
+<div class="site-title">ZAG <span>Archive</span></div>
+<nav>
+<a href="https://zagv2.github.io/ZAGArchive-/">Home</a>
+<div class="dropdown">
+<button class="dropbtn">Sections ▼</button>
+<div class="dropdown-content">
+<a href="https://zagv2.github.io/Homebrew-Games/">Homebrew Games</a>
+<a href="https://zagv2.github.io/romhacks-patches/">ROM Hacks & Patches</a>
+<a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
+</div>
+</div>
+<a href="https://zagv2.github.io/ZAGArchive-/about.html">About</a>
+<a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
+</nav>
 </header>
+
 <div class="container">
-<a class="download-btn" href="../../..">← Back</a>
+<a class="download-btn" href="https://zagv2.github.io/Emulators/">← Back to Emulators</a>
+
 <div class="game-header">
 <div class="game-cover">
 <img src="${coverImage}" alt="${tool.name} Cover">
@@ -211,12 +171,33 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <p><strong>Developer:</strong> ${tool.creator}</p>
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
-<p>${tool.description || "No description available."}</p>
+<div class="description">
+${tool.description || ""}
+</div>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
 </div>
 </div>
+
 <footer>© 2026 ZAG Archive - Emulators</footer>
+
+<script>
+const btn=document.querySelector('.dropbtn');
+const dropdown=document.querySelector('.dropdown-content');
+
+btn.addEventListener('click',(e)=>{
+e.preventDefault();
+dropdown.style.display = (dropdown.style.display==="block") ? "none" : "block";
+});
+btn.parentElement.addEventListener('mouseenter',()=>{ dropdown.style.display="block"; });
+btn.parentElement.addEventListener('mouseleave',()=>{ dropdown.style.display="none"; });
+window.addEventListener('click',(e)=>{
+if(!btn.contains(e.target) && !dropdown.contains(e.target)){
+dropdown.style.display="none";
+}
+});
+</script>
+
 </body>
 </html>
 `
@@ -244,7 +225,6 @@ async function run(){
         seen.add(repo.html_url)
 
         const slug = slugify(repo.name)
-        const repoImage = await getRepoImage(repo.owner.login, repo.name, repo.default_branch)
 
         const tool = {
           name: repo.name,
@@ -253,8 +233,7 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          repoImage: repoImage,
-          description: repo.description
+          description: repo.description || ""
         }
 
         tools.push(tool)
@@ -265,6 +244,7 @@ async function run(){
     }
   }
 
+  // --- Self-healing and rebuild ---
   tools.forEach(tool=>{
     tool.console = detectConsole(tool.name)
     createToolPage(tool)
