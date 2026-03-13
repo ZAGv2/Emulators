@@ -1,8 +1,10 @@
 const fs = require("fs")
 const path = require("path")
+const fetch = require("node-fetch")
 
 const TOOLS_FILE = "tools.json"
 const TOOLS_DIR = "tools"
+const LOGOS_DIR = path.join(TOOLS_DIR, "logos")
 
 let tools = []
 let seen = new Set()
@@ -80,16 +82,75 @@ function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
+// --- Recursively get image link from repo, optimized for common filenames ---
+async function getRepoImage(owner, repo, pathInRepo = "") {
+  const imageExtensions = ["jpg","jpeg","png","gif","webp"]
+  const priorityFiles = ["cover", "screenshot", "logo"]
+
+  try {
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/${pathInRepo}`
+    const res = await fetch(url)
+    const files = await res.json()
+    if (!Array.isArray(files)) return null
+
+    // 1️⃣ Check priority filenames first
+    for (const file of files) {
+      if (file.type === "file") {
+        const lowerName = file.name.toLowerCase()
+        if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
+          for (const prefix of priorityFiles) {
+            if (lowerName.startsWith(prefix)) return file.download_url
+          }
+        }
+      }
+    }
+
+    // 2️⃣ If none of the priority files, check all images recursively
+    for (const file of files) {
+      if (file.type === "file") {
+        const lowerName = file.name.toLowerCase()
+        if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
+          return file.download_url
+        }
+      } else if (file.type === "dir") {
+        const nested = await getRepoImage(owner, repo, file.path)
+        if (nested) return nested
+      }
+    }
+  } catch(e) {
+    console.log(`Failed to fetch images for ${owner}/${repo}:`, e.message)
+  }
+
+  return null
+}
+
+// Get logo for HTML page
+function getLogo(slug, repoImage) {
+  // Use GitHub image link if available
+  if (repoImage) return repoImage
+
+  // Use local custom logo if it exists
+  const logoExtensions = ["jpg","jpeg","png","webp","gif"]
+  for (const ext of logoExtensions) {
+    const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
+    if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
+  }
+
+  // Fallback to default logo
+  return "logos/Default-cover.jpg"
+}
+
 // Create tool page
 function createToolPage(tool){
-  // --- Folder based on console ---
   const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
   const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
   const htmlPath = path.join(folder,"index.html")
   
-  // --- Self-healing: overwrite every time ---
+  // Determine logo to use
+  const coverImage = getLogo(tool.slug, tool.repoImage)
+
   const html = `
 <!DOCTYPE html>
 <html lang="en">
@@ -130,7 +191,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <a class="download-btn" href="../../..">← Back</a>
 <div class="game-header">
 <div class="game-cover">
-<img src="${tool.cover}" alt="${tool.name} Cover">
+<img src="${coverImage}" alt="${tool.name} Cover">
 </div>
 <div class="game-info">
 <h1>${tool.name}</h1>
@@ -139,7 +200,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <p><strong>Developer:</strong> ${tool.creator}</p>
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
-<p style="margin-top:15px;">Description available on the official page ⬇️</p>
+<p>${tool.description || "No description available."}</p>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
 </div>
@@ -161,7 +222,6 @@ async function fetchPage(query,page){
 
 // --- Main ---
 async function run(){
-  // Discover new emulators
   for(const query of queries){
     let page=1
     while(true){
@@ -174,6 +234,9 @@ async function run(){
 
         const slug = slugify(repo.name)
 
+        // --- Fetch repo image link recursively with priority filenames ---
+        const repoImage = await getRepoImage(repo.owner.login, repo.name)
+
         const tool = {
           name: repo.name,
           slug: slug,
@@ -181,7 +244,8 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          cover: repo.owner.avatar_url
+          repoImage: repoImage, // Only the link, no download
+          description: repo.description // <-- Added GitHub repo description
         }
 
         tools.push(tool)
@@ -192,10 +256,9 @@ async function run(){
     }
   }
 
-  // --- Self-healing and update old entries ---
+  // --- Self-healing and rebuild ---
   tools.forEach(tool=>{
     tool.console = detectConsole(tool.name)
-    if(!tool.cover) tool.cover = tool.owner?.avatar_url
     createToolPage(tool)
   })
 
