@@ -6,7 +6,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/alacritty/alacritty",
-    "cover": "https://avatars.githubusercontent.com/u/29714349?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/29714349?v=4",
+    "description": "No description available"
   },
   {
     "name": "termux-app",
@@ -15,7 +16,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/termux/termux-app",
-    "cover": "https://avatars.githubusercontent.com/u/8104776?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/8104776?v=4",
+    "description": "No description available"
   },
   {
     "name": "ghostty",
@@ -24,7 +26,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ghostty-org/ghostty",
-    "cover": "https://avatars.githubusercontent.com/u/169223740?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/169223740?v=4",
+    "description": "No description available"
   },
   {
     "name": "edex-ui",
@@ -33,7 +36,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/GitSquared/edex-ui",
-    "cover": "https://avatars.githubusercontent.com/u/24496417?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/24496417?v=4",
+    "description": "No description available"
   },
   {
     "name": "shadPS4",
@@ -42,7 +46,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/shadps4-emu/shadPS4",
-    "cover": "https://avatars.githubusercontent.com/u/152868421?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/152868421?v=4",
+    "description": "No description available"
   },
   {
     "name": "cmder",
@@ -51,7 +56,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/cmderdev/cmder",
-    "cover": "https://avatars.githubusercontent.com/u/11646750?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/11646750?v=4",
+    "description": "No description available"
   },
   {
     "name": "cool-retro-term",
@@ -60,7 +66,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Swordfish90/cool-retro-term",
-    "cover": "https://avatars.githubusercontent.com/u/6009070?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/6009070?v=4",
+    "description": "No description available"
   },
   {
     "name": "wezterm",
@@ -69,7 +76,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/wezterm/wezterm",
-    "cover": "https://avatars.githubusercontent.com/u/198158019?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/198158019?v=4",
+    "description": "No description available"
   },
   {
     "name": "v86",
@@ -78,7 +86,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/copy/v86",
-    "cover": "https://avatars.githubusercontent.com/u/1816456?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1816456?v=4",
+    "description": "No description available"
   },
   {
     "name": "ish",
@@ -87,7 +96,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ish-app/ish",
-    "cover": "https://avatars.githubusercontent.com/u/38895825?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/38895825?v=4",
+    "description": "No description available"
   },
   {
     "name": "upterm",
@@ -96,7 +106,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/railsware/upterm",
-    "cover": "https://avatars.githubusercontent.com/u/9354?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/9354?v=4",
+    "description": "No description available"
   },
   {
     "name": "rpcs3",
@@ -105,7 +116,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/RPCS3/rpcs3",
-    "cover": "https://avatars.githubusercontent.com/u/8070735?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/8070735?v=4",
+    "description": "No description available"
   },
   {
     "name": "ruffle",
@@ -114,7 +126,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ruffle-rs/ruffle",
-    "cover": "https://avatars.githubusercontent.com/u/50037962?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/50037962?v=4",
+    "description": "No description available"
   },
   {
     "name": "OpenEmu",
@@ -123,7 +136,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/OpenEmu/OpenEmu",
-    "cover": "https://avatars.githubusercontent.com/u/528189?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/528189?v=4",
+    "description": "No description available"
   },
   {
     "name": "iTerm2",
@@ -132,7 +146,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/gnachman/iTerm2",
-    "cover": "https://avatars.githubusercontent.com/u/427546?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/427546?v=4",
+    "description": "No description available"
   },
   {
     "name": "dolphin",
@@ -141,7 +156,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/dolphin-emu/dolphin",
-    "cover": "https://avatars.githubusercontent.com/u/5050316?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/5050316?v=4",
+    "description": "No description available"
   },
   {
     "name": "pcsx2",
@@ -150,7 +166,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/PCSX2/pcsx2",
-    "cover": "https://avatars.githubusercontent.com/u/6278711?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/6278711?v=4",
+    "description": "No description available"
   },
   {
     "name": "docker-android",
@@ -159,7 +176,8 @@
     "version": "...",
     "console": "Android",
     "url": "https://github.com/budtmo/docker-android",
-    "cover": "https://avatars.githubusercontent.com/u/22218312?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/22218312?v=4",
+    "description": "No description available"
   },
   {
     "name": "ppsspp",
@@ -168,7 +186,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/hrydgard/ppsspp",
-    "cover": "https://avatars.githubusercontent.com/u/130929?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/130929?v=4",
+    "description": "No description available"
   },
   {
     "name": "Locale-Emulator",
@@ -177,7 +196,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/xupefei/Locale-Emulator",
-    "cover": "https://avatars.githubusercontent.com/u/1687847?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1687847?v=4",
+    "description": "No description available"
   },
   {
     "name": "RetroPie-Setup",
@@ -186,7 +206,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/RetroPie/RetroPie-Setup",
-    "cover": "https://avatars.githubusercontent.com/u/11378204?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/11378204?v=4",
+    "description": "No description available"
   },
   {
     "name": "Gogh",
@@ -195,7 +216,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Gogh-Co/Gogh",
-    "cover": "https://avatars.githubusercontent.com/u/103956694?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/103956694?v=4",
+    "description": "No description available"
   },
   {
     "name": "duckstation",
@@ -204,7 +226,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/stenzek/duckstation",
-    "cover": "https://avatars.githubusercontent.com/u/11288319?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/11288319?v=4",
+    "description": "No description available"
   },
   {
     "name": "FluentTerminal",
@@ -213,7 +236,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/felixse/FluentTerminal",
-    "cover": "https://avatars.githubusercontent.com/u/30559812?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/30559812?v=4",
+    "description": "No description available"
   },
   {
     "name": "xenia",
@@ -222,7 +246,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/xenia-project/xenia",
-    "cover": "https://avatars.githubusercontent.com/u/12565762?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/12565762?v=4",
+    "description": "No description available"
   },
   {
     "name": "Cemu",
@@ -231,7 +256,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/cemu-project/Cemu",
-    "cover": "https://avatars.githubusercontent.com/u/40145098?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/40145098?v=4",
+    "description": "No description available"
   },
   {
     "name": "unicorn",
@@ -240,7 +266,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/unicorn-engine/unicorn",
-    "cover": "https://avatars.githubusercontent.com/u/13391512?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/13391512?v=4",
+    "description": "No description available"
   },
   {
     "name": "vlmcsd",
@@ -249,7 +276,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Wind4/vlmcsd",
-    "cover": "https://avatars.githubusercontent.com/u/3997851?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3997851?v=4",
+    "description": "No description available"
   },
   {
     "name": "Android-Debug-Database",
@@ -258,7 +286,8 @@
     "version": "...",
     "console": "Android",
     "url": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
-    "cover": "https://avatars.githubusercontent.com/u/9877145?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/9877145?v=4",
+    "description": "No description available"
   },
   {
     "name": "macintosh.js",
@@ -267,7 +296,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/felixrieseberg/macintosh.js",
-    "cover": "https://avatars.githubusercontent.com/u/1426799?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1426799?v=4",
+    "description": "No description available"
   },
   {
     "name": "azerothcore-wotlk",
@@ -276,7 +306,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/azerothcore/azerothcore-wotlk",
-    "cover": "https://avatars.githubusercontent.com/u/20147732?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/20147732?v=4",
+    "description": "No description available"
   },
   {
     "name": "blink",
@@ -285,7 +316,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/jart/blink",
-    "cover": "https://avatars.githubusercontent.com/u/49262?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/49262?v=4",
+    "description": "No description available"
   },
   {
     "name": "FEX",
@@ -294,7 +326,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/FEX-Emu/FEX",
-    "cover": "https://avatars.githubusercontent.com/u/61863475?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/61863475?v=4",
+    "description": "No description available"
   },
   {
     "name": "mgba",
@@ -303,7 +336,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/mgba-emu/mgba",
-    "cover": "https://avatars.githubusercontent.com/u/10085927?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/10085927?v=4",
+    "description": "No description available"
   },
   {
     "name": "azahar",
@@ -312,7 +346,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/azahar-emu/azahar",
-    "cover": "https://avatars.githubusercontent.com/u/188636407?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/188636407?v=4",
+    "description": "No description available"
   },
   {
     "name": "rio",
@@ -321,7 +356,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/raphamorim/rio",
-    "cover": "https://avatars.githubusercontent.com/u/3630346?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3630346?v=4",
+    "description": "No description available"
   },
   {
     "name": "jsnes",
@@ -330,7 +366,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/bfirsh/jsnes",
-    "cover": "https://avatars.githubusercontent.com/u/40906?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/40906?v=4",
+    "description": "No description available"
   },
   {
     "name": "GateOne",
@@ -339,7 +376,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/liftoff/GateOne",
-    "cover": "https://avatars.githubusercontent.com/u/1123439?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1123439?v=4",
+    "description": "No description available"
   },
   {
     "name": "BlackDex",
@@ -348,7 +386,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/CodingGay/BlackDex",
-    "cover": "https://avatars.githubusercontent.com/u/83878298?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/83878298?v=4",
+    "description": "No description available"
   },
   {
     "name": "Provenance",
@@ -357,7 +396,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Provenance-Emu/Provenance",
-    "cover": "https://avatars.githubusercontent.com/u/37421993?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/37421993?v=4",
+    "description": "No description available"
   },
   {
     "name": "Delta",
@@ -366,7 +406,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/rileytestut/Delta",
-    "cover": "https://avatars.githubusercontent.com/u/705880?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/705880?v=4",
+    "description": "No description available"
   },
   {
     "name": "qiling",
@@ -375,7 +416,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/qilingframework/qiling",
-    "cover": "https://avatars.githubusercontent.com/u/46340064?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/46340064?v=4",
+    "description": "No description available"
   },
   {
     "name": "mininet",
@@ -384,7 +426,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/mininet/mininet",
-    "cover": "https://avatars.githubusercontent.com/u/744275?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/744275?v=4",
+    "description": "No description available"
   },
   {
     "name": "nes",
@@ -393,7 +436,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/fogleman/nes",
-    "cover": "https://avatars.githubusercontent.com/u/520208?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/520208?v=4",
+    "description": "No description available"
   },
   {
     "name": "tilix",
@@ -402,7 +446,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/gnunn1/tilix",
-    "cover": "https://avatars.githubusercontent.com/u/9358238?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/9358238?v=4",
+    "description": "No description available"
   },
   {
     "name": "box64",
@@ -411,7 +456,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ptitSeb/box64",
-    "cover": "https://avatars.githubusercontent.com/u/3250792?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3250792?v=4",
+    "description": "No description available"
   },
   {
     "name": "serverless-offline",
@@ -420,7 +466,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/dherault/serverless-offline",
-    "cover": "https://avatars.githubusercontent.com/u/4154003?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/4154003?v=4",
+    "description": "No description available"
   },
   {
     "name": "PyBoy",
@@ -429,7 +476,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Baekalfen/PyBoy",
-    "cover": "https://avatars.githubusercontent.com/u/5528170?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/5528170?v=4",
+    "description": "No description available"
   },
   {
     "name": "Vita3K",
@@ -438,7 +486,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Vita3K/Vita3K",
-    "cover": "https://avatars.githubusercontent.com/u/34121543?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/34121543?v=4",
+    "description": "No description available"
   },
   {
     "name": "SimpleNES",
@@ -447,7 +496,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/amhndu/SimpleNES",
-    "cover": "https://avatars.githubusercontent.com/u/2724742?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2724742?v=4",
+    "description": "No description available"
   },
   {
     "name": "gameboy.live",
@@ -456,7 +506,8 @@
     "version": "...",
     "console": "Game Boy",
     "url": "https://github.com/HFO4/gameboy.live",
-    "cover": "https://avatars.githubusercontent.com/u/16058869?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/16058869?v=4",
+    "description": "No description available"
   },
   {
     "name": "unidbg",
@@ -465,7 +516,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/zhkl0228/unidbg",
-    "cover": "https://avatars.githubusercontent.com/u/1386751?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1386751?v=4",
+    "description": "No description available"
   },
   {
     "name": "linuxpdf",
@@ -474,7 +526,8 @@
     "version": "...",
     "console": "Linux",
     "url": "https://github.com/ading2210/linuxpdf",
-    "cover": "https://avatars.githubusercontent.com/u/71154407?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/71154407?v=4",
+    "description": "No description available"
   },
   {
     "name": "simplify",
@@ -483,7 +536,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/CalebFenton/simplify",
-    "cover": "https://avatars.githubusercontent.com/u/1356658?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1356658?v=4",
+    "description": "No description available"
   },
   {
     "name": "melonDS",
@@ -492,7 +546,8 @@
     "version": "...",
     "console": "Nintendo DS",
     "url": "https://github.com/melonDS-emu/melonDS",
-    "cover": "https://avatars.githubusercontent.com/u/94202166?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/94202166?v=4",
+    "description": "No description available"
   },
   {
     "name": "awesome-gbdev",
@@ -501,7 +556,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/gbdev/awesome-gbdev",
-    "cover": "https://avatars.githubusercontent.com/u/29732935?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/29732935?v=4",
+    "description": "No description available"
   },
   {
     "name": "magspoof",
@@ -510,7 +566,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/samyk/magspoof",
-    "cover": "https://avatars.githubusercontent.com/u/411832?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/411832?v=4",
+    "description": "No description available"
   },
   {
     "name": "86Box",
@@ -519,7 +576,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/86Box/86Box",
-    "cover": "https://avatars.githubusercontent.com/u/35927955?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/35927955?v=4",
+    "description": "No description available"
   },
   {
     "name": "Triton",
@@ -528,7 +586,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/JonathanSalwan/Triton",
-    "cover": "https://avatars.githubusercontent.com/u/991046?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/991046?v=4",
+    "description": "No description available"
   },
   {
     "name": "ViGEmBus",
@@ -537,7 +596,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/nefarius/ViGEmBus",
-    "cover": "https://avatars.githubusercontent.com/u/286631?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/286631?v=4",
+    "description": "No description available"
   },
   {
     "name": "citra",
@@ -546,7 +606,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/PabloMK7/citra",
-    "cover": "https://avatars.githubusercontent.com/u/10946643?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/10946643?v=4",
+    "description": "No description available"
   },
   {
     "name": "miasm",
@@ -555,7 +616,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/cea-sec/miasm",
-    "cover": "https://avatars.githubusercontent.com/u/5071925?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/5071925?v=4",
+    "description": "No description available"
   },
   {
     "name": "mobile-mcp",
@@ -564,7 +626,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/mobile-next/mobile-mcp",
-    "cover": "https://avatars.githubusercontent.com/u/205340688?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/205340688?v=4",
+    "description": "No description available"
   },
   {
     "name": "finalterm",
@@ -573,7 +636,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/p-e-w/finalterm",
-    "cover": "https://avatars.githubusercontent.com/u/2702526?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2702526?v=4",
+    "description": "No description available"
   },
   {
     "name": "visualboyadvance-m",
@@ -582,7 +646,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/visualboyadvance-m/visualboyadvance-m",
-    "cover": "https://avatars.githubusercontent.com/u/12837344?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/12837344?v=4",
+    "description": "No description available"
   },
   {
     "name": "xemu",
@@ -591,7 +656,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/xemu-project/xemu",
-    "cover": "https://avatars.githubusercontent.com/u/61253676?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/61253676?v=4",
+    "description": "No description available"
   },
   {
     "name": "VsVim",
@@ -600,7 +666,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/VsVim/VsVim",
-    "cover": "https://avatars.githubusercontent.com/u/43213454?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/43213454?v=4",
+    "description": "No description available"
   },
   {
     "name": "box86",
@@ -609,7 +676,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ptitSeb/box86",
-    "cover": "https://avatars.githubusercontent.com/u/3250792?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3250792?v=4",
+    "description": "No description available"
   },
   {
     "name": "Lemuroid",
@@ -618,7 +686,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Swordfish90/Lemuroid",
-    "cover": "https://avatars.githubusercontent.com/u/6009070?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/6009070?v=4",
+    "description": "No description available"
   },
   {
     "name": "docker-android",
@@ -627,7 +696,8 @@
     "version": "...",
     "console": "Android",
     "url": "https://github.com/HQarroum/docker-android",
-    "cover": "https://avatars.githubusercontent.com/u/1384633?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1384633?v=4",
+    "description": "No description available"
   },
   {
     "name": "orbital",
@@ -636,7 +706,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/AlexAltea/orbital",
-    "cover": "https://avatars.githubusercontent.com/u/5306886?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/5306886?v=4",
+    "description": "No description available"
   },
   {
     "name": "touchHLE",
@@ -645,7 +716,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/touchHLE/touchHLE",
-    "cover": "https://avatars.githubusercontent.com/u/128069185?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/128069185?v=4",
+    "description": "No description available"
   },
   {
     "name": "furnace",
@@ -654,7 +726,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/tildearrow/furnace",
-    "cover": "https://avatars.githubusercontent.com/u/13842506?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/13842506?v=4",
+    "description": "No description available"
   },
   {
     "name": "desmume",
@@ -663,7 +736,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/TASEmulators/desmume",
-    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4",
+    "description": "No description available"
   },
   {
     "name": "termora",
@@ -672,7 +746,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/TermoraDev/termora",
-    "cover": "https://avatars.githubusercontent.com/u/191319894?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/191319894?v=4",
+    "description": "No description available"
   },
   {
     "name": "EmuDeck",
@@ -681,7 +756,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/dragoonDorise/EmuDeck",
-    "cover": "https://avatars.githubusercontent.com/u/6368050?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/6368050?v=4",
+    "description": "No description available"
   },
   {
     "name": "limbo",
@@ -690,7 +766,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/limboemu/limbo",
-    "cover": "https://avatars.githubusercontent.com/u/17214991?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/17214991?v=4",
+    "description": "No description available"
   },
   {
     "name": "jquery.terminal",
@@ -699,7 +776,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/jcubic/jquery.terminal",
-    "cover": "https://avatars.githubusercontent.com/u/280241?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/280241?v=4",
+    "description": "No description available"
   },
   {
     "name": "EmulatorJS",
@@ -708,7 +786,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/EmulatorJS/EmulatorJS",
-    "cover": "https://avatars.githubusercontent.com/u/113546769?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/113546769?v=4",
+    "description": "No description available"
   },
   {
     "name": "BrowserFS",
@@ -717,7 +796,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/jvilk/BrowserFS",
-    "cover": "https://avatars.githubusercontent.com/u/1141042?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1141042?v=4",
+    "description": "No description available"
   },
   {
     "name": "contour",
@@ -726,7 +806,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/contour-terminal/contour",
-    "cover": "https://avatars.githubusercontent.com/u/86773043?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/86773043?v=4",
+    "description": "No description available"
   },
   {
     "name": "arkos",
@@ -735,7 +816,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/christianhaitian/arkos",
-    "cover": "https://avatars.githubusercontent.com/u/22970448?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/22970448?v=4",
+    "description": "No description available"
   },
   {
     "name": "ares",
@@ -744,7 +826,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ares-emulator/ares",
-    "cover": "https://avatars.githubusercontent.com/u/88543911?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/88543911?v=4",
+    "description": "No description available"
   },
   {
     "name": "nostalgist",
@@ -753,7 +836,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/arianrhodsandlot/nostalgist",
-    "cover": "https://avatars.githubusercontent.com/u/10987902?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/10987902?v=4",
+    "description": "No description available"
   },
   {
     "name": "quadplay",
@@ -762,7 +846,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/morgan3d/quadplay",
-    "cover": "https://avatars.githubusercontent.com/u/3970018?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3970018?v=4",
+    "description": "No description available"
   },
   {
     "name": "distribution",
@@ -771,7 +856,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/JustEnoughLinuxOS/distribution",
-    "cover": "https://avatars.githubusercontent.com/u/99055404?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/99055404?v=4",
+    "description": "No description available"
   },
   {
     "name": "fake-08",
@@ -780,7 +866,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/jtothebell/fake-08",
-    "cover": "https://avatars.githubusercontent.com/u/1558589?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1558589?v=4",
+    "description": "No description available"
   },
   {
     "name": "terminology",
@@ -789,7 +876,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/borisfaure/terminology",
-    "cover": "https://avatars.githubusercontent.com/u/27988?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/27988?v=4",
+    "description": "No description available"
   },
   {
     "name": "jquery-console",
@@ -798,7 +886,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/chrisdone-archive/jquery-console",
-    "cover": "https://avatars.githubusercontent.com/u/168421586?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/168421586?v=4",
+    "description": "No description available"
   },
   {
     "name": "kmscon",
@@ -807,7 +896,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/kmscon/kmscon",
-    "cover": "https://avatars.githubusercontent.com/u/246493190?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/246493190?v=4",
+    "description": "No description available"
   },
   {
     "name": "emulator",
@@ -816,7 +906,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/nesbox/emulator",
-    "cover": "https://avatars.githubusercontent.com/u/1101448?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1101448?v=4",
+    "description": "No description available"
   },
   {
     "name": "esplay-retro-emulation",
@@ -825,7 +916,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/pebri86/esplay-retro-emulation",
-    "cover": "https://avatars.githubusercontent.com/u/3339304?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3339304?v=4",
+    "description": "No description available"
   },
   {
     "name": "emu2",
@@ -834,7 +926,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/dmsc/emu2",
-    "cover": "https://avatars.githubusercontent.com/u/5713395?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/5713395?v=4",
+    "description": "No description available"
   },
   {
     "name": "IronBoy",
@@ -843,7 +936,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Chiplis/IronBoy",
-    "cover": "https://avatars.githubusercontent.com/u/25803723?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/25803723?v=4",
+    "description": "No description available"
   },
   {
     "name": "atari800",
@@ -852,7 +946,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/atari800/atari800",
-    "cover": "https://avatars.githubusercontent.com/u/16550679?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/16550679?v=4",
+    "description": "No description available"
   },
   {
     "name": "DomTerm",
@@ -861,7 +956,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/PerBothner/DomTerm",
-    "cover": "https://avatars.githubusercontent.com/u/10293361?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/10293361?v=4",
+    "description": "No description available"
   },
   {
     "name": "98",
@@ -870,7 +966,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/1j01/98",
-    "cover": "https://avatars.githubusercontent.com/u/3630663?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3630663?v=4",
+    "description": "No description available"
   },
   {
     "name": "emupedia.github.io",
@@ -879,7 +976,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Emupedia/emupedia.github.io",
-    "cover": "https://avatars.githubusercontent.com/u/12756090?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/12756090?v=4",
+    "description": "No description available"
   },
   {
     "name": "psx_retroshader",
@@ -888,7 +986,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/dsoft20/psx_retroshader",
-    "cover": "https://avatars.githubusercontent.com/u/8696770?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/8696770?v=4",
+    "description": "No description available"
   },
   {
     "name": "retro-go",
@@ -897,7 +996,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ducalex/retro-go",
-    "cover": "https://avatars.githubusercontent.com/u/13711380?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/13711380?v=4",
+    "description": "No description available"
   },
   {
     "name": "retroboy",
@@ -906,7 +1006,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/smparsons/retroboy",
-    "cover": "https://avatars.githubusercontent.com/u/8586044?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/8586044?v=4",
+    "description": "No description available"
   },
   {
     "name": "retroassembly",
@@ -915,7 +1016,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/arianrhodsandlot/retroassembly",
-    "cover": "https://avatars.githubusercontent.com/u/10987902?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/10987902?v=4",
+    "description": "No description available"
   },
   {
     "name": "Cathode-Retro",
@@ -924,7 +1026,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/DeadlyRedCube/Cathode-Retro",
-    "cover": "https://avatars.githubusercontent.com/u/3751413?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3751413?v=4",
+    "description": "No description available"
   },
   {
     "name": "RetroESP32",
@@ -933,7 +1036,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/retro-esp32/RetroESP32",
-    "cover": "https://avatars.githubusercontent.com/u/50452432?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/50452432?v=4",
+    "description": "No description available"
   },
   {
     "name": "retrowin32",
@@ -942,7 +1046,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/evmar/retrowin32",
-    "cover": "https://avatars.githubusercontent.com/u/3847?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3847?v=4",
+    "description": "No description available"
   },
   {
     "name": "docker-emulatorjs",
@@ -951,7 +1056,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/linuxserver/docker-emulatorjs",
-    "cover": "https://avatars.githubusercontent.com/u/12324908?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/12324908?v=4",
+    "description": "No description available"
   },
   {
     "name": "emulatorjs",
@@ -960,7 +1066,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/linuxserver/emulatorjs",
-    "cover": "https://avatars.githubusercontent.com/u/12324908?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/12324908?v=4",
+    "description": "No description available"
   },
   {
     "name": "game-and-watch-retro-go",
@@ -969,7 +1076,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/kbeckmann/game-and-watch-retro-go",
-    "cover": "https://avatars.githubusercontent.com/u/3134352?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3134352?v=4",
+    "description": "No description available"
   },
   {
     "name": "WebMSX",
@@ -978,7 +1086,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ppeccin/WebMSX",
-    "cover": "https://avatars.githubusercontent.com/u/714144?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/714144?v=4",
+    "description": "No description available"
   },
   {
     "name": "ANESE",
@@ -987,7 +1096,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/daniel5151/ANESE",
-    "cover": "https://avatars.githubusercontent.com/u/2389445?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2389445?v=4",
+    "description": "No description available"
   },
   {
     "name": "forgottenserver",
@@ -996,7 +1106,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/otland/forgottenserver",
-    "cover": "https://avatars.githubusercontent.com/u/4956302?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/4956302?v=4",
+    "description": "No description available"
   },
   {
     "name": "blizzless-diiis",
@@ -1005,7 +1116,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/blizzless/blizzless-diiis",
-    "cover": "https://avatars.githubusercontent.com/u/109099842?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/109099842?v=4",
+    "description": "No description available"
   },
   {
     "name": "bot",
@@ -1014,7 +1126,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/GramAddict/bot",
-    "cover": "https://avatars.githubusercontent.com/u/73671570?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/73671570?v=4",
+    "description": "No description available"
   },
   {
     "name": "pywinassistant",
@@ -1023,7 +1136,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/a-real-ai/pywinassistant",
-    "cover": "https://avatars.githubusercontent.com/u/145295694?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/145295694?v=4",
+    "description": "No description available"
   },
   {
     "name": "vlmcsd",
@@ -1032,7 +1146,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/kkkgo/vlmcsd",
-    "cover": "https://avatars.githubusercontent.com/u/4530897?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/4530897?v=4",
+    "description": "No description available"
   },
   {
     "name": "medusa",
@@ -1041,7 +1156,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/wisk/medusa",
-    "cover": "https://avatars.githubusercontent.com/u/543784?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/543784?v=4",
+    "description": "No description available"
   },
   {
     "name": "GLideN64",
@@ -1050,7 +1166,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/gonetz/GLideN64",
-    "cover": "https://avatars.githubusercontent.com/u/8983092?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/8983092?v=4",
+    "description": "No description available"
   },
   {
     "name": "pound",
@@ -1059,7 +1176,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/pound-emu/pound",
-    "cover": "https://avatars.githubusercontent.com/u/216930531?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/216930531?v=4",
+    "description": "No description available"
   },
   {
     "name": "xqemu",
@@ -1068,7 +1186,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/xqemu/xqemu",
-    "cover": "https://avatars.githubusercontent.com/u/13059056?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/13059056?v=4",
+    "description": "No description available"
   },
   {
     "name": "Tools-termux",
@@ -1077,7 +1196,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Taoviqinvicible/Tools-termux",
-    "cover": "https://avatars.githubusercontent.com/u/45316440?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/45316440?v=4",
+    "description": "No description available"
   },
   {
     "name": "esp32-obd2-emulator",
@@ -1086,7 +1206,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/limiter121/esp32-obd2-emulator",
-    "cover": "https://avatars.githubusercontent.com/u/33779891?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/33779891?v=4",
+    "description": "No description available"
   },
   {
     "name": "PyRoyale",
@@ -1095,7 +1216,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Igoorx/PyRoyale",
-    "cover": "https://avatars.githubusercontent.com/u/14041768?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/14041768?v=4",
+    "description": "No description available"
   },
   {
     "name": "awesome-emulators",
@@ -1104,7 +1226,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/alnacle/awesome-emulators",
-    "cover": "https://avatars.githubusercontent.com/u/25596422?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/25596422?v=4",
+    "description": "No description available"
   },
   {
     "name": "spispy",
@@ -1113,7 +1236,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/osresearch/spispy",
-    "cover": "https://avatars.githubusercontent.com/u/3068843?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3068843?v=4",
+    "description": "No description available"
   },
   {
     "name": "BlueSCSI-v2",
@@ -1122,7 +1246,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/BlueSCSI/BlueSCSI-v2",
-    "cover": "https://avatars.githubusercontent.com/u/82285036?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/82285036?v=4",
+    "description": "No description available"
   },
   {
     "name": "Faux86",
@@ -1131,7 +1256,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/jhhoward/Faux86",
-    "cover": "https://avatars.githubusercontent.com/u/1665740?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1665740?v=4",
+    "description": "No description available"
   },
   {
     "name": "flashfloppy",
@@ -1140,7 +1266,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/keirf/flashfloppy",
-    "cover": "https://avatars.githubusercontent.com/u/879766?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/879766?v=4",
+    "description": "No description available"
   },
   {
     "name": "android-emulator-runner",
@@ -1149,7 +1276,8 @@
     "version": "...",
     "console": "Android",
     "url": "https://github.com/ReactiveCircus/android-emulator-runner",
-    "cover": "https://avatars.githubusercontent.com/u/51352484?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/51352484?v=4",
+    "description": "No description available"
   },
   {
     "name": "pcsx-redux",
@@ -1158,7 +1286,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/grumpycoders/pcsx-redux",
-    "cover": "https://avatars.githubusercontent.com/u/10522192?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/10522192?v=4",
+    "description": "No description available"
   },
   {
     "name": "pistorm",
@@ -1167,7 +1296,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/captain-amygdala/pistorm",
-    "cover": "https://avatars.githubusercontent.com/u/16537586?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/16537586?v=4",
+    "description": "No description available"
   },
   {
     "name": "com.hauntedpsx.render-pipelines.psx",
@@ -1176,7 +1306,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx",
-    "cover": "https://avatars.githubusercontent.com/u/2949353?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2949353?v=4",
+    "description": "No description available"
   },
   {
     "name": "AltSoftSerial",
@@ -1185,7 +1316,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/PaulStoffregen/AltSoftSerial",
-    "cover": "https://avatars.githubusercontent.com/u/965463?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/965463?v=4",
+    "description": "No description available"
   },
   {
     "name": ".config",
@@ -1194,7 +1326,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/zszszszsz/.config",
-    "cover": "https://avatars.githubusercontent.com/u/56225718?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/56225718?v=4",
+    "description": "No description available"
   },
   {
     "name": "SmartGuitarPedal",
@@ -1203,7 +1336,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/GuitarML/SmartGuitarPedal",
-    "cover": "https://avatars.githubusercontent.com/u/32459398?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/32459398?v=4",
+    "description": "No description available"
   },
   {
     "name": "xenon",
@@ -1212,7 +1346,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/xenon-emu/xenon",
-    "cover": "https://avatars.githubusercontent.com/u/198506158?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/198506158?v=4",
+    "description": "No description available"
   },
   {
     "name": "AmigaVision",
@@ -1221,7 +1356,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/amigavision/AmigaVision",
-    "cover": "https://avatars.githubusercontent.com/u/80227725?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/80227725?v=4",
+    "description": "No description available"
   },
   {
     "name": "M5Tab-Macintosh",
@@ -1230,7 +1366,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/amcchord/M5Tab-Macintosh",
-    "cover": "https://avatars.githubusercontent.com/u/9466882?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/9466882?v=4",
+    "description": "No description available"
   },
   {
     "name": "uEmu",
@@ -1239,7 +1376,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/MCUSec/uEmu",
-    "cover": "https://avatars.githubusercontent.com/u/73847235?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/73847235?v=4",
+    "description": "No description available"
   },
   {
     "name": "bemanitools",
@@ -1248,7 +1386,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/djhackersdev/bemanitools",
-    "cover": "https://avatars.githubusercontent.com/u/123313432?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/123313432?v=4",
+    "description": "No description available"
   },
   {
     "name": "-L-",
@@ -1257,7 +1396,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/jettbrains/-L-",
-    "cover": "https://avatars.githubusercontent.com/u/57115262?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/57115262?v=4",
+    "description": "No description available"
   },
   {
     "name": "NFC-Copy-Cat",
@@ -1266,7 +1406,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ElectronicCats/NFC-Copy-Cat",
-    "cover": "https://avatars.githubusercontent.com/u/16904656?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/16904656?v=4",
+    "description": "No description available"
   },
   {
     "name": "SwiftOBD2",
@@ -1275,7 +1416,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/kkonteh97/SwiftOBD2",
-    "cover": "https://avatars.githubusercontent.com/u/55326260?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/55326260?v=4",
+    "description": "No description available"
   },
   {
     "name": "Mesen2",
@@ -1284,7 +1426,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/SourMesen/Mesen2",
-    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "description": "No description available"
   },
   {
     "name": "olcNES",
@@ -1293,7 +1436,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/OneLoneCoder/olcNES",
-    "cover": "https://avatars.githubusercontent.com/u/25419386?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/25419386?v=4",
+    "description": "No description available"
   },
   {
     "name": "LaiNES",
@@ -1302,7 +1446,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/AndreaOrru/LaiNES",
-    "cover": "https://avatars.githubusercontent.com/u/3673952?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3673952?v=4",
+    "description": "No description available"
   },
   {
     "name": "fceux",
@@ -1311,7 +1456,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/TASEmulators/fceux",
-    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4",
+    "description": "No description available"
   },
   {
     "name": "Mesen",
@@ -1320,7 +1466,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/SourMesen/Mesen",
-    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "description": "No description available"
   },
   {
     "name": "nintengo",
@@ -1329,7 +1476,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/nwidger/nintengo",
-    "cover": "https://avatars.githubusercontent.com/u/486290?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/486290?v=4",
+    "description": "No description available"
   },
   {
     "name": "nestopia",
@@ -1338,7 +1486,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/0ldsk00l/nestopia",
-    "cover": "https://avatars.githubusercontent.com/u/36061446?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/36061446?v=4",
+    "description": "No description available"
   },
   {
     "name": "optcarrot",
@@ -1347,7 +1496,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/mame/optcarrot",
-    "cover": "https://avatars.githubusercontent.com/u/21557?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/21557?v=4",
+    "description": "No description available"
   },
   {
     "name": "pinky",
@@ -1356,7 +1506,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/koute/pinky",
-    "cover": "https://avatars.githubusercontent.com/u/246574?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/246574?v=4",
+    "description": "No description available"
   },
   {
     "name": "puNES",
@@ -1365,7 +1516,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/punesemu/puNES",
-    "cover": "https://avatars.githubusercontent.com/u/14859058?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/14859058?v=4",
+    "description": "No description available"
   },
   {
     "name": "smolnes",
@@ -1374,7 +1526,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/binji/smolnes",
-    "cover": "https://avatars.githubusercontent.com/u/1245315?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1245315?v=4",
+    "description": "No description available"
   },
   {
     "name": "snes9x",
@@ -1383,7 +1536,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/snes9xgit/snes9x",
-    "cover": "https://avatars.githubusercontent.com/u/415737?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/415737?v=4",
+    "description": "No description available"
   },
   {
     "name": "bsnes",
@@ -1392,7 +1546,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/bsnes-emu/bsnes",
-    "cover": "https://avatars.githubusercontent.com/u/62430984?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/62430984?v=4",
+    "description": "No description available"
   },
   {
     "name": "bsnes-hd",
@@ -1401,7 +1556,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/DerKoun/bsnes-hd",
-    "cover": "https://avatars.githubusercontent.com/u/6045077?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/6045077?v=4",
+    "description": "No description available"
   },
   {
     "name": "Mesen-S",
@@ -1410,7 +1566,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/SourMesen/Mesen-S",
-    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "description": "No description available"
   },
   {
     "name": "Emulatrix",
@@ -1419,7 +1576,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/lrusso/Emulatrix",
-    "cover": "https://avatars.githubusercontent.com/u/11498901?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/11498901?v=4",
+    "description": "No description available"
   },
   {
     "name": "bsnes-plus",
@@ -1428,7 +1586,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/devinacker/bsnes-plus",
-    "cover": "https://avatars.githubusercontent.com/u/4616298?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/4616298?v=4",
+    "description": "No description available"
   },
   {
     "name": "sodium64",
@@ -1437,7 +1596,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Hydr8gon/sodium64",
-    "cover": "https://avatars.githubusercontent.com/u/3057954?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3057954?v=4",
+    "description": "No description available"
   },
   {
     "name": "jgenesis",
@@ -1446,7 +1606,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/jsgroth/jgenesis",
-    "cover": "https://avatars.githubusercontent.com/u/1137683?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1137683?v=4",
+    "description": "No description available"
   },
   {
     "name": "MeSNEmu",
@@ -1455,7 +1616,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/lmmenge/MeSNEmu",
-    "cover": "https://avatars.githubusercontent.com/u/51199?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/51199?v=4",
+    "description": "No description available"
   },
   {
     "name": "xnes",
@@ -1464,7 +1626,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/tjwei/xnes",
-    "cover": "https://avatars.githubusercontent.com/u/1032522?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1032522?v=4",
+    "description": "No description available"
   },
   {
     "name": "retrograde-android",
@@ -1473,7 +1636,8 @@
     "version": "...",
     "console": "Android",
     "url": "https://github.com/retrograde/retrograde-android",
-    "cover": "https://avatars.githubusercontent.com/u/34558086?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/34558086?v=4",
+    "description": "No description available"
   },
   {
     "name": "zsnes",
@@ -1482,7 +1646,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/xyproto/zsnes",
-    "cover": "https://avatars.githubusercontent.com/u/52813?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/52813?v=4",
+    "description": "No description available"
   },
   {
     "name": "blargSnes",
@@ -1491,7 +1656,8 @@
     "version": "...",
     "console": "Nintendo Entertainment System",
     "url": "https://github.com/Arisotura/blargSnes",
-    "cover": "https://avatars.githubusercontent.com/u/1311867?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1311867?v=4",
+    "description": "No description available"
   },
   {
     "name": "project64",
@@ -1500,7 +1666,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/project64/project64",
-    "cover": "https://avatars.githubusercontent.com/u/4994272?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/4994272?v=4",
+    "description": "No description available"
   },
   {
     "name": "rt64",
@@ -1509,7 +1676,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/rt64/rt64",
-    "cover": "https://avatars.githubusercontent.com/u/131293817?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/131293817?v=4",
+    "description": "No description available"
   },
   {
     "name": "simple64",
@@ -1518,7 +1686,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/simple64/simple64",
-    "cover": "https://avatars.githubusercontent.com/u/103474989?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/103474989?v=4",
+    "description": "No description available"
   },
   {
     "name": "gopher64",
@@ -1527,7 +1696,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/gopher64/gopher64",
-    "cover": "https://avatars.githubusercontent.com/u/144562208?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/144562208?v=4",
+    "description": "No description available"
   },
   {
     "name": "N64Wasm",
@@ -1536,7 +1706,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/nbarkhina/N64Wasm",
-    "cover": "https://avatars.githubusercontent.com/u/10982154?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/10982154?v=4",
+    "description": "No description available"
   },
   {
     "name": "n64js",
@@ -1545,7 +1716,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/hulkholden/n64js",
-    "cover": "https://avatars.githubusercontent.com/u/1622701?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1622701?v=4",
+    "description": "No description available"
   },
   {
     "name": "awesome-n64-development",
@@ -1554,7 +1726,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/command-tab/awesome-n64-development",
-    "cover": "https://avatars.githubusercontent.com/u/3069?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3069?v=4",
+    "description": "No description available"
   },
   {
     "name": "parallel-n64",
@@ -1563,7 +1736,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/libretro/parallel-n64",
-    "cover": "https://avatars.githubusercontent.com/u/1812827?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1812827?v=4",
+    "description": "No description available"
   },
   {
     "name": "n64",
@@ -1572,7 +1746,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/Dillonb/n64",
-    "cover": "https://avatars.githubusercontent.com/u/1476505?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1476505?v=4",
+    "description": "No description available"
   },
   {
     "name": "emukit",
@@ -1581,7 +1756,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/exokitxr/emukit",
-    "cover": "https://avatars.githubusercontent.com/u/37630640?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/37630640?v=4",
+    "description": "No description available"
   },
   {
     "name": "rokuyon",
@@ -1590,7 +1766,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Hydr8gon/rokuyon",
-    "cover": "https://avatars.githubusercontent.com/u/3057954?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/3057954?v=4",
+    "description": "No description available"
   },
   {
     "name": "neon64v2",
@@ -1599,7 +1776,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/hcs64/neon64v2",
-    "cover": "https://avatars.githubusercontent.com/u/857753?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/857753?v=4",
+    "description": "No description available"
   },
   {
     "name": "gym-mupen64plus",
@@ -1608,7 +1786,8 @@
     "version": "...",
     "console": "Nintendo 64",
     "url": "https://github.com/bzier/gym-mupen64plus",
-    "cover": "https://avatars.githubusercontent.com/u/714528?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/714528?v=4",
+    "description": "No description available"
   },
   {
     "name": "gb64",
@@ -1617,7 +1796,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/lambertjamesd/gb64",
-    "cover": "https://avatars.githubusercontent.com/u/7006901?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/7006901?v=4",
+    "description": "No description available"
   },
   {
     "name": "daedalus",
@@ -1626,7 +1806,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/hulkholden/daedalus",
-    "cover": "https://avatars.githubusercontent.com/u/1622701?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1622701?v=4",
+    "description": "No description available"
   },
   {
     "name": "goboy",
@@ -1635,7 +1816,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Humpheh/goboy",
-    "cover": "https://avatars.githubusercontent.com/u/1696213?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1696213?v=4",
+    "description": "No description available"
   },
   {
     "name": "SameBoy",
@@ -1644,7 +1826,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/LIJI32/SameBoy",
-    "cover": "https://avatars.githubusercontent.com/u/2345928?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2345928?v=4",
+    "description": "No description available"
   },
   {
     "name": "php-terminal-gameboy-emulator",
@@ -1653,7 +1836,8 @@
     "version": "...",
     "console": "Game Boy",
     "url": "https://github.com/gabrielrcouto/php-terminal-gameboy-emulator",
-    "cover": "https://avatars.githubusercontent.com/u/2197005?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2197005?v=4",
+    "description": "No description available"
   },
   {
     "name": "wasmboy",
@@ -1662,7 +1846,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/torch2424/wasmboy",
-    "cover": "https://avatars.githubusercontent.com/u/1448289?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1448289?v=4",
+    "description": "No description available"
   },
   {
     "name": "gameboy",
@@ -1671,7 +1856,8 @@
     "version": "...",
     "console": "Game Boy",
     "url": "https://github.com/mohanson/gameboy",
-    "cover": "https://avatars.githubusercontent.com/u/12387889?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/12387889?v=4",
+    "description": "No description available"
   },
   {
     "name": "pokegb",
@@ -1680,7 +1866,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/binji/pokegb",
-    "cover": "https://avatars.githubusercontent.com/u/1245315?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1245315?v=4",
+    "description": "No description available"
   },
   {
     "name": "metroboy",
@@ -1689,7 +1876,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/aappleby/metroboy",
-    "cover": "https://avatars.githubusercontent.com/u/778399?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/778399?v=4",
+    "description": "No description available"
   },
   {
     "name": "coffee-gb",
@@ -1698,7 +1886,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/trekawek/coffee-gb",
-    "cover": "https://avatars.githubusercontent.com/u/142138?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/142138?v=4",
+    "description": "No description available"
   },
   {
     "name": "SkyEmu",
@@ -1707,7 +1896,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/skylersaleh/SkyEmu",
-    "cover": "https://avatars.githubusercontent.com/u/7118296?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/7118296?v=4",
+    "description": "No description available"
   },
   {
     "name": "Gearboy",
@@ -1716,7 +1906,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/drhelius/Gearboy",
-    "cover": "https://avatars.githubusercontent.com/u/863613?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/863613?v=4",
+    "description": "No description available"
   },
   {
     "name": "GIOVANNI",
@@ -1725,7 +1916,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/gabrieloc/GIOVANNI",
-    "cover": "https://avatars.githubusercontent.com/u/983669?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/983669?v=4",
+    "description": "No description available"
   },
   {
     "name": "NanoBoyAdvance",
@@ -1734,7 +1926,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/nba-emu/NanoBoyAdvance",
-    "cover": "https://avatars.githubusercontent.com/u/93684526?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/93684526?v=4",
+    "description": "No description available"
   },
   {
     "name": "gbe-plus",
@@ -1743,7 +1936,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/shonumi/gbe-plus",
-    "cover": "https://avatars.githubusercontent.com/u/7418176?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/7418176?v=4",
+    "description": "No description available"
   },
   {
     "name": "magia",
@@ -1752,7 +1946,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/akatsuki105/magia",
-    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4",
+    "description": "No description available"
   },
   {
     "name": "gba.js.org",
@@ -1761,7 +1956,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/ayvacs/gba.js.org",
-    "cover": "https://avatars.githubusercontent.com/u/74518502?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/74518502?v=4",
+    "description": "No description available"
   },
   {
     "name": "VGMusicStudio",
@@ -1770,7 +1966,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Kermalis/VGMusicStudio",
-    "cover": "https://avatars.githubusercontent.com/u/29823718?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/29823718?v=4",
+    "description": "No description available"
   },
   {
     "name": "IodineGBA",
@@ -1779,7 +1976,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/taisel/IodineGBA",
-    "cover": "https://avatars.githubusercontent.com/u/13305116?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/13305116?v=4",
+    "description": "No description available"
   },
   {
     "name": "Hades",
@@ -1788,7 +1986,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/hades-emu/Hades",
-    "cover": "https://avatars.githubusercontent.com/u/155826726?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/155826726?v=4",
+    "description": "No description available"
   },
   {
     "name": "gbajs2",
@@ -1797,7 +1996,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/andychase/gbajs2",
-    "cover": "https://avatars.githubusercontent.com/u/2470152?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2470152?v=4",
+    "description": "No description available"
   },
   {
     "name": "giibiiadvance",
@@ -1806,7 +2006,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/AntonioND/giibiiadvance",
-    "cover": "https://avatars.githubusercontent.com/u/6632664?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/6632664?v=4",
+    "description": "No description available"
   },
   {
     "name": "GBA4iOS",
@@ -1815,7 +2016,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/CocoaBob/GBA4iOS",
-    "cover": "https://avatars.githubusercontent.com/u/489666?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/489666?v=4",
+    "description": "No description available"
   },
   {
     "name": "awesome-emu-resources",
@@ -1824,7 +2026,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/marethyu/awesome-emu-resources",
-    "cover": "https://avatars.githubusercontent.com/u/42195546?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/42195546?v=4",
+    "description": "No description available"
   },
   {
     "name": "GBA4iOS",
@@ -1833,7 +2036,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/vladignatyev/GBA4iOS",
-    "cover": "https://avatars.githubusercontent.com/u/513940?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/513940?v=4",
+    "description": "No description available"
   },
   {
     "name": "ReGBA",
@@ -1842,7 +2046,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/Nebuleon/ReGBA",
-    "cover": "https://avatars.githubusercontent.com/u/2391500?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2391500?v=4",
+    "description": "No description available"
   },
   {
     "name": "gbaemu4DS",
@@ -1851,7 +2056,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/ichfly/gbaemu4DS",
-    "cover": "https://avatars.githubusercontent.com/u/781444?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/781444?v=4",
+    "description": "No description available"
   },
   {
     "name": "switch-gba",
@@ -1860,7 +2066,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/itsbjoern/switch-gba",
-    "cover": "https://avatars.githubusercontent.com/u/2217052?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/2217052?v=4",
+    "description": "No description available"
   },
   {
     "name": "gba.ninja",
@@ -1869,7 +2076,8 @@
     "version": "...",
     "console": "Game Boy Advance",
     "url": "https://github.com/simon-paris/gba.ninja",
-    "cover": "https://avatars.githubusercontent.com/u/4035267?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/4035267?v=4",
+    "description": "No description available"
   },
   {
     "name": "worldwide",
@@ -1878,7 +2086,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/akatsuki105/worldwide",
-    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4",
+    "description": "No description available"
   },
   {
     "name": "NostalgiaLite",
@@ -1887,7 +2096,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/huzongyao/NostalgiaLite",
-    "cover": "https://avatars.githubusercontent.com/u/11849121?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/11849121?v=4",
+    "description": "No description available"
   },
   {
     "name": "MagenBoy",
@@ -1896,7 +2106,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/alloncm/MagenBoy",
-    "cover": "https://avatars.githubusercontent.com/u/25867720?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/25867720?v=4",
+    "description": "No description available"
   },
   {
     "name": "dawngb",
@@ -1905,7 +2116,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/akatsuki105/dawngb",
-    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4",
+    "description": "No description available"
   },
   {
     "name": "gambatte-dms",
@@ -1914,7 +2126,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/bardeci/gambatte-dms",
-    "cover": "https://avatars.githubusercontent.com/u/37640967?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/37640967?v=4",
+    "description": "No description available"
   },
   {
     "name": "gbcc",
@@ -1923,7 +2136,8 @@
     "version": "...",
     "console": "Game Boy Color",
     "url": "https://github.com/philj56/gbcc",
-    "cover": "https://avatars.githubusercontent.com/u/13610623?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/13610623?v=4",
+    "description": "No description available"
   },
   {
     "name": "jsGBC",
@@ -1932,7 +2146,8 @@
     "version": "...",
     "console": "Game Boy Color",
     "url": "https://github.com/ardean/jsGBC",
-    "cover": "https://avatars.githubusercontent.com/u/17138728?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/17138728?v=4",
+    "description": "No description available"
   },
   {
     "name": "TransferBoy",
@@ -1941,7 +2156,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/joeldipops/TransferBoy",
-    "cover": "https://avatars.githubusercontent.com/u/5590581?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/5590581?v=4",
+    "description": "No description available"
   },
   {
     "name": "gb-docs-ja",
@@ -1950,7 +2166,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/akatsuki105/gb-docs-ja",
-    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4",
+    "description": "No description available"
   },
   {
     "name": "goombacolor",
@@ -1959,7 +2176,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/Dwedit/goombacolor",
-    "cover": "https://avatars.githubusercontent.com/u/1743498?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1743498?v=4",
+    "description": "No description available"
   },
   {
     "name": "gbc",
@@ -1968,7 +2186,8 @@
     "version": "...",
     "console": "Game Boy Color",
     "url": "https://github.com/aksiksi/gbc",
-    "cover": "https://avatars.githubusercontent.com/u/916621?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/916621?v=4",
+    "description": "No description available"
   },
   {
     "name": "notorious_beeg",
@@ -1977,7 +2196,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/ITotalJustice/notorious_beeg",
-    "cover": "https://avatars.githubusercontent.com/u/47043333?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/47043333?v=4",
+    "description": "No description available"
   },
   {
     "name": "GBCamera-Android-Manager",
@@ -1986,7 +2206,8 @@
     "version": "...",
     "console": "Game Boy Color",
     "url": "https://github.com/Mraulio/GBCamera-Android-Manager",
-    "cover": "https://avatars.githubusercontent.com/u/12874082?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/12874082?v=4",
+    "description": "No description available"
   },
   {
     "name": "guac",
@@ -1995,7 +2216,8 @@
     "version": "...",
     "console": "Multi Platform",
     "url": "https://github.com/aabalke/guac",
-    "cover": "https://avatars.githubusercontent.com/u/22086435?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/22086435?v=4",
+    "description": "No description available"
   },
   {
     "name": "psp_rin",
@@ -2004,6 +2226,347 @@
     "version": "...",
     "console": "PlayStation Portable",
     "url": "https://github.com/mbarczak/psp_rin",
-    "cover": "https://avatars.githubusercontent.com/u/1899533?v=4"
+    "cover": "https://avatars.githubusercontent.com/u/1899533?v=4",
+    "description": "No description available"
+  },
+  {
+    "name": "Android-Terminal-Emulator",
+    "slug": "android-terminal-emulator",
+    "creator": "jackpal",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/jackpal/Android-Terminal-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/175575?v=4",
+    "description": "A VT-100 terminal emulator for the Android OS"
+  },
+  {
+    "name": "wsl-terminal",
+    "slug": "wsl-terminal",
+    "creator": "mskyaxl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mskyaxl/wsl-terminal",
+    "cover": "https://avatars.githubusercontent.com/u/5708771?v=4",
+    "description": "Terminal emulator for Windows Subsystem for Linux (WSL)"
+  },
+  {
+    "name": "darktile",
+    "slug": "darktile",
+    "creator": "liamg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/liamg/darktile",
+    "cover": "https://avatars.githubusercontent.com/u/1187060?v=4",
+    "description": ":waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers. "
+  },
+  {
+    "name": "openauto",
+    "slug": "openauto",
+    "creator": "f1xpl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/f1xpl/openauto",
+    "cover": "https://avatars.githubusercontent.com/u/20688442?v=4",
+    "description": "AndroidAuto headunit emulator"
+  },
+  {
+    "name": "extraterm",
+    "slug": "extraterm",
+    "creator": "sedwards2009",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sedwards2009/extraterm",
+    "cover": "https://avatars.githubusercontent.com/u/6926644?v=4",
+    "description": "The swiss army chainsaw of terminal emulators"
+  },
+  {
+    "name": "sogen",
+    "slug": "sogen",
+    "creator": "momo5502",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/momo5502/sogen",
+    "cover": "https://avatars.githubusercontent.com/u/4027748?v=4",
+    "description": "🪅 Windows User Space Emulator "
+  },
+  {
+    "name": "awesome-terminals",
+    "slug": "awesome-terminals",
+    "creator": "cdleon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cdleon/awesome-terminals",
+    "cover": "https://avatars.githubusercontent.com/u/4023005?v=4",
+    "description": "Terminal Emulators"
+  },
+  {
+    "name": "BizHawk",
+    "slug": "bizhawk",
+    "creator": "TASEmulators",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TASEmulators/BizHawk",
+    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4",
+    "description": "BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.  "
+  },
+  {
+    "name": "Kyty",
+    "slug": "kyty",
+    "creator": "InoriRus",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/InoriRus/Kyty",
+    "cover": "https://avatars.githubusercontent.com/u/7149418?v=4",
+    "description": "PS4 & PS5 emulator"
+  },
+  {
+    "name": "Play-",
+    "slug": "play",
+    "creator": "jpd002",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jpd002/Play-",
+    "cover": "https://avatars.githubusercontent.com/u/6760433?v=4",
+    "description": "Play! - PlayStation2 Emulator"
+  },
+  {
+    "name": "paparazzi",
+    "slug": "paparazzi",
+    "creator": "cashapp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cashapp/paparazzi",
+    "cover": "https://avatars.githubusercontent.com/u/49219790?v=4",
+    "description": "Render your Android screens without a physical device or emulator"
+  },
+  {
+    "name": "Switch-Emulators-Guide",
+    "slug": "switch-emulators-guide",
+    "creator": "Abd-007",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/Abd-007/Switch-Emulators-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/84527034?v=4",
+    "description": "A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay."
+  },
+  {
+    "name": "selfie",
+    "slug": "selfie",
+    "creator": "cksystemsteaching",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cksystemsteaching/selfie",
+    "cover": "https://avatars.githubusercontent.com/u/3297229?v=4",
+    "description": "An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor."
+  },
+  {
+    "name": "J2ME-Loader",
+    "slug": "j2me-loader",
+    "creator": "nikita36078",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nikita36078/J2ME-Loader",
+    "cover": "https://avatars.githubusercontent.com/u/3035571?v=4",
+    "description": "A J2ME emulator for Android."
+  },
+  {
+    "name": "neural-amp-modeler",
+    "slug": "neural-amp-modeler",
+    "creator": "sdatkinson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sdatkinson/neural-amp-modeler",
+    "cover": "https://avatars.githubusercontent.com/u/12240186?v=4",
+    "description": "Neural network emulator for guitar amplifiers."
+  },
+  {
+    "name": "shairport",
+    "slug": "shairport",
+    "creator": "abrasive",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/abrasive/shairport",
+    "cover": "https://avatars.githubusercontent.com/u/648691?v=4",
+    "description": "Airtunes emulator! Shairport is no longer maintained."
+  },
+  {
+    "name": "MiniSim",
+    "slug": "minisim",
+    "creator": "okwasniewski",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/okwasniewski/MiniSim",
+    "cover": "https://avatars.githubusercontent.com/u/52801365?v=4",
+    "description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators"
+  },
+  {
+    "name": "Cxbx-Reloaded",
+    "slug": "cxbx-reloaded",
+    "creator": "Cxbx-Reloaded",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded",
+    "cover": "https://avatars.githubusercontent.com/u/24608560?v=4",
+    "description": "Xbox (Original) Emulator"
+  },
+  {
+    "name": "strato",
+    "slug": "strato",
+    "creator": "strato-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/strato-emu/strato",
+    "cover": "https://avatars.githubusercontent.com/u/133053931?v=4",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!"
+  },
+  {
+    "name": "ESP8266Audio",
+    "slug": "esp8266audio",
+    "creator": "earlephilhower",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/earlephilhower/ESP8266Audio",
+    "cover": "https://avatars.githubusercontent.com/u/11875?v=4",
+    "description": "Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico"
+  },
+  {
+    "name": "EasyProtector",
+    "slug": "easyprotector",
+    "creator": "lamster2018",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lamster2018/EasyProtector",
+    "cover": "https://avatars.githubusercontent.com/u/8605787?v=4",
+    "description": "一行代码检测XP/调试/多开/模拟器/root"
+  },
+  {
+    "name": "snowflake",
+    "slug": "snowflake",
+    "creator": "subhra74",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/subhra74/snowflake",
+    "cover": "https://avatars.githubusercontent.com/u/8403090?v=4",
+    "description": "Graphical SFTP client and terminal emulator with helpful utilities"
+  },
+  {
+    "name": "EmulationStation",
+    "slug": "emulationstation",
+    "creator": "Aloshi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Aloshi/EmulationStation",
+    "cover": "https://avatars.githubusercontent.com/u/2001164?v=4",
+    "description": "A flexible emulator front-end supporting keyboardless navigation and custom system themes."
+  },
+  {
+    "name": "bap",
+    "slug": "bap",
+    "creator": "BinaryAnalysisPlatform",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BinaryAnalysisPlatform/bap",
+    "cover": "https://avatars.githubusercontent.com/u/8669375?v=4",
+    "description": "Binary Analysis Platform"
+  },
+  {
+    "name": "flycast",
+    "slug": "flycast",
+    "creator": "flyinghead",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/flyinghead/flycast",
+    "cover": "https://avatars.githubusercontent.com/u/16261910?v=4",
+    "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator"
+  },
+  {
+    "name": "qemu-t8030",
+    "slug": "qemu-t8030",
+    "creator": "TrungNguyen1909",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TrungNguyen1909/qemu-t8030",
+    "cover": "https://avatars.githubusercontent.com/u/22745058?v=4",
+    "description": "iPhone 11 emulated on QEMU"
+  },
+  {
+    "name": "Battery-Emulator",
+    "slug": "battery-emulator",
+    "creator": "dalathegreat",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dalathegreat/Battery-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/26695010?v=4",
+    "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+  },
+  {
+    "name": "py-kms",
+    "slug": "py-kms",
+    "creator": "SystemRage",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SystemRage/py-kms",
+    "cover": "https://avatars.githubusercontent.com/u/25354386?v=4",
+    "description": "KMS Server Emulator written in Python"
+  },
+  {
+    "name": "Steam-Deck-Guide",
+    "slug": "steam-deck-guide",
+    "creator": "mikeroyal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mikeroyal/Steam-Deck-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/45159366?v=4",
+    "description": "Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. "
+  },
+  {
+    "name": "qemu-rpi-kernel",
+    "slug": "qemu-rpi-kernel",
+    "creator": "dhruvvyas90",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dhruvvyas90/qemu-rpi-kernel",
+    "cover": "https://avatars.githubusercontent.com/u/1730398?v=4",
+    "description": "Qemu kernel for emulating Rpi on QEMU"
+  },
+  {
+    "name": "fpPS4",
+    "slug": "fpps4",
+    "creator": "red-prig",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/red-prig/fpPS4",
+    "cover": "https://avatars.githubusercontent.com/u/68122101?v=4",
+    "description": "PS4 compatibility layer (emulator) on Free Pascal"
+  },
+  {
+    "name": "NetherSX2-patch",
+    "slug": "nethersx2-patch",
+    "creator": "Trixarian",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Trixarian/NetherSX2-patch",
+    "cover": "https://avatars.githubusercontent.com/u/983358?v=4",
+    "description": "Continuation of NetherSX2 based on AetherSX2 4248"
+  },
+  {
+    "name": "mini-rv32ima",
+    "slug": "mini-rv32ima",
+    "creator": "cnlohr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cnlohr/mini-rv32ima",
+    "cover": "https://avatars.githubusercontent.com/u/2748168?v=4",
+    "description": "A tiny C header-only risc-v emulator."
+  },
+  {
+    "name": "Vectras-VM-Android",
+    "slug": "vectras-vm-android",
+    "creator": "xoureldeen",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/xoureldeen/Vectras-VM-Android",
+    "cover": "https://avatars.githubusercontent.com/u/79816069?v=4",
+    "description": "It's a Virtual Machine App for Android Which is Based on QEMU"
   }
 ]
