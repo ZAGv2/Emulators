@@ -2568,5 +2568,545 @@
     "url": "https://github.com/xoureldeen/Vectras-VM-Android",
     "cover": "https://avatars.githubusercontent.com/u/79816069?v=4",
     "description": "It's a Virtual Machine App for Android Which is Based on QEMU"
+  },
+  {
+    "name": "android-emulator-container-scripts",
+    "slug": "android-emulator-container-scripts",
+    "creator": "google",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/google/android-emulator-container-scripts",
+    "cover": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "description": ""
+  },
+  {
+    "name": "GPCS4",
+    "slug": "gpcs4",
+    "creator": "Inori",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Inori/GPCS4",
+    "cover": "https://avatars.githubusercontent.com/u/6732524?v=4",
+    "description": "A work-in-progress PlayStation 4 emulator."
+  },
+  {
+    "name": "lc3-vm",
+    "slug": "lc3-vm",
+    "creator": "justinmeiners",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/justinmeiners/lc3-vm",
+    "cover": "https://avatars.githubusercontent.com/u/3220045?v=4",
+    "description": "Write your own virtual machine for the LC-3 computer!"
+  },
+  {
+    "name": "cliclick",
+    "slug": "cliclick",
+    "creator": "BlueM",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BlueM/cliclick",
+    "cover": "https://avatars.githubusercontent.com/u/1493457?v=4",
+    "description": "macOS CLI tool for emulating mouse and keyboard events"
+  },
+  {
+    "name": "BotFramework-Emulator",
+    "slug": "botframework-emulator",
+    "creator": "microsoft",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/microsoft/BotFramework-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "description": "A desktop application that allows users to locally test and debug chat bots built with the Bot Framework SDK."
+  },
+  {
+    "name": "EKA2L1",
+    "slug": "eka2l1",
+    "creator": "EKA2L1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EKA2L1/EKA2L1",
+    "cover": "https://avatars.githubusercontent.com/u/40482621?v=4",
+    "description": "A Symbian OS/N-Gage emulator"
+  },
+  {
+    "name": "gbe_fork",
+    "slug": "gbe-fork",
+    "creator": "Detanup01",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Detanup01/gbe_fork",
+    "cover": "https://avatars.githubusercontent.com/u/91248446?v=4",
+    "description": "Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator"
+  },
+  {
+    "name": "ChameleonMini",
+    "slug": "chameleonmini",
+    "creator": "emsec",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/emsec/ChameleonMini",
+    "cover": "https://avatars.githubusercontent.com/u/6362634?v=4",
+    "description": "The ChameleonMini is a versatile contactless smartcard emulator compliant to NFC. The ChameleonMini was developed by https://kasper-oswald.de.  The device is available at https://shop.kasper.it. For further information see the Getting Started Page https://rawgit.com/emsec/ChameleonMini/master/Doc/Doxygen/html/_page__getting_started.html or the Wiki tab above."
+  },
+  {
+    "name": "android-emulator-m1-preview",
+    "slug": "android-emulator-m1-preview",
+    "creator": "google",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/google/android-emulator-m1-preview",
+    "cover": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "description": ""
+  },
+  {
+    "name": "react-native-picker-select",
+    "slug": "react-native-picker-select",
+    "creator": "lawnstarter",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lawnstarter/react-native-picker-select",
+    "cover": "https://avatars.githubusercontent.com/u/7708177?v=4",
+    "description": "🔽 A Picker component for React Native which emulates the native <select> interfaces for iOS and Android"
+  },
+  {
+    "name": "jsemu",
+    "slug": "jsemu",
+    "creator": "fcambus",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fcambus/jsemu",
+    "cover": "https://avatars.githubusercontent.com/u/825456?v=4",
+    "description": "A list of emulators written in the JavaScript programming language"
+  },
+  {
+    "name": "jor1k",
+    "slug": "jor1k",
+    "creator": "s-macke",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/s-macke/jor1k",
+    "cover": "https://avatars.githubusercontent.com/u/3176016?v=4",
+    "description": "Online OR1K Emulator running Linux"
+  },
+  {
+    "name": "VirtualSMC",
+    "slug": "virtualsmc",
+    "creator": "acidanthera",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/acidanthera/VirtualSMC",
+    "cover": "https://avatars.githubusercontent.com/u/39672954?v=4",
+    "description": "SMC emulator layer"
+  },
+  {
+    "name": "rootAVD",
+    "slug": "rootavd",
+    "creator": "newbit1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/newbit1/rootAVD",
+    "cover": "https://avatars.githubusercontent.com/u/37043777?v=4",
+    "description": "Script to root AVDs running with QEMU Emulator from Android Studio"
+  },
+  {
+    "name": "pegasus-frontend",
+    "slug": "pegasus-frontend",
+    "creator": "mmatyas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mmatyas/pegasus-frontend",
+    "cover": "https://avatars.githubusercontent.com/u/4354863?v=4",
+    "description": "A cross platform, customizable graphical frontend for launching emulators and managing your game collection."
+  },
+  {
+    "name": "mintty",
+    "slug": "mintty",
+    "creator": "mintty",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mintty/mintty",
+    "cover": "https://avatars.githubusercontent.com/u/12740416?v=4",
+    "description": "The Cygwin Terminal – terminal emulator for Cygwin, MSYS, and WSL"
+  },
+  {
+    "name": "selectivizr",
+    "slug": "selectivizr",
+    "creator": "keithclark",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/keithclark/selectivizr",
+    "cover": "https://avatars.githubusercontent.com/u/588665?v=4",
+    "description": "selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8."
+  },
+  {
+    "name": "dosbox-staging",
+    "slug": "dosbox-staging",
+    "creator": "dosbox-staging",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/dosbox-staging/dosbox-staging",
+    "cover": "https://avatars.githubusercontent.com/u/62981643?v=4",
+    "description": "DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices."
+  },
+  {
+    "name": "Adrenaline",
+    "slug": "adrenaline",
+    "creator": "TheOfficialFloW",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheOfficialFloW/Adrenaline",
+    "cover": "https://avatars.githubusercontent.com/u/14246466?v=4",
+    "description": "Custom Firmware 6.61 Adrenaline for the PSP Emulator"
+  },
+  {
+    "name": "FabGL",
+    "slug": "fabgl",
+    "creator": "fdivitto",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fdivitto/FabGL",
+    "cover": "https://avatars.githubusercontent.com/u/9754506?v=4",
+    "description": "ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal"
+  },
+  {
+    "name": "mt32-pi",
+    "slug": "mt32-pi",
+    "creator": "dwhinham",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dwhinham/mt32-pi",
+    "cover": "https://avatars.githubusercontent.com/u/5890747?v=4",
+    "description": "🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth."
+  },
+  {
+    "name": "Mink",
+    "slug": "mink",
+    "creator": "minkphp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/minkphp/Mink",
+    "cover": "https://avatars.githubusercontent.com/u/10380339?v=4",
+    "description": "PHP web browser emulator abstraction"
+  },
+  {
+    "name": "macemu",
+    "slug": "macemu",
+    "creator": "cebix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cebix/macemu",
+    "cover": "https://avatars.githubusercontent.com/u/1856253?v=4",
+    "description": "Basilisk II and SheepShaver Macintosh emulators"
+  },
+  {
+    "name": "firmware-analysis-toolkit",
+    "slug": "firmware-analysis-toolkit",
+    "creator": "attify",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/attify/firmware-analysis-toolkit",
+    "cover": "https://avatars.githubusercontent.com/u/12211025?v=4",
+    "description": "Toolkit to emulate firmware and analyse it for security vulnerabilities "
+  },
+  {
+    "name": "AndroidNativeEmu",
+    "slug": "androidnativeemu",
+    "creator": "AeonLucid",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/AeonLucid/AndroidNativeEmu",
+    "cover": "https://avatars.githubusercontent.com/u/4643257?v=4",
+    "description": "Allows you to partly emulate an Android native library."
+  },
+  {
+    "name": "road-to-yuzu-without-switch",
+    "slug": "road-to-yuzu-without-switch",
+    "creator": "HerXayah",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/HerXayah/road-to-yuzu-without-switch",
+    "cover": "https://avatars.githubusercontent.com/u/45071533?v=4",
+    "description": "This Repo explains how to install the Yuzu Switch Emulator without a Switch. Also works for Suyu"
+  },
+  {
+    "name": "DualSenseX",
+    "slug": "dualsensex",
+    "creator": "Paliverse",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Paliverse/DualSenseX",
+    "cover": "https://avatars.githubusercontent.com/u/4289084?v=4",
+    "description": "Connect your DualSense Controller, use Adaptive Triggers, Emulate Xbox 360 or DualShock 4 through USB or Bluetooth on PC"
+  },
+  {
+    "name": "aind",
+    "slug": "aind",
+    "creator": "aind-containers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aind-containers/aind",
+    "cover": "https://avatars.githubusercontent.com/u/63350730?v=4",
+    "description": "AinD: Android in Docker. Ain't an emulator."
+  },
+  {
+    "name": "herokuish",
+    "slug": "herokuish",
+    "creator": "gliderlabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gliderlabs/herokuish",
+    "cover": "https://avatars.githubusercontent.com/u/8484931?v=4",
+    "description": "Utility for emulating Heroku build and runtime tasks in containers"
+  },
+  {
+    "name": "AntiFakerAndroidChecker",
+    "slug": "antifakerandroidchecker",
+    "creator": "happylishang",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/happylishang/AntiFakerAndroidChecker",
+    "cover": "https://avatars.githubusercontent.com/u/6792557?v=4",
+    "description": "设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator "
+  },
+  {
+    "name": "ha-bridge",
+    "slug": "ha-bridge",
+    "creator": "bwssytems",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bwssytems/ha-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/13528314?v=4",
+    "description": "Home automation bridge that emulates a Philips Hue light system and can control other systems such as a Vera, Harmony Hub, Nest, MiLight bulbs or any other system that has an http/https/tcp/udp interface. This is a compact impl to run on small format computers. This is impl started from this project https://github.com/armzilla/amazon-echo-ha-bridge."
+  },
+  {
+    "name": "colors",
+    "slug": "colors",
+    "creator": "termstandard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/termstandard/colors",
+    "cover": "https://avatars.githubusercontent.com/u/47971936?v=4",
+    "description": "Color standards for terminal emulators"
+  },
+  {
+    "name": "cemu_graphic_packs",
+    "slug": "cemu-graphic-packs",
+    "creator": "cemu-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cemu-project/cemu_graphic_packs",
+    "cover": "https://avatars.githubusercontent.com/u/40145098?v=4",
+    "description": "Community Graphic Packs for Cemu"
+  },
+  {
+    "name": "binfmt",
+    "slug": "binfmt",
+    "creator": "tonistiigi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tonistiigi/binfmt",
+    "cover": "https://avatars.githubusercontent.com/u/585223?v=4",
+    "description": "Cross-platform emulator collection distributed with Docker images."
+  },
+  {
+    "name": "SwiftTerm",
+    "slug": "swiftterm",
+    "creator": "migueldeicaza",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/migueldeicaza/SwiftTerm",
+    "cover": "https://avatars.githubusercontent.com/u/36863?v=4",
+    "description": "Xterm/VT100 Terminal emulator in Swift"
+  },
+  {
+    "name": "AndroidSDK",
+    "slug": "androidsdk",
+    "creator": "thyrlian",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/thyrlian/AndroidSDK",
+    "cover": "https://avatars.githubusercontent.com/u/352956?v=4",
+    "description": "🐳 Full-fledged Android SDK Docker Image"
+  },
+  {
+    "name": "Panda3DS",
+    "slug": "panda3ds",
+    "creator": "wheremyfoodat",
+    "version": "...",
+    "console": "Nintendo 3DS",
+    "url": "https://github.com/wheremyfoodat/Panda3DS",
+    "cover": "https://avatars.githubusercontent.com/u/44909372?v=4",
+    "description": "HLE 3DS emulator"
+  },
+  {
+    "name": "fake-gcs-server",
+    "slug": "fake-gcs-server",
+    "creator": "fsouza",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fsouza/fake-gcs-server",
+    "cover": "https://avatars.githubusercontent.com/u/108725?v=4",
+    "description": "Google Cloud Storage emulator & testing library."
+  },
+  {
+    "name": "melonDS-android",
+    "slug": "melonds-android",
+    "creator": "rafaelvcaetano",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/rafaelvcaetano/melonDS-android",
+    "cover": "https://avatars.githubusercontent.com/u/9086379?v=4",
+    "description": "Android port of melonDS"
+  },
+  {
+    "name": "joycontrol",
+    "slug": "joycontrol",
+    "creator": "mart1nro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mart1nro/joycontrol",
+    "cover": "https://avatars.githubusercontent.com/u/10002144?v=4",
+    "description": "Emulate Nintendo Switch Controllers over Bluetooth"
+  },
+  {
+    "name": "higan",
+    "slug": "higan",
+    "creator": "higan-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/higan-emu/higan",
+    "cover": "https://avatars.githubusercontent.com/u/62430948?v=4",
+    "description": "higan is a multi-system emulator focused on accuracy, preservation, and configurability."
+  },
+  {
+    "name": "SmartGuitarAmp",
+    "slug": "smartguitaramp",
+    "creator": "GuitarML",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GuitarML/SmartGuitarAmp",
+    "cover": "https://avatars.githubusercontent.com/u/32459398?v=4",
+    "description": "Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier."
+  },
+  {
+    "name": "FBNeo",
+    "slug": "fbneo",
+    "creator": "finalburnneo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/finalburnneo/FBNeo",
+    "cover": "https://avatars.githubusercontent.com/u/50798522?v=4",
+    "description": "FinalBurn Neo - We are Team FBNeo."
+  },
+  {
+    "name": "decaf-emu",
+    "slug": "decaf-emu",
+    "creator": "decaf-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/decaf-emu/decaf-emu",
+    "cover": "https://avatars.githubusercontent.com/u/15236850?v=4",
+    "description": "Researching Wii U emulation."
+  },
+  {
+    "name": "Bochs",
+    "slug": "bochs",
+    "creator": "bochs-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bochs-emu/Bochs",
+    "cover": "https://avatars.githubusercontent.com/u/112121982?v=4",
+    "description": "Bochs - Cross Platform x86 Emulator Project"
+  },
+  {
+    "name": "CEmu",
+    "slug": "cemu",
+    "creator": "CE-Programming",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CE-Programming/CEmu",
+    "cover": "https://avatars.githubusercontent.com/u/16008243?v=4",
+    "description": "Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features"
+  },
+  {
+    "name": "usbdriveby",
+    "slug": "usbdriveby",
+    "creator": "samyk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/samyk/usbdriveby",
+    "cover": "https://avatars.githubusercontent.com/u/411832?v=4",
+    "description": "USBdriveby exploits the trust of USB devices by emulating an HID keyboard and mouse, installing a cross-platform firewall-evading backdoor, and rerouting DNS within seconds of plugging it in."
+  },
+  {
+    "name": "uEmu",
+    "slug": "uemu",
+    "creator": "alexhude",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alexhude/uEmu",
+    "cover": "https://avatars.githubusercontent.com/u/13582677?v=4",
+    "description": "Tiny cute emulator plugin for IDA based on unicorn."
+  },
+  {
+    "name": "RVVM",
+    "slug": "rvvm",
+    "creator": "LekKit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LekKit/RVVM",
+    "cover": "https://avatars.githubusercontent.com/u/50500857?v=4",
+    "description": "The RISC-V Virtual Machine "
+  },
+  {
+    "name": "pixl.js",
+    "slug": "pixl-js",
+    "creator": "solosky",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/solosky/pixl.js",
+    "cover": "https://avatars.githubusercontent.com/u/480111?v=4",
+    "description": "An emulator for Amiibo!"
+  },
+  {
+    "name": "NeuralPi",
+    "slug": "neuralpi",
+    "creator": "GuitarML",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GuitarML/NeuralPi",
+    "cover": "https://avatars.githubusercontent.com/u/32459398?v=4",
+    "description": "Raspberry Pi guitar pedal using neural networks to emulate real amps and effects."
+  },
+  {
+    "name": "chips",
+    "slug": "chips",
+    "creator": "floooh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/floooh/chips",
+    "cover": "https://avatars.githubusercontent.com/u/1699414?v=4",
+    "description": "8-bit chip and system emulators in standalone C headers"
+  },
+  {
+    "name": "dwc_network_server_emulator",
+    "slug": "dwc-network-server-emulator",
+    "creator": "barronwaffles",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/barronwaffles/dwc_network_server_emulator",
+    "cover": "https://avatars.githubusercontent.com/u/7693745?v=4",
+    "description": "A Nintendo DS and Wii server emulator."
+  },
+  {
+    "name": "libtcod",
+    "slug": "libtcod",
+    "creator": "libtcod",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/libtcod/libtcod",
+    "cover": "https://avatars.githubusercontent.com/u/40313210?v=4",
+    "description": "A collection of tools and algorithms for developing traditional roguelikes.  Such as field-of-view, pathfinding, and a tile-based terminal emulator."
   }
 ]
