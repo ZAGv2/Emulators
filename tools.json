@@ -1,1 +1,882 @@
-[]
+[
+  {
+    "name": "alacritty",
+    "creator": "alacritty",
+    "description": "A cross-platform, OpenGL terminal emulator.",
+    "url": "https://github.com/alacritty/alacritty",
+    "homepage": "https://alacritty.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/29714349?v=4",
+    "slug": "alacritty"
+  },
+  {
+    "name": "termux-app",
+    "creator": "termux",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "url": "https://github.com/termux/termux-app",
+    "homepage": "https://f-droid.org/en/packages/com.termux",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/8104776?v=4",
+    "slug": "termux-app"
+  },
+  {
+    "name": "ghostty",
+    "creator": "ghostty-org",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+    "url": "https://github.com/ghostty-org/ghostty",
+    "homepage": "https://ghostty.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/169223740?v=4",
+    "slug": "ghostty"
+  },
+  {
+    "name": "edex-ui",
+    "creator": "GitSquared",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/24496417?v=4",
+    "slug": "edex-ui"
+  },
+  {
+    "name": "shadPS4",
+    "creator": "shadps4-emu",
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+    "url": "https://github.com/shadps4-emu/shadPS4",
+    "homepage": "https://shadps4.net/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/152868421?v=4",
+    "slug": "shadps4"
+  },
+  {
+    "name": "cmder",
+    "creator": "cmderdev",
+    "description": "Lovely console emulator package for Windows",
+    "url": "https://github.com/cmderdev/cmder",
+    "homepage": "https://cmder.app",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/11646750?v=4",
+    "slug": "cmder"
+  },
+  {
+    "name": "cool-retro-term",
+    "creator": "Swordfish90",
+    "description": "A good looking terminal emulator which mimics the old cathode display...",
+    "url": "https://github.com/Swordfish90/cool-retro-term",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/6009070?v=4",
+    "slug": "cool-retro-term"
+  },
+  {
+    "name": "wezterm",
+    "creator": "wezterm",
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "url": "https://github.com/wezterm/wezterm",
+    "homepage": "https://wezterm.org/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/198158019?v=4",
+    "slug": "wezterm"
+  },
+  {
+    "name": "v86",
+    "creator": "copy",
+    "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+    "url": "https://github.com/copy/v86",
+    "homepage": "https://copy.sh/v86/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1816456?v=4",
+    "slug": "v86"
+  },
+  {
+    "name": "ish",
+    "creator": "ish-app",
+    "description": "Linux shell for iOS",
+    "url": "https://github.com/ish-app/ish",
+    "homepage": "https://ish.app",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/38895825?v=4",
+    "slug": "ish"
+  },
+  {
+    "name": "upterm",
+    "creator": "railsware",
+    "description": "A terminal emulator for the 21st century.",
+    "url": "https://github.com/railsware/upterm",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/9354?v=4",
+    "slug": "upterm"
+  },
+  {
+    "name": "rpcs3",
+    "creator": "RPCS3",
+    "description": "PlayStation 3 emulator and debugger",
+    "url": "https://github.com/RPCS3/rpcs3",
+    "homepage": "https://rpcs3.net/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/8070735?v=4",
+    "slug": "rpcs3"
+  },
+  {
+    "name": "ruffle",
+    "creator": "ruffle-rs",
+    "description": "A Flash Player emulator written in Rust",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "homepage": "https://ruffle.rs",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/50037962?v=4",
+    "slug": "ruffle"
+  },
+  {
+    "name": "OpenEmu",
+    "creator": "OpenEmu",
+    "description": "🕹 Retro video game emulation for macOS",
+    "url": "https://github.com/OpenEmu/OpenEmu",
+    "homepage": "https://openemu.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/528189?v=4",
+    "slug": "openemu"
+  },
+  {
+    "name": "iTerm2",
+    "creator": "gnachman",
+    "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+    "url": "https://github.com/gnachman/iTerm2",
+    "homepage": "https://iterm2.com/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/427546?v=4",
+    "slug": "iterm2"
+  },
+  {
+    "name": "dolphin",
+    "creator": "dolphin-emu",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+    "url": "https://github.com/dolphin-emu/dolphin",
+    "homepage": "https://dolphin-emu.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/5050316?v=4",
+    "slug": "dolphin"
+  },
+  {
+    "name": "pcsx2",
+    "creator": "PCSX2",
+    "description": "PCSX2 - The Playstation 2 Emulator",
+    "url": "https://github.com/PCSX2/pcsx2",
+    "homepage": "https://pcsx2.net",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/6278711?v=4",
+    "slug": "pcsx2"
+  },
+  {
+    "name": "docker-android",
+    "creator": "budtmo",
+    "description": "Android in docker solution with noVNC supported and video recording",
+    "url": "https://github.com/budtmo/docker-android",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/22218312?v=4",
+    "slug": "docker-android"
+  },
+  {
+    "name": "ppsspp",
+    "creator": "hrydgard",
+    "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.",
+    "url": "https://github.com/hrydgard/ppsspp",
+    "homepage": "https://www.ppsspp.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/130929?v=4",
+    "slug": "ppsspp"
+  },
+  {
+    "name": "Locale-Emulator",
+    "creator": "xupefei",
+    "description": "Yet Another System Region and Language Simulator",
+    "url": "https://github.com/xupefei/Locale-Emulator",
+    "homepage": "https://pooi.moe/Locale-Emulator/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1687847?v=4",
+    "slug": "locale-emulator"
+  },
+  {
+    "name": "jsnes",
+    "creator": "bfirsh",
+    "description": "A JavaScript NES emulator.",
+    "url": "https://github.com/bfirsh/jsnes",
+    "homepage": "https://jsnes.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/40906?v=4",
+    "slug": "jsnes"
+  },
+  {
+    "name": "Provenance",
+    "creator": "Provenance-Emu",
+    "description": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems… Get Started:  https://wiki.provenance-emu.com  | ",
+    "url": "https://github.com/Provenance-Emu/Provenance",
+    "homepage": "https://provenance-emu.com",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/37421993?v=4",
+    "slug": "provenance"
+  },
+  {
+    "name": "nes",
+    "creator": "fogleman",
+    "description": "NES emulator written in Go.",
+    "url": "https://github.com/fogleman/nes",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/520208?v=4",
+    "slug": "nes"
+  },
+  {
+    "name": "SimpleNES",
+    "creator": "amhndu",
+    "description": "An NES emulator in C++",
+    "url": "https://github.com/amhndu/SimpleNES",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/2724742?v=4",
+    "slug": "simplenes"
+  },
+  {
+    "name": "Lemuroid",
+    "creator": "Swordfish90",
+    "description": "All in one emulator on Android!",
+    "url": "https://github.com/Swordfish90/Lemuroid",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/6009070?v=4",
+    "slug": "lemuroid"
+  },
+  {
+    "name": "EmulatorJS",
+    "creator": "EmulatorJS",
+    "description": "A web-based frontend for RetroArch",
+    "url": "https://github.com/EmulatorJS/EmulatorJS",
+    "homepage": "https://emulatorjs.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/113546769?v=4",
+    "slug": "emulatorjs"
+  },
+  {
+    "name": "Mesen2",
+    "creator": "SourMesen",
+    "description": "Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS",
+    "url": "https://github.com/SourMesen/Mesen2",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "slug": "mesen2"
+  },
+  {
+    "name": "olcNES",
+    "creator": "OneLoneCoder",
+    "description": "NES Emulator, and Tutorial Video Code",
+    "url": "https://github.com/OneLoneCoder/olcNES",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/25419386?v=4",
+    "slug": "olcnes"
+  },
+  {
+    "name": "LaiNES",
+    "creator": "AndreaOrru",
+    "description": "Compact cycle-accurate NES emulator",
+    "url": "https://github.com/AndreaOrru/LaiNES",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/3673952?v=4",
+    "slug": "laines"
+  },
+  {
+    "name": "fceux",
+    "creator": "TASEmulators",
+    "description": "FCEUX, a NES Emulator",
+    "url": "https://github.com/TASEmulators/fceux",
+    "homepage": "http://fceux.com",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/11743303?v=4",
+    "slug": "fceux"
+  },
+  {
+    "name": "Mesen",
+    "creator": "SourMesen",
+    "description": "Mesen is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#",
+    "url": "https://github.com/SourMesen/Mesen",
+    "homepage": "https://www.mesen.ca",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "slug": "mesen"
+  },
+  {
+    "name": "nintengo",
+    "creator": "nwidger",
+    "description": "An NES emulator written in Go",
+    "url": "https://github.com/nwidger/nintengo",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/486290?v=4",
+    "slug": "nintengo"
+  },
+  {
+    "name": "retro-go",
+    "creator": "ducalex",
+    "description": "Retro emulation for the ODROID-GO and other ESP32 devices",
+    "url": "https://github.com/ducalex/retro-go",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/13711380?v=4",
+    "slug": "retro-go"
+  },
+  {
+    "name": "nostalgist",
+    "creator": "arianrhodsandlot",
+    "description": "A JavaScript library used for running emulators of retro consoles inside browsers.",
+    "url": "https://github.com/arianrhodsandlot/nostalgist",
+    "homepage": "https://nostalgist.js.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/10987902?v=4",
+    "slug": "nostalgist"
+  },
+  {
+    "name": "nestopia",
+    "creator": "0ldsk00l",
+    "description": "Cross-platform Nestopia emulator core with a GUI",
+    "url": "https://github.com/0ldsk00l/nestopia",
+    "homepage": "http://0ldsk00l.ca/nestopia",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/36061446?v=4",
+    "slug": "nestopia"
+  },
+  {
+    "name": "optcarrot",
+    "creator": "mame",
+    "description": "A NES emulator written in Ruby",
+    "url": "https://github.com/mame/optcarrot",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/21557?v=4",
+    "slug": "optcarrot"
+  },
+  {
+    "name": "retroassembly",
+    "creator": "arianrhodsandlot",
+    "description": "The personal retro game collection cabinet in your browser. Join us on Discord https://discord.gg/gwaKRAYG6t",
+    "url": "https://github.com/arianrhodsandlot/retroassembly",
+    "homepage": "https://retroassembly.com",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/10987902?v=4",
+    "slug": "retroassembly"
+  },
+  {
+    "name": "pinky",
+    "creator": "koute",
+    "description": "An NES emulator written in Rust",
+    "url": "https://github.com/koute/pinky",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/246574?v=4",
+    "slug": "pinky"
+  },
+  {
+    "name": "puNES",
+    "creator": "punesemu",
+    "description": "Qt-based Nintendo Entertaiment System emulator and NSF/NSF2/NSFe Music Player (Linux, FreeBSD, OpenBSD and Windows)",
+    "url": "https://github.com/punesemu/puNES",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/14859058?v=4",
+    "slug": "punes"
+  },
+  {
+    "name": "smolnes",
+    "creator": "binji",
+    "description": "NES emulator in <5000 bytes of C",
+    "url": "https://github.com/binji/smolnes",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1245315?v=4",
+    "slug": "smolnes"
+  },
+  {
+    "name": "snes9x",
+    "creator": "snes9xgit",
+    "description": "Snes9x - Portable Super Nintendo Entertainment System (TM) emulator",
+    "url": "https://github.com/snes9xgit/snes9x",
+    "homepage": "http://www.snes9x.com",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/415737?v=4",
+    "slug": "snes9x"
+  },
+  {
+    "name": "bsnes",
+    "creator": "bsnes-emu",
+    "description": "bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.",
+    "url": "https://github.com/bsnes-emu/bsnes",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/62430984?v=4",
+    "slug": "bsnes"
+  },
+  {
+    "name": "bsnes-hd",
+    "creator": "DerKoun",
+    "description": "bsnes fork that adds HD video features",
+    "url": "https://github.com/DerKoun/bsnes-hd",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/6045077?v=4",
+    "slug": "bsnes-hd"
+  },
+  {
+    "name": "Mesen-S",
+    "creator": "SourMesen",
+    "description": "Mesen-S is a cross-platform (Windows & Linux) SNES emulator built in C++ and C#",
+    "url": "https://github.com/SourMesen/Mesen-S",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "slug": "mesen-s"
+  },
+  {
+    "name": "Emulatrix",
+    "creator": "lrusso",
+    "description": "Emulatrix - JavaScript and WebAssembly Emulator - Sega Genesis, Nintendo, Super Nintendo, GameBoy, GameBoy Color, GameBoy Advance, MAME32, DOSBox and Virtual Machines",
+    "url": "https://github.com/lrusso/Emulatrix",
+    "homepage": "https://www.emulatrix.com",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/11498901?v=4",
+    "slug": "emulatrix"
+  },
+  {
+    "name": "bsnes-plus",
+    "creator": "devinacker",
+    "description": "debug-oriented fork of bsnes",
+    "url": "https://github.com/devinacker/bsnes-plus",
+    "homepage": "http://bsnes.revenant1.net",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/4616298?v=4",
+    "slug": "bsnes-plus"
+  },
+  {
+    "name": "sodium64",
+    "creator": "Hydr8gon",
+    "description": "A SNES emulator for the N64, written in assembly",
+    "url": "https://github.com/Hydr8gon/sodium64",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/3057954?v=4",
+    "slug": "sodium64"
+  },
+  {
+    "name": "jgenesis",
+    "creator": "jsgroth",
+    "description": "Sega Genesis / Sega CD / SNES / Master System / Game Gear emulator",
+    "url": "https://github.com/jsgroth/jgenesis",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1137683?v=4",
+    "slug": "jgenesis"
+  },
+  {
+    "name": "MeSNEmu",
+    "creator": "lmmenge",
+    "description": "Super Nintendo Entertainment System (SNES) / Super Famicom emulator (based on SNES9X) for iOS (iPhone/iPad)",
+    "url": "https://github.com/lmmenge/MeSNEmu",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/51199?v=4",
+    "slug": "mesnemu"
+  },
+  {
+    "name": "xnes",
+    "creator": "tjwei",
+    "description": "javascript SNES emulator",
+    "url": "https://github.com/tjwei/xnes",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1032522?v=4",
+    "slug": "xnes"
+  },
+  {
+    "name": "retrograde-android",
+    "creator": "retrograde",
+    "description": "Play retro video games on your Android TV!",
+    "url": "https://github.com/retrograde/retrograde-android",
+    "homepage": "https://play.google.com/store/apps/details?id=com.codebutler.retrograde",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/34558086?v=4",
+    "slug": "retrograde-android"
+  },
+  {
+    "name": "zsnes",
+    "creator": "xyproto",
+    "description": "A maintained fork of ZSNES, a Super Nintendo emulator. The original project needs patches to build and is not maintained anymore: https://sourceforge.net/projects/zsnes/",
+    "url": "https://github.com/xyproto/zsnes",
+    "homepage": "https://zsnes.com",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/52813?v=4",
+    "slug": "zsnes"
+  },
+  {
+    "name": "blargSnes",
+    "creator": "Arisotura",
+    "description": "SNES emulator for the 3DS.",
+    "url": "https://github.com/Arisotura/blargSnes",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1311867?v=4",
+    "slug": "blargsnes"
+  },
+  {
+    "name": "NetherSX2-patch",
+    "creator": "Trixarian",
+    "description": "Continuation of NetherSX2 based on AetherSX2 4248",
+    "url": "https://github.com/Trixarian/NetherSX2-patch",
+    "homepage": "https://discord.gg/xRh3NnYyMa",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/983358?v=4",
+    "slug": "nethersx2-patch"
+  },
+  {
+    "name": "FabGL",
+    "creator": "fdivitto",
+    "description": "ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal",
+    "url": "https://github.com/fdivitto/FabGL",
+    "homepage": "http://www.fabglib.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/9754506?v=4",
+    "slug": "fabgl"
+  },
+  {
+    "name": "NetherSX2-classic",
+    "creator": "Trixarian",
+    "description": "Continuation of NetherSX2 based on AetherSX2 3668",
+    "url": "https://github.com/Trixarian/NetherSX2-classic",
+    "homepage": "https://discord.gg/xRh3NnYyMa",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/983358?v=4",
+    "slug": "nethersx2-classic"
+  },
+  {
+    "name": "DobieStation",
+    "creator": "PSI-Rockin",
+    "description": "A dog-themed PS2 emulator",
+    "url": "https://github.com/PSI-Rockin/DobieStation",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/12768103?v=4",
+    "slug": "dobiestation"
+  },
+  {
+    "name": "neutrino",
+    "creator": "rickgaiser",
+    "description": "Small, Fast and Modular PS2 Device Emulator",
+    "url": "https://github.com/rickgaiser/neutrino",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/4712159?v=4",
+    "slug": "neutrino"
+  },
+  {
+    "name": "ps2dev",
+    "creator": "Harvie",
+    "description": "Arduino library to emulate PS2 keyboard/mouse",
+    "url": "https://github.com/Harvie/ps2dev",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/276504?v=4",
+    "slug": "ps2dev"
+  },
+  {
+    "name": "PSX2",
+    "creator": "izzy2lost",
+    "description": "Android PS2 Emulator based off of PCSX2                                              ",
+    "url": "https://github.com/izzy2lost/PSX2",
+    "homepage": "https://www.izzy2lost.com/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/170889516?v=4",
+    "slug": "psx2"
+  },
+  {
+    "name": "Myrient-Downloader-GUI",
+    "creator": "hadobedo",
+    "description": "Downloads software from Myrient",
+    "url": "https://github.com/hadobedo/Myrient-Downloader-GUI",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/34556645?v=4",
+    "slug": "myrient-downloader-gui"
+  },
+  {
+    "name": "mymcplus",
+    "creator": "thestr4ng3r",
+    "description": "Moved to https://git.sr.ht/~thestr4ng3r/mymcplus - PlayStation 2 memory card manager",
+    "url": "https://github.com/thestr4ng3r/mymcplus",
+    "homepage": "https://git.sr.ht/~thestr4ng3r/mymcplus",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1460997?v=4",
+    "slug": "mymcplus"
+  },
+  {
+    "name": "orbum",
+    "creator": "marcosatti",
+    "description": "PS2 Emulator - Archived",
+    "url": "https://github.com/marcosatti/orbum",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1343222?v=4",
+    "slug": "orbum"
+  },
+  {
+    "name": "Play--CodeGen",
+    "creator": "jpd002",
+    "description": "JIT Code Generator used by the Play! PS2 emulator",
+    "url": "https://github.com/jpd002/Play--CodeGen",
+    "homepage": "http://purei.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/6760433?v=4",
+    "slug": "play-codegen"
+  },
+  {
+    "name": "Instalador-POPStarter",
+    "creator": "IsseiYoshida",
+    "description": "Instalador POPStarter is a utility program designed to facilitate the installation and configuration of the POPStarter emulator.",
+    "url": "https://github.com/IsseiYoshida/Instalador-POPStarter",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/53555314?v=4",
+    "slug": "instalador-popstarter"
+  },
+  {
+    "name": "Play--Framework",
+    "creator": "jpd002",
+    "description": "Utilities used by the Play! PS2 emulator and other projects",
+    "url": "https://github.com/jpd002/Play--Framework",
+    "homepage": "http://purei.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/6760433?v=4",
+    "slug": "play-framework"
+  },
+  {
+    "name": "moestation",
+    "creator": "ladystarbreeze",
+    "description": "PlayStation 2 emulator written in C++.",
+    "url": "https://github.com/ladystarbreeze/moestation",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/51570316?v=4",
+    "slug": "moestation"
+  },
+  {
+    "name": "Fceumm-PS2",
+    "creator": "ps2homebrew",
+    "description": "FCEUmm-PS2",
+    "url": "https://github.com/ps2homebrew/Fceumm-PS2",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/23712284?v=4",
+    "slug": "fceumm-ps2"
+  },
+  {
+    "name": "Ps2Plus",
+    "creator": "mcranford13",
+    "description": "PS2 controller emulator designed for the PIC16F18876",
+    "url": "https://github.com/mcranford13/Ps2Plus",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/12448030?v=4",
+    "slug": "ps2plus"
+  },
+  {
+    "name": "Breakin-In",
+    "creator": "riperiperi",
+    "description": "Lobby Server Emulator for The Sims Bustin Out (PS2)'s Online Weekend mode",
+    "url": "https://github.com/riperiperi/Breakin-In",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/6294155?v=4",
+    "slug": "breakin-in"
+  },
+  {
+    "name": "pgen",
+    "creator": "ps2homebrew",
+    "description": "PGEN is an old Sega Genesis/Megadrive emulator for the PS2 based on Generator source code.",
+    "url": "https://github.com/ps2homebrew/pgen",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/23712284?v=4",
+    "slug": "pgen"
+  },
+  {
+    "name": "Ps2ControllerEmulator",
+    "creator": "mcranford13",
+    "description": "Ps2 Controller Emulator for Arduino",
+    "url": "https://github.com/mcranford13/Ps2ControllerEmulator",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/12448030?v=4",
+    "slug": "ps2controlleremulator"
+  },
+  {
+    "name": "mgba",
+    "creator": "mgba-emu",
+    "description": "mGBA Game Boy Advance Emulator",
+    "url": "https://github.com/mgba-emu/mgba",
+    "homepage": "https://mgba.io/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/10085927?v=4",
+    "slug": "mgba"
+  },
+  {
+    "name": "PyBoy",
+    "creator": "Baekalfen",
+    "description": "Game Boy emulator written in Python",
+    "url": "https://github.com/Baekalfen/PyBoy",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/5528170?v=4",
+    "slug": "pyboy"
+  },
+  {
+    "name": "gameboy.live",
+    "creator": "HFO4",
+    "description": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/16058869?v=4",
+    "slug": "gameboy-live"
+  },
+  {
+    "name": "awesome-gbdev",
+    "creator": "gbdev",
+    "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.",
+    "url": "https://github.com/gbdev/awesome-gbdev",
+    "homepage": "https://gbdev.io/resources",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/29732935?v=4",
+    "slug": "awesome-gbdev"
+  },
+  {
+    "name": "visualboyadvance-m",
+    "creator": "visualboyadvance-m",
+    "description": "The continuing development of the legendary VBA gameboy advance emulator.",
+    "url": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+    "homepage": "https://visualboyadvance-m.org",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/12837344?v=4",
+    "slug": "visualboyadvance-m"
+  },
+  {
+    "name": "goboy",
+    "creator": "Humpheh",
+    "description": "Multi-platform Nintendo Game Boy Color emulator written in Go",
+    "url": "https://github.com/Humpheh/goboy",
+    "homepage": "https://humpheh.github.io/goboy/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1696213?v=4",
+    "slug": "goboy"
+  },
+  {
+    "name": "SameBoy",
+    "creator": "LIJI32",
+    "description": "Game Boy and Game Boy Color emulator written in C",
+    "url": "https://github.com/LIJI32/SameBoy",
+    "homepage": "https://sameboy.github.io/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/2345928?v=4",
+    "slug": "sameboy"
+  },
+  {
+    "name": "php-terminal-gameboy-emulator",
+    "creator": "gabrielrcouto",
+    "description": "A PHP Terminal GameBoy Emulator",
+    "url": "https://github.com/gabrielrcouto/php-terminal-gameboy-emulator",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/2197005?v=4",
+    "slug": "php-terminal-gameboy-emulator"
+  },
+  {
+    "name": "wasmboy",
+    "creator": "torch2424",
+    "description": "Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️",
+    "url": "https://github.com/torch2424/wasmboy",
+    "homepage": "https://wasmboy.app/",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1448289?v=4",
+    "slug": "wasmboy"
+  },
+  {
+    "name": "gameboy",
+    "creator": "mohanson",
+    "description": "Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.",
+    "url": "https://github.com/mohanson/gameboy",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/12387889?v=4",
+    "slug": "gameboy"
+  },
+  {
+    "name": "pokegb",
+    "creator": "binji",
+    "description": "A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c++.",
+    "url": "https://github.com/binji/pokegb",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/1245315?v=4",
+    "slug": "pokegb"
+  },
+  {
+    "name": "metroboy",
+    "creator": "aappleby",
+    "description": "A repository of gate-level simulators and tools for the original Game Boy.",
+    "url": "https://github.com/aappleby/metroboy",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/778399?v=4",
+    "slug": "metroboy"
+  },
+  {
+    "name": "coffee-gb",
+    "creator": "trekawek",
+    "description": "Gameboy emulator in Java and Kotlin.",
+    "url": "https://github.com/trekawek/coffee-gb",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/142138?v=4",
+    "slug": "coffee-gb"
+  },
+  {
+    "name": "SkyEmu",
+    "creator": "skylersaleh",
+    "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator",
+    "url": "https://github.com/skylersaleh/SkyEmu",
+    "homepage": "http://skyemu.app",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/7118296?v=4",
+    "slug": "skyemu"
+  },
+  {
+    "name": "Gearboy",
+    "creator": "drhelius",
+    "description": "Game Boy / Gameboy Color emulator and debugger for macOS, Windows, Linux, BSD and RetroArch.",
+    "url": "https://github.com/drhelius/Gearboy",
+    "homepage": "https://x.com/drhelius",
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/863613?v=4",
+    "slug": "gearboy"
+  },
+  {
+    "name": "GIOVANNI",
+    "creator": "gabrieloc",
+    "description": "A Gameboy Emulator for the Apple Watch",
+    "url": "https://github.com/gabrieloc/GIOVANNI",
+    "homepage": null,
+    "version": "...",
+    "avatar": "https://avatars.githubusercontent.com/u/983669?v=4",
+    "slug": "giovanni"
+  }
+]
