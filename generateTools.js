@@ -1,5 +1,6 @@
 const fs = require("fs")
 const path = require("path")
+const fetch = require("node-fetch") // Make sure node-fetch is installed
 
 const TOOLS_FILE = "tools.json"
 const TOOLS_DIR = "tools"
@@ -80,29 +81,6 @@ function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
-// --- Read description from README.md ---
-function readDescription(consoleFolder, slug){
-  const readmePaths = [
-    path.join(TOOLS_DIR, consoleFolder, slug, "README.md"),
-    path.join(TOOLS_DIR, consoleFolder, slug, "readme.md")
-  ]
-  for(const p of readmePaths){
-    if(fs.existsSync(p)){
-      const content = fs.readFileSync(p,"utf8")
-      // Look for a line starting with "description:" (case insensitive)
-      const lines = content.split(/\r?\n/)
-      for(const line of lines){
-        const match = line.match(/description\s*[:\-]\s*(.*)/i)
-        if(match && match[1].trim()) return match[1].trim()
-      }
-      // Fallback: first non-empty paragraph
-      const firstParagraph = content.split(/\r?\n\r?\n/).find(p=>p.trim())
-      if(firstParagraph) return firstParagraph.trim()
-    }
-  }
-  return "Game description"
-}
-
 // Create tool page
 function createToolPage(tool){
   // --- Folder based on console ---
@@ -111,8 +89,11 @@ function createToolPage(tool){
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
   const htmlPath = path.join(folder,"index.html")
-  
-  // --- Self-healing: overwrite every time ---
+
+  // --- Use avatar as cover; ignore logos folder ---
+  let cover = tool.cover
+  if(cover && cover.includes("tools/logos")) cover = "" // ignore logos folder image
+
   const html = `
 <!DOCTYPE html>
 <html lang="en">
@@ -154,7 +135,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <a class="download-btn" href="../../..">← Back</a>
 <div class="game-header">
 <div class="game-cover">
-<img src="${tool.cover}" alt="${tool.name} Cover">
+${cover ? `<img src="${cover}" alt="${tool.name} Cover">` : ""}
 </div>
 <div class="game-info">
 <h1>${tool.name}</h1>
@@ -164,7 +145,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
 <div class="description">
-${tool.description}
+${tool.description || "Game description"}
 </div>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
@@ -177,41 +158,53 @@ ${tool.description}
   fs.writeFileSync(htmlPath,html)
 }
 
+// --- Fetch GitHub ---
+async function fetchPage(query,page){
+  const url=`https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`
+  const res = await fetch(url)
+  const data = await res.json()
+  return data.items || []
+}
+
 // --- Main ---
 async function run(){
-  // Discover new emulators
   for(const query of queries){
     let page=1
     while(true){
-      // NOTE: Here we skip fetch since you don't want to fetch from GitHub without node-fetch
-      break
+      const repos = await fetchPage(query,page)
+      if(!repos.length) break
+
+      for(const repo of repos){
+        if(seen.has(repo.html_url)) continue
+        seen.add(repo.html_url)
+
+        const slug = slugify(repo.name)
+
+        const tool = {
+          name: repo.name,
+          slug: slug,
+          creator: repo.owner.login,
+          version: "...",
+          console: detectConsole(repo.name),
+          url: repo.html_url,
+          cover: repo.owner.avatar_url || "",
+          description: repo.description || "Game description"
+        }
+
+        tools.push(tool)
+        createToolPage(tool)
+      }
+
+      page++
     }
   }
 
   // --- Self-healing and update old entries ---
-  const consoleFolders = fs.readdirSync(TOOLS_DIR)
-  consoleFolders.forEach(cf=>{
-    const consolePath = path.join(TOOLS_DIR, cf)
-    if(!fs.existsSync(consolePath)) return
-    const toolSlugs = fs.readdirSync(consolePath)
-    toolSlugs.forEach(slug=>{
-      const toolFolder = path.join(consolePath, slug)
-      if(!fs.existsSync(toolFolder)) return
-      // Build tool object
-      const tool = {
-        name: slug.replace(/-/g," "),
-        slug: slug,
-        creator: "Unknown",
-        version: "...",
-        console: cf.replace(/-/g," "),
-        url: "#",
-        cover: "default-cover.jpg",
-        description: readDescription(cf, slug)
-      }
-      createToolPage(tool)
-      tools.push(tool)
-      seen.add(tool.url)
-    })
+  tools.forEach(tool=>{
+    tool.console = detectConsole(tool.name)
+    if(!tool.cover || tool.cover.includes("tools/logos")) tool.cover = tool.owner?.avatar_url || ""
+    if(!tool.description) tool.description = "Game description"
+    createToolPage(tool)
   })
 
   fs.writeFileSync(TOOLS_FILE,JSON.stringify(tools,null,2))
