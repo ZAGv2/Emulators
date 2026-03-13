@@ -1,120 +1,157 @@
-const fs = require("fs");
-const path = require("path");
+const fs = require("fs")
+const path = require("path")
 
-const TEMPLATE_PATH = path.join(__dirname, "template.html");
-const TOOLS_JSON = path.join(__dirname, "tools.json");
-const TOOLS_DIR = path.join(__dirname, "tools");
-const LOGOS_DIR = path.join(TOOLS_DIR, "logos");
-const DEFAULT_IMAGE = "../logos/Default-cover.jpg"; // make sure this exists
+const TOOLS_FILE = "tools.json"
+const TOOLS_DIR = "tools"
 
-// GitHub queries for multiple consoles
-const GITHUB_SEARCH = [
-  "emulator",
-  "nes emulator",
-  "snes emulator",
-  "ps2 emulator",
-  "gameboy emulator"
-];
+let tools = []
+let seen = new Set()
 
-function slugify(text) {
-  return text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
+// load existing tools
+if (fs.existsSync(TOOLS_FILE)) {
+  tools = JSON.parse(fs.readFileSync(TOOLS_FILE))
+  tools.forEach(t => seen.add(t.url))
 }
 
-function loadTools() {
-  if (!fs.existsSync(TOOLS_JSON)) return [];
-  return JSON.parse(fs.readFileSync(TOOLS_JSON));
+// --- Console/platform detection map ---
+const consoleMap = {
+  "nes": "Nintendo Entertainment System",
+  "snes": "Super Nintendo",
+  "n64": "Nintendo 64",
+  "gameboy": "Game Boy",
+  "gba": "Game Boy Advance",
+  "gbc": "Game Boy Color",
+  "nds": "Nintendo DS",
+  "3ds": "Nintendo 3DS",
+  "switch": "Nintendo Switch",
+  "ps1": "PlayStation",
+  "ps2": "PlayStation 2",
+  "ps3": "PlayStation 3",
+  "psp": "PlayStation Portable",
+  "psvita": "PlayStation Vita",
+  "xbox": "Xbox",
+  "xbox 360": "Xbox 360",
+  "dreamcast": "Sega Dreamcast",
+  "saturn": "Sega Saturn",
+  "genesis": "Sega Genesis",
+  "mame": "Arcade",
+  "arcade": "Arcade",
+  "dos": "DOS",
+  "windows": "Windows",
+  "linux": "Linux",
+  "android": "Android",
+  "ios": "iOS"
 }
 
-function saveTools(data) {
-  fs.writeFileSync(TOOLS_JSON, JSON.stringify(data, null, 2));
-}
-
-// --- Determine the best image ---
-function getCover(tool) {
-  const localPath = path.join(LOGOS_DIR, tool.slug + ".jpg");
-  if (fs.existsSync(localPath)) return `../logos/${tool.slug}.jpg`;
-  if (tool.avatar) return tool.avatar;
-  return DEFAULT_IMAGE;
-}
-
-// --- Generate individual HTML page ---
-async function generatePage(tool, template) {
-  const cover = getCover(tool);
-  const version = tool.version || "...";
-
-  const html = template
-    .replace(/GAME_TITLE/g, tool.name)
-    .replace(/CREATOR_NAME/g, tool.creator)
-    .replace(/GAME_DESCRIPTION/g, tool.description)
-    .replace(/GAME_ZIP_LINK/g, tool.url)
-    .replace(/CONSOLE_NAME/g, "Multi Platform")
-    .replace(/RELEASE_YEAR/g, version)
-    .replace(/COVER_IMAGE_URL/g, cover);
-
-  const toolFolder = path.join(TOOLS_DIR, tool.slug);
-  if (!fs.existsSync(toolFolder)) fs.mkdirSync(toolFolder, { recursive: true });
-
-  const htmlPath = path.join(toolFolder, "index.html");
-  if (!fs.existsSync(htmlPath) || fs.readFileSync(htmlPath, "utf8") !== html) {
-    fs.writeFileSync(htmlPath, html);
-    console.log("Updated:", tool.name);
+// Detect platform from repo name
+function detectConsole(name) {
+  const lower = name.toLowerCase()
+  for (const key in consoleMap) {
+    if (lower.includes(key)) return consoleMap[key]
   }
-
-  return cover; // return the final image for tools.json
+  return "Multi Platform"
 }
 
-// --- Fetch GitHub repos for one page ---
-async function fetchRepos(query, page = 1) {
-  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`;
-  const res = await fetch(url, { headers: { "User-Agent": "zag-archive-bot" } });
-  const data = await res.json();
-  return data.items || [];
+// --- Base queries ---
+const queries = [
+  "emulator", "console emulator", "retro emulator", "open source emulator", "hardware emulator",
+  "nes emulator", "snes emulator", "n64 emulator",
+  "gameboy emulator", "gba emulator", "gbc emulator",
+  "nds emulator", "3ds emulator",
+  "ps1 emulator", "ps2 emulator", "ps3 emulator",
+  "psp emulator", "psvita emulator",
+  "switch emulator",
+  "xbox emulator", "xbox 360 emulator",
+  "dreamcast emulator", "saturn emulator",
+  "mame emulator", "arcade emulator",
+  "dos emulator", "windows emulator", "linux emulator",
+  "android emulator", "ios emulator"
+]
+
+// Alphabet expansion to discover more emulators
+const alphabet = "abcdefghijklmnopqrstuvwxyz".split("")
+alphabet.forEach(letter => {
+  queries.push(`emulator ${letter}`)
+  queries.push(`console emulator ${letter}`)
+  queries.push(`retro emulator ${letter}`)
+})
+
+// --- Helpers ---
+function slugify(text) {
+  return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
+// Create tool page and folder if missing
+function createToolPage(tool) {
+  const folder = path.join(TOOLS_DIR, tool.slug)
+  if (!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
+
+  const htmlPath = path.join(folder,"index.html")
+  if (fs.existsSync(htmlPath)) return // skip if page exists
+
+  const html = `
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>${tool.name}</title>
+</head>
+<body>
+<h1>${tool.name}</h1>
+<img src="${tool.cover}" width="120">
+<p>Developer: ${tool.creator}</p>
+<p>Platform: ${tool.console}</p>
+<p><a href="${tool.url}" target="_blank">Official Repository</a></p>
+</body>
+</html>
+`
+  fs.writeFileSync(htmlPath,html)
+}
+
+// Fetch GitHub repos
+async function fetchPage(query,page) {
+  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`
+  const res = await fetch(url)
+  const data = await res.json()
+  return data.items || []
+}
+
+// --- Main crawler ---
 async function run() {
-  if (!fs.existsSync(TOOLS_DIR)) fs.mkdirSync(TOOLS_DIR);
-  if (!fs.existsSync(LOGOS_DIR)) fs.mkdirSync(LOGOS_DIR);
-
-  const template = fs.readFileSync(TEMPLATE_PATH, "utf8");
-  let tools = loadTools();
-
-  for (const query of GITHUB_SEARCH) {
-    let page = 1;
-    while (true) {
-      const repos = await fetchRepos(query, page);
-      if (!repos.length) break;
+  for (const query of queries) {
+    let page = 1
+    while(true) {
+      const repos = await fetchPage(query,page)
+      if (!repos.length) break
 
       for (const repo of repos) {
-        const slug = slugify(repo.name);
-        let existing = tools.find(t => t.slug === slug);
+        if (seen.has(repo.html_url)) continue
+        seen.add(repo.html_url)
 
-        const toolData = {
+        const slug = slugify(repo.name)
+        const tool = {
           name: repo.name,
-          creator: repo.owner.login,
-          description: repo.description || "Open source emulator",
-          url: repo.html_url,
-          version: "...",
           slug: slug,
-          avatar: repo.owner.avatar_url
-        };
-
-        // Generate HTML and get final image
-        toolData.cover = await generatePage(toolData, template);
-
-        if (existing) {
-          Object.assign(existing, toolData);
-        } else {
-          tools.push(toolData);
-          console.log("Added:", toolData.name);
+          creator: repo.owner.login,
+          version: "...",
+          console: detectConsole(repo.name),
+          url: repo.html_url,
+          cover: repo.owner.avatar_url
         }
+
+        tools.push(tool)
+        createToolPage(tool)
       }
 
-      page++;
+      page++
     }
   }
 
-  saveTools(tools);
-  console.log("All emulators processed.");
+  // --- Self-healing: rebuild missing pages ---
+  tools.forEach(tool => createToolPage(tool))
+
+  fs.writeFileSync(TOOLS_FILE,JSON.stringify(tools,null,2))
+  console.log("Total emulators:",tools.length)
 }
 
-run();
+run()
