@@ -83,34 +83,49 @@ function slugify(text){
 }
 
 // Get custom logo if exists
-function getLogo(slug) {
-  const logoExtensions = ["jpg","jpeg","png","webp","gif"]
-  for (const ext of logoExtensions) {
-    const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
-    if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
+function getLogo(slug){
+  const logoExtensions=["jpg","jpeg","png","webp","gif"]
+  for(const ext of logoExtensions){
+    const logoPath=path.join(LOGOS_DIR,`${slug}.${ext}`)
+    if(fs.existsSync(logoPath)) return path.relative(TOOLS_DIR,logoPath)
   }
-  return "logos/Default-cover.jpg"
+  return "../../logos/Default-cover.jpg"
 }
 
-// Create tool page using the fixed template
-function createToolPage(tool){
-  const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
-  const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
+// Fetch repo contents to find first image
+async function fetchRepoImage(owner,repo){
+  try{
+    const url=`https://api.github.com/repos/${owner}/${repo}/contents/`
+    const res=await fetch(url)
+    const data=await res.json()
+    if(!Array.isArray(data)) return null
+    const imgFile=data.find(f=>/\.(png|jpe?g|gif|webp)$/i.test(f.name))
+    if(imgFile) return imgFile.download_url || `https://raw.githubusercontent.com/${owner}/${repo}/main/${imgFile.name}`
+    return null
+  }catch(e){
+    return null
+  }
+}
+
+// Create tool page
+async function createToolPage(tool){
+  const consoleFolder=tool.console?tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-"):"multi-platform"
+  const folder=path.join(TOOLS_DIR,consoleFolder,tool.slug)
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
-  const htmlPath = path.join(folder,"index.html")
-  
-  // Determine logo to use
-  const coverImage = getLogo(tool.slug)
+  const htmlPath=path.join(folder,"index.html")
 
-  const html = `
+  // Determine logo to use
+  let coverImage=tool.cover || getLogo(tool.slug)
+  if(coverImage.startsWith("http")===false) coverImage=getLogo(tool.slug)
+
+  const html=`
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>${tool.name} - ZAG Archive</title>
-
 <style>
 body{margin:0;font-family:'Segoe UI',sans-serif;background:#f0f2f5;color:#222;}
 header{background:#fff;padding:15px 40px;display:flex;justify-content:space-between;align-items:center;box-shadow:0 2px 6px rgba(0,0,0,0.1);position:sticky;top:0;z-index:100;flex-wrap:wrap;}
@@ -121,7 +136,7 @@ nav a{margin-left:25px;text-decoration:none;color:#333;font-weight:600;transitio
 nav a:hover{color:#1e90ff;}
 .dropdown{position:relative;display:inline-block;}
 .dropbtn{margin-left:25px;font-weight:600;background:none;border:none;cursor:pointer;color:#333;font-size:16px;}
-.dropdown-content{display:none;position:absolute;background:#fff;min-width:200px;box-shadow:0 6px 12px rgba(0,0,0,0.1);border-radius:6px;overflow:hidden;top:38px;z-index:200;}
+.dropdown-content{display:none;position:absolute;background:#fff;min-width:180px;box-shadow:0 6px 12px rgba(0,0,0,0.1);border-radius:6px;overflow:hidden;top:38px;z-index:200;}
 .dropdown-content a{display:block;padding:10px 15px;text-decoration:none;color:#333;font-weight:500;}
 .dropdown-content a:hover{background:#f0f2f5;color:#1e90ff;}
 .container{max-width:1100px;margin:40px auto;padding:0 20px;}
@@ -129,21 +144,28 @@ nav a:hover{color:#1e90ff;}
 .game-cover img{width:100%;max-width:320px;border-radius:12px;box-shadow:0 6px 12px rgba(0,0,0,0.1);}
 .game-info{flex:1;min-width:260px;}
 .game-info h1{margin-top:0;color:#1e90ff;font-size:28px;}
-.meta p{margin:6px 0;font-size:15px;color:#444;}
+.meta p{margin:6px 0;font-size:15px;}
 .description{margin-top:15px;line-height:1.6;color:#444;}
 .download-btn{display:inline-block;margin-top:15px;padding:6px 14px;font-size:14px;background:#1e90ff;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;transition:0.3s;}
 .download-btn:hover{background:#187bcd;}
 footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top:1px solid #ddd;color:#555;font-size:14px;}
-@media(max-width:768px){header{flex-direction:row;padding:15px 20px;}nav{flex-wrap:wrap;}nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}.game-header{flex-direction:column;align-items:center;}.game-cover img{max-width:100%;}.game-info h1{text-align:center;font-size:22px;}.meta,.description{text-align:center;}.download-btn{display:block;width:100%;text-align:center;}}
+@media(max-width:768px){
+header{flex-direction:row;padding:15px 20px;}
+nav{flex-wrap:wrap;}
+nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}
+.game-header{flex-direction:column;align-items:center;}
+.game-cover img{max-width:100%;}
+.game-info h1{text-align:center;font-size:22px;}
+.meta,.description{text-align:center;}
+.download-btn{display:block;width:100%;text-align:center;}
+}
 </style>
 </head>
-
 <body>
-
 <header>
 <div class="site-title">ZAG <span>Archive</span></div>
 <nav>
-<a href="https://zagv2.github.io/ZAGArchive-/">Home</a>
+<a href="../../..">Home</a>
 <div class="dropdown">
 <button class="dropbtn">Sections ▼</button>
 <div class="dropdown-content">
@@ -156,10 +178,8 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
 </nav>
 </header>
-
 <div class="container">
-<a class="download-btn" href="https://zagv2.github.io/Emulators/">← Back to Emulators</a>
-
+<a class="download-btn" href="../../..">← Back</a>
 <div class="game-header">
 <div class="game-cover">
 <img src="${coverImage}" alt="${tool.name} Cover">
@@ -172,35 +192,30 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
 <div class="description">
-${tool.description || ""}
+${tool.description || "No description available."}
 </div>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
 </div>
 </div>
-
 <footer>© 2026 ZAG Archive - Emulators</footer>
-
 <script>
 const btn=document.querySelector('.dropbtn');
 const dropdown=document.querySelector('.dropdown-content');
-
 btn.addEventListener('click',(e)=>{
 e.preventDefault();
-dropdown.style.display = (dropdown.style.display==="block") ? "none" : "block";
+dropdown.style.display = dropdown.style.display==="block"?"none":"block";
 });
-btn.parentElement.addEventListener('mouseenter',()=>{ dropdown.style.display="block"; });
-btn.parentElement.addEventListener('mouseleave',()=>{ dropdown.style.display="none"; });
 window.addEventListener('click',(e)=>{
-if(!btn.contains(e.target) && !dropdown.contains(e.target)){
+if(!btn.contains(e.target)&&!dropdown.contains(e.target)){
 dropdown.style.display="none";
 }
 });
 </script>
-
 </body>
 </html>
 `
+
   fs.writeFileSync(htmlPath,html)
 }
 
@@ -226,18 +241,23 @@ async function run(){
 
         const slug = slugify(repo.name)
 
-        const tool = {
+        let tool = {
           name: repo.name,
           slug: slug,
           creator: repo.owner.login,
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          description: repo.description || ""
+          description: repo.description || "",
+          cover: null
         }
 
+        // Try to find image in repo
+        const img = await fetchRepoImage(repo.owner.login,repo.name)
+        if(img) tool.cover = img
+
         tools.push(tool)
-        createToolPage(tool)
+        await createToolPage(tool)
       }
 
       page++
@@ -245,10 +265,10 @@ async function run(){
   }
 
   // --- Self-healing and rebuild ---
-  tools.forEach(tool=>{
+  for(const tool of tools){
     tool.console = detectConsole(tool.name)
-    createToolPage(tool)
-  })
+    await createToolPage(tool)
+  }
 
   fs.writeFileSync(TOOLS_FILE,JSON.stringify(tools,null,2))
   console.log("Total emulators:",tools.length)
