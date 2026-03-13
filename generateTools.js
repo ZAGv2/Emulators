@@ -1,6 +1,6 @@
 const fs = require("fs")
 const path = require("path")
-const fetch = require("node-fetch") // Make sure node-fetch is installed
+const fetch = require("node-fetch")
 
 const TOOLS_FILE = "tools.json"
 const TOOLS_DIR = "tools"
@@ -89,11 +89,8 @@ function createToolPage(tool){
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
   const htmlPath = path.join(folder,"index.html")
-
-  // --- Use avatar as cover; ignore logos folder ---
-  let cover = tool.cover
-  if(cover && cover.includes("tools/logos")) cover = "" // ignore logos folder image
-
+  
+  // --- Self-healing: overwrite every time ---
   const html = `
 <!DOCTYPE html>
 <html lang="en">
@@ -135,7 +132,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <a class="download-btn" href="../../..">← Back</a>
 <div class="game-header">
 <div class="game-cover">
-${cover ? `<img src="${cover}" alt="${tool.name} Cover">` : ""}
+<img src="${tool.cover}" alt="${tool.name} Cover">
 </div>
 <div class="game-info">
 <h1>${tool.name}</h1>
@@ -145,7 +142,7 @@ ${cover ? `<img src="${cover}" alt="${tool.name} Cover">` : ""}
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
 <div class="description">
-${tool.description || "Game description"}
+Description available on official page ⬇️
 </div>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
@@ -168,6 +165,7 @@ async function fetchPage(query,page){
 
 // --- Main ---
 async function run(){
+  // Discover new emulators
   for(const query of queries){
     let page=1
     while(true){
@@ -187,8 +185,7 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          cover: repo.owner.avatar_url || "",
-          description: repo.description || "Game description"
+          cover: repo.owner.avatar_url || "default-cover.jpg"
         }
 
         tools.push(tool)
@@ -202,8 +199,7 @@ async function run(){
   // --- Self-healing and update old entries ---
   tools.forEach(tool=>{
     tool.console = detectConsole(tool.name)
-    if(!tool.cover || tool.cover.includes("tools/logos")) tool.cover = tool.owner?.avatar_url || ""
-    if(!tool.description) tool.description = "Game description"
+    if(!tool.cover) tool.cover = tool.owner?.avatar_url || "default-cover.jpg"
     createToolPage(tool)
   })
 
