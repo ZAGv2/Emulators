@@ -1,6 +1,5 @@
 const fs = require("fs")
 const path = require("path")
-const fetch = require("node-fetch")
 
 const TOOLS_FILE = "tools.json"
 const TOOLS_DIR = "tools"
@@ -111,7 +110,6 @@ nav a:hover{color:#1e90ff;}
 .game-info{flex:1;min-width:260px;}
 .game-info h1{margin-top:0;color:#1e90ff;font-size:28px;}
 .meta p{margin:6px 0;font-size:15px;}
-.description{margin-top:15px;line-height:1.6;color:#444;}
 .download-btn{display:inline-block;margin-top:15px;padding:10px 18px;background:#1e90ff;color:#fff;text-decoration:none;border-radius:6px;font-weight:600;transition:0.3s;}
 .download-btn:hover{background:#187bcd;}
 footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top:1px solid #ddd;color:#555;font-size:14px;}
@@ -119,7 +117,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 .game-header{flex-direction:column;align-items:center;}
 .game-cover img{max-width:100%;}
 .game-info h1{text-align:center;font-size:22px;}
-.meta,.description{text-align:center;}
+.meta{text-align:center;}
 .download-btn{display:block;width:100%;text-align:center;}
 }
 </style>
@@ -141,9 +139,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <p><strong>Developer:</strong> ${tool.creator}</p>
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
-<div class="description">
-Description available on official page ⬇️
-</div>
+<p style="margin-top:15px;">Description available on the official page ⬇️</p>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
 </div>
@@ -185,7 +181,7 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          cover: repo.owner.avatar_url || "default-cover.jpg"
+          cover: repo.owner.avatar_url
         }
 
         tools.push(tool)
@@ -199,7 +195,7 @@ async function run(){
   // --- Self-healing and update old entries ---
   tools.forEach(tool=>{
     tool.console = detectConsole(tool.name)
-    if(!tool.cover) tool.cover = tool.owner?.avatar_url || "default-cover.jpg"
+    if(!tool.cover) tool.cover = tool.owner?.avatar_url
     createToolPage(tool)
   })
 
