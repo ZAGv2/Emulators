@@ -52,7 +52,7 @@ font-size:16px;
 display:none;
 position:absolute;
 background:#fff;
-min-width:180px;
+min-width:200px;
 box-shadow:0 6px 12px rgba(0,0,0,0.1);
 border-radius:6px;
 overflow:hidden;
@@ -99,7 +99,7 @@ color:#1e90ff;
 font-size:28px;
 }
 
-.meta p{margin:6px 0;font-size:15px;}
+.meta p{margin:6px 0;font-size:15px;color:#444;}
 
 .description{
 margin-top:15px;
@@ -111,8 +111,8 @@ color:#444;
 .download-btn {
 display:inline-block;
 margin-top:15px;
-padding:6px 14px;  /* smaller padding */
-font-size:14px;    /* smaller font */
+padding:6px 14px;
+font-size:14px;
 background:#1e90ff;
 color:#fff;
 text-decoration:none;
@@ -188,16 +188,13 @@ text-align:center;
 <div class="dropdown-content">
 
 <a href="https://zagv2.github.io/Homebrew-Games/">Homebrew Games</a>
-
 <a href="https://zagv2.github.io/romhacks-patches/">ROM Hacks & Patches</a>
-
 <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
 
 </div>
 </div>
 
 <a href="https://zagv2.github.io/ZAGArchive-/about.html">About</a>
-
 <a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
 
 </nav>
@@ -219,13 +216,9 @@ text-align:center;
 <h1>GAME_TITLE</h1>
 
 <div class="meta">
-
 <p><strong>Platform:</strong> CONSOLE_NAME</p>
-
 <p><strong>Developer:</strong> CREATOR_NAME</p>
-
 <p><strong>Version:</strong> RELEASE_YEAR</p>
-
 </div>
 
 <div class="description">
@@ -242,24 +235,25 @@ GAME_DESCRIPTION
 <footer>© 2026 ZAG Archive - Emulators</footer>
 
 <script>
-
-/* mobile + desktop dropdown */
-
+/* Dropdown toggle */
 const btn=document.querySelector('.dropbtn');
 const dropdown=document.querySelector('.dropdown-content');
 
 btn.addEventListener('click',(e)=>{
 e.preventDefault();
-dropdown.style.display =
-dropdown.style.display==="block" ? "none" : "block";
+dropdown.style.display = (dropdown.style.display==="block") ? "none" : "block";
 });
 
+/* Keep dropdown open when hovering on desktop */
+btn.parentElement.addEventListener('mouseenter',()=>{ dropdown.style.display="block"; });
+btn.parentElement.addEventListener('mouseleave',()=>{ dropdown.style.display="none"; });
+
+/* Close dropdown if click outside */
 window.addEventListener('click',(e)=>{
 if(!btn.contains(e.target) && !dropdown.contains(e.target)){
 dropdown.style.display="none";
 }
 });
-
 </script>
 
 </body>
