@@ -52,7 +52,7 @@ font-size:16px;
 display:none;
 position:absolute;
 background:#fff;
-min-width:200px;
+min-width:180px;
 box-shadow:0 6px 12px rgba(0,0,0,0.1);
 border-radius:6px;
 overflow:hidden;
@@ -99,7 +99,7 @@ color:#1e90ff;
 font-size:28px;
 }
 
-.meta p{margin:6px 0;font-size:15px;color:#444;}
+.meta p{margin:6px 0;font-size:15px;}
 
 .description{
 margin-top:15px;
@@ -111,8 +111,8 @@ color:#444;
 .download-btn {
 display:inline-block;
 margin-top:15px;
-padding:6px 14px;
-font-size:14px;
+padding:6px 14px;  /* smaller padding */
+font-size:14px;    /* smaller font */
 background:#1e90ff;
 color:#fff;
 text-decoration:none;
@@ -188,13 +188,16 @@ text-align:center;
 <div class="dropdown-content">
 
 <a href="https://zagv2.github.io/Homebrew-Games/">Homebrew Games</a>
+
 <a href="https://zagv2.github.io/romhacks-patches/">ROM Hacks & Patches</a>
+
 <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
 
 </div>
 </div>
 
 <a href="https://zagv2.github.io/ZAGArchive-/about.html">About</a>
+
 <a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
 
 </nav>
@@ -208,24 +211,24 @@ text-align:center;
 <div class="game-header">
 
 <div class="game-cover">
-<img src="COVER_IMAGE_URL" alt="GAME_TITLE Cover">
+<img id="cover-image" src="tools/logos/Default-cover.jpg" alt="GAME_TITLE Cover">
 </div>
 
 <div class="game-info">
 
-<h1>GAME_TITLE</h1>
+<h1 id="game-title">GAME_TITLE</h1>
 
 <div class="meta">
-<p><strong>Platform:</strong> CONSOLE_NAME</p>
-<p><strong>Developer:</strong> CREATOR_NAME</p>
-<p><strong>Version:</strong> RELEASE_YEAR</p>
+<p><strong>Platform:</strong> <span id="console-name">CONSOLE_NAME</span></p>
+<p><strong>Developer:</strong> <span id="creator-name">CREATOR_NAME</span></p>
+<p><strong>Version:</strong> <span id="version">RELEASE_YEAR</span></p>
 </div>
 
-<div class="description">
+<div class="description" id="game-description">
 GAME_DESCRIPTION
 </div>
 
-<a class="download-btn" href="GAME_ZIP_LINK" target="_blank">Visit Official Page</a>
+<a class="download-btn" id="official-link" href="#" target="_blank">Visit Official Page</a>
 
 </div>
 </div>
@@ -235,25 +238,42 @@ GAME_DESCRIPTION
 <footer>© 2026 ZAG Archive - Emulators</footer>
 
 <script>
-/* Dropdown toggle */
+/* mobile + desktop dropdown */
 const btn=document.querySelector('.dropbtn');
 const dropdown=document.querySelector('.dropdown-content');
 
 btn.addEventListener('click',(e)=>{
 e.preventDefault();
-dropdown.style.display = (dropdown.style.display==="block") ? "none" : "block";
+dropdown.style.display =
+dropdown.style.display==="block" ? "none" : "block";
 });
 
-/* Keep dropdown open when hovering on desktop */
-btn.parentElement.addEventListener('mouseenter',()=>{ dropdown.style.display="block"; });
-btn.parentElement.addEventListener('mouseleave',()=>{ dropdown.style.display="none"; });
-
-/* Close dropdown if click outside */
 window.addEventListener('click',(e)=>{
 if(!btn.contains(e.target) && !dropdown.contains(e.target)){
 dropdown.style.display="none";
+});
+
+/* Load tool details dynamically from tools.json */
+const params = new URLSearchParams(window.location.search);
+const slug = params.get('slug'); // expects URL like template.html?slug=usbdriveby
+
+if(slug){
+fetch('../../tools.json')
+.then(res=>res.json())
+.then(data=>{
+const tool = data.find(t=>t.slug===slug);
+if(tool){
+document.getElementById('game-title').textContent=tool.name;
+document.getElementById('console-name').textContent=tool.console || 'Multi Platform';
+document.getElementById('creator-name').textContent=tool.creator;
+document.getElementById('version').textContent=tool.version || '...';
+document.getElementById('game-description').textContent=tool.description || '';
+document.getElementById('official-link').href=tool.url;
+document.getElementById('cover-image').src=tool.cover || 'tools/logos/Default-cover.jpg';
+document.getElementById('cover-image').alt=tool.name + ' Cover';
 }
 });
+}
 </script>
 
 </body>
