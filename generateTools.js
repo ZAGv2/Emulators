@@ -1,18 +1,18 @@
-const fs = require("fs");
-const path = require("path");
-const fetch = require("node-fetch");
+const fs = require("fs")
+const path = require("path")
+const fetch = require("node-fetch")
 
-const TOOLS_FILE = "tools.json";
-const TOOLS_DIR = "tools";
-const LOGOS_DIR = path.join(TOOLS_DIR, "logos");
+const TOOLS_FILE = "tools.json"
+const TOOLS_DIR = "tools"
+const LOGOS_DIR = path.join(TOOLS_DIR, "logos")
 
-let tools = [];
-let seen = new Set();
+let tools = []
+let seen = new Set()
 
 // Load existing tools
 if (fs.existsSync(TOOLS_FILE)) {
-  tools = JSON.parse(fs.readFileSync(TOOLS_FILE));
-  tools.forEach(t => seen.add(t.url));
+  tools = JSON.parse(fs.readFileSync(TOOLS_FILE))
+  tools.forEach(t => seen.add(t.url))
 }
 
 // --- Console/platform detection map ---
@@ -43,18 +43,18 @@ const consoleMap = {
   "linux": "Linux",
   "android": "Android",
   "ios": "iOS"
-};
-
-// Detect console from repo name
-function detectConsole(name) {
-  const lower = name.toLowerCase();
-  for (const key in consoleMap) {
-    if (lower.includes(key)) return consoleMap[key];
-  }
-  return "Multi Platform";
 }
 
-// Base queries
+// Detect platform from repo name
+function detectConsole(name) {
+  const lower = name.toLowerCase()
+  for (const key in consoleMap) {
+    if (lower.includes(key)) return consoleMap[key]
+  }
+  return "Multi Platform"
+}
+
+// --- Base queries ---
 const queries = [
   "emulator","console emulator","retro emulator","open source emulator","hardware emulator",
   "nes emulator","snes emulator","n64 emulator",
@@ -66,42 +66,42 @@ const queries = [
   "xbox emulator","xbox 360 emulator",
   "dreamcast emulator","saturn emulator",
   "mame emulator","arcade emulator",
-  "dos emulator","windows emulator",
-  "linux emulator","android emulator","ios emulator"
-];
+  "dos emulator","windows emulator","linux emulator",
+  "android emulator","ios emulator"
+]
 
 // Alphabet expansion
-const alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
+const alphabet = "abcdefghijklmnopqrstuvwxyz".split("")
 alphabet.forEach(letter=>{
-  queries.push(`emulator ${letter}`);
-  queries.push(`console emulator ${letter}`);
-  queries.push(`retro emulator ${letter}`);
-});
+  queries.push(`emulator ${letter}`)
+  queries.push(`console emulator ${letter}`)
+  queries.push(`retro emulator ${letter}`)
+})
 
-// Slugify
 function slugify(text){
-  return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"");
+  return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
-// Get custom logo if exists, else default
-function getLogo(slug){
-  const logoExtensions = ["jpg","jpeg","png","webp","gif"];
-  for(const ext of logoExtensions){
-    const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`);
-    if(fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath);
+// Get custom logo if exists
+function getLogo(slug) {
+  const logoExtensions = ["jpg","jpeg","png","webp","gif"]
+  for (const ext of logoExtensions) {
+    const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
+    if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
   }
-  return "logos/default-cover.jpg";
+  return "logos/default-cover.jpg"
 }
 
-// Create emulator HTML page
+// Create tool page
 function createToolPage(tool){
-  const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform";
-  const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug);
-  if(!fs.existsSync(folder)) fs.mkdirSync(folder, { recursive: true });
+  const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
+  const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
+  if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
-  const htmlPath = path.join(folder, "index.html");
+  const htmlPath = path.join(folder,"index.html")
+  
+  const coverImage = tool.cover || getLogo(tool.slug)
 
-  const coverImage = tool.cover || getLogo(tool.slug);
   const html = `
 <!DOCTYPE html>
 <html lang="en">
@@ -148,7 +148,7 @@ nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}
 <header>
 <div class="site-title">ZAG <span>Archive</span></div>
 <nav>
-<a href="../../index.html">Back to Emulators</a>
+<a href="../../..">Home</a>
 <div class="dropdown">
 <button class="dropbtn">Sections ▼</button>
 <div class="dropdown-content">
@@ -161,8 +161,8 @@ nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}
 <a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
 </nav>
 </header>
-
 <div class="container">
+<a class="download-btn" href="../../..">← Back to Emulators</a>
 <div class="game-header">
 <div class="game-cover">
 <img src="${coverImage}" alt="${tool.name} Cover">
@@ -181,16 +181,13 @@ ${tool.description || "..."}
 </div>
 </div>
 </div>
-
 <footer>© 2026 ZAG Archive - Emulators</footer>
-
 <script>
 const btn=document.querySelector('.dropbtn');
 const dropdown=document.querySelector('.dropdown-content');
 btn.addEventListener('click',(e)=>{
 e.preventDefault();
-dropdown.style.display =
-dropdown.style.display==="block" ? "none" : "block";
+dropdown.style.display = dropdown.style.display==="block" ? "none" : "block";
 });
 window.addEventListener('click',(e)=>{
 if(!btn.contains(e.target) && !dropdown.contains(e.target)){
@@ -198,35 +195,34 @@ dropdown.style.display="none";
 }
 });
 </script>
-
 </body>
 </html>
-`;
+`
 
-  fs.writeFileSync(htmlPath, html);
+  fs.writeFileSync(htmlPath,html)
 }
 
 // --- Fetch GitHub ---
 async function fetchPage(query,page){
-  const url=`https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`;
-  const res = await fetch(url);
-  const data = await res.json();
-  return data.items || [];
+  const url=`https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`
+  const res = await fetch(url)
+  const data = await res.json()
+  return data.items || []
 }
 
 // --- Main ---
 async function run(){
   for(const query of queries){
-    let page=1;
+    let page=1
     while(true){
-      const repos = await fetchPage(query,page);
-      if(!repos.length) break;
+      const repos = await fetchPage(query,page)
+      if(!repos.length) break
 
       for(const repo of repos){
-        if(seen.has(repo.html_url)) continue;
-        seen.add(repo.html_url);
+        if(seen.has(repo.html_url)) continue
+        seen.add(repo.html_url)
 
-        const slug = slugify(repo.name);
+        const slug = slugify(repo.name)
 
         const tool = {
           name: repo.name,
@@ -235,26 +231,26 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          cover: null,            // JS will fill default if null
+          cover: null,
           description: repo.description || "..."
-        };
+        }
 
-        tools.push(tool);
-        createToolPage(tool);
+        tools.push(tool)
+        createToolPage(tool)
       }
 
-      page++;
+      page++
     }
   }
 
-  // --- Self-healing ---
+  // --- Self-healing and rebuild ---
   tools.forEach(tool=>{
-    tool.console = detectConsole(tool.name);
-    createToolPage(tool);
-  });
+    tool.console = detectConsole(tool.name)
+    createToolPage(tool)
+  })
 
-  fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools, null, 2));
-  console.log("Total emulators:", tools.length);
+  fs.writeFileSync(TOOLS_FILE,JSON.stringify(tools,null,2))
+  console.log("Total emulators:",tools.length)
 }
 
-run();
+run()
