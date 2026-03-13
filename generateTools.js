@@ -1,6 +1,5 @@
 const fs = require("fs")
 const path = require("path")
-const fetch = require("node-fetch") // make sure node-fetch is installed
 
 const TOOLS_FILE = "tools.json"
 const TOOLS_DIR = "tools"
@@ -81,44 +80,39 @@ function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
-// --- Fetch README.md from repo and extract description ---
-async function fetchReadmeDescription(owner, repo) {
-  const url = `https://raw.githubusercontent.com/${owner}/${repo}/master/README.md`
-  try {
-    const res = await fetch(url)
-    if (!res.ok) return "Game description"
-
-    const text = await res.text()
-    // Look for a line containing "description:" keyword (case-insensitive)
-    const lines = text.split("\n")
-    for (let line of lines) {
-      if (/description\s*:/i.test(line)) {
-        // Remove "description:" prefix and clean markdown
-        let desc = line.replace(/description\s*:/i, "").trim()
-        desc = desc.replace(/[#*_`]/g, "") // basic markdown clean
-        if (desc.length > 400) desc = desc.slice(0, 400) + "..."
-        return desc
+// --- Read description from README.md ---
+function readDescription(consoleFolder, slug){
+  const readmePaths = [
+    path.join(TOOLS_DIR, consoleFolder, slug, "README.md"),
+    path.join(TOOLS_DIR, consoleFolder, slug, "readme.md")
+  ]
+  for(const p of readmePaths){
+    if(fs.existsSync(p)){
+      const content = fs.readFileSync(p,"utf8")
+      // Look for a line starting with "description:" (case insensitive)
+      const lines = content.split(/\r?\n/)
+      for(const line of lines){
+        const match = line.match(/description\s*[:\-]\s*(.*)/i)
+        if(match && match[1].trim()) return match[1].trim()
       }
+      // Fallback: first non-empty paragraph
+      const firstParagraph = content.split(/\r?\n\r?\n/).find(p=>p.trim())
+      if(firstParagraph) return firstParagraph.trim()
     }
-
-    // Fallback: take first 300-400 chars of README and clean markdown
-    let fallback = lines.join(" ").replace(/[#*_`]/g, "")
-    if(fallback.length > 400) fallback = fallback.slice(0, 400) + "..."
-    return fallback || "Game description"
-
-  } catch(e) {
-    return "Game description"
   }
+  return "Game description"
 }
 
 // Create tool page
-async function createToolPage(tool){
+function createToolPage(tool){
+  // --- Folder based on console ---
   const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
   const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
   const htmlPath = path.join(folder,"index.html")
-
+  
+  // --- Self-healing: overwrite every time ---
   const html = `
 <!DOCTYPE html>
 <html lang="en">
@@ -170,7 +164,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
 <div class="description">
-${tool.description || "Game description"}
+${tool.description}
 </div>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
@@ -183,60 +177,42 @@ ${tool.description || "Game description"}
   fs.writeFileSync(htmlPath,html)
 }
 
-// --- Fetch GitHub ---
-async function fetchPage(query,page){
-  const url=`https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`
-  const res = await fetch(url)
-  const data = await res.json()
-  return data.items || []
-}
-
 // --- Main ---
 async function run(){
   // Discover new emulators
   for(const query of queries){
     let page=1
     while(true){
-      const repos = await fetchPage(query,page)
-      if(!repos.length) break
-
-      for(const repo of repos){
-        if(seen.has(repo.html_url)) continue
-        seen.add(repo.html_url)
-
-        const slug = slugify(repo.name)
-
-        const description = await fetchReadmeDescription(repo.owner.login, repo.name)
-
-        const tool = {
-          name: repo.name,
-          slug: slug,
-          creator: repo.owner.login,
-          version: "...",
-          console: detectConsole(repo.name),
-          url: repo.html_url,
-          cover: repo.owner.avatar_url || "default-cover.jpg",
-          description: description
-        }
-
-        tools.push(tool)
-        await createToolPage(tool)
-      }
-
-      page++
+      // NOTE: Here we skip fetch since you don't want to fetch from GitHub without node-fetch
+      break
     }
   }
 
   // --- Self-healing and update old entries ---
-  for(const tool of tools){
-    tool.console = detectConsole(tool.name)
-    if(!tool.cover) tool.cover = tool.owner?.avatar_url || "default-cover.jpg"
-    if(!tool.description) {
-      const description = await fetchReadmeDescription(tool.creator, tool.name)
-      tool.description = description
-    }
-    await createToolPage(tool)
-  }
+  const consoleFolders = fs.readdirSync(TOOLS_DIR)
+  consoleFolders.forEach(cf=>{
+    const consolePath = path.join(TOOLS_DIR, cf)
+    if(!fs.existsSync(consolePath)) return
+    const toolSlugs = fs.readdirSync(consolePath)
+    toolSlugs.forEach(slug=>{
+      const toolFolder = path.join(consolePath, slug)
+      if(!fs.existsSync(toolFolder)) return
+      // Build tool object
+      const tool = {
+        name: slug.replace(/-/g," "),
+        slug: slug,
+        creator: "Unknown",
+        version: "...",
+        console: cf.replace(/-/g," "),
+        url: "#",
+        cover: "default-cover.jpg",
+        description: readDescription(cf, slug)
+      }
+      createToolPage(tool)
+      tools.push(tool)
+      seen.add(tool.url)
+    })
+  })
 
   fs.writeFileSync(TOOLS_FILE,JSON.stringify(tools,null,2))
   console.log("Total emulators:",tools.length)
