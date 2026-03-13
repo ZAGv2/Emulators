@@ -30,7 +30,7 @@ nav a{
 margin-left:25px;
 text-decoration:none;
 color:#333;
-font-weight:600;
+font-weight:500;
 transition:0.2s;
 }
 
@@ -40,7 +40,7 @@ nav a:hover{color:#1e90ff;}
 
 .dropbtn{
 margin-left:25px;
-font-weight:600;
+font-weight:500;
 background:none;
 border:none;
 cursor:pointer;
@@ -186,13 +186,9 @@ text-align:center;
 <button class="dropbtn">Sections ▼</button>
 
 <div class="dropdown-content">
-
 <a href="https://zagv2.github.io/Homebrew-Games/">Homebrew Games</a>
-
 <a href="https://zagv2.github.io/romhacks-patches/">ROM Hacks & Patches</a>
-
 <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
-
 </div>
 </div>
 
@@ -206,29 +202,33 @@ text-align:center;
 
 <div class="container">
 
-<a class="download-btn" href="https://zagv2.github.io/Emulators/">← Back to Emulators</a>
+<a class="download-btn" href="../../index.html">← Back to Emulators</a>
 
 <div class="game-header">
 
 <div class="game-cover">
-<img id="cover-image" src="tools/logos/Default-cover.jpg" alt="GAME_TITLE Cover">
+<img src="COVER_IMAGE_URL" alt="GAME_TITLE Cover">
 </div>
 
 <div class="game-info">
 
-<h1 id="game-title">GAME_TITLE</h1>
+<h1>GAME_TITLE</h1>
 
 <div class="meta">
-<p><strong>Platform:</strong> <span id="console-name">CONSOLE_NAME</span></p>
-<p><strong>Developer:</strong> <span id="creator-name">CREATOR_NAME</span></p>
-<p><strong>Version:</strong> <span id="version">RELEASE_YEAR</span></p>
+
+<p><strong>Platform:</strong> CONSOLE_NAME</p>
+
+<p><strong>Developer:</strong> CREATOR_NAME</p>
+
+<p><strong>Version:</strong> RELEASE_YEAR</p>
+
 </div>
 
-<div class="description" id="game-description">
+<div class="description">
 GAME_DESCRIPTION
 </div>
 
-<a class="download-btn" id="official-link" href="#" target="_blank">Visit Official Page</a>
+<a class="download-btn" href="GAME_ZIP_LINK" target="_blank">Visit Official Page</a>
 
 </div>
 </div>
@@ -243,37 +243,16 @@ const btn=document.querySelector('.dropbtn');
 const dropdown=document.querySelector('.dropdown-content');
 
 btn.addEventListener('click',(e)=>{
-e.preventDefault();
-dropdown.style.display =
-dropdown.style.display==="block" ? "none" : "block";
+  e.preventDefault();
+  dropdown.style.display = dropdown.style.display==="block" ? "none" : "block";
 });
 
+// close dropdown if click outside
 window.addEventListener('click',(e)=>{
-if(!btn.contains(e.target) && !dropdown.contains(e.target)){
-dropdown.style.display="none";
+  if(!btn.contains(e.target) && !dropdown.contains(e.target)){
+    dropdown.style.display="none";
+  }
 });
-
-/* Load tool details dynamically from tools.json */
-const params = new URLSearchParams(window.location.search);
-const slug = params.get('slug'); // expects URL like template.html?slug=usbdriveby
-
-if(slug){
-fetch('../../tools.json')
-.then(res=>res.json())
-.then(data=>{
-const tool = data.find(t=>t.slug===slug);
-if(tool){
-document.getElementById('game-title').textContent=tool.name;
-document.getElementById('console-name').textContent=tool.console || 'Multi Platform';
-document.getElementById('creator-name').textContent=tool.creator;
-document.getElementById('version').textContent=tool.version || '...';
-document.getElementById('game-description').textContent=tool.description || '';
-document.getElementById('official-link').href=tool.url;
-document.getElementById('cover-image').src=tool.cover || 'tools/logos/Default-cover.jpg';
-document.getElementById('cover-image').alt=tool.name + ' Cover';
-}
-});
-}
 </script>
 
 </body>
