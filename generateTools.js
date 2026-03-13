@@ -7,7 +7,7 @@ const TOOLS_DIR = "tools"
 let tools = []
 let seen = new Set()
 
-// load existing tools
+// Load existing tools
 if (fs.existsSync(TOOLS_FILE)) {
   tools = JSON.parse(fs.readFileSync(TOOLS_FILE))
   tools.forEach(t => seen.add(t.url))
@@ -54,40 +54,39 @@ function detectConsole(name) {
 
 // --- Base queries ---
 const queries = [
-  "emulator", "console emulator", "retro emulator", "open source emulator", "hardware emulator",
-  "nes emulator", "snes emulator", "n64 emulator",
-  "gameboy emulator", "gba emulator", "gbc emulator",
-  "nds emulator", "3ds emulator",
-  "ps1 emulator", "ps2 emulator", "ps3 emulator",
-  "psp emulator", "psvita emulator",
+  "emulator","console emulator","retro emulator","open source emulator","hardware emulator",
+  "nes emulator","snes emulator","n64 emulator",
+  "gameboy emulator","gba emulator","gbc emulator",
+  "nds emulator","3ds emulator",
+  "ps1 emulator","ps2 emulator","ps3 emulator",
+  "psp emulator","psvita emulator",
   "switch emulator",
-  "xbox emulator", "xbox 360 emulator",
-  "dreamcast emulator", "saturn emulator",
-  "mame emulator", "arcade emulator",
-  "dos emulator", "windows emulator", "linux emulator",
-  "android emulator", "ios emulator"
+  "xbox emulator","xbox 360 emulator",
+  "dreamcast emulator","saturn emulator",
+  "mame emulator","arcade emulator",
+  "dos emulator","windows emulator","linux emulator",
+  "android emulator","ios emulator"
 ]
 
-// Alphabet expansion to discover more emulators
+// Alphabet expansion
 const alphabet = "abcdefghijklmnopqrstuvwxyz".split("")
-alphabet.forEach(letter => {
+alphabet.forEach(letter=>{
   queries.push(`emulator ${letter}`)
   queries.push(`console emulator ${letter}`)
   queries.push(`retro emulator ${letter}`)
 })
 
-// --- Helpers ---
-function slugify(text) {
+function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
-// Create tool page and folder if missing
-function createToolPage(tool) {
+// Create tool page
+function createToolPage(tool){
   const folder = path.join(TOOLS_DIR, tool.slug)
-  if (!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
+  if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
   const htmlPath = path.join(folder,"index.html")
-  if (fs.existsSync(htmlPath)) return // skip if page exists
+  if(fs.existsSync(htmlPath)) return
 
   const html = `
 <!DOCTYPE html>
@@ -108,27 +107,29 @@ function createToolPage(tool) {
   fs.writeFileSync(htmlPath,html)
 }
 
-// Fetch GitHub repos
-async function fetchPage(query,page) {
-  const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`
+// --- Fetch GitHub ---
+async function fetchPage(query,page){
+  const url=`https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`
   const res = await fetch(url)
   const data = await res.json()
   return data.items || []
 }
 
-// --- Main crawler ---
-async function run() {
-  for (const query of queries) {
-    let page = 1
-    while(true) {
+// --- Main ---
+async function run(){
+  // Discover new emulators
+  for(const query of queries){
+    let page=1
+    while(true){
       const repos = await fetchPage(query,page)
-      if (!repos.length) break
+      if(!repos.length) break
 
-      for (const repo of repos) {
-        if (seen.has(repo.html_url)) continue
+      for(const repo of repos){
+        if(seen.has(repo.html_url)) continue
         seen.add(repo.html_url)
 
         const slug = slugify(repo.name)
+
         const tool = {
           name: repo.name,
           slug: slug,
@@ -136,7 +137,7 @@ async function run() {
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          cover: repo.owner.avatar_url
+          cover: repo.owner.avatar_url || "default-cover.jpg"
         }
 
         tools.push(tool)
@@ -147,8 +148,15 @@ async function run() {
     }
   }
 
-  // --- Self-healing: rebuild missing pages ---
-  tools.forEach(tool => createToolPage(tool))
+  // --- Self-healing and update old entries ---
+  tools.forEach(tool=>{
+    // Update console for all tools (old + new)
+    tool.console = detectConsole(tool.name)
+    // Update cover if missing
+    if(!tool.cover) tool.cover = tool.owner?.avatar_url || "default-cover.jpg"
+    // Rebuild missing pages
+    createToolPage(tool)
+  })
 
   fs.writeFileSync(TOOLS_FILE,JSON.stringify(tools,null,2))
   console.log("Total emulators:",tools.length)
