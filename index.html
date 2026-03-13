@@ -82,6 +82,7 @@ const pagination = document.getElementById('pagination');
 const itemsPerPage = 20;
 let currentPage = 1;
 
+// --- Render Table ---
 function renderTable(page = 1, tools = allTools) {
   tbody.innerHTML = '';
   const start = (page - 1) * itemsPerPage;
@@ -91,7 +92,11 @@ function renderTable(page = 1, tools = allTools) {
   paginatedTools.forEach(tool => {
     const tr = document.createElement('tr');
     tr.innerHTML = `
-      <td><img src="${tool.icon || 'https://via.placeholder.com/32'}" alt="${tool.name} icon" style="width:32px;height:32px;border-radius:4px;"></td>
+      <td>
+        <img src="${tool.cover || '../default-cover.jpg'}" 
+             alt="${tool.name} cover" 
+             style="width:32px;height:32px;border-radius:4px;">
+      </td>
       <td><a href="tools/${tool.slug}/index.html" target="_blank">${tool.name}</a></td>
       <td>Multi Platform</td>
       <td>${tool.creator}</td>
@@ -99,22 +104,53 @@ function renderTable(page = 1, tools = allTools) {
     `;
     tbody.appendChild(tr);
   });
+
   renderPagination(tools.length, page);
 }
 
+// --- Render Pagination with << < ... > >> style ---
 function renderPagination(totalItems, page) {
   pagination.innerHTML = '';
   const totalPages = Math.ceil(totalItems / itemsPerPage);
-  for (let i = 1; i <= totalPages; i++) {
+  let startPage = Math.max(1, page - 2);
+  let endPage = Math.min(totalPages, startPage + 3);
+
+  // << First page
+  const first = document.createElement('button');
+  first.textContent = '<<';
+  first.disabled = page === 1;
+  first.addEventListener('click', () => { currentPage = 1; renderTable(currentPage, filteredTools()); });
+  pagination.appendChild(first);
+
+  // < Previous
+  const prev = document.createElement('button');
+  prev.textContent = '<';
+  prev.disabled = page === 1;
+  prev.addEventListener('click', () => { currentPage = Math.max(1,page-1); renderTable(currentPage, filteredTools()); });
+  pagination.appendChild(prev);
+
+  // Numbered pages
+  for(let i=startPage; i<=endPage; i++){
     const btn = document.createElement('button');
     btn.textContent = i;
-    if (i === page) btn.classList.add('active');
-    btn.addEventListener('click', () => {
-      currentPage = i;
-      renderTable(currentPage, filteredTools());
-    });
+    if(i === page) btn.classList.add('active');
+    btn.addEventListener('click',()=>{ currentPage=i; renderTable(currentPage, filteredTools()); });
     pagination.appendChild(btn);
   }
+
+  // > Next
+  const next = document.createElement('button');
+  next.textContent = '>';
+  next.disabled = page === totalPages;
+  next.addEventListener('click', () => { currentPage = Math.min(totalPages,page+1); renderTable(currentPage, filteredTools()); });
+  pagination.appendChild(next);
+
+  // >> Last
+  const last = document.createElement('button');
+  last.textContent = '>>';
+  last.disabled = page === totalPages;
+  last.addEventListener('click', () => { currentPage = totalPages; renderTable(currentPage, filteredTools()); });
+  pagination.appendChild(last);
 }
 
 // --- Search filter ---
