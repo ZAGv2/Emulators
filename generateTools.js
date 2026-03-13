@@ -1,18 +1,18 @@
-const fs = require("fs")
-const path = require("path")
-const fetch = require("node-fetch")
+const fs = require("fs");
+const path = require("path");
+const fetch = require("node-fetch");
 
-const TOOLS_FILE = "tools.json"
-const TOOLS_DIR = "tools"
-const LOGOS_DIR = path.join(TOOLS_DIR, "logos")
+const TOOLS_FILE = "tools.json";
+const TOOLS_DIR = "tools";
+const LOGOS_DIR = path.join(TOOLS_DIR, "logos");
 
-let tools = []
-let seen = new Set()
+let tools = [];
+let seen = new Set();
 
 // Load existing tools
 if (fs.existsSync(TOOLS_FILE)) {
-  tools = JSON.parse(fs.readFileSync(TOOLS_FILE))
-  tools.forEach(t => seen.add(t.url))
+  tools = JSON.parse(fs.readFileSync(TOOLS_FILE));
+  tools.forEach(t => seen.add(t.url));
 }
 
 // --- Console/platform detection map ---
@@ -43,15 +43,15 @@ const consoleMap = {
   "linux": "Linux",
   "android": "Android",
   "ios": "iOS"
-}
+};
 
 // Detect platform from repo name
 function detectConsole(name) {
-  const lower = name.toLowerCase()
+  const lower = name.toLowerCase();
   for (const key in consoleMap) {
-    if (lower.includes(key)) return consoleMap[key]
+    if (lower.includes(key)) return consoleMap[key];
   }
-  return "Multi Platform"
+  return "Multi Platform";
 }
 
 // --- Base queries ---
@@ -68,58 +68,57 @@ const queries = [
   "mame emulator","arcade emulator",
   "dos emulator","windows emulator","linux emulator",
   "android emulator","ios emulator"
-]
+];
 
 // Alphabet expansion
-const alphabet = "abcdefghijklmnopqrstuvwxyz".split("")
+const alphabet = "abcdefghijklmnopqrstuvwxyz".split("");
 alphabet.forEach(letter=>{
-  queries.push(`emulator ${letter}`)
-  queries.push(`console emulator ${letter}`)
-  queries.push(`retro emulator ${letter}`)
-})
+  queries.push(`emulator ${letter}`);
+  queries.push(`console emulator ${letter}`);
+  queries.push(`retro emulator ${letter}`);
+});
 
 function slugify(text){
-  return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
+  return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"");
 }
 
-// Get custom logo if exists
-function getLogo(slug){
-  const logoExtensions=["jpg","jpeg","png","webp","gif"]
-  for(const ext of logoExtensions){
-    const logoPath=path.join(LOGOS_DIR,`${slug}.${ext}`)
-    if(fs.existsSync(logoPath)) return path.relative(TOOLS_DIR,logoPath)
-  }
-  return "../../logos/Default-cover.jpg"
-}
-
-// Fetch repo contents to find first image
-async function fetchRepoImage(owner,repo){
-  try{
-    const url=`https://api.github.com/repos/${owner}/${repo}/contents/`
-    const res=await fetch(url)
-    const data=await res.json()
-    if(!Array.isArray(data)) return null
-    const imgFile=data.find(f=>/\.(png|jpe?g|gif|webp)$/i.test(f.name))
-    if(imgFile) return imgFile.download_url || `https://raw.githubusercontent.com/${owner}/${repo}/main/${imgFile.name}`
-    return null
-  }catch(e){
-    return null
+// --- Fetch GitHub repo files to find image ---
+async function findRepoImage(owner, repo) {
+  try {
+    const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents`);
+    const data = await res.json();
+    if (!Array.isArray(data)) return null;
+    // Search for first image file
+    const imgFile = data.find(f => /\.(png|jpe?g|gif|webp)$/i.test(f.name));
+    if (imgFile) return imgFile.download_url || imgFile.html_url || null;
+    return null;
+  } catch (e) {
+    return null;
   }
 }
 
-// Create tool page
-async function createToolPage(tool){
-  const consoleFolder=tool.console?tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-"):"multi-platform"
-  const folder=path.join(TOOLS_DIR,consoleFolder,tool.slug)
-  if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
+// Get custom logo if exists locally
+function getLocalLogo(slug) {
+  const logoExtensions = ["jpg","jpeg","png","webp","gif"];
+  for (const ext of logoExtensions) {
+    const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`);
+    if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath);
+  }
+  return null;
+}
 
-  const htmlPath=path.join(folder,"index.html")
+// Create template HTML for each emulator
+function createToolPage(tool) {
+  const consoleFolder = (tool.console || "Multi Platform").toLowerCase().replace(/[^a-z0-9]+/g,"-");
+  const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug);
+  if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true});
 
-  // Determine logo to use
-  let coverImage=tool.cover || getLogo(tool.slug)
-  if(coverImage.startsWith("http")===false) coverImage=getLogo(tool.slug)
+  const htmlPath = path.join(folder,"index.html");
 
-  const html=`
+  // Determine cover image
+  let coverImage = tool.cover || getLocalLogo(tool.slug) || "logos/default-cover.jpg";
+
+  const html = `
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -165,7 +164,7 @@ nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}
 <header>
 <div class="site-title">ZAG <span>Archive</span></div>
 <nav>
-<a href="../../..">Home</a>
+<a href="../../index.html">Back to Emulators</a>
 <div class="dropdown">
 <button class="dropbtn">Sections ▼</button>
 <div class="dropdown-content">
@@ -179,7 +178,6 @@ nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}
 </nav>
 </header>
 <div class="container">
-<a class="download-btn" href="../../..">← Back</a>
 <div class="game-header">
 <div class="game-cover">
 <img src="${coverImage}" alt="${tool.name} Cover">
@@ -192,7 +190,7 @@ nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
 <div class="description">
-${tool.description || "No description available."}
+${tool.description || "..."}
 </div>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
@@ -204,74 +202,73 @@ const btn=document.querySelector('.dropbtn');
 const dropdown=document.querySelector('.dropdown-content');
 btn.addEventListener('click',(e)=>{
 e.preventDefault();
-dropdown.style.display = dropdown.style.display==="block"?"none":"block";
+dropdown.style.display =
+dropdown.style.display==="block" ? "none" : "block";
 });
 window.addEventListener('click',(e)=>{
-if(!btn.contains(e.target)&&!dropdown.contains(e.target)){
+if(!btn.contains(e.target) && !dropdown.contains(e.target)){
 dropdown.style.display="none";
 }
 });
 </script>
 </body>
 </html>
-`
+`;
 
-  fs.writeFileSync(htmlPath,html)
+  fs.writeFileSync(htmlPath, html);
 }
 
 // --- Fetch GitHub ---
 async function fetchPage(query,page){
-  const url=`https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`
-  const res = await fetch(url)
-  const data = await res.json()
-  return data.items || []
+  const url=`https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=20&page=${page}`;
+  const res = await fetch(url);
+  const data = await res.json();
+  return data.items || [];
 }
 
 // --- Main ---
 async function run(){
   for(const query of queries){
-    let page=1
+    let page=1;
     while(true){
-      const repos = await fetchPage(query,page)
-      if(!repos.length) break
+      const repos = await fetchPage(query,page);
+      if(!repos.length) break;
 
       for(const repo of repos){
-        if(seen.has(repo.html_url)) continue
-        seen.add(repo.html_url)
+        if(seen.has(repo.html_url)) continue;
+        seen.add(repo.html_url);
 
-        const slug = slugify(repo.name)
+        const slug = slugify(repo.name);
 
-        let tool = {
+        // Fetch image from repo
+        const repoImage = await findRepoImage(repo.owner.login, repo.name);
+
+        const tool = {
           name: repo.name,
           slug: slug,
           creator: repo.owner.login,
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          description: repo.description || "",
-          cover: null
-        }
+          cover: repoImage,
+          description: repo.description || "..."
+        };
 
-        // Try to find image in repo
-        const img = await fetchRepoImage(repo.owner.login,repo.name)
-        if(img) tool.cover = img
-
-        tools.push(tool)
-        await createToolPage(tool)
+        tools.push(tool);
+        createToolPage(tool);
       }
-
-      page++
+      page++;
     }
   }
 
   // --- Self-healing and rebuild ---
-  for(const tool of tools){
-    tool.console = detectConsole(tool.name)
-    await createToolPage(tool)
-  }
+  tools.forEach(tool=>{
+    tool.console = detectConsole(tool.name);
+    createToolPage(tool);
+  });
 
-  fs.writeFileSync(TOOLS_FILE,JSON.stringify(tools,null,2))
-  console.log("Total emulators:",tools.length)
+  fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools,null,2));
+  console.log("Total emulators:",tools.length);
 }
 
-run()
+run();
