@@ -5,7 +5,8 @@ const TEMPLATE_PATH = path.join(__dirname, "template.html");
 const TOOLS_JSON = path.join(__dirname, "tools.json");
 const TOOLS_DIR = path.join(__dirname, "tools");
 const LOGOS_DIR = path.join(TOOLS_DIR, "logos");
-const DEFAULT_IMAGE = "../Default-cover.jpg";
+
+const DEFAULT_IMAGE = "../logos/Default-cover.jpg"; // Make sure this exists
 
 const GITHUB_SEARCH = [
   "https://api.github.com/search/repositories?q=emulator&sort=stars&order=desc&per_page=20",
@@ -28,25 +29,26 @@ function saveTools(data) {
   fs.writeFileSync(TOOLS_JSON, JSON.stringify(data, null, 2));
 }
 
-// --- Determine the best image for a tool ---
-function getCover(tool) {
+async function fetchRepos(url) {
+  const res = await fetch(url, { headers: { "User-Agent": "zag-archive-bot" } });
+  const data = await res.json();
+  return data.items || [];
+}
+
+async function getImage(tool) {
   // 1️⃣ Local logo
   const localPath = path.join(LOGOS_DIR, tool.slug + ".jpg");
   if (fs.existsSync(localPath)) return `../logos/${tool.slug}.jpg`;
 
-  // 2️⃣ GitHub repo/project avatar
+  // 2️⃣ GitHub avatar fallback
   if (tool.avatar) return tool.avatar;
 
-  // 3️⃣ GitHub owner avatar
-  if (tool.ownerAvatar) return tool.ownerAvatar;
-
-  // 4️⃣ Default placeholder
+  // 3️⃣ Default placeholder
   return DEFAULT_IMAGE;
 }
 
-// --- Generate individual HTML page for a tool ---
 async function generatePage(tool, template) {
-  const cover = getCover(tool);
+  const image = await getImage(tool);
   const version = tool.version || "...";
 
   let html = template
@@ -56,7 +58,8 @@ async function generatePage(tool, template) {
     .replace(/GAME_ZIP_LINK/g, tool.url)
     .replace(/CONSOLE_NAME/g, "Multi Platform")
     .replace(/RELEASE_YEAR/g, version)
-    .replace(/COVER_IMAGE_URL/g, cover);
+    .replace(/COVER_IMAGE_URL/g, image)
+    .replace(/GAME_ICON_URL/g, image); // Add this for index table if needed
 
   const toolFolder = path.join(TOOLS_DIR, tool.slug);
   if (!fs.existsSync(toolFolder)) fs.mkdirSync(toolFolder, { recursive: true });
@@ -66,13 +69,6 @@ async function generatePage(tool, template) {
     fs.writeFileSync(htmlPath, html);
     console.log("Updated:", tool.name);
   }
-}
-
-// --- Fetch repos from GitHub ---
-async function fetchRepos(url) {
-  const res = await fetch(url, { headers: { "User-Agent": "zag-archive-bot" } });
-  const data = await res.json();
-  return data.items || [];
 }
 
 async function run() {
@@ -93,14 +89,15 @@ async function run() {
         creator: repo.owner.login,
         description: repo.description || "Open source emulator",
         url: repo.html_url,
+        homepage: repo.homepage || null,
         version: "...",
-        slug: slug,
-        avatar: repo.owner.avatar_url,       // repo owner avatar
-        ownerAvatar: repo.owner.avatar_url    // fallback
+        avatar: repo.owner.avatar_url,
+        slug: slug
       };
 
-      if (existing) Object.assign(existing, toolData);
-      else {
+      if (existing) {
+        Object.assign(existing, toolData);
+      } else {
         tools.push(toolData);
         console.log("Added:", toolData.name);
       }
