@@ -141,7 +141,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <p><strong>Version:</strong> ${tool.version || "..."}</p>
 </div>
 <div class="description">
-${tool.description || "No description available"}
+${tool.description || ""}
 </div>
 <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
 </div>
@@ -185,7 +185,7 @@ async function run(){
           console: detectConsole(repo.name),
           url: repo.html_url,
           cover: repo.owner.avatar_url || "default-cover.jpg",
-          description: repo.description || "No description available"
+          description: repo.description || ""
         }
 
         tools.push(tool)
@@ -200,7 +200,7 @@ async function run(){
   tools.forEach(tool=>{
     tool.console = detectConsole(tool.name)
     if(!tool.cover) tool.cover = tool.owner?.avatar_url || "default-cover.jpg"
-    if(!tool.description) tool.description = tool.description || "No description available"
+    if(!tool.description) tool.description = tool.description || ""
     createToolPage(tool)
   })
 
