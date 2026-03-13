@@ -81,7 +81,7 @@ function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
 }
 
-// --- Recursively get image link from repo, optimized for common filenames ---
+// --- Recursively get image link from repo, including README.md fallback ---
 async function getRepoImage(owner, repo, pathInRepo = "") {
   const imageExtensions = ["jpg","jpeg","png","gif","webp"]
   const priorityFiles = ["cover", "screenshot", "logo"]
@@ -92,30 +92,45 @@ async function getRepoImage(owner, repo, pathInRepo = "") {
     const files = await res.json()
     if (!Array.isArray(files)) return null
 
-    // 1️⃣ Check priority filenames first
+    // 1️⃣ Priority filenames
     for (const file of files) {
       if (file.type === "file") {
         const lowerName = file.name.toLowerCase()
         if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
           for (const prefix of priorityFiles) {
-            if (lowerName.startsWith(prefix)) return file.download_url
+            if (lowerName.startsWith(prefix)) return `https://raw.githubusercontent.com/${owner}/${repo}/main/${file.path}`
           }
         }
       }
     }
 
-    // 2️⃣ If none of the priority files, check all images recursively
+    // 2️⃣ Any image recursively
     for (const file of files) {
       if (file.type === "file") {
         const lowerName = file.name.toLowerCase()
         if (imageExtensions.some(ext => lowerName.endsWith(ext))) {
-          return file.download_url
+          return `https://raw.githubusercontent.com/${owner}/${repo}/main/${file.path}`
         }
       } else if (file.type === "dir") {
         const nested = await getRepoImage(owner, repo, file.path)
         if (nested) return nested
       }
     }
+
+    // 3️⃣ Fallback: look for first image in README.md
+    const readmeUrl = `https://api.github.com/repos/${owner}/${repo}/contents/README.md`
+    const readmeRes = await fetch(readmeUrl)
+    const readmeData = await readmeRes.json()
+    if (readmeData && readmeData.content) {
+      const decoded = Buffer.from(readmeData.content, "base64").toString("utf-8")
+      const match = decoded.match(/!\[.*?\]\((.*?)\)/)
+      if (match && match[1]) {
+        let imgUrl = match[1]
+        if (!imgUrl.startsWith("http")) imgUrl = `https://raw.githubusercontent.com/${owner}/${repo}/main/${imgUrl.replace(/^.\//,'')}`
+        return imgUrl
+      }
+    }
+
   } catch(e) {
     console.log(`Failed to fetch images for ${owner}/${repo}:`, e.message)
   }
@@ -180,7 +195,12 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 </head>
 <body>
 <header>
-<div class="site-title">ZAG Archive</div>
+  <div class="site-title">ZAG Archive</div>
+  <nav>
+    <a href="../../..">Home</a>
+    <a href="../../categories.html">Categories</a>
+    <a href="../../about.html">About</a>
+  </nav>
 </header>
 <div class="container">
 <a class="download-btn" href="../../..">← Back</a>
@@ -237,7 +257,7 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          repoImage: repoImage, // Only the link
+          repoImage: repoImage, // only link
           description: repo.description // GitHub repo description
         }
 
