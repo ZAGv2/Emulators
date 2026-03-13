@@ -5508,5 +5508,145 @@
     "url": "https://github.com/simon-paris/gba.ninja",
     "repoImage": null,
     "description": "A port of visualboyadvance-m to JavaScript and a custom frontend"
+  },
+  {
+    "name": "NostalgiaLite",
+    "slug": "nostalgialite",
+    "creator": "huzongyao",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/huzongyao/NostalgiaLite",
+    "repoImage": "https://img.shields.io/appveyor/ci/gruntjs/grunt.svg",
+    "description": "Three game emulators: FC(Nes), GG, GBC for Android"
+  },
+  {
+    "name": "MagenBoy",
+    "slug": "magenboy",
+    "creator": "alloncm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alloncm/MagenBoy",
+    "repoImage": null,
+    "description": "GameBoy and GameBoy Color emulator written in Rust"
+  },
+  {
+    "name": "dawngb",
+    "slug": "dawngb",
+    "creator": "akatsuki105",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/akatsuki105/dawngb",
+    "repoImage": null,
+    "description": "GameBoy Color emulator written in Go."
+  },
+  {
+    "name": "gambatte-dms",
+    "slug": "gambatte-dms",
+    "creator": "bardeci",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bardeci/gambatte-dms",
+    "repoImage": null,
+    "description": "Gambatte-DMS is a GB/GBC emulator for handheld devices, using a modified Gambatte core."
+  },
+  {
+    "name": "gbcc",
+    "slug": "gbcc",
+    "creator": "philj56",
+    "version": "...",
+    "console": "Game Boy Color",
+    "url": "https://github.com/philj56/gbcc",
+    "repoImage": null,
+    "description": "Cross-platform Game Boy emulator written in C"
+  },
+  {
+    "name": "jsGBC",
+    "slug": "jsgbc",
+    "creator": "ardean",
+    "version": "...",
+    "console": "Game Boy Color",
+    "url": "https://github.com/ardean/jsGBC",
+    "repoImage": null,
+    "description": ":space_invader: A GameBoy Color Emulator written in JavaScript"
+  },
+  {
+    "name": "TransferBoy",
+    "slug": "transferboy",
+    "creator": "joeldipops",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joeldipops/TransferBoy",
+    "repoImage": null,
+    "description": "Gameboy Emulator for N64 using Transfer Pak.  Actual emulator logic largely written by https://github.com/koenk/gbc.  Runs on https://github.com/DragonMinded/libdragon"
+  },
+  {
+    "name": "gb-docs-ja",
+    "slug": "gb-docs-ja",
+    "creator": "akatsuki105",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/akatsuki105/gb-docs-ja",
+    "repoImage": null,
+    "description": "WIP: GameBoyの日本語リファレンスです"
+  },
+  {
+    "name": "goombacolor",
+    "slug": "goombacolor",
+    "creator": "Dwedit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Dwedit/goombacolor",
+    "repoImage": null,
+    "description": "GBC/GB emulator for GBA"
+  },
+  {
+    "name": "gbc",
+    "slug": "gbc",
+    "creator": "aksiksi",
+    "version": "...",
+    "console": "Game Boy Color",
+    "url": "https://github.com/aksiksi/gbc",
+    "repoImage": null,
+    "description": "A Gameboy Color (GBC) emulator written in Rust."
+  },
+  {
+    "name": "notorious_beeg",
+    "slug": "notorious-beeg",
+    "creator": "ITotalJustice",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ITotalJustice/notorious_beeg",
+    "repoImage": null,
+    "description": "gba emulator written in c++23"
+  },
+  {
+    "name": "GBCamera-Android-Manager",
+    "slug": "gbcamera-android-manager",
+    "creator": "Mraulio",
+    "version": "...",
+    "console": "Game Boy Color",
+    "url": "https://github.com/Mraulio/GBCamera-Android-Manager",
+    "repoImage": null,
+    "description": "Android app to manage a Game Boy Camera gallery and communicate via usb serial with Arduino Printer Emulator and GBxCart to get images."
+  },
+  {
+    "name": "guac",
+    "slug": "guac",
+    "creator": "aabalke",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aabalke/guac",
+    "repoImage": null,
+    "description": "GBA, GBC, DMG Emulator written in golang"
+  },
+  {
+    "name": "psp_rin",
+    "slug": "psp-rin",
+    "creator": "mbarczak",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/mbarczak/psp_rin",
+    "repoImage": null,
+    "description": "Psp Gameboy / Gameboy Color Emulator with rewind support"
   }
 ]
