@@ -1,6 +1,5 @@
 const fs = require("fs")
 const path = require("path")
-const fetch = require("node-fetch")
 
 const TOOLS_FILE = "tools.json"
 const TOOLS_DIR = "tools"
@@ -126,17 +125,14 @@ async function getRepoImage(owner, repo, pathInRepo = "") {
 
 // Get logo for HTML page
 function getLogo(slug, repoImage) {
-  // Use GitHub image link if available
   if (repoImage) return repoImage
 
-  // Use local custom logo if it exists
   const logoExtensions = ["jpg","jpeg","png","webp","gif"]
   for (const ext of logoExtensions) {
     const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
     if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
   }
 
-  // Fallback to default logo
   return "logos/Default-cover.jpg"
 }
 
@@ -148,7 +144,6 @@ function createToolPage(tool){
 
   const htmlPath = path.join(folder,"index.html")
   
-  // Determine logo to use
   const coverImage = getLogo(tool.slug, tool.repoImage)
 
   const html = `
@@ -233,8 +228,6 @@ async function run(){
         seen.add(repo.html_url)
 
         const slug = slugify(repo.name)
-
-        // --- Fetch repo image link recursively with priority filenames ---
         const repoImage = await getRepoImage(repo.owner.login, repo.name)
 
         const tool = {
@@ -244,8 +237,8 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          repoImage: repoImage, // Only the link, no download
-          description: repo.description // <-- Added GitHub repo description
+          repoImage: repoImage, // Only the link
+          description: repo.description // GitHub repo description
         }
 
         tools.push(tool)
