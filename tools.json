@@ -1198,5 +1198,1135 @@
     "url": "https://github.com/xoureldeen/Vectras-VM-Android",
     "repoImage": null,
     "description": "It's a Virtual Machine App for Android Which is Based on QEMU"
+  },
+  {
+    "name": "SameBoy",
+    "slug": "sameboy",
+    "creator": "LIJI32",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LIJI32/SameBoy",
+    "repoImage": "https://raw.githubusercontent.com/LIJI32/SameBoy/master/BootROMs/SameBoyLogo.png",
+    "description": "Game Boy and Game Boy Color emulator written in C"
+  },
+  {
+    "name": "android-emulator-container-scripts",
+    "slug": "android-emulator-container-scripts",
+    "creator": "google",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/google/android-emulator-container-scripts",
+    "repoImage": null,
+    "description": null
+  },
+  {
+    "name": "GPCS4",
+    "slug": "gpcs4",
+    "creator": "Inori",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Inori/GPCS4",
+    "repoImage": null,
+    "description": "A work-in-progress PlayStation 4 emulator."
+  },
+  {
+    "name": "lc3-vm",
+    "slug": "lc3-vm",
+    "creator": "justinmeiners",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/justinmeiners/lc3-vm",
+    "repoImage": null,
+    "description": "Write your own virtual machine for the LC-3 computer!"
+  },
+  {
+    "name": "cliclick",
+    "slug": "cliclick",
+    "creator": "BlueM",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BlueM/cliclick",
+    "repoImage": null,
+    "description": "macOS CLI tool for emulating mouse and keyboard events"
+  },
+  {
+    "name": "bsnes",
+    "slug": "bsnes",
+    "creator": "bsnes-emu",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/bsnes-emu/bsnes",
+    "repoImage": null,
+    "description": "bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use."
+  },
+  {
+    "name": "BotFramework-Emulator",
+    "slug": "botframework-emulator",
+    "creator": "microsoft",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/microsoft/BotFramework-Emulator",
+    "repoImage": null,
+    "description": "A desktop application that allows users to locally test and debug chat bots built with the Bot Framework SDK."
+  },
+  {
+    "name": "EKA2L1",
+    "slug": "eka2l1",
+    "creator": "EKA2L1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EKA2L1/EKA2L1",
+    "repoImage": null,
+    "description": "A Symbian OS/N-Gage emulator"
+  },
+  {
+    "name": "gbe_fork",
+    "slug": "gbe-fork",
+    "creator": "Detanup01",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Detanup01/gbe_fork",
+    "repoImage": null,
+    "description": "Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator"
+  },
+  {
+    "name": "ChameleonMini",
+    "slug": "chameleonmini",
+    "creator": "emsec",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/emsec/ChameleonMini",
+    "repoImage": null,
+    "description": "The ChameleonMini is a versatile contactless smartcard emulator compliant to NFC. The ChameleonMini was developed by https://kasper-oswald.de.  The device is available at https://shop.kasper.it. For further information see the Getting Started Page https://rawgit.com/emsec/ChameleonMini/master/Doc/Doxygen/html/_page__getting_started.html or the Wiki tab above."
+  },
+  {
+    "name": "android-emulator-m1-preview",
+    "slug": "android-emulator-m1-preview",
+    "creator": "google",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/google/android-emulator-m1-preview",
+    "repoImage": null,
+    "description": null
+  },
+  {
+    "name": "react-native-picker-select",
+    "slug": "react-native-picker-select",
+    "creator": "lawnstarter",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lawnstarter/react-native-picker-select",
+    "repoImage": null,
+    "description": "🔽 A Picker component for React Native which emulates the native <select> interfaces for iOS and Android"
+  },
+  {
+    "name": "jsemu",
+    "slug": "jsemu",
+    "creator": "fcambus",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fcambus/jsemu",
+    "repoImage": null,
+    "description": "A list of emulators written in the JavaScript programming language"
+  },
+  {
+    "name": "jor1k",
+    "slug": "jor1k",
+    "creator": "s-macke",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/s-macke/jor1k",
+    "repoImage": null,
+    "description": "Online OR1K Emulator running Linux"
+  },
+  {
+    "name": "forgottenserver",
+    "slug": "forgottenserver",
+    "creator": "otland",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/otland/forgottenserver",
+    "repoImage": null,
+    "description": "A free and open-source MMORPG server emulator written in C++"
+  },
+  {
+    "name": "VirtualSMC",
+    "slug": "virtualsmc",
+    "creator": "acidanthera",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/acidanthera/VirtualSMC",
+    "repoImage": null,
+    "description": "SMC emulator layer"
+  },
+  {
+    "name": "rootAVD",
+    "slug": "rootavd",
+    "creator": "newbit1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/newbit1/rootAVD",
+    "repoImage": null,
+    "description": "Script to root AVDs running with QEMU Emulator from Android Studio"
+  },
+  {
+    "name": "pegasus-frontend",
+    "slug": "pegasus-frontend",
+    "creator": "mmatyas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mmatyas/pegasus-frontend",
+    "repoImage": null,
+    "description": "A cross platform, customizable graphical frontend for launching emulators and managing your game collection."
+  },
+  {
+    "name": "mintty",
+    "slug": "mintty",
+    "creator": "mintty",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mintty/mintty",
+    "repoImage": null,
+    "description": "The Cygwin Terminal – terminal emulator for Cygwin, MSYS, and WSL"
+  },
+  {
+    "name": "selectivizr",
+    "slug": "selectivizr",
+    "creator": "keithclark",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/keithclark/selectivizr",
+    "repoImage": null,
+    "description": "selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8."
+  },
+  {
+    "name": "dosbox-staging",
+    "slug": "dosbox-staging",
+    "creator": "dosbox-staging",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/dosbox-staging/dosbox-staging",
+    "repoImage": null,
+    "description": "DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices."
+  },
+  {
+    "name": "Adrenaline",
+    "slug": "adrenaline",
+    "creator": "TheOfficialFloW",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheOfficialFloW/Adrenaline",
+    "repoImage": null,
+    "description": "Custom Firmware 6.61 Adrenaline for the PSP Emulator"
+  },
+  {
+    "name": "FabGL",
+    "slug": "fabgl",
+    "creator": "fdivitto",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fdivitto/FabGL",
+    "repoImage": null,
+    "description": "ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal"
+  },
+  {
+    "name": "mt32-pi",
+    "slug": "mt32-pi",
+    "creator": "dwhinham",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dwhinham/mt32-pi",
+    "repoImage": null,
+    "description": "🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth."
+  },
+  {
+    "name": "Mink",
+    "slug": "mink",
+    "creator": "minkphp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/minkphp/Mink",
+    "repoImage": null,
+    "description": "PHP web browser emulator abstraction"
+  },
+  {
+    "name": "php-terminal-gameboy-emulator",
+    "slug": "php-terminal-gameboy-emulator",
+    "creator": "gabrielrcouto",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/gabrielrcouto/php-terminal-gameboy-emulator",
+    "repoImage": null,
+    "description": "A PHP Terminal GameBoy Emulator"
+  },
+  {
+    "name": "macemu",
+    "slug": "macemu",
+    "creator": "cebix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cebix/macemu",
+    "repoImage": null,
+    "description": "Basilisk II and SheepShaver Macintosh emulators"
+  },
+  {
+    "name": "ares",
+    "slug": "ares",
+    "creator": "ares-emulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ares-emulator/ares",
+    "repoImage": null,
+    "description": "ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation."
+  },
+  {
+    "name": "flashfloppy",
+    "slug": "flashfloppy",
+    "creator": "keirf",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/keirf/flashfloppy",
+    "repoImage": null,
+    "description": "Floppy drive emulator for Gotek hardware"
+  },
+  {
+    "name": "firmware-analysis-toolkit",
+    "slug": "firmware-analysis-toolkit",
+    "creator": "attify",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/attify/firmware-analysis-toolkit",
+    "repoImage": null,
+    "description": "Toolkit to emulate firmware and analyse it for security vulnerabilities "
+  },
+  {
+    "name": "blizzless-diiis",
+    "slug": "blizzless-diiis",
+    "creator": "blizzless",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/blizzless/blizzless-diiis",
+    "repoImage": null,
+    "description": "Fully-functional open-source server implementation for Diablo 3"
+  },
+  {
+    "name": "AndroidNativeEmu",
+    "slug": "androidnativeemu",
+    "creator": "AeonLucid",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/AeonLucid/AndroidNativeEmu",
+    "repoImage": null,
+    "description": "Allows you to partly emulate an Android native library."
+  },
+  {
+    "name": "olcNES",
+    "slug": "olcnes",
+    "creator": "OneLoneCoder",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/OneLoneCoder/olcNES",
+    "repoImage": null,
+    "description": "NES Emulator, and Tutorial Video Code"
+  },
+  {
+    "name": "road-to-yuzu-without-switch",
+    "slug": "road-to-yuzu-without-switch",
+    "creator": "HerXayah",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/HerXayah/road-to-yuzu-without-switch",
+    "repoImage": null,
+    "description": "This Repo explains how to install the Yuzu Switch Emulator without a Switch. Also works for Suyu"
+  },
+  {
+    "name": "LaiNES",
+    "slug": "laines",
+    "creator": "AndreaOrru",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/AndreaOrru/LaiNES",
+    "repoImage": null,
+    "description": "Compact cycle-accurate NES emulator"
+  },
+  {
+    "name": "bot",
+    "slug": "bot",
+    "creator": "GramAddict",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GramAddict/bot",
+    "repoImage": null,
+    "description": "Completely free and open-source human-like Instagram bot. Powered by UIAutomator2 and compatible with basically any Android device 5.0+ that can run Instagram - real or emulated."
+  },
+  {
+    "name": "DualSenseX",
+    "slug": "dualsensex",
+    "creator": "Paliverse",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Paliverse/DualSenseX",
+    "repoImage": null,
+    "description": "Connect your DualSense Controller, use Adaptive Triggers, Emulate Xbox 360 or DualShock 4 through USB or Bluetooth on PC"
+  },
+  {
+    "name": "rt64",
+    "slug": "rt64",
+    "creator": "rt64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rt64/rt64",
+    "repoImage": null,
+    "description": "RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports."
+  },
+  {
+    "name": "aind",
+    "slug": "aind",
+    "creator": "aind-containers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aind-containers/aind",
+    "repoImage": null,
+    "description": "AinD: Android in Docker. Ain't an emulator."
+  },
+  {
+    "name": "herokuish",
+    "slug": "herokuish",
+    "creator": "gliderlabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gliderlabs/herokuish",
+    "repoImage": null,
+    "description": "Utility for emulating Heroku build and runtime tasks in containers"
+  },
+  {
+    "name": "AntiFakerAndroidChecker",
+    "slug": "antifakerandroidchecker",
+    "creator": "happylishang",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/happylishang/AntiFakerAndroidChecker",
+    "repoImage": null,
+    "description": "设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator "
+  },
+  {
+    "name": "ha-bridge",
+    "slug": "ha-bridge",
+    "creator": "bwssytems",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bwssytems/ha-bridge",
+    "repoImage": null,
+    "description": "Home automation bridge that emulates a Philips Hue light system and can control other systems such as a Vera, Harmony Hub, Nest, MiLight bulbs or any other system that has an http/https/tcp/udp interface. This is a compact impl to run on small format computers. This is impl started from this project https://github.com/armzilla/amazon-echo-ha-bridge."
+  },
+  {
+    "name": "wasmboy",
+    "slug": "wasmboy",
+    "creator": "torch2424",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/torch2424/wasmboy",
+    "repoImage": null,
+    "description": "Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️"
+  },
+  {
+    "name": "colors",
+    "slug": "colors",
+    "creator": "termstandard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/termstandard/colors",
+    "repoImage": null,
+    "description": "Color standards for terminal emulators"
+  },
+  {
+    "name": "fceux",
+    "slug": "fceux",
+    "creator": "TASEmulators",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TASEmulators/fceux",
+    "repoImage": null,
+    "description": "FCEUX, a NES Emulator"
+  },
+  {
+    "name": "cemu_graphic_packs",
+    "slug": "cemu-graphic-packs",
+    "creator": "cemu-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cemu-project/cemu_graphic_packs",
+    "repoImage": null,
+    "description": "Community Graphic Packs for Cemu"
+  },
+  {
+    "name": "gameboy",
+    "slug": "gameboy",
+    "creator": "mohanson",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/mohanson/gameboy",
+    "repoImage": null,
+    "description": "Full featured Cross-platform GameBoy emulator by Rust. Forever boys!."
+  },
+  {
+    "name": "binfmt",
+    "slug": "binfmt",
+    "creator": "tonistiigi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tonistiigi/binfmt",
+    "repoImage": null,
+    "description": "Cross-platform emulator collection distributed with Docker images."
+  },
+  {
+    "name": "SwiftTerm",
+    "slug": "swiftterm",
+    "creator": "migueldeicaza",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/migueldeicaza/SwiftTerm",
+    "repoImage": null,
+    "description": "Xterm/VT100 Terminal emulator in Swift"
+  },
+  {
+    "name": "pokegb",
+    "slug": "pokegb",
+    "creator": "binji",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/binji/pokegb",
+    "repoImage": null,
+    "description": "A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c++."
+  },
+  {
+    "name": "AndroidSDK",
+    "slug": "androidsdk",
+    "creator": "thyrlian",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/thyrlian/AndroidSDK",
+    "repoImage": null,
+    "description": "🐳 Full-fledged Android SDK Docker Image"
+  },
+  {
+    "name": "98",
+    "slug": "98",
+    "creator": "1j01",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/1j01/98",
+    "repoImage": null,
+    "description": "💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎"
+  },
+  {
+    "name": "Panda3DS",
+    "slug": "panda3ds",
+    "creator": "wheremyfoodat",
+    "version": "...",
+    "console": "Nintendo 3DS",
+    "url": "https://github.com/wheremyfoodat/Panda3DS",
+    "repoImage": null,
+    "description": "HLE 3DS emulator"
+  },
+  {
+    "name": "fake-gcs-server",
+    "slug": "fake-gcs-server",
+    "creator": "fsouza",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fsouza/fake-gcs-server",
+    "repoImage": null,
+    "description": "Google Cloud Storage emulator & testing library."
+  },
+  {
+    "name": "pywinassistant",
+    "slug": "pywinassistant",
+    "creator": "a-real-ai",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/a-real-ai/pywinassistant",
+    "repoImage": null,
+    "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions."
+  },
+  {
+    "name": "melonDS-android",
+    "slug": "melonds-android",
+    "creator": "rafaelvcaetano",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/rafaelvcaetano/melonDS-android",
+    "repoImage": null,
+    "description": "Android port of melonDS"
+  },
+  {
+    "name": "joycontrol",
+    "slug": "joycontrol",
+    "creator": "mart1nro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mart1nro/joycontrol",
+    "repoImage": null,
+    "description": "Emulate Nintendo Switch Controllers over Bluetooth"
+  },
+  {
+    "name": "higan",
+    "slug": "higan",
+    "creator": "higan-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/higan-emu/higan",
+    "repoImage": null,
+    "description": "higan is a multi-system emulator focused on accuracy, preservation, and configurability."
+  },
+  {
+    "name": "SmartGuitarAmp",
+    "slug": "smartguitaramp",
+    "creator": "GuitarML",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GuitarML/SmartGuitarAmp",
+    "repoImage": null,
+    "description": "Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier."
+  },
+  {
+    "name": "Mesen",
+    "slug": "mesen",
+    "creator": "SourMesen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SourMesen/Mesen",
+    "repoImage": null,
+    "description": "Mesen is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#"
+  },
+  {
+    "name": "nintengo",
+    "slug": "nintengo",
+    "creator": "nwidger",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nwidger/nintengo",
+    "repoImage": null,
+    "description": "An NES emulator written in Go"
+  },
+  {
+    "name": "FBNeo",
+    "slug": "fbneo",
+    "creator": "finalburnneo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/finalburnneo/FBNeo",
+    "repoImage": null,
+    "description": "FinalBurn Neo - We are Team FBNeo."
+  },
+  {
+    "name": "decaf-emu",
+    "slug": "decaf-emu",
+    "creator": "decaf-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/decaf-emu/decaf-emu",
+    "repoImage": null,
+    "description": "Researching Wii U emulation."
+  },
+  {
+    "name": "Bochs",
+    "slug": "bochs",
+    "creator": "bochs-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bochs-emu/Bochs",
+    "repoImage": null,
+    "description": "Bochs - Cross Platform x86 Emulator Project"
+  },
+  {
+    "name": "CEmu",
+    "slug": "cemu",
+    "creator": "CE-Programming",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CE-Programming/CEmu",
+    "repoImage": null,
+    "description": "Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features"
+  },
+  {
+    "name": "usbdriveby",
+    "slug": "usbdriveby",
+    "creator": "samyk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/samyk/usbdriveby",
+    "repoImage": null,
+    "description": "USBdriveby exploits the trust of USB devices by emulating an HID keyboard and mouse, installing a cross-platform firewall-evading backdoor, and rerouting DNS within seconds of plugging it in."
+  },
+  {
+    "name": "emupedia.github.io",
+    "slug": "emupedia-github-io",
+    "creator": "Emupedia",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Emupedia/emupedia.github.io",
+    "repoImage": null,
+    "description": "The purpose of Emupedia is to serve as a nonprofit meta-resource, hub and community for those interested mainly in video game preservation which aims to digitally collect, archive and preserve games and software to make them available online accessible by a user-friendly UI that simulates several retro operating systems for educational purposes."
+  },
+  {
+    "name": "NanoBoyAdvance",
+    "slug": "nanoboyadvance",
+    "creator": "nba-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nba-emu/NanoBoyAdvance",
+    "repoImage": null,
+    "description": "A cycle-accurate Nintendo Game Boy Advance emulator."
+  },
+  {
+    "name": "uEmu",
+    "slug": "uemu",
+    "creator": "alexhude",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alexhude/uEmu",
+    "repoImage": null,
+    "description": "Tiny cute emulator plugin for IDA based on unicorn."
+  },
+  {
+    "name": "psx_retroshader",
+    "slug": "psx-retroshader",
+    "creator": "dsoft20",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dsoft20/psx_retroshader",
+    "repoImage": null,
+    "description": "Shader that \"emulates\" the rendering style of ps1"
+  },
+  {
+    "name": "android-emulator-runner",
+    "slug": "android-emulator-runner",
+    "creator": "ReactiveCircus",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/ReactiveCircus/android-emulator-runner",
+    "repoImage": null,
+    "description": "A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines."
+  },
+  {
+    "name": "RVVM",
+    "slug": "rvvm",
+    "creator": "LekKit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LekKit/RVVM",
+    "repoImage": null,
+    "description": "The RISC-V Virtual Machine "
+  },
+  {
+    "name": "pixl.js",
+    "slug": "pixl-js",
+    "creator": "solosky",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/solosky/pixl.js",
+    "repoImage": null,
+    "description": "An emulator for Amiibo!"
+  },
+  {
+    "name": "NeuralPi",
+    "slug": "neuralpi",
+    "creator": "GuitarML",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GuitarML/NeuralPi",
+    "repoImage": null,
+    "description": "Raspberry Pi guitar pedal using neural networks to emulate real amps and effects."
+  },
+  {
+    "name": "simple64",
+    "slug": "simple64",
+    "creator": "simple64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/simple64/simple64",
+    "repoImage": null,
+    "description": "Accurate N64 Emulator"
+  },
+  {
+    "name": "metroboy",
+    "slug": "metroboy",
+    "creator": "aappleby",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aappleby/metroboy",
+    "repoImage": null,
+    "description": "A repository of gate-level simulators and tools for the original Game Boy."
+  },
+  {
+    "name": "chips",
+    "slug": "chips",
+    "creator": "floooh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/floooh/chips",
+    "repoImage": null,
+    "description": "8-bit chip and system emulators in standalone C headers"
+  },
+  {
+    "name": "dwc_network_server_emulator",
+    "slug": "dwc-network-server-emulator",
+    "creator": "barronwaffles",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/barronwaffles/dwc_network_server_emulator",
+    "repoImage": null,
+    "description": "A Nintendo DS and Wii server emulator."
+  },
+  {
+    "name": "libtcod",
+    "slug": "libtcod",
+    "creator": "libtcod",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/libtcod/libtcod",
+    "repoImage": null,
+    "description": "A collection of tools and algorithms for developing traditional roguelikes.  Such as field-of-view, pathfinding, and a tile-based terminal emulator."
+  },
+  {
+    "name": "coffee-gb",
+    "slug": "coffee-gb",
+    "creator": "trekawek",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/trekawek/coffee-gb",
+    "repoImage": null,
+    "description": "Gameboy emulator in Java and Kotlin."
+  },
+  {
+    "name": "nostalgist",
+    "slug": "nostalgist",
+    "creator": "arianrhodsandlot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/arianrhodsandlot/nostalgist",
+    "repoImage": null,
+    "description": "A JavaScript library used for running emulators of retro consoles inside browsers."
+  },
+  {
+    "name": "quadplay",
+    "slug": "quadplay",
+    "creator": "morgan3d",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/morgan3d/quadplay",
+    "repoImage": null,
+    "description": "The quadplay✜ fantasy console"
+  },
+  {
+    "name": "distribution",
+    "slug": "distribution",
+    "creator": "JustEnoughLinuxOS",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JustEnoughLinuxOS/distribution",
+    "repoImage": null,
+    "description": "Home of the JELOS Linux distribution."
+  },
+  {
+    "name": "fake-08",
+    "slug": "fake-08",
+    "creator": "jtothebell",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jtothebell/fake-08",
+    "repoImage": null,
+    "description": "A Pico-8 player/emulator for console homebrew"
+  },
+  {
+    "name": "terminology",
+    "slug": "terminology",
+    "creator": "borisfaure",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/borisfaure/terminology",
+    "repoImage": null,
+    "description": "The best terminal emulator based on the Enlightenment Foundation Libraries"
+  },
+  {
+    "name": "jquery-console",
+    "slug": "jquery-console",
+    "creator": "chrisdone-archive",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/chrisdone-archive/jquery-console",
+    "repoImage": null,
+    "description": "A simple JQuery console emulator"
+  },
+  {
+    "name": "kmscon",
+    "slug": "kmscon",
+    "creator": "kmscon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kmscon/kmscon",
+    "repoImage": null,
+    "description": "Linux KMS/DRM based virtual Console Emulator"
+  },
+  {
+    "name": "emulator",
+    "slug": "emulator",
+    "creator": "nesbox",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nesbox/emulator",
+    "repoImage": null,
+    "description": "Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles"
+  },
+  {
+    "name": "esplay-retro-emulation",
+    "slug": "esplay-retro-emulation",
+    "creator": "pebri86",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pebri86/esplay-retro-emulation",
+    "repoImage": null,
+    "description": "Retro Emulation Collection for ESPlay Hardware, an ESP32 based game console"
+  },
+  {
+    "name": "emu2",
+    "slug": "emu2",
+    "creator": "dmsc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dmsc/emu2",
+    "repoImage": null,
+    "description": "Simple x86 and DOS emulator for the Linux terminal."
+  },
+  {
+    "name": "IronBoy",
+    "slug": "ironboy",
+    "creator": "Chiplis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Chiplis/IronBoy",
+    "repoImage": null,
+    "description": "A Gameboy emulator written in Rust as both a learning exercise and a love letter to the console that got me into gaming."
+  },
+  {
+    "name": "atari800",
+    "slug": "atari800",
+    "creator": "atari800",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/atari800/atari800",
+    "repoImage": null,
+    "description": "Atari 8-bit computer and 5200 console emulator"
+  },
+  {
+    "name": "DomTerm",
+    "slug": "domterm",
+    "creator": "PerBothner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PerBothner/DomTerm",
+    "repoImage": null,
+    "description": "DOM/JavaScript-based terminal-emulator/console"
+  },
+  {
+    "name": "react-console-emulator",
+    "slug": "react-console-emulator",
+    "creator": "linuswillner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linuswillner/react-console-emulator",
+    "repoImage": null,
+    "description": "👨‍💻 A simple, powerful and highly customisable Unix terminal emulator for React."
+  },
+  {
+    "name": "zepto8",
+    "slug": "zepto8",
+    "creator": "samhocevar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/samhocevar/zepto8",
+    "repoImage": null,
+    "description": "🕹️ Fantasy fantasy console emulator emulator"
+  },
+  {
+    "name": "Gopher2600",
+    "slug": "gopher2600",
+    "creator": "JetSetIlly",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JetSetIlly/Gopher2600",
+    "repoImage": null,
+    "description": "Gopher2600 is an emulator for the Atari 2600 games console"
+  },
+  {
+    "name": "xenon",
+    "slug": "xenon",
+    "creator": "xenon-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xenon-emu/xenon",
+    "repoImage": null,
+    "description": "Xbox 360 Low Level Emulator written for the purpose of researching on the Xenon Game Console hardware internals."
+  },
+  {
+    "name": "tac08",
+    "slug": "tac08",
+    "creator": "0xcafed00d",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/0xcafed00d/tac08",
+    "repoImage": null,
+    "description": "tac08 is an an emulation of the runtime part of the Pico-8 fantasy console. It takes a .p8 (text format) pico-8 cart file and runs it as closely posible"
+  },
+  {
+    "name": "awesome-emulators-simulators",
+    "slug": "awesome-emulators-simulators",
+    "creator": "mcicolella",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mcicolella/awesome-emulators-simulators",
+    "repoImage": null,
+    "description": "A curated list of software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more..."
+  },
+  {
+    "name": "fpg1",
+    "slug": "fpg1",
+    "creator": "hrvach",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hrvach/fpg1",
+    "repoImage": null,
+    "description": "FPGA implementation of DEC PDP-1 computer (1959) in Verilog, with CRT, Teletype and Console."
+  },
+  {
+    "name": "godot-xterm",
+    "slug": "godot-xterm",
+    "creator": "lihop",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lihop/godot-xterm",
+    "repoImage": null,
+    "description": "Terminal emulator for the Godot game engine."
+  },
+  {
+    "name": "ConsoleEx",
+    "slug": "consoleex",
+    "creator": "nickprotop",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nickprotop/ConsoleEx",
+    "repoImage": null,
+    "description": "SharpConsoleUI — A .NET 8+ console windowing system with overlapping windows, 30+ controls, embedded terminal emulator, canvas drawing, and async per-window threads."
+  },
+  {
+    "name": "pico-ios",
+    "slug": "pico-ios",
+    "creator": "jevonlipsey",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/jevonlipsey/pico-ios",
+    "repoImage": null,
+    "description": "An iOS Native Emulator for the PICO-8 fantasy console. Free and Open Source. Experimental Alpha available for Android!"
+  },
+  {
+    "name": "Xbox-Emulator-Files",
+    "slug": "xbox-emulator-files",
+    "creator": "K3V1991",
+    "version": "...",
+    "console": "Xbox",
+    "url": "https://github.com/K3V1991/Xbox-Emulator-Files",
+    "repoImage": null,
+    "description": "BIOS, MCPX, and HDD Image Files"
+  },
+  {
+    "name": "galacritty",
+    "slug": "galacritty",
+    "creator": "valpackett",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/valpackett/galacritty",
+    "repoImage": null,
+    "description": "[Abandoned experiment] GTK terminal emulator based on Alacritty [USE WEZTERM!]"
+  },
+  {
+    "name": "emukit",
+    "slug": "emukit",
+    "creator": "exokitxr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/exokitxr/emukit",
+    "repoImage": null,
+    "description": "WebXR immersive console emulator w/ Retroach, Javascript, and WASM"
+  },
+  {
+    "name": "Bobcat",
+    "slug": "bobcat",
+    "creator": "ismail-yilmaz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ismail-yilmaz/Bobcat",
+    "repoImage": null,
+    "description": "A powerful yet user-friendly cross-platform terminal emulator."
+  },
+  {
+    "name": "meru",
+    "slug": "meru",
+    "creator": "tanakh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tanakh/meru",
+    "repoImage": null,
+    "description": "Multiple game consoles emulator written in Rust"
+  },
+  {
+    "name": "leash",
+    "slug": "leash",
+    "creator": "jcubic",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jcubic/leash",
+    "repoImage": null,
+    "description": "Browser Shell"
+  },
+  {
+    "name": "witty",
+    "slug": "witty",
+    "creator": "syssecfsu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/syssecfsu/witty",
+    "repoImage": null,
+    "description": "Web-based interactive terminal emulator that allows users to easily record, share, and replay console sessions. "
+  },
+  {
+    "name": "sparkler",
+    "slug": "sparkler",
+    "creator": "shuveb",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shuveb/sparkler",
+    "repoImage": null,
+    "description": "A virtual machine monitor and a tiny \"operating system\" to go with it. When you start Sparkler, it creates a virtual machine using Linux's KVM API. It is written in C and emulates a serial console and some other devices that fetch a tweet from an account, etc."
+  },
+  {
+    "name": "CHIPnGo",
+    "slug": "chipngo",
+    "creator": "kurtjd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kurtjd/CHIPnGo",
+    "repoImage": null,
+    "description": "A custom-built CHIP-8 hand-held gaming console powered by a STM32 microcontroller."
+  },
+  {
+    "name": "gritty",
+    "slug": "gritty",
+    "creator": "cloudcmd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cloudcmd/gritty",
+    "repoImage": null,
+    "description": "web terminal emulator"
   }
 ]
