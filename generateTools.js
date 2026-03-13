@@ -45,7 +45,7 @@ const consoleMap = {
   "ios": "iOS"
 };
 
-// Detect platform from repo name
+// Detect console from repo name
 function detectConsole(name) {
   const lower = name.toLowerCase();
   for (const key in consoleMap) {
@@ -54,7 +54,7 @@ function detectConsole(name) {
   return "Multi Platform";
 }
 
-// --- Base queries ---
+// Base queries
 const queries = [
   "emulator","console emulator","retro emulator","open source emulator","hardware emulator",
   "nes emulator","snes emulator","n64 emulator",
@@ -66,8 +66,8 @@ const queries = [
   "xbox emulator","xbox 360 emulator",
   "dreamcast emulator","saturn emulator",
   "mame emulator","arcade emulator",
-  "dos emulator","windows emulator","linux emulator",
-  "android emulator","ios emulator"
+  "dos emulator","windows emulator",
+  "linux emulator","android emulator","ios emulator"
 ];
 
 // Alphabet expansion
@@ -78,46 +78,30 @@ alphabet.forEach(letter=>{
   queries.push(`retro emulator ${letter}`);
 });
 
+// Slugify
 function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"");
 }
 
-// --- Fetch GitHub repo files to find image ---
-async function findRepoImage(owner, repo) {
-  try {
-    const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents`);
-    const data = await res.json();
-    if (!Array.isArray(data)) return null;
-    // Search for first image file
-    const imgFile = data.find(f => /\.(png|jpe?g|gif|webp)$/i.test(f.name));
-    if (imgFile) return imgFile.download_url || imgFile.html_url || null;
-    return null;
-  } catch (e) {
-    return null;
-  }
-}
-
-// Get custom logo if exists locally
-function getLocalLogo(slug) {
+// Get custom logo if exists, else default
+function getLogo(slug){
   const logoExtensions = ["jpg","jpeg","png","webp","gif"];
-  for (const ext of logoExtensions) {
+  for(const ext of logoExtensions){
     const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`);
-    if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath);
+    if(fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath);
   }
-  return null;
+  return "logos/default-cover.jpg";
 }
 
-// Create template HTML for each emulator
-function createToolPage(tool) {
-  const consoleFolder = (tool.console || "Multi Platform").toLowerCase().replace(/[^a-z0-9]+/g,"-");
+// Create emulator HTML page
+function createToolPage(tool){
+  const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform";
   const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug);
-  if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true});
+  if(!fs.existsSync(folder)) fs.mkdirSync(folder, { recursive: true });
 
-  const htmlPath = path.join(folder,"index.html");
+  const htmlPath = path.join(folder, "index.html");
 
-  // Determine cover image
-  let coverImage = tool.cover || getLocalLogo(tool.slug) || "logos/default-cover.jpg";
-
+  const coverImage = tool.cover || getLogo(tool.slug);
   const html = `
 <!DOCTYPE html>
 <html lang="en">
@@ -177,6 +161,7 @@ nav a,.dropbtn{margin-left:0;margin-right:15px;margin-bottom:8px;}
 <a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
 </nav>
 </header>
+
 <div class="container">
 <div class="game-header">
 <div class="game-cover">
@@ -196,7 +181,9 @@ ${tool.description || "..."}
 </div>
 </div>
 </div>
+
 <footer>© 2026 ZAG Archive - Emulators</footer>
+
 <script>
 const btn=document.querySelector('.dropbtn');
 const dropdown=document.querySelector('.dropdown-content');
@@ -211,6 +198,7 @@ dropdown.style.display="none";
 }
 });
 </script>
+
 </body>
 </html>
 `;
@@ -240,9 +228,6 @@ async function run(){
 
         const slug = slugify(repo.name);
 
-        // Fetch image from repo
-        const repoImage = await findRepoImage(repo.owner.login, repo.name);
-
         const tool = {
           name: repo.name,
           slug: slug,
@@ -250,25 +235,26 @@ async function run(){
           version: "...",
           console: detectConsole(repo.name),
           url: repo.html_url,
-          cover: repoImage,
+          cover: null,            // JS will fill default if null
           description: repo.description || "..."
         };
 
         tools.push(tool);
         createToolPage(tool);
       }
+
       page++;
     }
   }
 
-  // --- Self-healing and rebuild ---
+  // --- Self-healing ---
   tools.forEach(tool=>{
     tool.console = detectConsole(tool.name);
     createToolPage(tool);
   });
 
-  fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools,null,2));
-  console.log("Total emulators:",tools.length);
+  fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools, null, 2));
+  console.log("Total emulators:", tools.length);
 }
 
 run();
