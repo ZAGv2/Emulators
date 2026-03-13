@@ -15,7 +15,7 @@ if (fs.existsSync(TOOLS_FILE)) {
   tools.forEach(t => seen.add(t.url))
 }
 
-// --- Console/platform detection map ---
+// Console/platform mapping
 const consoleMap = {
   "nes": "Nintendo Entertainment System",
   "snes": "Super Nintendo",
@@ -45,7 +45,6 @@ const consoleMap = {
   "ios": "iOS"
 }
 
-// Detect console/platform
 function detectConsole(name) {
   const lower = name.toLowerCase()
   for (const key in consoleMap) {
@@ -91,7 +90,7 @@ function getLogo(slug) {
   return "logos/Default-cover.jpg"
 }
 
-// Create HTML page for tool
+// Create/update HTML page for tool
 function createToolPage(tool){
   const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
   const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
@@ -113,10 +112,10 @@ header{background:#fff;padding:15px 40px;display:flex;justify-content:space-betw
 .site-title{font-weight:700;font-size:20px;color:#1e90ff;text-transform:uppercase;}
 .site-title span{margin-left:5px;}
 nav{display:flex;align-items:center;flex-wrap:wrap;}
-nav a{margin-left:25px;text-decoration:none;color:#333;font-weight:600;transition:0.2s;}
+nav a{margin-left:25px;text-decoration:none;color:#333;font-weight:500;transition:0.2s;}
 nav a:hover{color:#1e90ff;}
 .dropdown{position:relative;display:inline-block;}
-.dropbtn{margin-left:25px;font-weight:600;background:none;border:none;cursor:pointer;color:#333;font-size:16px;}
+.dropbtn{margin-left:25px;font-weight:500;background:none;border:none;cursor:pointer;color:#333;font-size:16px;}
 .dropdown-content{display:none;position:absolute;background:#fff;min-width:180px;box-shadow:0 6px 12px rgba(0,0,0,0.1);border-radius:6px;overflow:hidden;top:38px;z-index:200;}
 .dropdown-content a{display:block;padding:10px 15px;text-decoration:none;color:#333;font-weight:500;}
 .dropdown-content a:hover{background:#f0f2f5;color:#1e90ff;}
@@ -137,7 +136,9 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <header>
 <div class="site-title">ZAG <span>Archive</span></div>
 <nav>
-<a href="../../..">Back to Emulators</a>
+<a href="https://zagv2.github.io/ZAGArchive-/">Home</a>
+<a href="https://zagv2.github.io/ZAGArchive-/about.html">About</a>
+<a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
 <div class="dropdown">
 <button class="dropbtn">Sections ▼</button>
 <div class="dropdown-content">
@@ -146,6 +147,7 @@ footer{margin-top:60px;padding:25px;text-align:center;background:#fff;border-top
 <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
 </div>
 </div>
+<a class="download-btn" href="../../index.html">← Back to Emulators</a>
 </nav>
 </header>
 
@@ -192,10 +194,8 @@ function fetchPage(query, page) {
       let data = ''
       res.on('data', chunk => data += chunk)
       res.on('end', () => {
-        try {
-          const json = JSON.parse(data)
-          resolve(json.items || [])
-        } catch (err) { resolve([]) }
+        try { const json = JSON.parse(data); resolve(json.items || []) } 
+        catch (err) { resolve([]) }
       })
     }).on('error', err => reject(err))
   })
@@ -214,8 +214,6 @@ async function run() {
         seen.add(repo.html_url)
 
         const slug = slugify(repo.name)
-
-        // Attempt to get repo image: use owner avatar
         const cover = repo.owner.avatar_url || getLogo(slug)
 
         const tool = {
@@ -229,14 +227,21 @@ async function run() {
           description: repo.description || "..."
         }
 
-        tools.push(tool)
+        // Check if tool already exists
+        const existingIndex = tools.findIndex(t => t.url === tool.url)
+        if (existingIndex > -1) {
+          tools[existingIndex] = tool // update data
+        } else {
+          tools.push(tool)
+        }
+
         createToolPage(tool)
       }
       page++
     }
   }
 
-  // Self-healing
+  // Self-healing / regenerate all pages
   tools.forEach(tool => {
     tool.console = detectConsole(tool.name)
     createToolPage(tool)
