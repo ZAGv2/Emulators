@@ -82,7 +82,9 @@ function slugify(text){
 
 // Create tool page
 function createToolPage(tool){
-  const folder = path.join(TOOLS_DIR, tool.slug)
+  // --- New: Folder based on console ---
+  const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
+  const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
   const htmlPath = path.join(folder,"index.html")
