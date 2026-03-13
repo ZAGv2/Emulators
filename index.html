@@ -1,333 +1,127 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Emulators - ZAG Archive</title>
-
 <style>
-
-body{
-margin:0;
-font-family:'Segoe UI',sans-serif;
-background:#f0f2f5;
-color:#222;
-}
-
-header{
-background:#fff;
-padding:15px 30px;
-display:flex;
-justify-content:space-between;
-align-items:center;
-box-shadow:0 2px 6px rgba(0,0,0,0.1);
-flex-wrap:wrap;
-}
-
-.site-title{
-font-weight:700;
-font-size:20px;
-color:#1e90ff;
-text-transform:uppercase;
-}
-
-nav{
-display:flex;
-flex-wrap:wrap;
-align-items:center;
-}
-
-nav a{
-margin-left:20px;
-text-decoration:none;
-color:#333;
-font-weight:600;
-}
-
-nav a:hover{
-color:#1e90ff;
-}
-
-.dropdown{
-position:relative;
-}
-
-.dropbtn{
-margin-left:20px;
-font-weight:600;
-background:none;
-border:none;
-cursor:pointer;
-color:#333;
-font-size:16px;
-}
-
-.dropdown-content{
-display:none;
-position:absolute;
-background:#fff;
-min-width:200px;
-box-shadow:0 4px 8px rgba(0,0,0,0.1);
-border-radius:6px;
-margin-top:8px;
-overflow:hidden;
-}
-
-.dropdown-content a{
-display:block;
-padding:10px 15px;
-text-decoration:none;
-color:#333;
-}
-
-.dropdown-content a:hover{
-background:#f0f8ff;
-color:#1e90ff;
-}
-
-.dropdown:hover .dropdown-content{
-display:block;
-}
-
-.container{
-max-width:1100px;
-margin:40px auto;
-padding:0 15px;
-}
-
-#searchBar{
-width:100%;
-max-width:350px;
-padding:8px 12px;
-margin-bottom:20px;
-border-radius:6px;
-border:1px solid #ccc;
-}
-
-.game-table{
-width:100%;
-border-collapse:collapse;
-background:#fff;
-border-radius:12px;
-overflow:hidden;
-box-shadow:0 6px 12px rgba(0,0,0,0.08);
-}
-
-.game-table th,
-.game-table td{
-padding:12px 10px;
-border-bottom:1px solid #ddd;
-font-size:14px;
-text-align:left;
-}
-
-.game-table th{
-background:#f7f7f7;
-color:#1e90ff;
-}
-
-.game-table tr:hover{
-background:#f0f8ff;
-cursor:pointer;
-}
-
-.pagination{
-text-align:center;
-margin-top:20px;
-margin-bottom:50px;
-}
-
-.pagination button{
-margin:2px;
-padding:8px 12px;
-border:none;
-background:#1e90ff;
-color:#fff;
-border-radius:6px;
-cursor:pointer;
-font-weight:600;
-}
-
-.pagination button.active{
-background:#555;
-}
-
-footer{
-background:#fff;
-padding:25px;
-text-align:center;
-border-top:1px solid #ddd;
-color:#555;
-font-size:14px;
-}
-
+body{margin:0;font-family:'Segoe UI',sans-serif;background:#f0f2f5;color:#222;}
+header{background:#fff;padding:15px 30px;display:flex;justify-content:space-between;align-items:center;box-shadow:0 2px 6px rgba(0,0,0,0.1);flex-wrap:wrap;}
+.site-title{font-weight:700;font-size:20px;color:#1e90ff;text-transform:uppercase;}
+nav{display:flex;flex-wrap:wrap;align-items:center;}
+nav a{margin-left:20px;text-decoration:none;color:#333;font-weight:600;}
+nav a:hover{color:#1e90ff;}
+.dropdown{position:relative;}
+.dropbtn{margin-left:20px;font-weight:600;background:none;border:none;cursor:pointer;color:#333;font-size:16px;}
+.dropdown-content{display:none;position:absolute;background:#fff;min-width:200px;box-shadow:0 4px 8px rgba(0,0,0,0.1);border-radius:6px;margin-top:8px;overflow:hidden;}
+.dropdown-content a{display:block;padding:10px 15px;text-decoration:none;color:#333;}
+.dropdown-content a:hover{background:#f0f8ff;color:#1e90ff;}
+.container{max-width:1100px;margin:40px auto;padding:0 15px;}
+#searchBar{width:100%;max-width:350px;padding:8px 12px;margin-bottom:20px;border-radius:6px;border:1px solid #ccc;}
+.game-table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 6px 12px rgba(0,0,0,0.08);}
+.game-table th,.game-table td{padding:12px 10px;border-bottom:1px solid #ddd;font-size:14px;text-align:left;}
+.game-table th{background:#f7f7f7;color:#1e90ff;}
+.game-table tr:hover{background:#f0f8ff;cursor:pointer;}
+.pagination{text-align:center;margin-top:20px;margin-bottom:50px;}
+.pagination button{margin:2px;padding:8px 12px;border:none;background:#1e90ff;color:#fff;border-radius:6px;cursor:pointer;font-weight:600;}
+.pagination button.active{background:#555;}
+footer{background:#fff;padding:25px;text-align:center;border-top:1px solid #ddd;color:#555;font-size:14px;}
 </style>
-
 </head>
-
 <body>
-
 <header>
-
 <div class="site-title">ZAG Archive</div>
-
 <nav>
-
 <a href="https://zagv2.github.io/ZAGArchive-/">Home</a>
-
 <div class="dropdown">
-
 <button class="dropbtn">Sections ▼</button>
-
 <div class="dropdown-content">
-
 <a href="https://zagv2.github.io/Homebrew-Games/">Homebrew Games</a>
-
 <a href="https://zagv2.github.io/romhacks-patches/">ROM Hacks & Patches</a>
-
 <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
-
 </div>
 </div>
-
 <a href="https://zagv2.github.io/ZAGArchive-/about.html">About</a>
-
 <a href="https://zagv2.github.io/ZAGArchive-/contact.html">Contact</a>
-
 </nav>
-
 </header>
-
-
 <div class="container">
-
 <input type="text" id="searchBar" placeholder="Search emulator">
-
 <table class="game-table" id="allGamesTable">
-
 <thead>
-
-<tr>
-<th>Icon</th>
-<th>Emulator</th>
-<th>Platform</th>
-<th>Developer</th>
-<th>Version</th>
-</tr>
-
+<tr><th>Icon</th><th>Emulator</th><th>Platform</th><th>Developer</th><th>Version</th></tr>
 </thead>
-
 <tbody></tbody>
-
 </table>
-
 <div class="pagination" id="pagination"></div>
-
 </div>
-
-
-<footer>
-
-© 2026 ZAG Archive - Emulators
-
-</footer>
-
-
+<footer>© 2026 ZAG Archive - Emulators</footer>
 <script>
-
-let allTools = []
-
-const tbody = document.querySelector('#allGamesTable tbody')
-const pagination = document.getElementById('pagination')
-
-const itemsPerPage = 20
-let currentPage = 1
-
-function renderTable(page=1, tools=allTools){
-  tbody.innerHTML = ""
-
-  const start = (page-1) * itemsPerPage
-  const end = start + itemsPerPage
-
-  const pageItems = tools.slice(start, end)
-
-  pageItems.forEach(tool=>{
-    const consoleFolder = (tool.console || "Multi Platform").toLowerCase().replace(/[^a-z0-9]+/g,"-")
-    const img = tool.cover ? tool.cover : "tools/logos/Default-cover.jpg"
-
-    const tr = document.createElement("tr")
-    tr.innerHTML = `
-      <td>
-        <img src="${img}" style="width:32px;height:32px;border-radius:4px;">
-      </td>
-      <td>
-        <a href="tools/${consoleFolder}/${tool.slug}/index.html" target="_blank">${tool.name}</a>
-      </td>
-      <td>${tool.console || "Multi Platform"}</td>
-      <td>${tool.creator}</td>
-      <td>${tool.version || "..."}</td>
-    `
-    tbody.appendChild(tr)
-  })
-
-  renderPagination(tools.length, page)
+let allTools=[]
+const tbody=document.querySelector('#allGamesTable tbody')
+const pagination=document.getElementById('pagination')
+const itemsPerPage=20
+let currentPage=1
+function renderTable(page=1,tools=allTools){
+tbody.innerHTML=""
+const start=(page-1)*itemsPerPage
+const end=start+itemsPerPage
+const pageItems=tools.slice(start,end)
+pageItems.forEach(tool=>{
+const consoleFolder=(tool.console||"Multi Platform").toLowerCase().replace(/[^a-z0-9]+/g,"-")
+const img=tool.cover||"tools/logos/default-cover.jpg"
+const tr=document.createElement("tr")
+tr.innerHTML=`
+<td><img src="${img}" style="width:32px;height:32px;border-radius:4px;"></td>
+<td><a href="tools/${consoleFolder}/${tool.slug}/index.html" target="_blank">${tool.name}</a></td>
+<td>${tool.console||"Multi Platform"}</td>
+<td>${tool.creator}</td>
+<td>${tool.version||"..."}</td>
+`
+tbody.appendChild(tr)
+})
+renderPagination(tools.length,page)
 }
-
-function renderPagination(total, page){
-  pagination.innerHTML = ""
-  const totalPages = Math.ceil(total / itemsPerPage)
-
-  if(page > 1){
-    pagination.appendChild(btn("<<", 1))
-    pagination.appendChild(btn("<", page-1))
-  }
-
-  let start = Math.max(1, page-1)
-  let end = Math.min(totalPages, start+3)
-
-  for(let i=start; i<=end; i++){
-    const b = btn(i, i)
-    if(i===page) b.classList.add("active")
-    pagination.appendChild(b)
-  }
-
-  if(page < totalPages){
-    pagination.appendChild(btn(">", page+1))
-    pagination.appendChild(btn(">>", totalPages))
-  }
+function renderPagination(total,page){
+pagination.innerHTML=""
+const totalPages=Math.ceil(total/itemsPerPage)
+if(page>1){
+pagination.appendChild(btn("<<",1))
+pagination.appendChild(btn("<",page-1))
 }
-
-function btn(text, page){
-  const b = document.createElement("button")
-  b.textContent = text
-  b.onclick = () => {
-    currentPage = page
-    renderTable(currentPage, filtered())
-  }
-  return b
+let start=Math.max(1,page-1)
+let end=Math.min(totalPages,start+3)
+for(let i=start;i<=end;i++){
+const b=btn(i,i)
+if(i===page) b.classList.add("active")
+pagination.appendChild(b)
 }
-
+if(page<totalPages){
+pagination.appendChild(btn(">",page+1))
+pagination.appendChild(btn(">>",totalPages))
+}
+}
+function btn(text,page){
+const b=document.createElement("button")
+b.textContent=text
+b.onclick=()=>{
+currentPage=page
+renderTable(currentPage,filtered())
+}
+return b
+}
 function filtered(){
-  const val = document.getElementById("searchBar").value.toLowerCase()
-  return allTools.filter(t => t.name.toLowerCase().includes(val))
+const val=document.getElementById("searchBar").value.toLowerCase()
+return allTools.filter(t=>t.name.toLowerCase().includes(val))
 }
-
-document.getElementById("searchBar").addEventListener("input", ()=>{
-  currentPage = 1
-  renderTable(currentPage, filtered())
+document.getElementById("searchBar").addEventListener("input",()=>{
+currentPage=1
+renderTable(currentPage,filtered())
 })
-
-fetch("tools.json")
-.then(res => res.json())
-.then(data => {
-  allTools = data
-  renderTable(1)
+fetch("tools.json").then(res=>res.json()).then(data=>{
+allTools=data
+renderTable(1)
 })
-
 </script>
-
-
 </body>
 </html>
