@@ -237,7 +237,7 @@ function renderTable(page=1, tools=allTools){
     const tr=document.createElement("tr")
     tr.innerHTML=`
       <td><img src="${img}" style="width:32px;height:32px;border-radius:4px;"></td>
-      <td><a href="tools/${consoleFolder}/${tool.slug}/index.html" target="_blank">${tool.name}</a></td>
+      <td><a href="tools/${consoleFolder}/${tool.slug}/index.html" target=">${tool.name}</a></td>
       <td>${tool.console || "Multi Platform"}</td>
       <td>${tool.creator}</td>
       <td>${tool.version || "..."}</td>
