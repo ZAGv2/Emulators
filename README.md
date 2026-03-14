@@ -1,4 +1,5 @@
 # ZAG Archive – Emulators
+![Legal / Safe Content](https://img.shields.io/badge/Legal-Safe%20Content-brightgreen)
 
 Welcome to **ZAG Archive**, the curated collection of retro and modern emulators.  
 Each emulator page is automatically generated from GitHub repositories and includes details like platform, developer, version, and official links.
