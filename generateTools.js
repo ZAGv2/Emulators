@@ -67,50 +67,108 @@ function detectConsole(name) {
 }
 
 // ==================================================
-//                 SEARCH QUERIES
+//                ALL QUERY BATCHES
 // ==================================================
-const queries = [
-  "emulator","console emulator","retro emulator","open source emulator","hardware emulator",
-  "nes emulator","snes emulator","n64 emulator",
-  "gameboy emulator","gba emulator","gbc emulator",
-  "nds emulator","3ds emulator",
-  "ps1 emulator","ps2 emulator","ps3 emulator",
-  "psp emulator","psvita emulator",
-  "switch emulator",
-  "xbox emulator","xbox 360 emulator",
-  "dreamcast emulator","saturn emulator",
-  "mame emulator","arcade emulator",
-  "dos emulator","windows emulator","linux emulator",
-  "android emulator","ios emulator","emulation",
-  "emulator","console-emulation","retro-emulation",
-  "emulator fork:true"
-]
 
-// Alphabet expansion to catch more repos
+// 1️⃣ Best-known emulators / popular
+const popularQueries = [
+  "dolphin emulator",
+  "pcsx2 emulator",
+  "yuzu emulator",
+  "ppsspp emulator",
+  "citra emulator",
+  "retroarch",
+  "mednafen emulator",
+  "mame emulator",
+  "stella emulator",
+  "higan emulator"
+];
+
+// 2️⃣ High-star emulators
+const starQueries = [
+  "emulator stars:>500",
+  "nes emulator stars:>100",
+  "snes emulator stars:>100",
+  "n64 emulator stars:>100",
+  "gba emulator stars:>50",
+  "psp emulator stars:>50",
+  "switch emulator stars:>50"
+];
+
+// 3️⃣ Recently updated / active emulators
+const recentQueries = [
+  "emulator pushed:>2023-01-01",
+  "nes emulator pushed:>2023-01-01",
+  "snes emulator pushed:>2023-01-01",
+  "n64 emulator pushed:>2023-01-01",
+  "gba emulator pushed:>2023-01-01",
+  "psp emulator pushed:>2023-01-01",
+  "switch emulator pushed:>2023-01-01"
+];
+
+// 4️⃣ Alphabet / catch-all expansion
+const alphabetQueries = [];
 "abcdefghijklmnopqrstuvwxyz".split("").forEach(letter => {
-  queries.push(`emulator ${letter}`)
-  queries.push(`console emulator ${letter}`)
-  queries.push(`retro emulator ${letter}`)
-})
+  alphabetQueries.push(`emulator ${letter}`);
+  alphabetQueries.push(`console emulator ${letter}`);
+  alphabetQueries.push(`retro emulator ${letter}`);
+});
+
+// 5️⃣ Older emulators (legacy)
+const oldEmulatorQueries = [
+  "emulator created:<2015-01-01",
+  "nes emulator created:<2015-01-01",
+  "snes emulator created:<2015-01-01",
+  "n64 emulator created:<2015-01-01",
+  "gba emulator created:<2015-01-01",
+  "nds emulator created:<2015-01-01",
+  "3ds emulator created:<2015-01-01",
+  "ps1 emulator created:<2015-01-01",
+  "ps2 emulator created:<2015-01-01",
+  "ps3 emulator created:<2015-01-01",
+  "psp emulator created:<2015-01-01",
+  "psvita emulator created:<2015-01-01",
+  "switch emulator created:<2015-01-01",
+  "xbox emulator created:<2015-01-01",
+  "dreamcast emulator created:<2015-01-01",
+  "mame emulator created:<2015-01-01",
+  "arcade emulator created:<2015-01-01",
+  "dos emulator created:<2015-01-01",
+  "windows emulator created:<2015-01-01",
+  "linux emulator created:<2015-01-01",
+  "android emulator created:<2015-01-01",
+  "ios emulator created:<2015-01-01"
+];
 
 // ==================================================
-//                 SLUGIFY FUNCTION
+//            ROTATION SYSTEM PER RUN
 // ==================================================
-function slugify(text){
-  return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
+const allBatches = [
+  popularQueries,
+  starQueries,
+  recentQueries,
+  alphabetQueries,
+  oldEmulatorQueries
+];
+
+// Load last batch index from file or start at 0
+let lastBatchIndex = 0;
+const batchFile = ".lastBatchIndex.json";
+if (fs.existsSync(batchFile)) {
+  try {
+    lastBatchIndex = JSON.parse(fs.readFileSync(batchFile)).lastBatchIndex;
+  } catch { lastBatchIndex = 0; }
 }
 
-// ==================================================
-//                GET LOGO FUNCTION
-// ==================================================
-function getLogo(slug) {
-  const logoExtensions = ["jpg","jpeg","png","webp","gif"]
-  for (const ext of logoExtensions) {
-    const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
-    if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
-  }
-  return "logos/Default-cover.jpg"
-}
+// Select current batch for this run
+const queries = allBatches[lastBatchIndex];
+
+// Update last batch index for next run
+lastBatchIndex = (lastBatchIndex + 1) % allBatches.length;
+fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex }));
+
+console.log("Running batch index:", lastBatchIndex);
+console.log("Queries for this run:", queries);
 
 // ==================================================
 //             CREATE TOOL HTML PAGE
