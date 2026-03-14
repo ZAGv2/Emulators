@@ -171,6 +171,25 @@ console.log("Running batch index:", lastBatchIndex);
 console.log("Queries for this run:", queries);
 
 // ==================================================
+//                 SLUGIFY FUNCTION
+// ==================================================
+function slugify(text){
+  return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
+}
+
+// ==================================================
+//                GET LOGO FUNCTION
+// ==================================================
+function getLogo(slug) {
+  const logoExtensions = ["jpg","jpeg","png","webp","gif"]
+  for (const ext of logoExtensions) {
+    const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
+    if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
+  }
+  return "logos/Default-cover.jpg"
+}
+
+// ==================================================
 //             CREATE TOOL HTML PAGE
 // ==================================================
 function createToolPage(tool){
