@@ -1,24 +1,37 @@
-name: Generate Tools
+name: Generate Tools Pages
 
+# Manual trigger and scheduled trigger every 30 minutes
 on:
+  workflow_dispatch:  # Run manually anytime
   schedule:
-    - cron: "0 * * * *"   # Runs at minute 0 of every hour
-  workflow_dispatch:       # Allows manual run
+    - cron: '*/30 * * * *'  # Every 30 minutes
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      # 1️⃣ Checkout repository
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # Needed to push changes
+
+      # 2️⃣ Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "18"
-      - name: Install dependencies
-        run: npm install
-      - name: Run generateTools script
+          node-version: '20'
+
+      # 3️⃣ Run generateTools.js
+      - name: Run generateTools.js
         run: node generateTools.js
-      - name: Commit & Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 4️⃣ Commit & push changes automatically
+      - name: Commit & Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add tools tools.json
+          git commit -m "Auto-update emulator pages" || echo "No changes to commit"
+          git push
