@@ -66,7 +66,9 @@ const queries = [
   "dreamcast emulator","saturn emulator",
   "mame emulator","arcade emulator",
   "dos emulator","windows emulator","linux emulator",
-  "android emulator","ios emulator"
+  "android emulator","ios emulator" , "emulation" , 
+  "emulator" , "console-emulation" , "retro-emulation" , 
+  "emulator fork:true" , 
 ]
 
 // Alphabet expansion
