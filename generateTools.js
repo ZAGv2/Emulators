@@ -157,18 +157,26 @@ const batchFile = ".lastBatchIndex.json";
 if (fs.existsSync(batchFile)) {
   try {
     lastBatchIndex = JSON.parse(fs.readFileSync(batchFile)).lastBatchIndex;
-  } catch { lastBatchIndex = 0; }
+  } catch {
+    lastBatchIndex = 0;
+  }
 }
 
 // Select current batch for this run
 const queries = allBatches[lastBatchIndex];
-
-// Update last batch index for next run
-lastBatchIndex = (lastBatchIndex + 1) % allBatches.length;
-fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex }));
-
 console.log("Running batch index:", lastBatchIndex);
 console.log("Queries for this run:", queries);
+
+// Immediately write a backup, so even if crash happens we have it saved
+const nextBatchIndex = (lastBatchIndex + 1) % allBatches.length;
+fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex: nextBatchIndex }));
+
+// Also ensure we write on process exit (extra safety)
+process.on('exit', () => {
+  fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex: nextBatchIndex }));
+});
+process.on('SIGINT', () => process.exit()); // Ctrl+C
+process.on('SIGTERM', () => process.exit());
 
 // ==================================================
 //                 SLUGIFY FUNCTION
