@@ -231,23 +231,23 @@ footer { margin-top:60px; padding:25px; text-align:center; background:#fff; bord
 <div class="container">
   <div class="game-header">
     <div class="game-cover">
-      <img src="\${coverImage}" alt="\${tool.name} Cover">
+      <img src="${coverImage}" alt="${tool.name} Cover">
     </div>
 
     <div class="game-info">
-      <h1>\${tool.name}</h1>
+      <h1>${tool.name}</h1>
 
       <div class="meta">
-        <p><strong>Platform:</strong> \${tool.console || "Multi Platform"}</p>
-        <p><strong>Developer:</strong> \${tool.creator}</p>
-        <p><strong>Version:</strong> \${tool.version || "..."}</p>
+        <p><strong>Platform:</strong> ${tool.console || "Multi Platform"}</p>
+        <p><strong>Developer:</strong> ${tool.creator}</p>
+        <p><strong>Version:</strong> ${tool.version || "..."}</p>
       </div>
 
       <div class="description">
-        \${tool.description || "..."}
+        ${tool.description || "..."}
       </div>
 
-      <a class="download-btn" href="\${tool.url}" target="_blank">Visit Official Page</a>
+      <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
     </div>
   </div>
 </div>
