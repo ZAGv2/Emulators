@@ -2,8 +2,8 @@ name: Generate Emulators
 
 on:
   schedule:
-    - cron: "0 */2 * * *"   # runs every 2 hours
-  workflow_dispatch:         # allows manual run
+    - cron: "0 * * * *"   # runs at minute 0 of every hour (12:00am, 1:00am, 2:00am, ...)
+  workflow_dispatch:       # allows manual run
 
 jobs:
   build:
@@ -20,8 +20,9 @@ jobs:
 
       - name: Run generator
         run: node generateTools.js
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_API }}
+        # Temporarily removed token
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.MY_GITHUB_API }}
 
       - name: Commit and push changes
         run: |
@@ -29,4 +30,4 @@ jobs:
           git config --global user.email "actions@github.com"
           git add .
           git commit -m "Auto update emulators" || echo "No changes"
-          git push https://x-access-token:${{ secrets.MY_GITHUB_API }}@github.com/ZAGv2/Emulators.git HEAD:main
+          git push origin main || echo "Push failed"
