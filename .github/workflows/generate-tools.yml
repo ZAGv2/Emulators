@@ -1,10 +1,10 @@
 name: Generate Tools Pages
 
-# Manual trigger and scheduled trigger every 30 minutes
+# Manual trigger and scheduled trigger every 1 hour
 on:
   workflow_dispatch:  # Run manually anytime
   schedule:
-    - cron: '*/30 * * * *'  # Every 30 minutes
+    - cron: '0 * * * *'  # Every 1 hour
 
 jobs:
   build:
