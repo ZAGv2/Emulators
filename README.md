@@ -6,7 +6,7 @@ Each emulator page is automatically generated from GitHub repositories and inclu
 ---
 
 ## 📊 Overview
-- **Total Emulators:** 1000 <!-- Insert total here, e.g., 1000 -->  
+- **Total Emulators:** 1000  
 - **Supported Platforms:** NES, SNES, N64, Game Boy, GBA, DS, 3DS, Switch, PlayStation, Xbox, Dreamcast, Sega Saturn, Arcade, DOS, Windows, Linux, Android, iOS, and more.
 
 ---
@@ -22,6 +22,14 @@ Each emulator page is automatically generated from GitHub repositories and inclu
 | PlayStation / PS2 / PS3 / PSP / PS Vita | [View](tools/playstation) |
 | Xbox / Xbox 360 | [View](tools/xbox) |
 | Multi Platform | [View](tools/multi-platform) |
+
+---
+
+## ⚠️ Legal Notice
+- **ZAG Archive does NOT host any copyrighted ROMs or pirated games.**  
+- Modded ROMs or patches containing original game data are **not included**.  
+- All emulator pages link only to **legal repositories**, open-source tools, or homebrew content.  
+- Users are responsible for complying with their local copyright laws when using emulators and games.
 
 ---
 
