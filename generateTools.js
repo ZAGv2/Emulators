@@ -53,7 +53,7 @@ function detectConsole(name) {
   return "Multi Platform"
 }
 
-// --- Updated Base search queries ---
+// Base search queries
 const queries = [
   "emulator","console emulator","retro emulator","open source emulator","hardware emulator",
   "nes emulator","snes emulator","n64 emulator",
@@ -66,33 +66,17 @@ const queries = [
   "dreamcast emulator","saturn emulator",
   "mame emulator","arcade emulator",
   "dos emulator","windows emulator","linux emulator",
-  "android emulator","ios emulator",
-  "emulation",
-  "emulator",
-  "console-emulation",
-  "retro-emulation",
-  "emulator fork:true"
+  "android emulator","ios emulator" , "emulation" , 
+  "emulator" , "console-emulation" , "retro-emulation" , 
+  "emulator fork:true" , 
 ]
 
-// --- Alphabet expansion a-z ---
+// Alphabet expansion
 "abcdefghijklmnopqrstuvwxyz".split("").forEach(letter => {
   queries.push(`emulator ${letter}`)
   queries.push(`console emulator ${letter}`)
   queries.push(`retro emulator ${letter}`)
 })
-
-// --- Year-based queries (2000–2026) ---
-for (let year = 2000; year <= 2026; year++) {
-  queries.push(`emulator created:${year}-01-01..${year}-12-31`)
-  queries.push(`console emulator created:${year}-01-01..${year}-12-31`)
-  queries.push(`retro emulator created:${year}-01-01..${year}-12-31`)
-})
-
-// --- Topic & forks ---
-queries.push("emulator topic:emulation")
-queries.push("emulator fork:true")
-queries.push("retro-emulation topic:emulation")
-queries.push("console-emulation fork:true")
 
 function slugify(text){
   return text.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/(^-|-$)/g,"")
@@ -215,7 +199,7 @@ function fetchPage(query, page) {
         try { const json = JSON.parse(data); resolve(json.items || []) } 
         catch (err) { resolve([]) }
       })
-    }).on('error', err => reject(err))
+    }).on('error', err => reject(err)); // <-- syntax fix applied here
   })
 }
 
