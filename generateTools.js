@@ -415,6 +415,9 @@ async function run() {
   fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools, null, 2))
   console.log("Total emulators:", tools.length)
 }
+lastBatchIndex = (lastBatchIndex + 1) % allBatches.length;
+fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex }));
+console.log("Next batch index saved as:", lastBatchIndex);
 
 // ==================================================
 //                    RUN SCRIPT
