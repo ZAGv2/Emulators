@@ -9998,5 +9998,4255 @@
     "url": "https://github.com/walkor/phptty",
     "cover": "https://avatars.githubusercontent.com/u/6073368?v=4",
     "description": "Share your terminal as a web application. PHP terminal emulator based on workerman."
+  },
+  {
+    "name": "www",
+    "slug": "www",
+    "creator": "dolphin-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dolphin-emu/www",
+    "cover": "https://avatars.githubusercontent.com/u/5050316?v=4",
+    "description": "Dolphin Emulator official website source code (running on https://dolphin-emu.org/)"
+  },
+  {
+    "name": "emuhaven",
+    "slug": "emuhaven",
+    "creator": "Viren070",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Viren070/emuhaven",
+    "cover": "https://avatars.githubusercontent.com/u/71220264?v=4",
+    "description": "Manage all your emulators from one place. Download and keep the emulator updated. Download ROMS, any required files and manage your user data."
+  },
+  {
+    "name": "Dolphin-emu-AppImage",
+    "slug": "dolphin-emu-appimage",
+    "creator": "pkgforge-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pkgforge-dev/Dolphin-emu-AppImage",
+    "cover": "https://avatars.githubusercontent.com/u/189202376?v=4",
+    "description": "Unofficial AppImage of the Dolphin emulator [Maintainer=@lucasmz1|@Samueru-sama]"
+  },
+  {
+    "name": "ds4macos",
+    "slug": "ds4macos",
+    "creator": "marcowindt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/marcowindt/ds4macos",
+    "cover": "https://avatars.githubusercontent.com/u/9336858?v=4",
+    "description": "DSU Server for (DualShock 4 / DualSense) controllers for MacOS. To be used with the Dolphin emulator."
+  },
+  {
+    "name": "gym-dolphin",
+    "slug": "gym-dolphin",
+    "creator": "vladfi1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vladfi1/gym-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/691536?v=4",
+    "description": "Nintendo GameCube and Wii games for OpenAI gym using the Dolphin emulator."
+  },
+  {
+    "name": "BetterJoyForDolphin",
+    "slug": "betterjoyfordolphin",
+    "creator": "yuk27",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yuk27/BetterJoyForDolphin",
+    "cover": "https://avatars.githubusercontent.com/u/12703285?v=4",
+    "description": " Allows the Nintendo Switch Pro Controller and Joycons to be used with the Dolphin Emulator"
+  },
+  {
+    "name": "controller-profiles-for-dolphin-emu",
+    "slug": "controller-profiles-for-dolphin-emu",
+    "creator": "pmarcus93",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pmarcus93/controller-profiles-for-dolphin-emu",
+    "cover": "https://avatars.githubusercontent.com/u/6492177?v=4",
+    "description": "Profiles for Xbox Controllers on Dolphin Emulator"
+  },
+  {
+    "name": "Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts",
+    "slug": "dolphin-emulator-rvz-iso-gamecube-wii-conversion-scripts",
+    "creator": "ElektroStudios",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ElektroStudios/Dolphin_Emulator_RVZ_ISO_GameCube_Wii_Conversion_Scripts",
+    "cover": "https://avatars.githubusercontent.com/u/13082613?v=4",
+    "description": "Scripts to automate conversion between GameCube and Wii console ISO files to RVZ file format"
+  },
+  {
+    "name": "Lightsout",
+    "slug": "lightsout",
+    "creator": "Humanoidear",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Humanoidear/Lightsout",
+    "cover": "https://avatars.githubusercontent.com/u/80858832?v=4",
+    "description": "Dark theme style for Dolphin Emulator"
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "SternXD",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SternXD/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/70122891?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on UWP/Xbox with improvements."
+  },
+  {
+    "name": "sadm",
+    "slug": "sadm",
+    "creator": "dolphin-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dolphin-emu/sadm",
+    "cover": "https://avatars.githubusercontent.com/u/5050316?v=4",
+    "description": "Scripts and configurations for the Dolphin Emulator infrastructure"
+  },
+  {
+    "name": "Dolphin-Lua-Core",
+    "slug": "dolphin-lua-core",
+    "creator": "SwareJonge",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SwareJonge/Dolphin-Lua-Core",
+    "cover": "https://avatars.githubusercontent.com/u/41187958?v=4",
+    "description": "This is a custom version of the Dolphin Emulator, in this version you can launch LUA scripts. This version is based of dragonbane0's zelda dolphin version."
+  },
+  {
+    "name": "Dolphin-MMJR2",
+    "slug": "dolphin-mmjr2",
+    "creator": "Mato00KAN",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Mato00KAN/Dolphin-MMJR2",
+    "cover": "https://avatars.githubusercontent.com/u/101738165?v=4",
+    "description": "Dolphin |MMJR2| is a Gamecube/Wii Emulator for Android devices; based on Dolphin Official dev source code. Hence, the aim is to get the newer features, fixes, updates of Dolphin Official BUT with the performance improvements  of Dolphin |MMJR| (work-in-progress)"
+  },
+  {
+    "name": "Naruto-GNT-Modding",
+    "slug": "naruto-gnt-modding",
+    "creator": "NicholasMoser",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NicholasMoser/Naruto-GNT-Modding",
+    "cover": "https://avatars.githubusercontent.com/u/4983605?v=4",
+    "description": "Naruto Gekitō Ninja Taisen (GNT), aka Clash of Ninja, Modding"
+  },
+  {
+    "name": "Dolphin-Lightguns-Accuracy-Inis",
+    "slug": "dolphin-lightguns-accuracy-inis",
+    "creator": "ProfgLX",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ProfgLX/Dolphin-Lightguns-Accuracy-Inis",
+    "cover": "https://avatars.githubusercontent.com/u/74802830?v=4",
+    "description": "Collection of inis to get 1:1 (close) aim accuracy with the Sinden Lightgun and Gun4IR in the Dolphin emulator. Also included are files to remove crosshairs."
+  },
+  {
+    "name": "ram-watch-cheat-engine",
+    "slug": "ram-watch-cheat-engine",
+    "creator": "JoselleAstrid",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JoselleAstrid/ram-watch-cheat-engine",
+    "cover": "https://avatars.githubusercontent.com/u/8400998?v=4",
+    "description": "Lua script framework for RAM watch displays using Cheat Engine, with a focus on Dolphin emulator."
+  },
+  {
+    "name": "dolphin-controller",
+    "slug": "dolphin-controller",
+    "creator": "apexskier",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/apexskier/dolphin-controller",
+    "cover": "https://avatars.githubusercontent.com/u/329222?v=4",
+    "description": "iOS GameCube controller for the Dolphin emulator."
+  },
+  {
+    "name": "SuperMarioEclipse-TexturePacks",
+    "slug": "supermarioeclipse-texturepacks",
+    "creator": "iZePlayzYT",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iZePlayzYT/SuperMarioEclipse-TexturePacks",
+    "cover": "https://avatars.githubusercontent.com/u/69536095?v=4",
+    "description": "4K & HD Texture Packs for Super Mario Eclipse (Dolphin Emulator) in PNG and DDS formats"
+  },
+  {
+    "name": "Enhancement-Codes",
+    "slug": "enhancement-codes",
+    "creator": "Admentus64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Admentus64/Enhancement-Codes",
+    "cover": "https://avatars.githubusercontent.com/u/8747034?v=4",
+    "description": "Mods for GameCube / Wii emulator Dolphin"
+  },
+  {
+    "name": "dolphin-env-api",
+    "slug": "dolphin-env-api",
+    "creator": "ENPH-479",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ENPH-479/dolphin-env-api",
+    "cover": "https://avatars.githubusercontent.com/u/32600801?v=4",
+    "description": "Dolphin emulator Python wrapper for ML research"
+  },
+  {
+    "name": "Dolphin-MMJR",
+    "slug": "dolphin-mmjr",
+    "creator": "acidtech",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/acidtech/Dolphin-MMJR",
+    "cover": "https://avatars.githubusercontent.com/u/20384681?v=4",
+    "description": "Dolphin |MMJR| is a Gamecube/Wii Emulator for Android devices; based on Dolphin MMJ source code which is aimed at pure performance."
+  },
+  {
+    "name": "UDPWiiHook",
+    "slug": "udpwiihook",
+    "creator": "EZForever",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EZForever/UDPWiiHook",
+    "cover": "https://avatars.githubusercontent.com/u/34133756?v=4",
+    "description": "Allows UDPWii apps to be used with the Dolphin Emulator again."
+  },
+  {
+    "name": "ForgeEmulator",
+    "slug": "forgeemulator",
+    "creator": "BOZOAHH",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BOZOAHH/ForgeEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/123464923?v=4",
+    "description": "A new Gamecube And Wii Emulator For 32bit And 64bit Devices, using Dolphins Main Source Code."
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "EIGHTFINITE",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EIGHTFINITE/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/26919689?v=4",
+    "description": "🐬 Forked from https://github.com/dolphin-emu/dolphin. Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "joy4macos",
+    "slug": "joy4macos",
+    "creator": "marcowindt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/marcowindt/joy4macos",
+    "cover": "https://avatars.githubusercontent.com/u/9336858?v=4",
+    "description": "DSU Server for JoyCon (L/R) & Pro controllers for MacOS. To be used with the Dolphin emulator."
+  },
+  {
+    "name": "ForgeEmulatorReborn",
+    "slug": "forgeemulatorreborn",
+    "creator": "BOZOAHH",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BOZOAHH/ForgeEmulatorReborn",
+    "cover": "https://avatars.githubusercontent.com/u/123464923?v=4",
+    "description": "The Dolphin Fork is Back! This Time Even Better then before! 4.0 coming soon!"
+  },
+  {
+    "name": "RhythmHeavenFeverHD",
+    "slug": "rhythmheavenfeverhd",
+    "creator": "Borists1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Borists1/RhythmHeavenFeverHD",
+    "cover": "https://avatars.githubusercontent.com/u/79508318?v=4",
+    "description": "A project which has a goal to manually upscale every RHF sprite as a dolphin emulator texture pack."
+  },
+  {
+    "name": "docker-dolphin",
+    "slug": "docker-dolphin",
+    "creator": "linuxserver",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linuxserver/docker-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/12324908?v=4",
+    "description": "Web accessible Dolphin Emulator running on top of Debian"
+  },
+  {
+    "name": "dolphin-zelda-ss-8bitdo-sn30pro",
+    "slug": "dolphin-zelda-ss-8bitdo-sn30pro",
+    "creator": "sixertoy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sixertoy/dolphin-zelda-ss-8bitdo-sn30pro",
+    "cover": "https://avatars.githubusercontent.com/u/7091470?v=4",
+    "description": "Dolphin - Play Zelda Skyward's Sword with 8BitDo SN30/SF30 Pro Controller and Wiimote Motion Plus"
+  },
+  {
+    "name": "dolphin-mobile-gc-controller",
+    "slug": "dolphin-mobile-gc-controller",
+    "creator": "hauxir",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hauxir/dolphin-mobile-gc-controller",
+    "cover": "https://avatars.githubusercontent.com/u/2439255?v=4",
+    "description": "Use your smartphone as a controller for the Dolphin emulator"
+  },
+  {
+    "name": "dolphin-memory-lib",
+    "slug": "dolphin-memory-lib",
+    "creator": "RenolY2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RenolY2/dolphin-memory-lib",
+    "cover": "https://avatars.githubusercontent.com/u/5006358?v=4",
+    "description": "A Python library for reading and writing the memory of an emulated game in Dolphin."
+  },
+  {
+    "name": "HeavyModManager",
+    "slug": "heavymodmanager",
+    "creator": "igorseabra4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/igorseabra4/HeavyModManager",
+    "cover": "https://avatars.githubusercontent.com/u/24985289?v=4",
+    "description": "HeavyModManager is a mod manager for GameCube and Wii games emulated on Dolphin, built with Heavy Iron Studios games in mind."
+  },
+  {
+    "name": "DolphinBisectTool",
+    "slug": "dolphinbisecttool",
+    "creator": "Helios747",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Helios747/DolphinBisectTool",
+    "cover": "https://avatars.githubusercontent.com/u/6785841?v=4",
+    "description": "Windows utility to automate the bisection process for issues in the Dolphin Emulator"
+  },
+  {
+    "name": "Dolphin.Memory.Access",
+    "slug": "dolphin-memory-access",
+    "creator": "Sewer56",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Sewer56/Dolphin.Memory.Access",
+    "cover": "https://avatars.githubusercontent.com/u/6697380?v=4",
+    "description": "Tiny 9KB barebones library used to access the memory of Dolphin emulator on Windows."
+  },
+  {
+    "name": "telepipe",
+    "slug": "telepipe",
+    "creator": "HybridEidolon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HybridEidolon/telepipe",
+    "cover": "https://avatars.githubusercontent.com/u/141511?v=4",
+    "description": "PSO GameCube proxy, for Dolphin emulator BBA tunneling."
+  },
+  {
+    "name": "dolphin-emu",
+    "slug": "dolphin-emu",
+    "creator": "soreau",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/soreau/dolphin-emu",
+    "cover": "https://avatars.githubusercontent.com/u/1450125?v=4",
+    "description": "Dolphin is a Gamecube/Wii emulator which supports many extra features and abilities not present on the original consoles. This repository contains code to run Dolphin as a Wayland EGL client."
+  },
+  {
+    "name": "mkw-scripts",
+    "slug": "mkw-scripts",
+    "creator": "TASLabz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TASLabz/mkw-scripts",
+    "cover": "https://avatars.githubusercontent.com/u/96564043?v=4",
+    "description": "Python Scripts for use with Dolphin Emulator. Scripts cover various utilities for creating Mario Kart Wii TASes ."
+  },
+  {
+    "name": "DolphinQt",
+    "slug": "dolphinqt",
+    "creator": "waddlesplash",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/waddlesplash/DolphinQt",
+    "cover": "https://avatars.githubusercontent.com/u/2175324?v=4",
+    "description": "Dolphin emulator, Qt GUI branch."
+  },
+  {
+    "name": "dolphin-memory-rs",
+    "slug": "dolphin-memory-rs",
+    "creator": "TBPixel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TBPixel/dolphin-memory-rs",
+    "cover": "https://avatars.githubusercontent.com/u/9409276?v=4",
+    "description": "A rust library that makes reading and writing memory of the Dolphin emulator easier."
+  },
+  {
+    "name": "android-wiimote",
+    "slug": "android-wiimote",
+    "creator": "pax0r",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/pax0r/android-wiimote",
+    "cover": "https://avatars.githubusercontent.com/u/1170098?v=4",
+    "description": "Application to control Dolphin emulator with Android Device (via UDPWii)"
+  },
+  {
+    "name": "Cleanexxed",
+    "slug": "cleanexxed",
+    "creator": "Humanoidear",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Humanoidear/Cleanexxed",
+    "cover": "https://avatars.githubusercontent.com/u/80858832?v=4",
+    "description": "Modern icon theme for Dolphin Emulator."
+  },
+  {
+    "name": "Twentie",
+    "slug": "twentie",
+    "creator": "vvolhejn",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vvolhejn/Twentie",
+    "cover": "https://avatars.githubusercontent.com/u/8401624?v=4",
+    "description": "Super Smash Bros. Melee AI for Dolphin Emulator"
+  },
+  {
+    "name": "CheatConverter",
+    "slug": "cheatconverter",
+    "creator": "Admentus64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Admentus64/CheatConverter",
+    "cover": "https://avatars.githubusercontent.com/u/8747034?v=4",
+    "description": "Hexadecimal Cheat Converter for converting AR / Gecko / GameShark codes between different game versions or game regions. For emulators such as PJ64 and Dolphin."
+  },
+  {
+    "name": "my-retro-setup",
+    "slug": "my-retro-setup",
+    "creator": "gamemann",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gamemann/my-retro-setup",
+    "cover": "https://avatars.githubusercontent.com/u/6509565?v=4",
+    "description": "Details going over my retro setup which consists of game streaming and emulation along with details on getting Wii Remotes and a Dolphinbar to work on Linux/Debian 12."
+  },
+  {
+    "name": "DolphinDynamicInputTextureCreator",
+    "slug": "dolphindynamicinputtexturecreator",
+    "creator": "iwubcode",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iwubcode/DolphinDynamicInputTextureCreator",
+    "cover": "https://avatars.githubusercontent.com/u/15224722?v=4",
+    "description": "A tool to create dynamic input textures for Dolphin Emulator"
+  },
+  {
+    "name": "dolphin-emu-nix",
+    "slug": "dolphin-emu-nix",
+    "creator": "MatthewCroughan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MatthewCroughan/dolphin-emu-nix",
+    "cover": "https://avatars.githubusercontent.com/u/26458780?v=4",
+    "description": "A flake for testing, building and packaging the Dolphin Gamecube emulator"
+  },
+  {
+    "name": "dolphin-docker",
+    "slug": "dolphin-docker",
+    "creator": "rmzi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rmzi/dolphin-docker",
+    "cover": "https://avatars.githubusercontent.com/u/80350?v=4",
+    "description": "Docker Container running Dolphin Emulator"
+  },
+  {
+    "name": "DolHook-Melee",
+    "slug": "dolhook-melee",
+    "creator": "PsiLupan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PsiLupan/DolHook-Melee",
+    "cover": "https://avatars.githubusercontent.com/u/7443598?v=4",
+    "description": "DLL Hook for the Dolphin Emulator which reads Melee structures from the emulated memory, in order to provide additional functionality such as automated exploit injection and networking"
+  },
+  {
+    "name": "bt3-re",
+    "slug": "bt3-re",
+    "creator": "PhantoomDev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PhantoomDev/bt3-re",
+    "cover": "https://avatars.githubusercontent.com/u/58156680?v=4",
+    "description": "This project aims to implement rollback netcode for Dragon Ball Z: Budokai Tenkaichi 3 (BT3) through reverse engineering and modifying Dolphin emulator. The primary focus is on implementing split-screen rollback netplay to facilitate debugging, input verification, and maintain consistency with local play experience."
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "MichaelElyafi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MichaelElyafi/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/7428596?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. "
+  },
+  {
+    "name": "dolphin-rpi",
+    "slug": "dolphin-rpi",
+    "creator": "Ravbug",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ravbug/dolphin-rpi",
+    "cover": "https://avatars.githubusercontent.com/u/22283943?v=4",
+    "description": "Script to compile the Dolphin emulator for the Raspberry Pi"
+  },
+  {
+    "name": "Install-and-update-Emulators",
+    "slug": "install-and-update-emulators",
+    "creator": "chiragkrishna",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/chiragkrishna/Install-and-update-Emulators",
+    "cover": "https://avatars.githubusercontent.com/u/2405186?v=4",
+    "description": "Powershell script to install and update emulators "
+  },
+  {
+    "name": "emulator-DolphinBridge",
+    "slug": "emulator-dolphinbridge",
+    "creator": "SnowflakePowered",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SnowflakePowered/emulator-DolphinBridge",
+    "cover": "https://avatars.githubusercontent.com/u/8306662?v=4",
+    "description": ":snowflake::dolphin: Dolphin 5.0 RC Snowflake Bridge"
+  },
+  {
+    "name": "gamecube_IO",
+    "slug": "gamecube-io",
+    "creator": "levthedev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/levthedev/gamecube_IO",
+    "cover": "https://avatars.githubusercontent.com/u/11400051?v=4",
+    "description": ":video_game: dolphin gamecube emulator IO"
+  },
+  {
+    "name": "Dolphin-TAStudio",
+    "slug": "dolphin-tastudio",
+    "creator": "Tales-Carvalho",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Tales-Carvalho/Dolphin-TAStudio",
+    "cover": "https://avatars.githubusercontent.com/u/44170504?v=4",
+    "description": "A C# TAStudio-like tool for creating Tool Assisted Speedruns in Dolphin Emulator"
+  },
+  {
+    "name": "custom-dolphinemu-profiles",
+    "slug": "custom-dolphinemu-profiles",
+    "creator": "ivaschia",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ivaschia/custom-dolphinemu-profiles",
+    "cover": "https://avatars.githubusercontent.com/u/37184485?v=4",
+    "description": "This is a repo of my custom configs for Dolphin Emulator"
+  },
+  {
+    "name": "live-cube",
+    "slug": "live-cube",
+    "creator": "PortalMario",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PortalMario/live-cube",
+    "cover": "https://avatars.githubusercontent.com/u/51074535?v=4",
+    "description": "A set of scripts to build a live boot image with a pre-installed dolphin-emulator environment and pre-defined game configurations."
+  },
+  {
+    "name": "ExternalMeleeTool",
+    "slug": "externalmeleetool",
+    "creator": "RighteousRyan1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RighteousRyan1/ExternalMeleeTool",
+    "cover": "https://avatars.githubusercontent.com/u/60587654?v=4",
+    "description": "A library that hacks into SSBM (while emulated in Dolphin) and gives you access to many cool things regarding SSBM."
+  },
+  {
+    "name": "emuBro",
+    "slug": "emubro",
+    "creator": "sysoutch",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sysoutch/emuBro",
+    "cover": "https://avatars.githubusercontent.com/u/4311323?v=4",
+    "description": "emuBro is an open source retro game launcher that associates your retro games with your emulators such as snes9x, epsxe, pcsx2, dolphin, cemu or whatever you like."
+  },
+  {
+    "name": "DolphinEmulatorWii9825",
+    "slug": "dolphinemulatorwii9825",
+    "creator": "DolphinEmulatorWii9825",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DolphinEmulatorWii9825/DolphinEmulatorWii9825",
+    "cover": "https://avatars.githubusercontent.com/u/95669994?v=4",
+    "description": "Dolphin Emulator Wii"
+  },
+  {
+    "name": "DolphinGeometryShader",
+    "slug": "dolphingeometryshader",
+    "creator": "fredericGette",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fredericGette/DolphinGeometryShader",
+    "cover": "https://avatars.githubusercontent.com/u/18600457?v=4",
+    "description": "Shader to change display geometry of the Dolphin emulator"
+  },
+  {
+    "name": "DolphinOS-WebApp",
+    "slug": "dolphinos-webapp",
+    "creator": "DolphinOS-Development",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DolphinOS-Development/DolphinOS-WebApp",
+    "cover": "https://avatars.githubusercontent.com/u/134051869?v=4",
+    "description": "Python Flask WebApp for interfacing with the Linux system from inside the emulator "
+  },
+  {
+    "name": "Dolphin-Matchmaking-Server",
+    "slug": "dolphin-matchmaking-server",
+    "creator": "c29reid",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/c29reid/Dolphin-Matchmaking-Server",
+    "cover": "https://avatars.githubusercontent.com/u/3288764?v=4",
+    "description": "A matchmaking server for the dolphin emulator"
+  },
+  {
+    "name": "ida-dolphin",
+    "slug": "ida-dolphin",
+    "creator": "drewler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drewler/ida-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/1395606?v=4",
+    "description": "Scripts/tools for working between IDA and Dolphin emulator"
+  },
+  {
+    "name": "weaselsetup",
+    "slug": "weaselsetup",
+    "creator": "kkevlar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kkevlar/weaselsetup",
+    "cover": "https://avatars.githubusercontent.com/u/10334426?v=4",
+    "description": "A simple C program to combine joycons in Dolphin Emulator"
+  },
+  {
+    "name": "SPMAutoSplitter",
+    "slug": "spmautosplitter",
+    "creator": "SacredGhost",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SacredGhost/SPMAutoSplitter",
+    "cover": "https://avatars.githubusercontent.com/u/94106105?v=4",
+    "description": "An external auto splitter for Dolphin Emulator speedruns of Super Paper Mario."
+  },
+  {
+    "name": "macboxx",
+    "slug": "macboxx",
+    "creator": "prmaloney",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/prmaloney/macboxx",
+    "cover": "https://avatars.githubusercontent.com/u/80293683?v=4",
+    "description": "A python script to give Boxx mappings to macos users for Dolphin emulator"
+  },
+  {
+    "name": "SmashQuickPlay",
+    "slug": "smashquickplay",
+    "creator": "Car-Role",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Car-Role/SmashQuickPlay",
+    "cover": "https://avatars.githubusercontent.com/u/25985953?v=4",
+    "description": "Join or host a Dolphin emulator session in a press of a hotkey!"
+  },
+  {
+    "name": "openTilixHere",
+    "slug": "opentilixhere",
+    "creator": "f64u",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/f64u/openTilixHere",
+    "cover": "https://avatars.githubusercontent.com/u/24705058?v=4",
+    "description": "A dolphin service menu for opening the tilix terminal emulator in the active directory."
+  },
+  {
+    "name": "docker-ubuntu-doplhin-vnc",
+    "slug": "docker-ubuntu-doplhin-vnc",
+    "creator": "plvz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/plvz/docker-ubuntu-doplhin-vnc",
+    "cover": "https://avatars.githubusercontent.com/u/12199187?v=4",
+    "description": "A sample example of a docker image which run a vnc server with dolphin emulator in background"
+  },
+  {
+    "name": "ext-python",
+    "slug": "ext-python",
+    "creator": "Felk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Felk/ext-python",
+    "cover": "https://avatars.githubusercontent.com/u/1996138?v=4",
+    "description": "Dolphin Emulator's external dependency on python, for embedded scripting. Included as a submodule"
+  },
+  {
+    "name": "SSBM_AI",
+    "slug": "ssbm-ai",
+    "creator": "ryankline122",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ryankline122/SSBM_AI",
+    "cover": "https://avatars.githubusercontent.com/u/47543195?v=4",
+    "description": "Based off Felk's fork of Dolphin Emulator with Python scripting enabled. The goal is to create an AI agent to play SSBM"
+  },
+  {
+    "name": "gcadapter64",
+    "slug": "gcadapter64",
+    "creator": "r52",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/r52/gcadapter64",
+    "cover": "https://avatars.githubusercontent.com/u/9069578?v=4",
+    "description": "N64 emulator plugin for the WiiU Gamecube adapter ported from Dolphin"
+  },
+  {
+    "name": "dolphin-triforce",
+    "slug": "dolphin-triforce",
+    "creator": "JuanMiguelBG",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JuanMiguelBG/dolphin-triforce",
+    "cover": "https://avatars.githubusercontent.com/u/13045779?v=4",
+    "description": "Dolphin Triforce Emulator"
+  },
+  {
+    "name": "dolphinEmulatorLook",
+    "slug": "dolphinemulatorlook",
+    "creator": "XANADryden",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/XANADryden/dolphinEmulatorLook",
+    "cover": "https://avatars.githubusercontent.com/u/46723459?v=4",
+    "description": "..."
+  },
+  {
+    "name": "dolphin-configuration",
+    "slug": "dolphin-configuration",
+    "creator": "GL513",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GL513/dolphin-configuration",
+    "cover": "https://avatars.githubusercontent.com/u/83085846?v=4",
+    "description": "My Dolphin Emulator configs"
+  },
+  {
+    "name": "DolphinControllerAutomator",
+    "slug": "dolphincontrollerautomator",
+    "creator": "francoislg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/francoislg/DolphinControllerAutomator",
+    "cover": "https://avatars.githubusercontent.com/u/8355585?v=4",
+    "description": "Wrapper around vJoy to register input for Dolphin Emulator"
+  },
+  {
+    "name": "Outdated_Cleanexxed",
+    "slug": "outdated-cleanexxed",
+    "creator": "Humanoidear",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Humanoidear/Outdated_Cleanexxed",
+    "cover": "https://avatars.githubusercontent.com/u/80858832?v=4",
+    "description": "Icon theme for Dolphin Emulator."
+  },
+  {
+    "name": "Ghidra-Dolphin-Debugger",
+    "slug": "ghidra-dolphin-debugger",
+    "creator": "jahorta",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jahorta/Ghidra-Dolphin-Debugger",
+    "cover": "https://avatars.githubusercontent.com/u/8341369?v=4",
+    "description": "A Debugger for Dolphin Emulator in Ghidra"
+  },
+  {
+    "name": "docker-dolphin",
+    "slug": "docker-dolphin",
+    "creator": "ddfabbro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ddfabbro/docker-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/17279638?v=4",
+    "description": "Dockerfiles for building Dolphin Emulator, Ishiiruka and Faster Melee."
+  },
+  {
+    "name": "dolphin-emu-shaders",
+    "slug": "dolphin-emu-shaders",
+    "creator": "andrew-ls",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/andrew-ls/dolphin-emu-shaders",
+    "cover": "https://avatars.githubusercontent.com/u/33418880?v=4",
+    "description": "Custom post-processing effects for the Dolphin emulator."
+  },
+  {
+    "name": "gamecube-bios-dolphin-Emulator",
+    "slug": "gamecube-bios-dolphin-emulator",
+    "creator": "3sadas",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/3sadas/gamecube-bios-dolphin-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/226788658?v=4",
+    "description": "gamecube original bios use in dolphin Emulator"
+  },
+  {
+    "name": "dolphin-docker",
+    "slug": "dolphin-docker",
+    "creator": "ooshlablu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ooshlablu/dolphin-docker",
+    "cover": "https://avatars.githubusercontent.com/u/1063627?v=4",
+    "description": "Docker containers and scripts to build packages for the Dolphin Emulator"
+  },
+  {
+    "name": "Dolphin-Emu-wad-repo",
+    "slug": "dolphin-emu-wad-repo",
+    "creator": "LJJB29",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LJJB29/Dolphin-Emu-wad-repo",
+    "cover": "https://avatars.githubusercontent.com/u/194685617?v=4",
+    "description": "All The Decent and working Wads For the dolphin Emulator"
+  },
+  {
+    "name": "DelfinoRIO",
+    "slug": "delfinorio",
+    "creator": "KernelEquinox",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KernelEquinox/DelfinoRIO",
+    "cover": "https://avatars.githubusercontent.com/u/15955749?v=4",
+    "description": "Dolphin emulator modified to collect code coverage data"
+  },
+  {
+    "name": "dolphindownloader",
+    "slug": "dolphindownloader",
+    "creator": "outofink",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/outofink/dolphindownloader",
+    "cover": "https://avatars.githubusercontent.com/u/6820239?v=4",
+    "description": "A tool which downloads a specified (or the lastest) build of Dolphin Emulator. https://dolphin-emu.org/"
+  },
+  {
+    "name": "Mouse-Binding-for-Dolphin-Emulator",
+    "slug": "mouse-binding-for-dolphin-emulator",
+    "creator": "Gourov",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Gourov/Mouse-Binding-for-Dolphin-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/65507457?v=4",
+    "description": "Dolphin v5.0 (11990) with ability to bind mouse axis."
+  },
+  {
+    "name": "ong_udp_wiimote",
+    "slug": "ong-udp-wiimote",
+    "creator": "Oneirag",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Oneirag/ong_udp_wiimote",
+    "cover": "https://avatars.githubusercontent.com/u/8848359?v=4",
+    "description": "Kivy based Android/iOs wii udpmote emulator for dolphin"
+  },
+  {
+    "name": "DolphinGameChannels",
+    "slug": "dolphingamechannels",
+    "creator": "Matthr0w",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Matthr0w/DolphinGameChannels",
+    "cover": "https://avatars.githubusercontent.com/u/140514705?v=4",
+    "description": "Launch your favorite GameCube and Wii games from the emulated Wii Menu in Dolphin."
+  },
+  {
+    "name": "dolphin-borderless",
+    "slug": "dolphin-borderless",
+    "creator": "Huuuuuugo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Huuuuuugo/dolphin-borderless",
+    "cover": "https://avatars.githubusercontent.com/u/99366724?v=4",
+    "description": "Script to display and lay out both GC and GBA windows of the dolphin emulator removing borders and filling up the screen as much as possible."
+  },
+  {
+    "name": "TigerShark",
+    "slug": "tigershark",
+    "creator": "torkay",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/torkay/TigerShark",
+    "cover": "https://avatars.githubusercontent.com/u/65842590?v=4",
+    "description": "Deep-RL machine algorithm based toward learning to play Dolphin Emulator."
+  },
+  {
+    "name": "R1.0",
+    "slug": "r1-0",
+    "creator": "Jcrowson90",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Jcrowson90/R1.0",
+    "cover": "https://avatars.githubusercontent.com/u/158984078?v=4",
+    "description": "My update  files for dolphin  and ps3 emulators"
+  },
+  {
+    "name": "ProjectMAutoSetup",
+    "slug": "projectmautosetup",
+    "creator": "mlaursen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mlaursen/ProjectMAutoSetup",
+    "cover": "https://avatars.githubusercontent.com/u/3920850?v=4",
+    "description": "Sets up Project M on the Dolphin emulator with the given profiles and "
+  },
+  {
+    "name": "gamecube-machine",
+    "slug": "gamecube-machine",
+    "creator": "Tammo0987",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Tammo0987/gamecube-machine",
+    "cover": "https://avatars.githubusercontent.com/u/22091805?v=4",
+    "description": "NixOS flake for turning any pc into a stationary gamecube (via dolphin emulator)"
+  },
+  {
+    "name": "DTMText",
+    "slug": "dtmtext",
+    "creator": "heinermann",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/heinermann/DTMText",
+    "cover": "https://avatars.githubusercontent.com/u/1966366?v=4",
+    "description": "Converts DTM to/from text for tool-assisted speedruns in the Dolphin emulator"
+  },
+  {
+    "name": "Dolphin-360-Linux",
+    "slug": "dolphin-360-linux",
+    "creator": "KAMiKAZOW",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/KAMiKAZOW/Dolphin-360-Linux",
+    "cover": "https://avatars.githubusercontent.com/u/3259076?v=4",
+    "description": "Dolphin button mappings for Xbox 360 pads under Linux"
+  },
+  {
+    "name": "GameShuffler",
+    "slug": "gameshuffler",
+    "creator": "griffinbeels",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/griffinbeels/GameShuffler",
+    "cover": "https://avatars.githubusercontent.com/u/34192794?v=4",
+    "description": "Programs for shuffling games within emulators (e.g., Dolphin, PJ64)"
+  },
+  {
+    "name": "MIP-Manager",
+    "slug": "mip-manager",
+    "creator": "MrMendelli",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MrMendelli/MIP-Manager",
+    "cover": "https://avatars.githubusercontent.com/u/47702158?v=4",
+    "description": "A simplistic CLI tool for automatically moving mip map textures for Dolphin Emulator texture dumps."
+  },
+  {
+    "name": "dolfie",
+    "slug": "dolfie",
+    "creator": "justinschwerdtfeger",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/justinschwerdtfeger/dolfie",
+    "cover": "https://avatars.githubusercontent.com/u/84753002?v=4",
+    "description": "Configure controllers in clean controller friendly GUI for Dolphin Emulator. Perfect for use with gaming frontends"
+  },
+  {
+    "name": "supDolphinWS-server",
+    "slug": "supdolphinws-server",
+    "creator": "sup39",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sup39/supDolphinWS-server",
+    "cover": "https://avatars.githubusercontent.com/u/31564253?v=4",
+    "description": "A WebSocket server for accessing memory of emulated games in Dolphin. Moved to https://forgejo.sup39.dev/sms/supDolphinWS-server"
+  },
+  {
+    "name": "supDolphinWS.js",
+    "slug": "supdolphinws-js",
+    "creator": "sup39",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sup39/supDolphinWS.js",
+    "cover": "https://avatars.githubusercontent.com/u/31564253?v=4",
+    "description": "A WebSocket client API library to access memory of emulated games in Dolphin. Moved to https://forgejo.sup39.dev/sup39/supDolphinWS.js"
+  },
+  {
+    "name": "Wind-Waker-GC-Coop-Multiplayer-Guide",
+    "slug": "wind-waker-gc-coop-multiplayer-guide",
+    "creator": "kneoloch",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kneoloch/Wind-Waker-GC-Coop-Multiplayer-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/157684642?v=4",
+    "description": "Instructions to install, connect, and play Wind Waker GC Coop Multiplayer with friends on the Dolphin emulator."
+  },
+  {
+    "name": "GalaxyToolkit",
+    "slug": "galaxytoolkit",
+    "creator": "Lord-G-INC",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Lord-G-INC/GalaxyToolkit",
+    "cover": "https://avatars.githubusercontent.com/u/119131964?v=4",
+    "description": "An external tool for SMG2 modding that hooks into Dolphin Emulator and provides ways of interacting with it."
+  },
+  {
+    "name": "XaosCRTshader",
+    "slug": "xaoscrtshader",
+    "creator": "XaosXVOrg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/XaosXVOrg/XaosCRTshader",
+    "cover": "https://avatars.githubusercontent.com/u/82060852?v=4",
+    "description": "Cheap postprocessing shaders to imitate CRT TVs effects to be used in Dolphin emulator for GameCube and Wii games."
+  },
+  {
+    "name": "VJoy-Controller-Feeder",
+    "slug": "vjoy-controller-feeder",
+    "creator": "ben1894",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ben1894/VJoy-Controller-Feeder",
+    "cover": "https://avatars.githubusercontent.com/u/50091002?v=4",
+    "description": "Receives Bluetooth data from an Arduino and gets processed as an HID device using VJoy all for Dolphin Emulator controls. "
+  },
+  {
+    "name": "ShadowTheHedgehog.RPC.ReloadedII",
+    "slug": "shadowthehedgehog-rpc-reloadedii",
+    "creator": "Sewer56",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Sewer56/ShadowTheHedgehog.RPC.ReloadedII",
+    "cover": "https://avatars.githubusercontent.com/u/6697380?v=4",
+    "description": "A Reloaded II mod that provides Discord Rich Presence support for Shadow The Hedgehog (NTSC-U) when played on Dolphin Emulator (Any Version)."
+  },
+  {
+    "name": "ShadowTheHedgehog-RPC",
+    "slug": "shadowthehedgehog-rpc",
+    "creator": "Sewer56",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Sewer56/ShadowTheHedgehog-RPC",
+    "cover": "https://avatars.githubusercontent.com/u/6697380?v=4",
+    "description": "A Reloaded Mod Loader mod that provides Discord Rich Presence support for Shadow The Hedgehog (NTSC-U) when played on Dolphin Emulator (Any Version)."
+  },
+  {
+    "name": "ClipArtBot-Real-Time-Repainter",
+    "slug": "clipartbot-real-time-repainter",
+    "creator": "tininsteelian",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tininsteelian/ClipArtBot-Real-Time-Repainter",
+    "cover": "https://avatars.githubusercontent.com/u/10375987?v=4",
+    "description": "A Java program that interacts with Twitch chat messages to query and display images from specific websites, and can load these images into the Dolphin emulator to \"repaint\" GameCube and Wii games in real-time."
+  },
+  {
+    "name": "ES-DE-DEPLOY",
+    "slug": "es-de-deploy",
+    "creator": "AznIronMan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AznIronMan/ES-DE-DEPLOY",
+    "cover": "https://avatars.githubusercontent.com/u/13965346?v=4",
+    "description": "A universal installer for EmulationStation Desktop Edition (ES-DE), automating emulator setup with symlinked centralized storage. Supports Windows now, with macOS and Linux coming soon."
+  },
+  {
+    "name": "ShadowPractice",
+    "slug": "shadowpractice",
+    "creator": "BlazinZzetti",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BlazinZzetti/ShadowPractice",
+    "cover": "https://avatars.githubusercontent.com/u/24198652?v=4",
+    "description": "WiiRd codes to be used on Gamecube, Wii, or Dolphin Emulator to help practice Shadow the Hedgehog"
+  },
+  {
+    "name": "Porpoise",
+    "slug": "porpoise",
+    "creator": "antoniobarba",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/antoniobarba/Porpoise",
+    "cover": "https://avatars.githubusercontent.com/u/2651498?v=4",
+    "description": "Porpois is a fork of a fork of a fork of Dolphin, which is a Gamecube/Wii Emulator for Android devices; based on Dolphin Official dev source code."
+  },
+  {
+    "name": "Configuration",
+    "slug": "configuration",
+    "creator": "chefez",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/chefez/Configuration",
+    "cover": "https://avatars.githubusercontent.com/u/55113729?v=4",
+    "description": "dolphin emulator"
+  },
+  {
+    "name": "dolphin-emu",
+    "slug": "dolphin-emu",
+    "creator": "negativo17",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/negativo17/dolphin-emu",
+    "cover": "https://avatars.githubusercontent.com/u/18039528?v=4",
+    "description": "Dolphin Emulator"
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "patrikw141",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/patrikw141/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/53974438?v=4",
+    "description": "Emulator"
+  },
+  {
+    "name": "Dolphin-Emulator",
+    "slug": "dolphin-emulator",
+    "creator": "gebharsj",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gebharsj/Dolphin-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/16785731?v=4",
+    "description": "dolphin stuff"
+  },
+  {
+    "name": "dolphin-emu-mac",
+    "slug": "dolphin-emu-mac",
+    "creator": "themav-org",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/themav-org/dolphin-emu-mac",
+    "cover": "https://avatars.githubusercontent.com/u/2945870?v=4",
+    "description": "My Dolphin Emulator"
+  },
+  {
+    "name": "DolphinSaves",
+    "slug": "dolphinsaves",
+    "creator": "DrownedAxolotl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DrownedAxolotl/DolphinSaves",
+    "cover": "https://avatars.githubusercontent.com/u/112387224?v=4",
+    "description": "Saves for the dolphin emulator"
+  },
+  {
+    "name": "DolphinE",
+    "slug": "dolphine",
+    "creator": "Evanlicious",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Evanlicious/DolphinE",
+    "cover": "https://avatars.githubusercontent.com/u/50121019?v=4",
+    "description": "This is a Dolphin Emulator test."
+  },
+  {
+    "name": "DolphinControllerProfiles",
+    "slug": "dolphincontrollerprofiles",
+    "creator": "iwubcode",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iwubcode/DolphinControllerProfiles",
+    "cover": "https://avatars.githubusercontent.com/u/15224722?v=4",
+    "description": "Unofficial controller profiles for the Dolphin Emulator"
+  },
+  {
+    "name": "dolphin-5.0",
+    "slug": "dolphin-5-0",
+    "creator": "Aok2Blazy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Aok2Blazy/dolphin-5.0",
+    "cover": "https://avatars.githubusercontent.com/u/59387005?v=4",
+    "description": "emulator"
+  },
+  {
+    "name": "rusty_dolphine",
+    "slug": "rusty-dolphine",
+    "creator": "DrProfSgtMrJ",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DrProfSgtMrJ/rusty_dolphine",
+    "cover": "https://avatars.githubusercontent.com/u/6405049?v=4",
+    "description": "A GBA emulator"
+  },
+  {
+    "name": "DolphinUpdater",
+    "slug": "dolphinupdater",
+    "creator": "maxroehrl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/maxroehrl/DolphinUpdater",
+    "cover": "https://avatars.githubusercontent.com/u/3105543?v=4",
+    "description": "A script to update the Dolphin emulator with ease in Windows"
+  },
+  {
+    "name": "DolphinDiscordIrrawaddy",
+    "slug": "dolphindiscordirrawaddy",
+    "creator": "SirMangler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SirMangler/DolphinDiscordIrrawaddy",
+    "cover": "https://avatars.githubusercontent.com/u/4237834?v=4",
+    "description": "The Discord bot for the official Dolphin Emulator discord"
+  },
+  {
+    "name": "DolphinVrTracker",
+    "slug": "dolphinvrtracker",
+    "creator": "fordjackson26",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fordjackson26/DolphinVrTracker",
+    "cover": "https://avatars.githubusercontent.com/u/77986713?v=4",
+    "description": "Program to track vr for wordwide races on Dolphin emulator "
+  },
+  {
+    "name": "Dolphin52X-Vanguard",
+    "slug": "dolphin52x-vanguard",
+    "creator": "Foifur",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Foifur/Dolphin52X-Vanguard",
+    "cover": "https://avatars.githubusercontent.com/u/20732660?v=4",
+    "description": "Dolphin emulator for RTCV, Using the new hooking implementation"
+  },
+  {
+    "name": "Priiloader-doplhin",
+    "slug": "priiloader-doplhin",
+    "creator": "liamwerk7676",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/liamwerk7676/Priiloader-doplhin",
+    "cover": "https://avatars.githubusercontent.com/u/112199156?v=4",
+    "description": "Priiloader for the dolphin emulator"
+  },
+  {
+    "name": "dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "muzammilali934",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/muzammilali934/dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/189634079?v=4",
+    "description": "https://munupc.com/dolphin-emulator/"
+  },
+  {
+    "name": "Dolphin-Controller-Profiles",
+    "slug": "dolphin-controller-profiles",
+    "creator": "TheDawningLegend",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheDawningLegend/Dolphin-Controller-Profiles",
+    "cover": "https://avatars.githubusercontent.com/u/46549578?v=4",
+    "description": "Controller Profiles for Dolphin Emulator"
+  },
+  {
+    "name": "Dolphin-Emulator",
+    "slug": "dolphin-emulator",
+    "creator": "cooleybyte",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cooleybyte/Dolphin-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/76415577?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Dolphin52X-Vanguard",
+    "slug": "dolphin52x-vanguard",
+    "creator": "redscientistlabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/redscientistlabs/Dolphin52X-Vanguard",
+    "cover": "https://avatars.githubusercontent.com/u/70184063?v=4",
+    "description": "Dolphin emulator for RTCV, using the new DLL hook implementation"
+  },
+  {
+    "name": "dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "Rakib5627",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Rakib5627/dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/108479754?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Dolphin_Emulator",
+    "slug": "dolphin-emulator",
+    "creator": "mishraak15",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mishraak15/Dolphin_Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/133697079?v=4",
+    "description": "A frontend clone of site that provides Emulator and SEO for a site."
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "stormywaffle",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stormywaffle/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/3861018?v=4",
+    "description": "Some work I did in my spare time for the Dolphin Emulator"
+  },
+  {
+    "name": "dolphin-skin",
+    "slug": "dolphin-skin",
+    "creator": "juanjaimes10010",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/juanjaimes10010/dolphin-skin",
+    "cover": "https://avatars.githubusercontent.com/u/67848711?v=4",
+    "description": "a new ui for dolphin emulator"
+  },
+  {
+    "name": "dolphin-triforce",
+    "slug": "dolphin-triforce",
+    "creator": "Hancock33",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Hancock33/dolphin-triforce",
+    "cover": "https://avatars.githubusercontent.com/u/63157658?v=4",
+    "description": "triforce emulator, all credits to crediar"
+  },
+  {
+    "name": "dolphin-config-guide",
+    "slug": "dolphin-config-guide",
+    "creator": "btrask",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/btrask/dolphin-config-guide",
+    "cover": "https://avatars.githubusercontent.com/u/301663?v=4",
+    "description": "Guide for settings for Dolphin emulator"
+  },
+  {
+    "name": "dolphin-test",
+    "slug": "dolphin-test",
+    "creator": "JonnyH",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JonnyH/dolphin-test",
+    "cover": "https://avatars.githubusercontent.com/u/1218209?v=4",
+    "description": "Some random tests for the dolphin emulator"
+  },
+  {
+    "name": "dolphin-web-emulator",
+    "slug": "dolphin-web-emulator",
+    "creator": "Klibbyglooberq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Klibbyglooberq/dolphin-web-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/239432318?v=4",
+    "description": "Emulate some bangers!!"
+  },
+  {
+    "name": "dolphin-for-googlesites",
+    "slug": "dolphin-for-googlesites",
+    "creator": "engineerlife-coder",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/engineerlife-coder/dolphin-for-googlesites",
+    "cover": "https://avatars.githubusercontent.com/u/142189763?v=4",
+    "description": "(POF) Dolphin Wii Emulator For GoogleSites"
+  },
+  {
+    "name": "ShrekSuperParty_Scripts",
+    "slug": "shreksuperparty-scripts",
+    "creator": "skylarc2006",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/skylarc2006/ShrekSuperParty_Scripts",
+    "cover": "https://avatars.githubusercontent.com/u/137527531?v=4",
+    "description": "LUA infodisplay scripts for Dolphin Emulator"
+  },
+  {
+    "name": "dolphin-web-emulatorr",
+    "slug": "dolphin-web-emulatorr",
+    "creator": "Klibbyglooberq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Klibbyglooberq/dolphin-web-emulatorr",
+    "cover": "https://avatars.githubusercontent.com/u/239432318?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Dolphin-emulator-kyu",
+    "slug": "dolphin-emulator-kyu",
+    "creator": "Kyuyrii",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kyuyrii/Dolphin-emulator-kyu",
+    "cover": "https://avatars.githubusercontent.com/u/190517858?v=4",
+    "description": "..."
+  },
+  {
+    "name": "dolphin-emulator-starterpack",
+    "slug": "dolphin-emulator-starterpack",
+    "creator": "Pokeboygoomba",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Pokeboygoomba/dolphin-emulator-starterpack",
+    "cover": "https://avatars.githubusercontent.com/u/102936447?v=4",
+    "description": "..."
+  },
+  {
+    "name": "EmULatorDOLPHINmodifikasi",
+    "slug": "emulatordolphinmodifikasi",
+    "creator": "harisahada7",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/harisahada7/EmULatorDOLPHINmodifikasi",
+    "cover": "https://avatars.githubusercontent.com/u/75940861?v=4",
+    "description": "Ini adalah emulator modifikasi game nitendo yang smoth "
+  },
+  {
+    "name": "Dolphin-emulator-portable",
+    "slug": "dolphin-emulator-portable",
+    "creator": "Le-barman-officielle",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Le-barman-officielle/Dolphin-emulator-portable",
+    "cover": "https://avatars.githubusercontent.com/u/177697779?v=4",
+    "description": "..."
+  },
+  {
+    "name": "dolphin-emulator-guide",
+    "slug": "dolphin-emulator-guide",
+    "creator": "singvir23",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/singvir23/dolphin-emulator-guide",
+    "cover": "https://avatars.githubusercontent.com/u/119902529?v=4",
+    "description": "..."
+  },
+  {
+    "name": "dolphin-gamepad-launcher",
+    "slug": "dolphin-gamepad-launcher",
+    "creator": "CIB",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CIB/dolphin-gamepad-launcher",
+    "cover": "https://avatars.githubusercontent.com/u/902211?v=4",
+    "description": "Gamepad-driven launcher for the Dolphin emulator."
+  },
+  {
+    "name": "dolphin-emu.deb",
+    "slug": "dolphin-emu-deb",
+    "creator": "stefansundin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stefansundin/dolphin-emu.deb",
+    "cover": "https://avatars.githubusercontent.com/u/1991151?v=4",
+    "description": "Dolphin emulator deb that includes support for the DolphinBar."
+  },
+  {
+    "name": "Dolphin-Emulator-Game-Console-Emulator-for-Windows",
+    "slug": "dolphin-emulator-game-console-emulator-for-windows",
+    "creator": "ravine927338",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/ravine927338/Dolphin-Emulator-Game-Console-Emulator-for-Windows",
+    "cover": "https://avatars.githubusercontent.com/u/208942867?v=4",
+    "description": "Dolphin Emulator lets you play GameCube and Wii games on your Android device! Various graphical enhancements and other features are available to improve ..."
+  },
+  {
+    "name": "Dolphin-Emulator-Auto-Updater",
+    "slug": "dolphin-emulator-auto-updater",
+    "creator": "JayPeet",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JayPeet/Dolphin-Emulator-Auto-Updater",
+    "cover": "https://avatars.githubusercontent.com/u/5172736?v=4",
+    "description": "An automatic updater for the Dolphin Emulator."
+  },
+  {
+    "name": "objektas",
+    "slug": "objektas",
+    "creator": "objektas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/objektas/objektas",
+    "cover": "https://avatars.githubusercontent.com/u/197545220?v=4",
+    "description": "Xbox one controller profiles for Dolphin emulator"
+  },
+  {
+    "name": "dolphin-themes",
+    "slug": "dolphin-themes",
+    "creator": "some-username-here1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/some-username-here1/dolphin-themes",
+    "cover": "https://avatars.githubusercontent.com/u/34193156?v=4",
+    "description": "A repository for themes I made for the Dolphin Emulator!"
+  },
+  {
+    "name": "Test",
+    "slug": "test",
+    "creator": "ilsommoriccardo-ctrl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ilsommoriccardo-ctrl/Test",
+    "cover": "https://avatars.githubusercontent.com/u/226350706?v=4",
+    "description": "Setting di dolphin emulator su linux mint"
+  },
+  {
+    "name": "Brian",
+    "slug": "brian",
+    "creator": "heroic62",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/heroic62/Brian",
+    "cover": "https://avatars.githubusercontent.com/u/54489981?v=4",
+    "description": "Here to make dolphin emulator run smooth"
+  },
+  {
+    "name": "readme",
+    "slug": "readme",
+    "creator": "objektas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/objektas/readme",
+    "cover": "https://avatars.githubusercontent.com/u/197545220?v=4",
+    "description": "Xbox one Controller Profiles for Dolphin emulator"
+  },
+  {
+    "name": "Dolphin",
+    "slug": "dolphin",
+    "creator": "AntonioDevie",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AntonioDevie/Dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/236607982?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "pydolphin",
+    "slug": "pydolphin",
+    "creator": "unexploredtest",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/unexploredtest/pydolphin",
+    "cover": "https://avatars.githubusercontent.com/u/53617231?v=4",
+    "description": "Python scripting extension for the Dolphin emulator"
+  },
+  {
+    "name": "Dolphin-emulator-cattpuccin-theme",
+    "slug": "dolphin-emulator-cattpuccin-theme",
+    "creator": "kurbiisu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kurbiisu/Dolphin-emulator-cattpuccin-theme",
+    "cover": "https://avatars.githubusercontent.com/u/92827029?v=4",
+    "description": "..."
+  },
+  {
+    "name": "dolphin-controller-profiles",
+    "slug": "dolphin-controller-profiles",
+    "creator": "Nystrata",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Nystrata/dolphin-controller-profiles",
+    "cover": "https://avatars.githubusercontent.com/u/15365192?v=4",
+    "description": "A community collection of controller profiles for Dolphin Emulator"
+  },
+  {
+    "name": "ReClass.NET-DolphinPlugin",
+    "slug": "reclass-net-dolphinplugin",
+    "creator": "ReClassNET",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ReClassNET/ReClass.NET-DolphinPlugin",
+    "cover": "https://avatars.githubusercontent.com/u/36203059?v=4",
+    "description": "A ReClass.NET plugin to access the memory of Wii and GameCube games in the Dolphin Emulator."
+  },
+  {
+    "name": "DolphINO",
+    "slug": "dolphino",
+    "creator": "Marcos-Tonari-Diaz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Marcos-Tonari-Diaz/DolphINO",
+    "cover": "https://avatars.githubusercontent.com/u/24305071?v=4",
+    "description": "Little project to use Arduino pushbuttons as input to the Dolphin emulator"
+  },
+  {
+    "name": "Dolphin-Emulator-for-chrome-os",
+    "slug": "dolphin-emulator-for-chrome-os",
+    "creator": "oemoemoem",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/oemoemoem/Dolphin-Emulator-for-chrome-os",
+    "cover": "https://avatars.githubusercontent.com/u/79796294?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Hack-dolphin-wii",
+    "slug": "hack-dolphin-wii",
+    "creator": "wiihacksguide",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wiihacksguide/Hack-dolphin-wii",
+    "cover": "https://avatars.githubusercontent.com/u/208401748?v=4",
+    "description": "hack your emulated wii"
+  },
+  {
+    "name": "ds4-profiles-for-dolphin",
+    "slug": "ds4-profiles-for-dolphin",
+    "creator": "wukinnin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wukinnin/ds4-profiles-for-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/84181231?v=4",
+    "description": "save to your user directory @ \"Dolphin Emulator/Config/Profiles\""
+  },
+  {
+    "name": "controller-configs-for-dolphin",
+    "slug": "controller-configs-for-dolphin",
+    "creator": "objektas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/objektas/controller-configs-for-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/197545220?v=4",
+    "description": "Preconfigured Xbox one controller profiles for Dolphin emulator [For each game]"
+  },
+  {
+    "name": "dolphin-emu-git",
+    "slug": "dolphin-emu-git",
+    "creator": "Swyter",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Swyter/dolphin-emu-git",
+    "cover": "https://avatars.githubusercontent.com/u/690187?v=4",
+    "description": "Unofficial Arch Linux repository building the latest Dolphin Emulator every now and then."
+  },
+  {
+    "name": "dolphin-memory-comparator",
+    "slug": "dolphin-memory-comparator",
+    "creator": "bayp0int",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bayp0int/dolphin-memory-comparator",
+    "cover": "https://avatars.githubusercontent.com/u/26365247?v=4",
+    "description": "Simple C++ application to help compare memory addresses from Dolphin Emulator memory dumps"
+  },
+  {
+    "name": "EasyDolphinConfigurator",
+    "slug": "easydolphinconfigurator",
+    "creator": "Debug-Dan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Debug-Dan/EasyDolphinConfigurator",
+    "cover": "https://avatars.githubusercontent.com/u/64721048?v=4",
+    "description": "A simple program for modifying some Dolphin Emulator features that require manual configuration"
+  },
+  {
+    "name": "Dolphin-Emu-Guide",
+    "slug": "dolphin-emu-guide",
+    "creator": "LJJB29",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LJJB29/Dolphin-Emu-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/194685617?v=4",
+    "description": "An Easy To Follow Guide Of Dolphin Emulator and how to (Legally) Use it"
+  },
+  {
+    "name": "-S6-Contribution-To-Open-An-Source-Project",
+    "slug": "s6-contribution-to-open-an-source-project",
+    "creator": "3t13nn3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/3t13nn3/-S6-Contribution-To-Open-An-Source-Project",
+    "cover": "https://avatars.githubusercontent.com/u/45465151?v=4",
+    "description": "Report for french users about contribution to Dolphin emulator."
+  },
+  {
+    "name": "RLDolphin",
+    "slug": "rldolphin",
+    "creator": "Nab32",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Nab32/RLDolphin",
+    "cover": "https://avatars.githubusercontent.com/u/90017423?v=4",
+    "description": "Reinforcement learning on Wii games using the Dolphin Emulator"
+  },
+  {
+    "name": "dolphin-reactive-led",
+    "slug": "dolphin-reactive-led",
+    "creator": "RadicalDreamer-Code",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RadicalDreamer-Code/dolphin-reactive-led",
+    "cover": "https://avatars.githubusercontent.com/u/20848728?v=4",
+    "description": "A C# application which docks onto the dolphin emulator and sends signals to LED stripes."
+  },
+  {
+    "name": "DaCAC",
+    "slug": "dacac",
+    "creator": "BestNoob",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BestNoob/DaCAC",
+    "cover": "https://avatars.githubusercontent.com/u/9570592?v=4",
+    "description": "Dolphin and CEMU Emulator Anti Cheat for Mario Kart"
+  },
+  {
+    "name": "LAGGY-TROUBLE-ON-DOLPHIN-EMULATOR-ANDROID",
+    "slug": "laggy-trouble-on-dolphin-emulator-android",
+    "creator": "wirasablenk",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/wirasablenk/LAGGY-TROUBLE-ON-DOLPHIN-EMULATOR-ANDROID",
+    "cover": "https://avatars.githubusercontent.com/u/58803443?v=4",
+    "description": "WHY ON EACH UPDATE ON THIS DOLPHIN EMULATOR FOR ANDROID IS BECOMING HARD TO BE PLAYED??? IS THIS EMULATOR DEDICATED ONLY FOR HIGH END PHONE???? THEN WHY NOT DEVS ADD MORE INFO ON THE APPS ON PLAYSTORE SO USER KNOW? WHY MMJ VERSION IS MUCH BETTER FROM MASTER VERSION AS FAR AS I KNOW??? SHOULDNT THE MASTER VERSION IS MORE SUPERIOR??? AND ACTUALLY WHY THERE ARE NOT STATEMENT FOR MINIMUM REQUIREMENT OF THIS DOLPHINS EMU ANDROID ON PLAYSTORE TILL NOW ????  SEEMS DEVS FOR DOLPHIN EMULATOR FOR ANDROID NOT INTEREST IN FIX THE TROUBLE FOR ANDROID VERSION"
+  },
+  {
+    "name": "dolphin-dualsense",
+    "slug": "dolphin-dualsense",
+    "creator": "stormedx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stormedx/dolphin-dualsense",
+    "cover": "https://avatars.githubusercontent.com/u/88412569?v=4",
+    "description": "My Dolphin emulator .ini configs for the Dualsense controller. This also includes motion controls for some configs 🎮"
+  },
+  {
+    "name": "PC-Dolphin-On-Linux",
+    "slug": "pc-dolphin-on-linux",
+    "creator": "hackmiiusr999",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/hackmiiusr999/PC-Dolphin-On-Linux",
+    "cover": "https://avatars.githubusercontent.com/u/134888559?v=4",
+    "description": "This is Just a port from the PC or Windows 10 version of dolphin emulator on Linux. "
+  },
+  {
+    "name": "Dolphin_android",
+    "slug": "dolphin-android",
+    "creator": "esQmo",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/esQmo/Dolphin_android",
+    "cover": "https://avatars.githubusercontent.com/u/10319812?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements. https://dolphin-emu.org/"
+  },
+  {
+    "name": "dolphin-memory-wrapper",
+    "slug": "dolphin-memory-wrapper",
+    "creator": "klayver",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/klayver/dolphin-memory-wrapper",
+    "cover": "https://avatars.githubusercontent.com/u/26210024?v=4",
+    "description": "Memory manipulation for games emulated with Dolphin with C#"
+  },
+  {
+    "name": "MK_AI",
+    "slug": "mk-ai",
+    "creator": "toxicroakGaming",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/toxicroakGaming/MK_AI",
+    "cover": "https://avatars.githubusercontent.com/u/108184499?v=4",
+    "description": "A tool to train Mario Kart Double Dash with Dolphin emulator"
+  },
+  {
+    "name": "gba-emu",
+    "slug": "gba-emu",
+    "creator": "saidkharboutli",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/saidkharboutli/gba-emu",
+    "cover": "https://avatars.githubusercontent.com/u/5052768?v=4",
+    "description": "GBA emulator with backwards compatiblity and Dolphin Emu inter-op (hopefully)."
+  },
+  {
+    "name": "monsterhunterDQN",
+    "slug": "monsterhunterdqn",
+    "creator": "noahturbs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/noahturbs/monsterhunterDQN",
+    "cover": "https://avatars.githubusercontent.com/u/36610564?v=4",
+    "description": "machine learning DQN that plays monster hunter 3 via dolphin emulator"
+  },
+  {
+    "name": "MKW-Item-Panel",
+    "slug": "mkw-item-panel",
+    "creator": "MichaelAccount1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MichaelAccount1/MKW-Item-Panel",
+    "cover": "https://avatars.githubusercontent.com/u/9122964?v=4",
+    "description": "Real-time item injector for Mario Kart Wii on Dolphin Emulator"
+  },
+  {
+    "name": "Hyperspin-Dolphin-emulator-.ahk-module-for-latest-builds",
+    "slug": "hyperspin-dolphin-emulator-ahk-module-for-latest-builds",
+    "creator": "DiverseBloom780",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DiverseBloom780/Hyperspin-Dolphin-emulator-.ahk-module-for-latest-builds",
+    "cover": "https://avatars.githubusercontent.com/u/98516443?v=4",
+    "description": "This is the module I'm using. It has a Bluetooth Passthrough option that can be set on a global or per game basis"
+  },
+  {
+    "name": "dolphin-emulator-new-super-mario-bros-wii-save",
+    "slug": "dolphin-emulator-new-super-mario-bros-wii-save",
+    "creator": "kenrem",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kenrem/dolphin-emulator-new-super-mario-bros-wii-save",
+    "cover": "https://avatars.githubusercontent.com/u/135877581?v=4",
+    "description": "..."
+  },
+  {
+    "name": "kwin-emulator-windowing",
+    "slug": "kwin-emulator-windowing",
+    "creator": "SteelSavant",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SteelSavant/kwin-emulator-windowing",
+    "cover": "https://avatars.githubusercontent.com/u/25090871?v=4",
+    "description": "KWin script to manage windows for emulators that have multiple, such as Cemu, Lime3DS, and Dolphin."
+  },
+  {
+    "name": "BT-Dongle-Compatibility-List-Dolphin",
+    "slug": "bt-dongle-compatibility-list-dolphin",
+    "creator": "Trihy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Trihy/BT-Dongle-Compatibility-List-Dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/107453916?v=4",
+    "description": "BT Dongle Compatibility List Dolphin BT Emulated Mode"
+  },
+  {
+    "name": "xtool",
+    "slug": "xtool",
+    "creator": "DoorDasher81",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DoorDasher81/xtool",
+    "cover": "https://avatars.githubusercontent.com/u/155320335?v=4",
+    "description": "Super Smash Bros. Brawl(SSBB, Brawl) music player for dolphin wii emulator."
+  },
+  {
+    "name": "LiveSplit.BattleForBikiniBottom",
+    "slug": "livesplit-battleforbikinibottom",
+    "creator": "SquareMan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SquareMan/LiveSplit.BattleForBikiniBottom",
+    "cover": "https://avatars.githubusercontent.com/u/3579314?v=4",
+    "description": "An autosplitter for Spongebob Squarepants: Battle for Bikini Bottom on Dolphin emulator."
+  },
+  {
+    "name": "key-memory-tool",
+    "slug": "key-memory-tool",
+    "creator": "Swiftshine",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Swiftshine/key-memory-tool",
+    "cover": "https://avatars.githubusercontent.com/u/85366980?v=4",
+    "description": "hook into a Kirby's Epic Yarn instance running on Dolphin Emulator"
+  },
+  {
+    "name": "dtm_parser",
+    "slug": "dtm-parser",
+    "creator": "Prograndma",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Prograndma/dtm_parser",
+    "cover": "https://avatars.githubusercontent.com/u/47041970?v=4",
+    "description": "Parses frames from gameplay of Super Smash Bros. Melee using Dolphin Emulator"
+  },
+  {
+    "name": "BurnoutHDTextures",
+    "slug": "burnouthdtextures",
+    "creator": "TheCatCoder",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheCatCoder/BurnoutHDTextures",
+    "cover": "https://avatars.githubusercontent.com/u/11698858?v=4",
+    "description": "An HD Texture pack for Burnout. For use with the Dolphin Emulator"
+  },
+  {
+    "name": "Cat-AOSP",
+    "slug": "cat-aosp",
+    "creator": "crakkocat",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/crakkocat/Cat-AOSP",
+    "cover": "https://avatars.githubusercontent.com/u/236271982?v=4",
+    "description": "Cat-AOSP is a fork of the Dolphin Emulator, specifically build 2512."
+  },
+  {
+    "name": "Discord-Plays-Melee",
+    "slug": "discord-plays-melee",
+    "creator": "j1lin0101",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/j1lin0101/Discord-Plays-Melee",
+    "cover": "https://avatars.githubusercontent.com/u/12689254?v=4",
+    "description": "Discord bot that converts message commands into key commands on Dolphin emulator."
+  },
+  {
+    "name": "Scooby-Doo-Unmasker",
+    "slug": "scooby-doo-unmasker",
+    "creator": "DeathMaster001",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DeathMaster001/Scooby-Doo-Unmasker",
+    "cover": "https://avatars.githubusercontent.com/u/63770649?v=4",
+    "description": "A memory viewer/editor for Scooby-Doo Unmasked. Works with the Dolphin Emulator."
+  },
+  {
+    "name": "wii-gamecube-emulator-8tb",
+    "slug": "wii-gamecube-emulator-8tb",
+    "creator": "igiteam",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/igiteam/wii-gamecube-emulator-8tb",
+    "cover": "https://avatars.githubusercontent.com/u/105856259?v=4",
+    "description": "Complete Guide: Build a Wii & GameCube Emulation Machine on 2012 Mac Mini Server"
+  },
+  {
+    "name": "dolphin-checker-Library",
+    "slug": "dolphin-checker-library",
+    "creator": "Jadenjvl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Jadenjvl/dolphin-checker-Library",
+    "cover": "https://avatars.githubusercontent.com/u/140992942?v=4",
+    "description": "this is a python library for checking if your PC has the certification or on Dolphin Emulator and you can edit it to your just make sure my name is still in the credits"
+  },
+  {
+    "name": "Save-The-DolpinVR-Emulator",
+    "slug": "save-the-dolpinvr-emulator",
+    "creator": "EDKGames1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EDKGames1/Save-The-DolpinVR-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/103608155?v=4",
+    "description": "Nintendo recently went to \"War\" with the Dolphin VR emulator. We believe they are in the right, since Nintendo has no VR emulators. This page is dedicated to preserving the Dolphin Emulator. All data donations welcome for the time being."
+  },
+  {
+    "name": "ssbackup",
+    "slug": "ssbackup",
+    "creator": "nlburgin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nlburgin/ssbackup",
+    "cover": "https://avatars.githubusercontent.com/u/30382228?v=4",
+    "description": "Shell scripts for backing up and restoring save states for Dolphin emulator under Linux"
+  },
+  {
+    "name": "Wii-Mote-via-miyflash-dolphinbar-linux-solved-",
+    "slug": "wii-mote-via-miyflash-dolphinbar-linux-solved",
+    "creator": "papalooi44gamestudios-pixel",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/papalooi44gamestudios-pixel/Wii-Mote-via-miyflash-dolphinbar-linux-solved-",
+    "cover": "https://avatars.githubusercontent.com/u/229137005?v=4",
+    "description": "\"A comprehensive guide for setting up and troubleshooting the Mayflash Dolphinbar with the Dolphin emulator on Linux, including udev rules and controller configuration steps.\""
+  },
+  {
+    "name": "cv-mk64",
+    "slug": "cv-mk64",
+    "creator": "c-goodman",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/c-goodman/cv-mk64",
+    "cover": "https://avatars.githubusercontent.com/u/69017299?v=4",
+    "description": "Using computer vision to scrape dolphin emulated Mario Kart 64"
+  },
+  {
+    "name": "FdroidAlerter",
+    "slug": "fdroidalerter",
+    "creator": "exaCORE42",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/exaCORE42/FdroidAlerter",
+    "cover": "https://avatars.githubusercontent.com/u/85199808?v=4",
+    "description": "RSS feed creator for reminders when Dolphin Emulator on Android needs updating on F-Droid"
+  },
+  {
+    "name": "Nvidia-Shield-TVs-Punch-Out-Wii-Controller-Scheme-Profile-For-Dolphin-Emulator",
+    "slug": "nvidia-shield-tvs-punch-out-wii-controller-scheme-profile-for-dolphin-emulator",
+    "creator": "OhLookItsBenny",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OhLookItsBenny/Nvidia-Shield-TVs-Punch-Out-Wii-Controller-Scheme-Profile-For-Dolphin-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/101536371?v=4",
+    "description": "..."
+  },
+  {
+    "name": "AgentMarioBrosWii",
+    "slug": "agentmariobroswii",
+    "creator": "TibaudoRomain",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TibaudoRomain/AgentMarioBrosWii",
+    "cover": "https://avatars.githubusercontent.com/u/146826729?v=4",
+    "description": "A little agent to complete any level in mario kart wii using dolphin as an emulator."
+  },
+  {
+    "name": "Scooby-Doo-Unmasked-Lua-Scripts",
+    "slug": "scooby-doo-unmasked-lua-scripts",
+    "creator": "DeathMaster001",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DeathMaster001/Scooby-Doo-Unmasked-Lua-Scripts",
+    "cover": "https://avatars.githubusercontent.com/u/63770649?v=4",
+    "description": "Lua scripts for the GameCube game Scooby-Doo! Unmasked. Works with SwareJonge's Dolphin Lua Core emulator."
+  },
+  {
+    "name": "smashonline",
+    "slug": "smashonline",
+    "creator": "dirtshell",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dirtshell/smashonline",
+    "cover": "https://avatars.githubusercontent.com/u/2774896?v=4",
+    "description": "A easy way for people to arrange Super Smash Bros Melee games online with the Dolphin Emulator"
+  },
+  {
+    "name": "THPS4HDTexturePack",
+    "slug": "thps4hdtexturepack",
+    "creator": "TheCatCoder",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheCatCoder/THPS4HDTexturePack",
+    "cover": "https://avatars.githubusercontent.com/u/11698858?v=4",
+    "description": "HD Texture Pack for Tony Hawk Pro Skater 4 that can be used with the Dolphin Emulator."
+  },
+  {
+    "name": "sup-dolphin-memory-lib",
+    "slug": "sup-dolphin-memory-lib",
+    "creator": "sup39",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sup39/sup-dolphin-memory-lib",
+    "cover": "https://avatars.githubusercontent.com/u/31564253?v=4",
+    "description": "A Python library for reading and writing the memory of an emulated game in Dolphin. Moved to https://forgejo.sup39.dev/sup39/sup-dolphin-memory-lib"
+  },
+  {
+    "name": "cat-gpt",
+    "slug": "cat-gpt",
+    "creator": "lenovo-jojo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lenovo-jojo/cat-gpt",
+    "cover": "https://avatars.githubusercontent.com/u/173228126?v=4",
+    "description": "ai chat function to use in animal crossing gamecube deluxe dolphin emulator, early in production do not use "
+  },
+  {
+    "name": "slippi",
+    "slug": "slippi",
+    "creator": "Gameplayhard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Gameplayhard/slippi",
+    "cover": "https://avatars.githubusercontent.com/u/44454170?v=4",
+    "description": "Slippi Launcher comes with Dolphin, an emulator for playing GameCube and Wii games. The bundled version is a fork of the official Dolphin release with added Slippi support. Add online "
+  },
+  {
+    "name": "Battlephin",
+    "slug": "battlephin",
+    "creator": "RussellJerome",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RussellJerome/Battlephin",
+    "cover": "https://avatars.githubusercontent.com/u/41841866?v=4",
+    "description": "This is a experimental proof of concept runtime mod loader for Star Wars Battlefront 3 on the Dolphin Emulator"
+  },
+  {
+    "name": "AmIVirtual",
+    "slug": "amivirtual",
+    "creator": "ApfelTeeSaft",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ApfelTeeSaft/AmIVirtual",
+    "cover": "https://avatars.githubusercontent.com/u/91074565?v=4",
+    "description": "Simple C lib to detect wether a Wii Program is running in vWii (WiiU) Real Hardware (Wii) or the Dolphin Emulator"
+  },
+  {
+    "name": "SwareJonge",
+    "slug": "swarejonge",
+    "creator": "740949744qqc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/740949744qqc/SwareJonge",
+    "cover": "https://avatars.githubusercontent.com/u/104497571?v=4",
+    "description": "This is a custom version of the Dolphin Emulator, in this version you can launch LUA scripts. This version is based o…"
+  },
+  {
+    "name": "SwareJonge",
+    "slug": "swarejonge",
+    "creator": "1018661791qqz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/1018661791qqz/SwareJonge",
+    "cover": "https://avatars.githubusercontent.com/u/104672621?v=4",
+    "description": "This is a custom version of the Dolphin Emulator, in this version you can launch LUA scripts. This version is based o…"
+  },
+  {
+    "name": "crash-bandicoot-pc-launcher",
+    "slug": "crash-bandicoot-pc-launcher",
+    "creator": "mrthemgi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mrthemgi/crash-bandicoot-pc-launcher",
+    "cover": "https://avatars.githubusercontent.com/u/111203925?v=4",
+    "description": "A lightweight Python-based PC launcher for Crash of the Titans and Mind Over Mutant, featuring a modern PyQt6 interface, Dolphin emulator integration, dynamic backgrounds, and keyboard navigation support."
+  },
+  {
+    "name": "Paper-Mario-The-Thousand-Year-Door-Texture-Mod-Bow-Over-Flurrie",
+    "slug": "paper-mario-the-thousand-year-door-texture-mod-bow-over-flurrie",
+    "creator": "PhoenixStormJr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PhoenixStormJr/Paper-Mario-The-Thousand-Year-Door-Texture-Mod-Bow-Over-Flurrie",
+    "cover": "https://avatars.githubusercontent.com/u/66498788?v=4",
+    "description": "This is an easy texture mod for the dolphin emulator that replaces the provocative Flurrie with a family friendly cute boo named Bow!"
+  },
+  {
+    "name": "007-Everything-or-Nothing-Autosplitter",
+    "slug": "007-everything-or-nothing-autosplitter",
+    "creator": "NickRPGreen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NickRPGreen/007-Everything-or-Nothing-Autosplitter",
+    "cover": "https://avatars.githubusercontent.com/u/109427639?v=4",
+    "description": "ASL and Blank Splits for autosplitting the GameCube version of 007 Everything or Nothing on Dolphin emulators."
+  },
+  {
+    "name": "TwitchInputBot",
+    "slug": "twitchinputbot",
+    "creator": "brandontruggles",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/brandontruggles/TwitchInputBot",
+    "cover": "https://avatars.githubusercontent.com/u/6752598?v=4",
+    "description": "A bot that takes inputs from Twitch.tv's IRC chat and counts input patterns for use in a modified copy of the Dolphin GameCube emulator."
+  },
+  {
+    "name": "The-Lord-of-the-Rings-The-Two-Towers-Autosplitter",
+    "slug": "the-lord-of-the-rings-the-two-towers-autosplitter",
+    "creator": "NickRPGreen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NickRPGreen/The-Lord-of-the-Rings-The-Two-Towers-Autosplitter",
+    "cover": "https://avatars.githubusercontent.com/u/109427639?v=4",
+    "description": "ASL and Blank Splits for autosplitting the GameCube version of The Lord of the Rings: The Two Towers on Dolphin emulators."
+  },
+  {
+    "name": "wiimotecast",
+    "slug": "wiimotecast",
+    "creator": "nycalexander",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nycalexander/wiimotecast",
+    "cover": "https://avatars.githubusercontent.com/u/181274806?v=4",
+    "description": "WiimoteCast is an Android application and companion Python server that enables you to use a Nintendo Wiimote as a controller universally (over ViGEmBus [vgamepad] as an XBOX360 controller) for your PC, including support for Dolphin Emulator and for any game with controller support in general."
+  },
+  {
+    "name": "alpine-retro-gaming",
+    "slug": "alpine-retro-gaming",
+    "creator": "BobDeUncle",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BobDeUncle/alpine-retro-gaming",
+    "cover": "https://avatars.githubusercontent.com/u/64817684?v=4",
+    "description": "A containerized Alpine Linux desktop environment with XFCE, VNC, and gaming emulators (RetroArch and Dolphin) pre-installed. This project provides a lightweight, portable gaming environment that can be run on any system with Docker support, including NVIDIA GPU passthrough."
+  },
+  {
+    "name": "Virtual-Wii-Manager",
+    "slug": "virtual-wii-manager",
+    "creator": "MintXeido",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MintXeido/Virtual-Wii-Manager",
+    "cover": "https://avatars.githubusercontent.com/u/83768709?v=4",
+    "description": "A program that is created with LuaRT Compiler that is installed on a USB or an External Hard Drive, It can run wii emulators such as: Dolphin & Cemu. Making these 2 programs portable, managable, accessable & easy to use on any Windows PC!"
+  },
+  {
+    "name": "PSX2",
+    "slug": "psx2",
+    "creator": "izzy2lost",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/izzy2lost/PSX2",
+    "cover": "https://avatars.githubusercontent.com/u/170889516?v=4",
+    "description": "Android PS2 Emulator based off of PCSX2                                              "
+  },
+  {
+    "name": "PCSX2",
+    "slug": "pcsx2",
+    "creator": "Gabominated",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Gabominated/PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/154765720?v=4",
+    "description": "Compilation of  50/60 FPS, widescreen and improvement patches for PCSX2 emulator"
+  },
+  {
+    "name": "mymcplus",
+    "slug": "mymcplus",
+    "creator": "thestr4ng3r",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/thestr4ng3r/mymcplus",
+    "cover": "https://avatars.githubusercontent.com/u/1460997?v=4",
+    "description": "Moved to https://git.sr.ht/~thestr4ng3r/mymcplus - PlayStation 2 memory card manager"
+  },
+  {
+    "name": "PSMove-DSU",
+    "slug": "psmove-dsu",
+    "creator": "Swordmaster3214",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Swordmaster3214/PSMove-DSU",
+    "cover": "https://avatars.githubusercontent.com/u/118647835?v=4",
+    "description": "A cross-platform DSU (DualShock UDP) / Cemuhook server for PlayStation Move controllers, enabling motion controls in games and emulators that support the DSU protocol."
+  },
+  {
+    "name": "pcsx2-1.4.0-rr",
+    "slug": "pcsx2-1-4-0-rr",
+    "creator": "pocokhc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pocokhc/pcsx2-1.4.0-rr",
+    "cover": "https://avatars.githubusercontent.com/u/1822732?v=4",
+    "description": "pcsx2-1.4.0にTAS作成のための機能を追加した非公式エミュレータです。"
+  },
+  {
+    "name": "PCSX2-Trainer-SDK",
+    "slug": "pcsx2-trainer-sdk",
+    "creator": "NightFyre",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NightFyre/PCSX2-Trainer-SDK",
+    "cover": "https://avatars.githubusercontent.com/u/70119011?v=4",
+    "description": "A modern toolkit for developing trainers, mods, and game enhancements for the PCSX2 emulator."
+  },
+  {
+    "name": "pcsx2_patches_list",
+    "slug": "pcsx2-patches-list",
+    "creator": "KrystianLesniak",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KrystianLesniak/pcsx2_patches_list",
+    "cover": "https://avatars.githubusercontent.com/u/24397270?v=4",
+    "description": "Organized list of all patches (Widescreen, No Interlace, etc.) officially distributed with the PCSX2 emulator."
+  },
+  {
+    "name": "CheatEngine",
+    "slug": "cheatengine",
+    "creator": "TylerDev905",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TylerDev905/CheatEngine",
+    "cover": "https://avatars.githubusercontent.com/u/10319838?v=4",
+    "description": "A C# Cheat Engine that works with Pc games and the pcsx2 emulator with plans to expand to other emulators in the future."
+  },
+  {
+    "name": "XboxTexturePack.TheWarriors",
+    "slug": "xboxtexturepack-thewarriors",
+    "creator": "eternights",
+    "version": "...",
+    "console": "Xbox",
+    "url": "https://github.com/eternights/XboxTexturePack.TheWarriors",
+    "cover": "https://avatars.githubusercontent.com/u/88331823?v=4",
+    "description": "Texture port from the Xbox release to PCSX2 (PS2 emulator) of The Warriors."
+  },
+  {
+    "name": "Batocera-PS2-Game-Settings",
+    "slug": "batocera-ps2-game-settings",
+    "creator": "chamara64",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/chamara64/Batocera-PS2-Game-Settings",
+    "cover": "https://avatars.githubusercontent.com/u/70972394?v=4",
+    "description": "This is an add on for Batocera Linux to manage separate settings for individual games on the PCSX2 emulator  "
+  },
+  {
+    "name": "GameDiscLoader",
+    "slug": "gamediscloader",
+    "creator": "MechaDragonX",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MechaDragonX/GameDiscLoader",
+    "cover": "https://avatars.githubusercontent.com/u/23585932?v=4",
+    "description": "A program that reads a PlayStation 2 game in the disc drive, creates an ISO file, and launches the PCSX2 emulator with it. Will support other systems in the future."
+  },
+  {
+    "name": "FrontiersForge",
+    "slug": "frontiersforge",
+    "creator": "mmvest",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mmvest/FrontiersForge",
+    "cover": "https://avatars.githubusercontent.com/u/53498772?v=4",
+    "description": "A UI modding tool for Everquest Online Adventures Frontiers for use with Windows PCSX2 emulator and Sandstorm private server."
+  },
+  {
+    "name": "react-game-launcher",
+    "slug": "react-game-launcher",
+    "creator": "elysiummachines",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/elysiummachines/react-game-launcher",
+    "cover": "https://avatars.githubusercontent.com/u/77207882?v=4",
+    "description": "Fun projects to bring Emulator and first party Game Launchers under one roof"
+  },
+  {
+    "name": "mymc",
+    "slug": "mymc",
+    "creator": "jerrys123111",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jerrys123111/mymc",
+    "cover": "https://avatars.githubusercontent.com/u/19970571?v=4",
+    "description": "mymc is a public domain utility for working with PlayStation 2 memory card images (.ps2) as used by the PlayStation 2 emulator PCSX2. Created by Ross Ridge."
+  },
+  {
+    "name": "PlayStation-2-BIOS",
+    "slug": "playstation-2-bios",
+    "creator": "kuppersito",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/kuppersito/PlayStation-2-BIOS",
+    "cover": "https://avatars.githubusercontent.com/u/206473056?v=4",
+    "description": "Download PCSX2 - Playstation 2 BIOS (PS2 BIOS) emulates your favorite games for any console and platform."
+  },
+  {
+    "name": "GT4Twitch",
+    "slug": "gt4twitch",
+    "creator": "xan1242",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xan1242/GT4Twitch",
+    "cover": "https://avatars.githubusercontent.com/u/8014093?v=4",
+    "description": "GT4 Progress Tracker for Twitch"
+  },
+  {
+    "name": "retropie-pcsx2-wrapper",
+    "slug": "retropie-pcsx2-wrapper",
+    "creator": "ringnutz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ringnutz/retropie-pcsx2-wrapper",
+    "cover": "https://avatars.githubusercontent.com/u/1975976?v=4",
+    "description": "This is a wrapper for PCSX2 for Retropie, it uses a simple python wrapper to intercept a key combination to exit the emulator on keypress"
+  },
+  {
+    "name": "PCSX2",
+    "slug": "pcsx2",
+    "creator": "PCSX3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX3/PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/106276944?v=4",
+    "description": "PCSX2 Emulator"
+  },
+  {
+    "name": "emulator-pcsx2-compile",
+    "slug": "emulator-pcsx2-compile",
+    "creator": "sairuk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sairuk/emulator-pcsx2-compile",
+    "cover": "https://avatars.githubusercontent.com/u/526372?v=4",
+    "description": "Compile pcsx2 32bit"
+  },
+  {
+    "name": "MemoryIO.Pcsx2",
+    "slug": "memoryio-pcsx2",
+    "creator": "Finzenku",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Finzenku/MemoryIO.Pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/29264988?v=4",
+    "description": "An implemention of MemoryIO specifically for the PCSX2 emulator: https://github.com/PCSX2/pcsx2"
+  },
+  {
+    "name": "libpnach",
+    "slug": "libpnach",
+    "creator": "a-n-t-i-b-a-r-y-o-n",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/a-n-t-i-b-a-r-y-o-n/libpnach",
+    "cover": "https://avatars.githubusercontent.com/u/77591737?v=4",
+    "description": "Rust library for creating PNach-format cheat code files for the emulator PCSX2"
+  },
+  {
+    "name": "AetherSX2WindowsArm64",
+    "slug": "aethersx2windowsarm64",
+    "creator": "Otozinclus",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/Otozinclus/AetherSX2WindowsArm64",
+    "cover": "https://avatars.githubusercontent.com/u/58051309?v=4",
+    "description": "A Windows port of AetherSX (Which is a ARM64 port of PCSX2, a PS2 Emulator, originally made for Android)"
+  },
+  {
+    "name": "Dark-Cloud-2-Enemy-Randomizer",
+    "slug": "dark-cloud-2-enemy-randomizer",
+    "creator": "sullivanrMSOE",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sullivanrMSOE/Dark-Cloud-2-Enemy-Randomizer",
+    "cover": "https://avatars.githubusercontent.com/u/76167901?v=4",
+    "description": "Executable that mods Dark Cloud 2 emulated through PCSX2 through real-time memory injection"
+  },
+  {
+    "name": "Lyvon-Xiong-",
+    "slug": "lyvon-xiong",
+    "creator": "lyvonx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lyvonx/Lyvon-Xiong-",
+    "cover": "https://avatars.githubusercontent.com/u/51280167?v=4",
+    "description": "Pcsx2 pro emulator "
+  },
+  {
+    "name": "PCSX2",
+    "slug": "pcsx2",
+    "creator": "nzing82",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nzing82/PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/12592064?v=4",
+    "description": "PS2 emulator"
+  },
+  {
+    "name": "Lyvon-X",
+    "slug": "lyvon-x",
+    "creator": "lyvonx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lyvonx/Lyvon-X",
+    "cover": "https://avatars.githubusercontent.com/u/51280167?v=4",
+    "description": "Pcsx2 pro emulator "
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "OpenMandrivaAssociation",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OpenMandrivaAssociation/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/13415214?v=4",
+    "description": "Sony PlayStation 2 emulator."
+  },
+  {
+    "name": "PCSX2",
+    "slug": "pcsx2",
+    "creator": "mj1699497",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mj1699497/PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/191761348?v=4",
+    "description": "PS2 EMULATOR FOR LINUX"
+  },
+  {
+    "name": "PowershellFrontend-emulators",
+    "slug": "powershellfrontend-emulators",
+    "creator": "Kzitold",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kzitold/PowershellFrontend-emulators",
+    "cover": "https://avatars.githubusercontent.com/u/19679143?v=4",
+    "description": "Powershell frontend for PCSX2"
+  },
+  {
+    "name": "pcsx2emulator",
+    "slug": "pcsx2emulator",
+    "creator": "devoxpro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/devoxpro/pcsx2emulator",
+    "cover": "https://avatars.githubusercontent.com/u/108952896?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Pcsx2Interface",
+    "slug": "pcsx2interface",
+    "creator": "1ud0v1c",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/1ud0v1c/Pcsx2Interface",
+    "cover": "https://avatars.githubusercontent.com/u/4136370?v=4",
+    "description": "Just an interface for the emulator Pcsx2"
+  },
+  {
+    "name": "pcsx2-gsdx-shaderfx",
+    "slug": "pcsx2-gsdx-shaderfx",
+    "creator": "peeweek",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/peeweek/pcsx2-gsdx-shaderfx",
+    "cover": "https://avatars.githubusercontent.com/u/4037271?v=4",
+    "description": "Shaders for PCSX2 GSDX emulator plugin"
+  },
+  {
+    "name": "PCSX2-with-bios-USA-",
+    "slug": "pcsx2-with-bios-usa",
+    "creator": "cubenx3-web",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/cubenx3-web/PCSX2-with-bios-USA-",
+    "cover": "https://avatars.githubusercontent.com/u/245246686?v=4",
+    "description": " ps2 emulator for pc "
+  },
+  {
+    "name": "PCSX2-emulator-Snap",
+    "slug": "pcsx2-emulator-snap",
+    "creator": "Kyuyrii",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kyuyrii/PCSX2-emulator-Snap",
+    "cover": "https://avatars.githubusercontent.com/u/190517858?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Git-Hub-Chris_PCSX2",
+    "slug": "git-hub-chris-pcsx2",
+    "creator": "step-security-bot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/step-security-bot/Git-Hub-Chris_PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/89328645?v=4",
+    "description": "Open source PlayStation 2 (PS2) emulator."
+  },
+  {
+    "name": "XPS2",
+    "slug": "xps2",
+    "creator": "10KFE1NDDP",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/10KFE1NDDP/XPS2",
+    "cover": "https://avatars.githubusercontent.com/u/168690641?v=4",
+    "description": "my emulator that is based on PCSX2"
+  },
+  {
+    "name": "pcsx_docker",
+    "slug": "pcsx-docker",
+    "creator": "sfate",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sfate/pcsx_docker",
+    "cover": "https://avatars.githubusercontent.com/u/469230?v=4",
+    "description": "Run PCSX2 emulator on OSX under Docker"
+  },
+  {
+    "name": "PCSX252X-Vanguard",
+    "slug": "pcsx252x-vanguard",
+    "creator": "redscientistlabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/redscientistlabs/PCSX252X-Vanguard",
+    "cover": "https://avatars.githubusercontent.com/u/70184063?v=4",
+    "description": "PCSX2 emulator for RTCV, using the new DLL hook implementation"
+  },
+  {
+    "name": "Playststion_2",
+    "slug": "playststion-2",
+    "creator": "MrSJDDevelopments",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MrSJDDevelopments/Playststion_2",
+    "cover": "https://avatars.githubusercontent.com/u/36908162?v=4",
+    "description": "Correctly formatted .pnach cheat files for PCSX2 emulator"
+  },
+  {
+    "name": "pcsx2_interface",
+    "slug": "pcsx2-interface",
+    "creator": "evilwb",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/evilwb/pcsx2_interface",
+    "cover": "https://avatars.githubusercontent.com/u/8889752?v=4",
+    "description": "Exposes PS2 memory within a running instance of the PCSX2 emulator using the Pine IPC Protocol."
+  },
+  {
+    "name": "TextureUpload",
+    "slug": "textureupload",
+    "creator": "Icey1717",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Icey1717/TextureUpload",
+    "cover": "https://avatars.githubusercontent.com/u/56008683?v=4",
+    "description": "For processing ps2 textures mimicing the pcsx2 emulator"
+  },
+  {
+    "name": "PCSX2-Memory-Accessor",
+    "slug": "pcsx2-memory-accessor",
+    "creator": "C0mposer",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/C0mposer/PCSX2-Memory-Accessor",
+    "cover": "https://avatars.githubusercontent.com/u/78276528?v=4",
+    "description": "A Python API for reading & writing to PCSX2's emulator memory, using the Pine IPC protocol."
+  },
+  {
+    "name": "retropie_pcsx2-appImage",
+    "slug": "retropie-pcsx2-appimage",
+    "creator": "raelgc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/raelgc/retropie_pcsx2-appImage",
+    "cover": "https://avatars.githubusercontent.com/u/263302?v=4",
+    "description": "Retropie plugin to install and update the PCSX2 emulator with the new Qt interface"
+  },
+  {
+    "name": "Install-pcsx2-ubuntu",
+    "slug": "install-pcsx2-ubuntu",
+    "creator": "ivanildolo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ivanildolo/Install-pcsx2-ubuntu",
+    "cover": "https://avatars.githubusercontent.com/u/8987951?v=4",
+    "description": "Instalador automático do PCSX2 (PlayStation 2 Emulator) para Ubuntu/Debian Script bash que resolve conflitos com Snap e configura tudo automaticamente"
+  },
+  {
+    "name": "MGS3-Xinput-pcsx2",
+    "slug": "mgs3-xinput-pcsx2",
+    "creator": "Huuuuuugo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Huuuuuugo/MGS3-Xinput-pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/99366724?v=4",
+    "description": "AutoHotkey and Python scripts that make the game 'Metal Gear Solid 3' fully playable with an Xinput controller on pcsx2 emulator."
+  },
+  {
+    "name": "PCSX2-PlayStation-2-emulator-app-for-Windows",
+    "slug": "pcsx2-playstation-2-emulator-app-for-windows",
+    "creator": "emma575325653",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/emma575325653/PCSX2-PlayStation-2-emulator-app-for-Windows",
+    "cover": "https://avatars.githubusercontent.com/u/209309553?v=4",
+    "description": "PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, ..."
+  },
+  {
+    "name": "save-files-pcsx2",
+    "slug": "save-files-pcsx2",
+    "creator": "netryxdev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/netryxdev/save-files-pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/90341023?v=4",
+    "description": "My game save files from PS2 (pcsx2 emulator), BIOS files and save management software. To use just git clone and move into pcsx2 documents folder and replace folders."
+  },
+  {
+    "name": "texture-pack-ps2-kelly-slaters-pro-surfer",
+    "slug": "texture-pack-ps2-kelly-slaters-pro-surfer",
+    "creator": "GustavoContreiras",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/GustavoContreiras/texture-pack-ps2-kelly-slaters-pro-surfer",
+    "cover": "https://avatars.githubusercontent.com/u/38460351?v=4",
+    "description": "Upscaled textures for the Kelly Slater's Pro Surfer running in PCSX2 emulator"
+  },
+  {
+    "name": "PCSX2-CPU-Bot",
+    "slug": "pcsx2-cpu-bot",
+    "creator": "Pixxel123",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Pixxel123/PCSX2-CPU-Bot",
+    "cover": "https://avatars.githubusercontent.com/u/36304206?v=4",
+    "description": "A reddit bot that grabs CPU information for users to compare with PCSX2 emulator's system requirements"
+  },
+  {
+    "name": "Proyecto-Arduino-AETHER-PCSX2",
+    "slug": "proyecto-arduino-aether-pcsx2",
+    "creator": "JuampaBaquero",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JuampaBaquero/Proyecto-Arduino-AETHER-PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/235189864?v=4",
+    "description": "This is a project that wants to connect an emulator of PS2 with a Arduino UNO that have a joystick and some buttons.  The purpose of this code is build a retro machine with PS2."
+  },
+  {
+    "name": "SlySaveSync",
+    "slug": "slysavesync",
+    "creator": "Snugggles",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Snugggles/SlySaveSync",
+    "cover": "https://avatars.githubusercontent.com/u/88713074?v=4",
+    "description": "A program that lets people synchronize save files when playing Sly Cooper on the PCSX2 Emulator"
+  },
+  {
+    "name": "Swap-Disc-Test",
+    "slug": "swap-disc-test",
+    "creator": "HowlingWolfHWC",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HowlingWolfHWC/Swap-Disc-Test",
+    "cover": "https://avatars.githubusercontent.com/u/58843152?v=4",
+    "description": "Just a simple test app to help the PCSX2 devs on fixing a bug on the emulator"
+  },
+  {
+    "name": "Electron-frontend",
+    "slug": "electron-frontend",
+    "creator": "kalasjonte",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kalasjonte/Electron-frontend",
+    "cover": "https://avatars.githubusercontent.com/u/81684659?v=4",
+    "description": "Frontend for games and movies. Currently runs ps2 games with the help of PCSX2 emulator. Built with electron"
+  },
+  {
+    "name": "transin",
+    "slug": "transin",
+    "creator": "gucheen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gucheen/transin",
+    "cover": "https://avatars.githubusercontent.com/u/1382472?v=4",
+    "description": "Transin is an experimental project I made to translate text from games that in game console emulator(eg. PCSX2)."
+  },
+  {
+    "name": "game-ps-2-for-pc",
+    "slug": "game-ps-2-for-pc",
+    "creator": "cacing1209",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cacing1209/game-ps-2-for-pc",
+    "cover": "https://avatars.githubusercontent.com/u/65495500?v=4",
+    "description": "Repositori ini berisi kumpulan file yang memungkinkan Anda untuk memainkan game PlayStation 2 (PS2) di PC menggunakan software emulator PCSX2."
+  },
+  {
+    "name": "playstation-emulator-installer-macos",
+    "slug": "playstation-emulator-installer-macos",
+    "creator": "emu-player",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/emu-player/playstation-emulator-installer-macos",
+    "cover": "https://avatars.githubusercontent.com/u/256540147?v=4",
+    "description": "Automatic PlayStation emulator installer for macOS (Intel & Apple Silicon). One-line command to install PCSX (PS1), PCSX2 (PS2), and RPCS3 (PS3) with automatic BIOS/firmware configuration, dependency management via Homebrew, and full environment setup. No manual configuration needed."
+  },
+  {
+    "name": "BT4-HD",
+    "slug": "bt4-hd",
+    "creator": "Angel06a",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Angel06a/BT4-HD",
+    "cover": "https://avatars.githubusercontent.com/u/202776057?v=4",
+    "description": "Dragon Ball Z 🉑 Budokai Tenkaichi 4 🐉 Texture Pack HD: This texture pack adds higher resolution textures to the Dragon Ball Z - Budokai Tenkaichi 4 video game using the pcsx2 emulator."
+  },
+  {
+    "name": "Madden-Franchise-Server",
+    "slug": "madden-franchise-server",
+    "creator": "Seidler93",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Seidler93/Madden-Franchise-Server",
+    "cover": "https://avatars.githubusercontent.com/u/66758675?v=4",
+    "description": "Madden Franchise Server 🎮 A remote-accessible Madden franchise server for RPCS3 & PCSX2. Friends can play anytime via a custom Electron launcher with locked emulator settings, shared saves, and remote access (Parsec/Sunshine). Features auto-restart, watchdog scripts, and an easy setup for low-tech users. 🚀"
+  },
+  {
+    "name": "totk-mod-manager-for-switch-emulators",
+    "slug": "totk-mod-manager-for-switch-emulators",
+    "creator": "vasilvestre",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/vasilvestre/totk-mod-manager-for-switch-emulators",
+    "cover": "https://avatars.githubusercontent.com/u/17164385?v=4",
+    "description": "Zelda: Tears of the Kingdom Mod Manager is an open-source application, designed to assist players of Zelda: Tears of the Kingdom on the Yuzu emulator in managing mods for the game."
+  },
+  {
+    "name": "suyu",
+    "slug": "suyu",
+    "creator": "vstyler96",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vstyler96/suyu",
+    "cover": "https://avatars.githubusercontent.com/u/46312870?v=4",
+    "description": "suyu, pronounced \"sue-you\" (wink wink) is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android."
+  },
+  {
+    "name": "Switch-Emulator-Mod-Database",
+    "slug": "switch-emulator-mod-database",
+    "creator": "ADEMOLA200",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/ADEMOLA200/Switch-Emulator-Mod-Database",
+    "cover": "https://avatars.githubusercontent.com/u/88844070?v=4",
+    "description": "This includes cheats, fps and graphics mods for some of the switch games. Nintendo Switch Mods for some games. Mainly made + focus on Switch Emulators (Yuzu/Ryujinx/Sudachi/Citron...etc). This is a main mods repository."
+  },
+  {
+    "name": "Switch-Save-Game-Transfer",
+    "slug": "switch-save-game-transfer",
+    "creator": "JDHatten",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/JDHatten/Switch-Save-Game-Transfer",
+    "cover": "https://avatars.githubusercontent.com/u/8799515?v=4",
+    "description": "This script will allow you to easily transfer your game save files between Ryujinx and Yuzu Switch emulators."
+  },
+  {
+    "name": "JigglyConnect",
+    "slug": "jigglyconnect",
+    "creator": "Bishoko",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Bishoko/JigglyConnect",
+    "cover": "https://avatars.githubusercontent.com/u/155855952?v=4",
+    "description": "An easy way to play SSBU with matchmaking on Yuzu/Suyu emulator"
+  },
+  {
+    "name": "yuzu-cheats",
+    "slug": "yuzu-cheats",
+    "creator": "ravishankar2463",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ravishankar2463/yuzu-cheats",
+    "cover": "https://avatars.githubusercontent.com/u/44739316?v=4",
+    "description": "Python Script to Add CHeats to YUZU Emulator"
+  },
+  {
+    "name": "emuswitch-backup",
+    "slug": "emuswitch-backup",
+    "creator": "StevensND",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/StevensND/emuswitch-backup",
+    "cover": "https://avatars.githubusercontent.com/u/45856578?v=4",
+    "description": "A script made in Python that allows you to perform an auto backup of your saves in the Yuzu or Ryujinx emulator (Nintendo Switch)."
+  },
+  {
+    "name": "yuzu",
+    "slug": "yuzu",
+    "creator": "NicolasArvani",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NicolasArvani/yuzu",
+    "cover": "https://avatars.githubusercontent.com/u/82300714?v=4",
+    "description": "Nintendo Switch emulator"
+  },
+  {
+    "name": "Sudachi",
+    "slug": "sudachi",
+    "creator": "mbruno9",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mbruno9/Sudachi",
+    "cover": "https://avatars.githubusercontent.com/u/161871234?v=4",
+    "description": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone built on top of Yuzu making use of the Vulkan renderer through a modified MoltenVK, written in C++, Objective-C and Swift"
+  },
+  {
+    "name": "yuzu",
+    "slug": "yuzu",
+    "creator": "shakenetwork",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shakenetwork/yuzu",
+    "cover": "https://avatars.githubusercontent.com/u/28796324?v=4",
+    "description": "NS模拟���Nintendo Switch Emulator"
+  },
+  {
+    "name": "BDSP-CheatEngine-Lua",
+    "slug": "bdsp-cheatengine-lua",
+    "creator": "Real96",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Real96/BDSP-CheatEngine-Lua",
+    "cover": "https://avatars.githubusercontent.com/u/20956021?v=4",
+    "description": "Lua script for RNG abusing in Pokémon Brilliant Diamond and Shining Pearl on Yuzu/Ryujinx emulator via Cheat Engine!"
+  },
+  {
+    "name": "Ziunx-Emu-Archive",
+    "slug": "ziunx-emu-archive",
+    "creator": "N0v4Archive",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/N0v4Archive/Ziunx-Emu-Archive",
+    "cover": "https://avatars.githubusercontent.com/u/135011663?v=4",
+    "description": "a Nintendo Switch Emulator For Android Based on Yuzu"
+  },
+  {
+    "name": "YuzuEaUpdater",
+    "slug": "yuzueaupdater",
+    "creator": "ib4error",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ib4error/YuzuEaUpdater",
+    "cover": "https://avatars.githubusercontent.com/u/9699562?v=4",
+    "description": "This lightweight, python based, application provides user friendly access to Yuzu Early Releases from the pineappleEA/pineapple-src repository. "
+  },
+  {
+    "name": "YuzuCanaryLinuxInstaller",
+    "slug": "yuzucanarylinuxinstaller",
+    "creator": "eriknj99",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/eriknj99/YuzuCanaryLinuxInstaller",
+    "cover": "https://avatars.githubusercontent.com/u/11905989?v=4",
+    "description": "An installation script for The switch emulator \"Yuzu\". This script will automatically pull the latest version of Yuzu from its source and install it."
+  },
+  {
+    "name": "yuzu-archive",
+    "slug": "yuzu-archive",
+    "creator": "SnowZucc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SnowZucc/yuzu-archive",
+    "cover": "https://avatars.githubusercontent.com/u/134853819?v=4",
+    "description": "An archive of the latest Yuzu emulator github repo"
+  },
+  {
+    "name": "fastnx",
+    "slug": "fastnx",
+    "creator": "fastnx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fastnx/fastnx",
+    "cover": "https://avatars.githubusercontent.com/u/196462077?v=4",
+    "description": "Experimental Switch emulator focused on game preservation, Not a fork of Yuzu"
+  },
+  {
+    "name": "suyu-emu-5",
+    "slug": "suyu-emu-5",
+    "creator": "Diegopro312",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Diegopro312/suyu-emu-5",
+    "cover": "https://avatars.githubusercontent.com/u/162373711?v=4",
+    "description": "suyulando 5 is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android."
+  },
+  {
+    "name": "yuzuemu",
+    "slug": "yuzuemu",
+    "creator": "GogleSiteBank",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GogleSiteBank/yuzuemu",
+    "cover": "https://avatars.githubusercontent.com/u/125816677?v=4",
+    "description": "Yuzu Nintendo Switch Emulator, not made by me, but it got taken down and ima add it here"
+  },
+  {
+    "name": "yuzuMods",
+    "slug": "yuzumods",
+    "creator": "RebeccaSugar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RebeccaSugar/yuzuMods",
+    "cover": "https://avatars.githubusercontent.com/u/26124732?v=4",
+    "description": "Mods for the Switch emulator yuzu."
+  },
+  {
+    "name": "yuzu-overlay",
+    "slug": "yuzu-overlay",
+    "creator": "Alex-Aralis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Alex-Aralis/yuzu-overlay",
+    "cover": "https://avatars.githubusercontent.com/u/17508658?v=4",
+    "description": "A Gentoo Overlay that provides the Yuzu Switch Emulator."
+  },
+  {
+    "name": "arch-yuzu-mainline",
+    "slug": "arch-yuzu-mainline",
+    "creator": "linux-gamers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linux-gamers/arch-yuzu-mainline",
+    "cover": "https://avatars.githubusercontent.com/u/68473419?v=4",
+    "description": "Arch Linux binaries for the Yuzu emulator mainline branch"
+  },
+  {
+    "name": "yuzu-master",
+    "slug": "yuzu-master",
+    "creator": "IpwnedU123",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/IpwnedU123/yuzu-master",
+    "cover": "https://avatars.githubusercontent.com/u/20837232?v=4",
+    "description": "An up-to-date backup of the main version of the discontinued Switch emulator from Tropic Haze LLC."
+  },
+  {
+    "name": "yuzu-installers",
+    "slug": "yuzu-installers",
+    "creator": "LuccaWang404",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LuccaWang404/yuzu-installers",
+    "cover": "https://avatars.githubusercontent.com/u/142507881?v=4",
+    "description": "一个利用GH Actions自动编译yuzu Switch模拟器安装程序的项目 / A project that automatically compiles the installers of yuzu emulator using GitHub Actions."
+  },
+  {
+    "name": "Nuzu",
+    "slug": "nuzu",
+    "creator": "qqq26",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/qqq26/Nuzu",
+    "cover": "https://avatars.githubusercontent.com/u/164440772?v=4",
+    "description": "Nuzu (Yuzu fork) is an open-source, cross-platform emulator for Nintendo Switch games."
+  },
+  {
+    "name": "Suyuzu-Online-Fix",
+    "slug": "suyuzu-online-fix",
+    "creator": "xVotexX",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xVotexX/Suyuzu-Online-Fix",
+    "cover": "https://avatars.githubusercontent.com/u/160360993?v=4",
+    "description": "This Tool fixes the multiplayer for certain Switch Emulators"
+  },
+  {
+    "name": "Yuzu-Android-lives",
+    "slug": "yuzu-android-lives",
+    "creator": "moosetk",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/moosetk/Yuzu-Android-lives",
+    "cover": "https://avatars.githubusercontent.com/u/26472247?v=4",
+    "description": "Nintendo Switch emulator "
+  },
+  {
+    "name": "YuzuEmulator",
+    "slug": "yuzuemulator",
+    "creator": "littletaoishere",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/littletaoishere/YuzuEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/78880176?v=4",
+    "description": "YUZU模拟器教程"
+  },
+  {
+    "name": "Not-Yuzu-Emulator",
+    "slug": "not-yuzu-emulator",
+    "creator": "satvik-vm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/satvik-vm/Not-Yuzu-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/75723643?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Install-Mods-in-Yuzu-emulator",
+    "slug": "install-mods-in-yuzu-emulator",
+    "creator": "kevinjaeyun",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kevinjaeyun/Install-Mods-in-Yuzu-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/85776353?v=4",
+    "description": "Welcome to Github's New Repository in Install Mods in Yuzu emulator! If you don't have yuzu emulator, click this link: https://yuzu-mirror.github.io/downloads/#windows"
+  },
+  {
+    "name": "retropie_yuzu",
+    "slug": "retropie-yuzu",
+    "creator": "NGC602",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NGC602/retropie_yuzu",
+    "cover": "https://avatars.githubusercontent.com/u/84300098?v=4",
+    "description": "A repository for RetroPie Scripts to install and/or update the Yuzu Linux emulator"
+  },
+  {
+    "name": "mariokart-8-deluxe-xbox-controller",
+    "slug": "mariokart-8-deluxe-xbox-controller",
+    "creator": "Jamzy01",
+    "version": "...",
+    "console": "Xbox",
+    "url": "https://github.com/Jamzy01/mariokart-8-deluxe-xbox-controller",
+    "cover": "https://avatars.githubusercontent.com/u/103490514?v=4",
+    "description": "Binds the controls of an Xbox Controller for a Nintendo Switch Emulator so that you can play Mario Kart 8 Deluxe using an Xbox Controller."
+  },
+  {
+    "name": "yuzu-new",
+    "slug": "yuzu-new",
+    "creator": "damp-canary",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/damp-canary/yuzu-new",
+    "cover": "https://avatars.githubusercontent.com/u/136996406?v=4",
+    "description": "Nintendo Switch emulator"
+  },
+  {
+    "name": "zuyu",
+    "slug": "zuyu",
+    "creator": "uristrimber",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/uristrimber/zuyu",
+    "cover": "https://avatars.githubusercontent.com/u/70989961?v=4",
+    "description": "Yuzu emulator source code and last builds (Linux, Android and Windows)"
+  },
+  {
+    "name": "arch-yuzu-build",
+    "slug": "arch-yuzu-build",
+    "creator": "linux-gamers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linux-gamers/arch-yuzu-build",
+    "cover": "https://avatars.githubusercontent.com/u/68473419?v=4",
+    "description": "Dockerfile with the required dependencies for building the Yuzu emulator"
+  },
+  {
+    "name": "yuzu-multiplayer-api",
+    "slug": "yuzu-multiplayer-api",
+    "creator": "nicholasyoannou",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nicholasyoannou/yuzu-multiplayer-api",
+    "cover": "https://avatars.githubusercontent.com/u/29736141?v=4",
+    "description": "A multiplayer API, to be used with Yuzu/forks of Yuzu, a popular Switch emulator."
+  },
+  {
+    "name": "Pokemon-optimization-mod-fork-for-yuzu-or-ryujinx",
+    "slug": "pokemon-optimization-mod-fork-for-yuzu-or-ryujinx",
+    "creator": "goldenGoblin-star",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/goldenGoblin-star/Pokemon-optimization-mod-fork-for-yuzu-or-ryujinx",
+    "cover": "https://avatars.githubusercontent.com/u/212808138?v=4",
+    "description": "I want to be a Eden Emulator developer"
+  },
+  {
+    "name": "The-Legend-of-Zelda-Tears-Of-The-Kingdom-TOTK-Optimization-Mod-Pack-For-Yuzu-Or-Ryujinx",
+    "slug": "the-legend-of-zelda-tears-of-the-kingdom-totk-optimization-mod-pack-for-yuzu-or-ryujinx",
+    "creator": "goldenGoblin-star",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/goldenGoblin-star/The-Legend-of-Zelda-Tears-Of-The-Kingdom-TOTK-Optimization-Mod-Pack-For-Yuzu-Or-Ryujinx",
+    "cover": "https://avatars.githubusercontent.com/u/212808138?v=4",
+    "description": "I want to be a Eden Emulator developer."
+  },
+  {
+    "name": "nintendoemu",
+    "slug": "nintendoemu",
+    "creator": "Redcarred2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Redcarred2/nintendoemu",
+    "cover": "https://avatars.githubusercontent.com/u/57776274?v=4",
+    "description": "Source code of a bunch of nintendo emulators, RIP yuzu"
+  },
+  {
+    "name": "Uzuy-Graphics-Fixer",
+    "slug": "uzuy-graphics-fixer",
+    "creator": "KaydenJR2310",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KaydenJR2310/Uzuy-Graphics-Fixer",
+    "cover": "https://avatars.githubusercontent.com/u/151856318?v=4",
+    "description": "A GPU Driver for Yuzu and Uzuy Emulator that reduces graphical issues on some games."
+  },
+  {
+    "name": "ps-switchtools",
+    "slug": "ps-switchtools",
+    "creator": "mikepruett3",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/mikepruett3/ps-switchtools",
+    "cover": "https://avatars.githubusercontent.com/u/5198641?v=4",
+    "description": "Custom PowerShell module for use with Nintendo Switch Emulators (yuzu, etc...)"
+  },
+  {
+    "name": "XInput-Tas",
+    "slug": "xinput-tas",
+    "creator": "cwyz-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cwyz-dev/XInput-Tas",
+    "cover": "https://avatars.githubusercontent.com/u/40345710?v=4",
+    "description": "Python program to read a file and emulate an XInput device executing those inputs (main idea is for TAS in emulators such as yuzu)"
+  },
+  {
+    "name": "yuzu",
+    "slug": "yuzu",
+    "creator": "Viddown",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Viddown/yuzu",
+    "cover": "https://avatars.githubusercontent.com/u/220439563?v=4",
+    "description": "yuzu emulator"
+  },
+  {
+    "name": "yuzu-duhsoares21",
+    "slug": "yuzu-duhsoares21",
+    "creator": "turfaa",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/turfaa/yuzu-duhsoares21",
+    "cover": "https://avatars.githubusercontent.com/u/21698471?v=4",
+    "description": "Yuzu Emulator"
+  },
+  {
+    "name": "YuzuEmulator",
+    "slug": "yuzuemulator",
+    "creator": "juann45",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/juann45/YuzuEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/163754652?v=4",
+    "description": "..."
+  },
+  {
+    "name": "yuzu",
+    "slug": "yuzu",
+    "creator": "Anulegend",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Anulegend/yuzu",
+    "cover": "https://avatars.githubusercontent.com/u/92038651?v=4",
+    "description": "It is a Nintendo switch emulator"
+  },
+  {
+    "name": "Yuzu-Emulator",
+    "slug": "yuzu-emulator",
+    "creator": "xanaduamandan1770",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xanaduamandan1770/Yuzu-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/76446132?v=4",
+    "description": "Nintendo Switch Yuzu Emulator"
+  },
+  {
+    "name": "Yuzu",
+    "slug": "yuzu",
+    "creator": "jeremieberrebi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jeremieberrebi/Yuzu",
+    "cover": "https://avatars.githubusercontent.com/u/4217084?v=4",
+    "description": "Reupload of Switch emulator Yuzu because Nintendo sucks"
+  },
+  {
+    "name": "CYAN",
+    "slug": "cyan",
+    "creator": "MostlyWhat",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MostlyWhat/CYAN",
+    "cover": "https://avatars.githubusercontent.com/u/78652091?v=4",
+    "description": "Comprehensive Yuzu (Emulator) Archival Network"
+  },
+  {
+    "name": "yuzu.log",
+    "slug": "yuzu-log",
+    "creator": "Jsxtanto100",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Jsxtanto100/yuzu.log",
+    "cover": "https://avatars.githubusercontent.com/u/50828865?v=4",
+    "description": "Yuzu log from the emulator"
+  },
+  {
+    "name": "yuzu-archive",
+    "slug": "yuzu-archive",
+    "creator": "xabyxd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xabyxd/yuzu-archive",
+    "cover": "https://avatars.githubusercontent.com/u/69438213?v=4",
+    "description": "My compressed yuzu emulator.(the official emulator, just compressed for sharing)"
+  },
+  {
+    "name": "yuzu-emu",
+    "slug": "yuzu-emu",
+    "creator": "MkLXIV",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MkLXIV/yuzu-emu",
+    "cover": "https://avatars.githubusercontent.com/u/62470975?v=4",
+    "description": "Experimental Nintendo Switch Emulator"
+  },
+  {
+    "name": "yuzu-emulator",
+    "slug": "yuzu-emulator",
+    "creator": "YuzuEA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/YuzuEA/yuzu-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/235835791?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Yuzu-Emulator",
+    "slug": "yuzu-emulator",
+    "creator": "mineadice2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mineadice2/Yuzu-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/123500048?v=4",
+    "description": "..."
+  },
+  {
+    "name": "yuzu-emulator",
+    "slug": "yuzu-emulator",
+    "creator": "Theolan0677",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Theolan0677/yuzu-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/108488763?v=4",
+    "description": "Theolan"
+  },
+  {
+    "name": "Yuzu-Emulator2.github.io",
+    "slug": "yuzu-emulator2-github-io",
+    "creator": "ISnortBleech",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ISnortBleech/Yuzu-Emulator2.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/155759546?v=4",
+    "description": "..."
+  },
+  {
+    "name": "yuzu-mirror",
+    "slug": "yuzu-mirror",
+    "creator": "gmh5225",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gmh5225/yuzu-mirror",
+    "cover": "https://avatars.githubusercontent.com/u/13917777?v=4",
+    "description": "A mirror for the Yuzu Emulator"
+  },
+  {
+    "name": "Yuzu-Emulator1.github.io",
+    "slug": "yuzu-emulator1-github-io",
+    "creator": "ISnortBleech",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ISnortBleech/Yuzu-Emulator1.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/155759546?v=4",
+    "description": "..."
+  },
+  {
+    "name": "serrano",
+    "slug": "serrano",
+    "creator": "pepper-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pepper-emu/serrano",
+    "cover": "https://avatars.githubusercontent.com/u/192449328?v=4",
+    "description": "Fork of the yuzu switch emulator "
+  },
+  {
+    "name": "Yuzu_Emulator2.github.io",
+    "slug": "yuzu-emulator2-github-io",
+    "creator": "ISnortBleech",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ISnortBleech/Yuzu_Emulator2.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/155759546?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Yuzu-Re-Upload",
+    "slug": "yuzu-re-upload",
+    "creator": "Unknown3709",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Unknown3709/Yuzu-Re-Upload",
+    "cover": "https://avatars.githubusercontent.com/u/104533314?v=4",
+    "description": "This is a reupload of the Yuzu Emulator so people can hopefully use the Yuzu emulator."
+  },
+  {
+    "name": "yuzulib",
+    "slug": "yuzulib",
+    "creator": "DeepSmashProject",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DeepSmashProject/yuzulib",
+    "cover": "https://avatars.githubusercontent.com/u/93978930?v=4",
+    "description": "The Open Python Library for Yuzu Switch Emulator "
+  },
+  {
+    "name": "Yuzu-Updater",
+    "slug": "yuzu-updater",
+    "creator": "MaksymKurny",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MaksymKurny/Yuzu-Updater",
+    "cover": "https://avatars.githubusercontent.com/u/78872568?v=4",
+    "description": "Run script to download/update Yuzu Emulator"
+  },
+  {
+    "name": "yuzuflow",
+    "slug": "yuzuflow",
+    "creator": "m-ler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/m-ler/yuzuflow",
+    "cover": "https://avatars.githubusercontent.com/u/65825778?v=4",
+    "description": "Yuzu Emulator version manager: Easily control Mainline and EA versions"
+  },
+  {
+    "name": "yuzu-emulator-pc",
+    "slug": "yuzu-emulator-pc",
+    "creator": "YuzuEA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/YuzuEA/yuzu-emulator-pc",
+    "cover": "https://avatars.githubusercontent.com/u/235835791?v=4",
+    "description": "..."
+  },
+  {
+    "name": "yuzu-mac",
+    "slug": "yuzu-mac",
+    "creator": "jakeypiez",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jakeypiez/yuzu-mac",
+    "cover": "https://avatars.githubusercontent.com/u/117275402?v=4",
+    "description": "yuzu Nintendo Switch Emulator - macOS Apple Silicon build"
+  },
+  {
+    "name": "Yuzu-Emulator-Personal",
+    "slug": "yuzu-emulator-personal",
+    "creator": "ISnortBleech",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ISnortBleech/Yuzu-Emulator-Personal",
+    "cover": "https://avatars.githubusercontent.com/u/155759546?v=4",
+    "description": "..."
+  },
+  {
+    "name": "yuzu-emulator-fixes",
+    "slug": "yuzu-emulator-fixes",
+    "creator": "athispace",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/athispace/yuzu-emulator-fixes",
+    "cover": "https://avatars.githubusercontent.com/u/59460948?v=4",
+    "description": "All help is appreciated on how to set this up and get ROMS running"
+  },
+  {
+    "name": "citra_yuzu",
+    "slug": "citra-yuzu",
+    "creator": "NGC602",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NGC602/citra_yuzu",
+    "cover": "https://avatars.githubusercontent.com/u/84300098?v=4",
+    "description": "A Script to install Citra 3DS Emulator on RetroPie"
+  },
+  {
+    "name": "Yuzu-Archive",
+    "slug": "yuzu-archive",
+    "creator": "Techtronis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Techtronis/Yuzu-Archive",
+    "cover": "https://avatars.githubusercontent.com/u/108685009?v=4",
+    "description": "Archive of the recently deceased Yuzu Nintendo Switch emulator"
+  },
+  {
+    "name": "YuZu-The-Emulator",
+    "slug": "yuzu-the-emulator",
+    "creator": "AllstarOnTop",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AllstarOnTop/YuZu-The-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/165186051?v=4",
+    "description": "If you know what it is good because it got deleted im reuploading!"
+  },
+  {
+    "name": "yuzu-updater",
+    "slug": "yuzu-updater",
+    "creator": "kalkafox",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kalkafox/yuzu-updater",
+    "cover": "https://avatars.githubusercontent.com/u/9144208?v=4",
+    "description": "Updater for yuzu emulator written in Rust, mostly for Linux AppImage"
+  },
+  {
+    "name": "SwitchEmulatorNotYuzu",
+    "slug": "switchemulatornotyuzu",
+    "creator": "ChristopherStrom",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/ChristopherStrom/SwitchEmulatorNotYuzu",
+    "cover": "https://avatars.githubusercontent.com/u/48628726?v=4",
+    "description": "..."
+  },
+  {
+    "name": "nuku_android",
+    "slug": "nuku-android",
+    "creator": "italgustavo",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/italgustavo/nuku_android",
+    "cover": "https://avatars.githubusercontent.com/u/55145973?v=4",
+    "description": "nuku a spiritual sucessor of yuzu switch emulator"
+  },
+  {
+    "name": "Nukuemu",
+    "slug": "nukuemu",
+    "creator": "italgustavo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/italgustavo/Nukuemu",
+    "cover": "https://avatars.githubusercontent.com/u/55145973?v=4",
+    "description": "Nuku a spiritual sucessor of yuzu switch emulator"
+  },
+  {
+    "name": "Sandswitch-Emulator",
+    "slug": "sandswitch-emulator",
+    "creator": "proganime1200",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/proganime1200/Sandswitch-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/32473502?v=4",
+    "description": "A nintend switch emulator for android based on yuzu core"
+  },
+  {
+    "name": "yuzu-reference-code",
+    "slug": "yuzu-reference-code",
+    "creator": "MiaFoxcat",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MiaFoxcat/yuzu-reference-code",
+    "cover": "https://avatars.githubusercontent.com/u/60871255?v=4",
+    "description": "Reference code for a switch emulator to be rewritten in Rust"
+  },
+  {
+    "name": "nuku",
+    "slug": "nuku",
+    "creator": "italgustavo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/italgustavo/nuku",
+    "cover": "https://avatars.githubusercontent.com/u/55145973?v=4",
+    "description": "nuku a spiritual sucessor of yuzu switch emulator"
+  },
+  {
+    "name": "yuzu-nightshade",
+    "slug": "yuzu-nightshade",
+    "creator": "PlumCastle",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PlumCastle/yuzu-nightshade",
+    "cover": "https://avatars.githubusercontent.com/u/88515124?v=4",
+    "description": "This will hopefully be a modified version of the original Yuzu emulator with increased performance."
+  },
+  {
+    "name": "prismanon.github.io",
+    "slug": "prismanon-github-io",
+    "creator": "prismanon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/prismanon/prismanon.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/132976658?v=4",
+    "description": "Comparison of different visual mods for the Yuzu emulator"
+  },
+  {
+    "name": "yuzu-mainline-updater",
+    "slug": "yuzu-mainline-updater",
+    "creator": "protik09",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/protik09/yuzu-mainline-updater",
+    "cover": "https://avatars.githubusercontent.com/u/7564408?v=4",
+    "description": "A short script to keep up to date with the Yuzu Switch Emulator on Windows."
+  },
+  {
+    "name": "NotASwitchEmulatorEspeciallyNotYuzu-",
+    "slug": "notaswitchemulatorespeciallynotyuzu",
+    "creator": "Jumpykaput",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/Jumpykaput/NotASwitchEmulatorEspeciallyNotYuzu-",
+    "cover": "https://avatars.githubusercontent.com/u/105737512?v=4",
+    "description": "..."
+  },
+  {
+    "name": "yuzu-game-emulator-early-access-4176",
+    "slug": "yuzu-game-emulator-early-access-4176",
+    "creator": "relorelolore",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/relorelolore/yuzu-game-emulator-early-access-4176",
+    "cover": "https://avatars.githubusercontent.com/u/120106199?v=4",
+    "description": "I build my compiled version to play games."
+  },
+  {
+    "name": "yuzu-mainline-master",
+    "slug": "yuzu-mainline-master",
+    "creator": "IpwnedU123",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/IpwnedU123/yuzu-mainline-master",
+    "cover": "https://avatars.githubusercontent.com/u/20837232?v=4",
+    "description": "An up-to-date backup of the mainline version of the discontinued Switch emulator from Tropic Haze LLC."
+  },
+  {
+    "name": "yuzu-android-master",
+    "slug": "yuzu-android-master",
+    "creator": "IpwnedU123",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/IpwnedU123/yuzu-android-master",
+    "cover": "https://avatars.githubusercontent.com/u/20837232?v=4",
+    "description": "An up-to-date backup of the Android version of the discontinued Switch emulator from Tropic Haze LLC."
+  },
+  {
+    "name": "yuzu-multiplayer-dedicated-master",
+    "slug": "yuzu-multiplayer-dedicated-master",
+    "creator": "IpwnedU123",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/IpwnedU123/yuzu-multiplayer-dedicated-master",
+    "cover": "https://avatars.githubusercontent.com/u/20837232?v=4",
+    "description": "An up-to-date backup of the multiplayer patch for the discontinued Switch emulator from Tropic Haze LLC."
+  },
+  {
+    "name": "road-to-yuzu-without-switch",
+    "slug": "road-to-yuzu-without-switch",
+    "creator": "htk030",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/htk030/road-to-yuzu-without-switch",
+    "cover": "https://avatars.githubusercontent.com/u/77730455?v=4",
+    "description": "Backup for PrincessAkira/road-to-yuzu-without-switch"
+  },
+  {
+    "name": "Citra",
+    "slug": "citra",
+    "creator": "amayra",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/amayra/Citra",
+    "cover": "https://avatars.githubusercontent.com/u/7657277?v=4",
+    "description": "Reupload of 3DS emulator citra because it might die with Yuzu"
+  },
+  {
+    "name": "Nintendo-Switch-Emulator-Windows-tutorial-for-dummies",
+    "slug": "nintendo-switch-emulator-windows-tutorial-for-dummies",
+    "creator": "Flooshi",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/Flooshi/Nintendo-Switch-Emulator-Windows-tutorial-for-dummies",
+    "cover": "https://avatars.githubusercontent.com/u/121552400?v=4",
+    "description": "Hier erkläre ich euch, wie man den Yuzu Emulator problemlos zum laufen kriegt, damit alle ihren Spaß haben können."
+  },
+  {
+    "name": "Yuzu-Backup-EINC-FY-BigN",
+    "slug": "yuzu-backup-einc-fy-bign",
+    "creator": "sh4gan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sh4gan/Yuzu-Backup-EINC-FY-BigN",
+    "cover": "https://avatars.githubusercontent.com/u/79254555?v=4",
+    "description": "Yuzu Emulator Backup (Emulation is not Crime - until you are owner of game copy). Tears of the kingdom was the last game which i purchased from N and not gonna do that mistake again."
+  },
+  {
+    "name": "suyu-LDN-API",
+    "slug": "suyu-ldn-api",
+    "creator": "coinkillerl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/coinkillerl/suyu-LDN-API",
+    "cover": "https://avatars.githubusercontent.com/u/30773734?v=4",
+    "description": "partial reimplementation of yuzu's web api to allow for LDN room announcements to work on the suyu emulator."
+  },
+  {
+    "name": "mmyuzu",
+    "slug": "mmyuzu",
+    "creator": "sxgsgnh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sxgsgnh/mmyuzu",
+    "cover": "https://avatars.githubusercontent.com/u/35542562?v=4",
+    "description": "suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android."
+  },
+  {
+    "name": "suyu",
+    "slug": "suyu",
+    "creator": "qqy102",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/qqy102/suyu",
+    "cover": "https://avatars.githubusercontent.com/u/40608416?v=4",
+    "description": "suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we're actively working on builds for Windows, Linux and Android."
+  },
+  {
+    "name": "Pokemon-ROM-main.npdm-probleme",
+    "slug": "pokemon-rom-main-npdm-probleme",
+    "creator": "JustinChevarie",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JustinChevarie/Pokemon-ROM-main.npdm-probleme",
+    "cover": "https://avatars.githubusercontent.com/u/100724783?v=4",
+    "description": "Bonjour, j'ai essayé d'installer une ROM Pokémon Sword pour l'exécuter sur Yuzu Emulator. Sauf qu'à chaque fois que j'insère le fichier dans Yuzu cela me dit qu'il manque les fichiers de métadonnées (main.npdm) donc j'aimerais savoir comment résoudre ce problème. Voici le lien de téléchargement de la ROM afin que vous puissiez voir dedans ce qui pourrait manquer ou sinon si vous pouviez me conseiller une rom qui ne manquerait pas les fichiers main.npdm : https://games-database.com/7o4"
+  },
+  {
+    "name": "every-moon-mario-runs-more",
+    "slug": "every-moon-mario-runs-more",
+    "creator": "Mariodelmo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Mariodelmo/every-moon-mario-runs-more",
+    "cover": "https://avatars.githubusercontent.com/u/190195654?v=4",
+    "description": "What this mod does is that every moon you catch Mario will move faster. You have to paste the bosses on both emulators and switches. Works on atmosphere, yuzu and Ryujinx. Errors The cap jump is not modified. The speed will not work if you set 999 moons, you have to catch it, it is not worth loading the game."
+  },
+  {
+    "name": "Tekken-6-HD-Texture-Pack",
+    "slug": "tekken-6-hd-texture-pack",
+    "creator": "kharij",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kharij/Tekken-6-HD-Texture-Pack",
+    "cover": "https://avatars.githubusercontent.com/u/45717678?v=4",
+    "description": "A texture pack to be used with the PPSSPP emulator."
+  },
+  {
+    "name": "mfhu-hd-retexture",
+    "slug": "mfhu-hd-retexture",
+    "creator": "three5media",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/three5media/mfhu-hd-retexture",
+    "cover": "https://avatars.githubusercontent.com/u/6465313?v=4",
+    "description": "Upscale/retexture project for Monster Hunter Freedom Unite for PPSSPP: PSP Emulator"
+  },
+  {
+    "name": "ppsspp_shaders",
+    "slug": "ppsspp-shaders",
+    "creator": "jdgleaver",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jdgleaver/ppsspp_shaders",
+    "cover": "https://avatars.githubusercontent.com/u/38211560?v=4",
+    "description": "Shaders for standalone PPSSPP emulator"
+  },
+  {
+    "name": "Metal-Gear-Solid-Peace-Walker-HD-Textures",
+    "slug": "metal-gear-solid-peace-walker-hd-textures",
+    "creator": "AkiraJkr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AkiraJkr/Metal-Gear-Solid-Peace-Walker-HD-Textures",
+    "cover": "https://avatars.githubusercontent.com/u/27028529?v=4",
+    "description": "A Texture Pack for Metal Gear Solid Peace Walker, for use in the PPSSPP Emulator."
+  },
+  {
+    "name": "Birth-by-Sleep-HD-ReMix",
+    "slug": "birth-by-sleep-hd-remix",
+    "creator": "AkiraJkr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AkiraJkr/Birth-by-Sleep-HD-ReMix",
+    "cover": "https://avatars.githubusercontent.com/u/27028529?v=4",
+    "description": "A Texture Pack for Kingdom Hearts Birth by Sleep Final Mix, for use in the PPSSPP Emulator."
+  },
+  {
+    "name": "TKD_KWM-HD-Texture-Pack",
+    "slug": "tkd-kwm-hd-texture-pack",
+    "creator": "Saramagrean",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Saramagrean/TKD_KWM-HD-Texture-Pack",
+    "cover": "https://avatars.githubusercontent.com/u/26355472?v=4",
+    "description": "High-resolution textures for Toukiden Kiwami (NPJH-50878), use with PPSSPP emulator."
+  },
+  {
+    "name": "PPSSPP-UWP-ARM",
+    "slug": "ppsspp-uwp-arm",
+    "creator": "basharast",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/basharast/PPSSPP-UWP-ARM",
+    "cover": "https://avatars.githubusercontent.com/u/3244951?v=4",
+    "description": "PSP emulator with UWP ARM32 support"
+  },
+  {
+    "name": "TSP-PPSSPP",
+    "slug": "tsp-ppsspp",
+    "creator": "cobaltgit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cobaltgit/TSP-PPSSPP",
+    "cover": "https://avatars.githubusercontent.com/u/65132371?v=4",
+    "description": "A collection of optimised PPSSPP game configs for the TrimUI Smart Pro."
+  },
+  {
+    "name": "minui-psp",
+    "slug": "minui-psp",
+    "creator": "ben16w",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/ben16w/minui-psp",
+    "cover": "https://avatars.githubusercontent.com/u/57480576?v=4",
+    "description": "A MinUI and NextUI Emu Pak for PSP, wrapping the standalone PPSSPP emulator."
+  },
+  {
+    "name": "PPSSPP-AppImage",
+    "slug": "ppsspp-appimage",
+    "creator": "pkgforge-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pkgforge-dev/PPSSPP-AppImage",
+    "cover": "https://avatars.githubusercontent.com/u/189202376?v=4",
+    "description": "Unofficial AppImage of the PPSSPP emulator [Maintainer=@Samueru-sama]"
+  },
+  {
+    "name": "ppsspp-go2",
+    "slug": "ppsspp-go2",
+    "creator": "OtherCrashOverride",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OtherCrashOverride/ppsspp-go2",
+    "cover": "https://avatars.githubusercontent.com/u/3499273?v=4",
+    "description": "PSP emulator for ODROID-GO Advance"
+  },
+  {
+    "name": "ppsspp-debian",
+    "slug": "ppsspp-debian",
+    "creator": "glaubitz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/glaubitz/ppsspp-debian",
+    "cover": "https://avatars.githubusercontent.com/u/1647645?v=4",
+    "description": "Debian packaging for ppsspp portable PlayStation Portable emulator"
+  },
+  {
+    "name": "PSPemu",
+    "slug": "pspemu",
+    "creator": "Zaykus",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/Zaykus/PSPemu",
+    "cover": "https://avatars.githubusercontent.com/u/94766753?v=4",
+    "description": "A comprehensive guide to enable, install, and manage cheat codes in the PPSSPP PlayStation Portable emulator using cheat databases and manual methods."
+  },
+  {
+    "name": "AutoSplitterGTAVCS",
+    "slug": "autosplittergtavcs",
+    "creator": "FivEawE",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/FivEawE/AutoSplitterGTAVCS",
+    "cover": "https://avatars.githubusercontent.com/u/25206541?v=4",
+    "description": "An Auto Splitter for GTA: Vice City Stories running in PPSSPP emulator"
+  },
+  {
+    "name": "Dissidia-012-HD-Textures",
+    "slug": "dissidia-012-hd-textures",
+    "creator": "AkiraJkr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AkiraJkr/Dissidia-012-HD-Textures",
+    "cover": "https://avatars.githubusercontent.com/u/27028529?v=4",
+    "description": "A Texture Pack for Dissidia 012 Final Fantasy, for use in the PPSSPP Emulator."
+  },
+  {
+    "name": "ppsspp-gpihook",
+    "slug": "ppsspp-gpihook",
+    "creator": "Freakler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Freakler/ppsspp-gpihook",
+    "cover": "https://avatars.githubusercontent.com/u/21207032?v=4",
+    "description": "Emulates GPI switches normally found on developer hardware"
+  },
+  {
+    "name": "saki-portable-online",
+    "slug": "saki-portable-online",
+    "creator": "vg-mjg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vg-mjg/saki-portable-online",
+    "cover": "https://avatars.githubusercontent.com/u/83789873?v=4",
+    "description": "Guide on how to get saki multiplayer working on PPSSPP emulator"
+  },
+  {
+    "name": "ppsspp-loongarch64",
+    "slug": "ppsspp-loongarch64",
+    "creator": "phorcys",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/phorcys/ppsspp-loongarch64",
+    "cover": "https://avatars.githubusercontent.com/u/5524744?v=4",
+    "description": "A PSP emulator for LoongArch64, written in C++. Want to contribute? Join us in #ppsspp on freenode (IRC) or just send pull requests / issues. For discussion use the forums on ppsspp.org."
+  },
+  {
+    "name": "ppsspp",
+    "slug": "ppsspp",
+    "creator": "KaOS-Community-Packages",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KaOS-Community-Packages/ppsspp",
+    "cover": "https://avatars.githubusercontent.com/u/6325832?v=4",
+    "description": "ppsspp emulator linux"
+  },
+  {
+    "name": "build-ppsspp-rpi",
+    "slug": "build-ppsspp-rpi",
+    "creator": "ryanfortner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ryanfortner/build-ppsspp-rpi",
+    "cover": "https://avatars.githubusercontent.com/u/71036629?v=4",
+    "description": "A PSP emulator, compiled for arm32 and arm64"
+  },
+  {
+    "name": "pspe-",
+    "slug": "pspe",
+    "creator": "kobol123",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/kobol123/pspe-",
+    "cover": "https://avatars.githubusercontent.com/u/11316222?v=4",
+    "description": "PSPe+ An Emulator for Android based from PPSSPP. The official alternative project to PPSSPP . See http://rnextstudios.fastportatil.com for more information. Or visit our YouTube channel."
+  },
+  {
+    "name": "rxPSPAddOnLegacy",
+    "slug": "rxpspaddonlegacy",
+    "creator": "fcatrin",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/fcatrin/rxPSPAddOnLegacy",
+    "cover": "https://avatars.githubusercontent.com/u/11641442?v=4",
+    "description": "RetroX port o the PPSSPP emulator for Android"
+  },
+  {
+    "name": "solarmystic",
+    "slug": "solarmystic",
+    "creator": "hammadahmad113",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hammadahmad113/solarmystic",
+    "cover": "https://avatars.githubusercontent.com/u/8670077?v=4",
+    "description": "my ppsspp emulator stops work when i start a match on any wwe game i have ppsspp gold on windows 7 32 bits ultimate core 2 duo"
+  },
+  {
+    "name": "PES-22-PPSSPP-Download-PES-2022-PSP-ISO-for-Android",
+    "slug": "pes-22-ppsspp-download-pes-2022-psp-iso-for-android",
+    "creator": "evelynpiper",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/evelynpiper/PES-22-PPSSPP-Download-PES-2022-PSP-ISO-for-Android",
+    "cover": "https://avatars.githubusercontent.com/u/105654289?v=4",
+    "description": "Download PES 2022 PPSSPP – PSP Iso Textures and Save Data file with latest season kits, full player transfers, improved graphics, now has normal, PS4 and PS5 Cameras.  PES 2022 PPSSPP Iso file works well with PSP emulator for Android, although it is a soccer game where you can be able to play. Here URL: https://apkintl.com/pes-2022-ppsspp/"
+  },
+  {
+    "name": "God-of-War-Ghost-of-Sparta-PPSSPP-Settings-2026-Fix-Lag-Get-Smooth-60-FPS",
+    "slug": "god-of-war-ghost-of-sparta-ppsspp-settings-2026-fix-lag-get-smooth-60-fps",
+    "creator": "pavankumarprajapatiin-cmd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pavankumarprajapatiin-cmd/God-of-War-Ghost-of-Sparta-PPSSPP-Settings-2026-Fix-Lag-Get-Smooth-60-FPS",
+    "cover": "https://avatars.githubusercontent.com/u/236188536?v=4",
+    "description": "God of War: Ghost of Sparta is one of the best action-adventure games released on PSP. Developed by Ready at Dawn and published by Sony Computer Entertainment, the game delivers console-quality graphics on handheld devices.  It runs beautifully on the PPSSPP emulator — but only if configured correctly."
+  },
+  {
+    "name": "Mlg-BN-GameZone",
+    "slug": "mlg-bn-gamezone",
+    "creator": "Bray045",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Bray045/Mlg-BN-GameZone",
+    "cover": "https://avatars.githubusercontent.com/u/223567192?v=4",
+    "description": "Mlg BN GameZone est une plateforme pour tout ceux qui sont passionnés de jeux vidéo et bien plus car ce site propose des jeux android, Pc et même sur emulator comme PPSSPP et Ds des quiz très intéressant et des applications gaming très utile poir toute le monde. Vous pouvez aussi faire vos achats dans le domaine gaming."
+  },
+  {
+    "name": "dualgamingcentre",
+    "slug": "dualgamingcentre",
+    "creator": "Kolyadual",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kolyadual/dualgamingcentre",
+    "cover": "https://avatars.githubusercontent.com/u/201611719?v=4",
+    "description": "В Dual Gaming Centre каждый найдет свою любимую игру, у нас широкий спектр игр - от DOOM до Minecraft и Jetpack Joyride! Ну а если игра понравилась - то можно легко скачать на такие операционные системы как Runget, Windows и Android!"
+  },
+  {
+    "name": "PPSSPP2",
+    "slug": "ppsspp2",
+    "creator": "pedrinho4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pedrinho4/PPSSPP2",
+    "cover": "https://avatars.githubusercontent.com/u/64819941?v=4",
+    "description": "Emulator PSCX2 Port pra android mais rapido divertido"
+  },
+  {
+    "name": "PPSSPP52X-Vanguard",
+    "slug": "ppsspp52x-vanguard",
+    "creator": "redscientistlabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/redscientistlabs/PPSSPP52X-Vanguard",
+    "cover": "https://avatars.githubusercontent.com/u/70184063?v=4",
+    "description": "PPSSPP emulator for RTCV, using the new DLL hook implementation"
+  },
+  {
+    "name": "ppsspp",
+    "slug": "ppsspp",
+    "creator": "tvtoon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tvtoon/ppsspp",
+    "cover": "https://avatars.githubusercontent.com/u/21971845?v=4",
+    "description": "Fork from the PSP emulator, version 1.11.2."
+  },
+  {
+    "name": "ppsspp",
+    "slug": "ppsspp",
+    "creator": "OpenMandrivaAssociation",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OpenMandrivaAssociation/ppsspp",
+    "cover": "https://avatars.githubusercontent.com/u/13415214?v=4",
+    "description": "PPSSPP is a cross-platform Sony PlayStation Portable (PSP) emulator"
+  },
+  {
+    "name": "ppsspp-docker",
+    "slug": "ppsspp-docker",
+    "creator": "aoirint",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aoirint/ppsspp-docker",
+    "cover": "https://avatars.githubusercontent.com/u/27213639?v=4",
+    "description": "Run PPSSPP (PSP Emulator) in Docker"
+  },
+  {
+    "name": "PPSSPP-Emulator",
+    "slug": "ppsspp-emulator",
+    "creator": "nevr13",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nevr13/PPSSPP-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/79989816?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Ppsspp-tutorials-",
+    "slug": "ppsspp-tutorials",
+    "creator": "marxpayne06",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/marxpayne06/Ppsspp-tutorials-",
+    "cover": "https://avatars.githubusercontent.com/u/232979167?v=4",
+    "description": "Fun features for the psp emulator "
+  },
+  {
+    "name": "emulatorpsp",
+    "slug": "emulatorpsp",
+    "creator": "EMU-lation",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/EMU-lation/emulatorpsp",
+    "cover": "https://avatars.githubusercontent.com/u/238713708?v=4",
+    "description": "PSP Emulation Hub - PPSSPP & Game Downloads"
+  },
+  {
+    "name": "custom-PPSSPP-shaders",
+    "slug": "custom-ppsspp-shaders",
+    "creator": "M4he",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/M4he/custom-PPSSPP-shaders",
+    "cover": "https://avatars.githubusercontent.com/u/1408105?v=4",
+    "description": "Some shaders for the PPSSPP emulator."
+  },
+  {
+    "name": "PPSSPP-emulator-Snap",
+    "slug": "ppsspp-emulator-snap",
+    "creator": "Kyuyrii",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kyuyrii/PPSSPP-emulator-Snap",
+    "cover": "https://avatars.githubusercontent.com/u/190517858?v=4",
+    "description": "..."
+  },
+  {
+    "name": "PPSSPP-PSP-emulator",
+    "slug": "ppsspp-psp-emulator",
+    "creator": "ajayeedafe",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/ajayeedafe/PPSSPP-PSP-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/206145128?v=4",
+    "description": "..."
+  },
+  {
+    "name": "ppsspp-claude-plugin",
+    "slug": "ppsspp-claude-plugin",
+    "creator": "sadnescity",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sadnescity/ppsspp-claude-plugin",
+    "cover": "https://avatars.githubusercontent.com/u/268038314?v=4",
+    "description": "Claude Plugin for PPSSPP Emulator with MCP support"
+  },
+  {
+    "name": "PPSSPP_Shaders",
+    "slug": "ppsspp-shaders",
+    "creator": "Tibbee",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Tibbee/PPSSPP_Shaders",
+    "cover": "https://avatars.githubusercontent.com/u/84328265?v=4",
+    "description": "Collection of post-processing shaders for the PPSSPP emulator i created."
+  },
+  {
+    "name": "ismailkhan1984",
+    "slug": "ismailkhan1984",
+    "creator": "ismailkhan1984",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ismailkhan1984/ismailkhan1984",
+    "cover": "https://avatars.githubusercontent.com/u/5430856?v=4",
+    "description": "ppsspp is very slow how to fast service on my ppsspp emulator"
+  },
+  {
+    "name": "Hakchi_PPSSPP_Neo_Build",
+    "slug": "hakchi-ppsspp-neo-build",
+    "creator": "TheOtherGuys-Hakchi-Projects",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheOtherGuys-Hakchi-Projects/Hakchi_PPSSPP_Neo_Build",
+    "cover": "https://avatars.githubusercontent.com/u/36450870?v=4",
+    "description": "Hakchi PSP emulator built specifically for Hakchi RetroArch Neo"
+  },
+  {
+    "name": "ppsspp-at3plus-plugin",
+    "slug": "ppsspp-at3plus-plugin",
+    "creator": "OpenMandrivaAssociation",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OpenMandrivaAssociation/ppsspp-at3plus-plugin",
+    "cover": "https://avatars.githubusercontent.com/u/13415214?v=4",
+    "description": "Atrac3+ decoder used to decode audio by PPSSPP (Sony PSP emulator)"
+  },
+  {
+    "name": "ppsspp-patapon3-AHK-assist",
+    "slug": "ppsspp-patapon3-ahk-assist",
+    "creator": "aalexx-S",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aalexx-S/ppsspp-patapon3-AHK-assist",
+    "cover": "https://avatars.githubusercontent.com/u/6303815?v=4",
+    "description": "An assist macro using AutoHotKey (AHK) v2 for Patapon3 playing on PPSSPP emulator"
+  },
+  {
+    "name": "ppsspp",
+    "slug": "ppsspp",
+    "creator": "ZoweZilsio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ZoweZilsio/ppsspp",
+    "cover": "https://avatars.githubusercontent.com/u/208832798?v=4",
+    "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org."
+  },
+  {
+    "name": "ppsspp",
+    "slug": "ppsspp",
+    "creator": "precieux0",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/precieux0/ppsspp",
+    "cover": "https://avatars.githubusercontent.com/u/234234804?v=4",
+    "description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org."
+  },
+  {
+    "name": "Manhunt-2-PSP-Textures",
+    "slug": "manhunt-2-psp-textures",
+    "creator": "tacos-private-room",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/tacos-private-room/Manhunt-2-PSP-Textures",
+    "cover": "https://avatars.githubusercontent.com/u/31297847?v=4",
+    "description": "Textures ripped from Manhunt 2 Uncensored iSO, via PPSSPP emulator."
+  },
+  {
+    "name": "Killzone-Liberation-AutoSplitter-for-In-Game-Timer-ASL-LiveSplit-PPSSPP-emulator",
+    "slug": "killzone-liberation-autosplitter-for-in-game-timer-asl-livesplit-ppsspp-emulator",
+    "creator": "VosslerXIII",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/VosslerXIII/Killzone-Liberation-AutoSplitter-for-In-Game-Timer-ASL-LiveSplit-PPSSPP-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/51298820?v=4",
+    "description": "In-Game-Time .asl file for speedrunning of this game."
+  },
+  {
+    "name": "PSP-games",
+    "slug": "psp-games",
+    "creator": "Mohannad123gm",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/Mohannad123gm/PSP-games",
+    "cover": "https://avatars.githubusercontent.com/u/176670098?v=4",
+    "description": "Through this site you can  download all games PSP and play them with an emulator PPSSPP."
+  },
+  {
+    "name": "PSP-Linux-Controller",
+    "slug": "psp-linux-controller",
+    "creator": "uzairdeveloper223",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/uzairdeveloper223/PSP-Linux-Controller",
+    "cover": "https://avatars.githubusercontent.com/u/151128570?v=4",
+    "description": "A wireless controller app for PPSSPP emulator on Linux. Use your Android phone as a PSP controller over WiFi."
+  },
+  {
+    "name": "pspspsp",
+    "slug": "pspspsp",
+    "creator": "Lightiiy",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/Lightiiy/pspspsp",
+    "cover": "https://avatars.githubusercontent.com/u/80338462?v=4",
+    "description": "A simple python script that syncs save data of ppsspp emulated games between pc and mobile instances."
+  },
+  {
+    "name": "Cutscene-Fix-for-Obscure-The-Aftermath",
+    "slug": "cutscene-fix-for-obscure-the-aftermath",
+    "creator": "brokenbeterraba",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/brokenbeterraba/Cutscene-Fix-for-Obscure-The-Aftermath",
+    "cover": "https://avatars.githubusercontent.com/u/111199716?v=4",
+    "description": "This is a set of fixes distributed as a precompiled save state for newer versions of PPSSPP.   The game started to break from PPSSPP version 1.11.3 and above, causing issues such as broken cutscenes and timing problems.   This save state restores proper behavior and makes the game playable again on modern builds of the emulator."
   }
 ]
