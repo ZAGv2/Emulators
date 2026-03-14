@@ -18,10 +18,9 @@ const LOGOS_DIR = path.join(TOOLS_DIR, "logos")
 let tools = []
 let seen = new Set()
 
-// Load existing tools if available
 if (fs.existsSync(TOOLS_FILE)) {
   tools = JSON.parse(fs.readFileSync(TOOLS_FILE))
-  tools.forEach(t => seen.add(t.url))  // Track seen repos to skip duplicates
+  tools.forEach(t => seen.add(t.url))
 }
 
 // ==================================================
@@ -232,23 +231,23 @@ footer { margin-top:60px; padding:25px; text-align:center; background:#fff; bord
 <div class="container">
   <div class="game-header">
     <div class="game-cover">
-      <img src="${coverImage}" alt="${tool.name} Cover">
+      <img src="\${coverImage}" alt="\${tool.name} Cover">
     </div>
 
     <div class="game-info">
-      <h1>${tool.name}</h1>
+      <h1>\${tool.name}</h1>
 
       <div class="meta">
-        <p><strong>Platform:</strong> ${tool.console || "Multi Platform"}</p>
-        <p><strong>Developer:</strong> ${tool.creator}</p>
-        <p><strong>Version:</strong> ${tool.version || "..."}</p>
+        <p><strong>Platform:</strong> \${tool.console || "Multi Platform"}</p>
+        <p><strong>Developer:</strong> \${tool.creator}</p>
+        <p><strong>Version:</strong> \${tool.version || "..."}</p>
       </div>
 
       <div class="description">
-        ${tool.description || "..."}
+        \${tool.description || "..."}
       </div>
 
-      <a class="download-btn" href="${tool.url}" target="_blank">Visit Official Page</a>
+      <a class="download-btn" href="\${tool.url}" target="_blank">Visit Official Page</a>
     </div>
   </div>
 </div>
@@ -265,16 +264,14 @@ footer { margin-top:60px; padding:25px; text-align:center; background:#fff; bord
 // ------------------------------
 // Dropdown Menu Toggle
 // ------------------------------
-const btn = document.querySelector('.dropbtn')                 // The button that opens the dropdown
-const dropdown = document.querySelector('.dropdown-content')   // The actual dropdown menu
+const btn = document.querySelector('.dropbtn')
+const dropdown = document.querySelector('.dropdown-content')
 
-// Toggle dropdown on button click
 btn.addEventListener('click', e => {
-  e.preventDefault()                                           // Prevent default button behavior
+  e.preventDefault()
   dropdown.style.display = (dropdown.style.display === "block") ? "none" : "block"
 })
 
-// Close dropdown if clicking outside of it
 window.addEventListener('click', e => {
   if (!btn.contains(e.target) && !dropdown.contains(e.target)) {
     dropdown.style.display = "none"
@@ -286,11 +283,13 @@ window.addEventListener('click', e => {
 </html>
 `
 
+  fs.writeFileSync(htmlPath, html)
+}
+
 // ==================================================
 //           FETCH GITHUB REPOS FUNCTION
 // ==================================================
 function fetchPage(query, page) {
-  // NOTE: per_page set to 100 to maximize results per API call
   const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=100&page=${page}`
   return new Promise((resolve, reject) => {
     https.get(url, { headers: { 'User-Agent': 'node.js' } }, res => {
@@ -315,7 +314,6 @@ async function run() {
       if (!repos.length) break
 
       for (const repo of repos) {
-        // Skip already seen repos to save API
         if (seen.has(repo.html_url)) continue
         seen.add(repo.html_url)
 
@@ -333,7 +331,6 @@ async function run() {
           description: repo.description || "..."
         }
 
-        // Add new tool
         tools.push(tool)
         createToolPage(tool)
       }
@@ -341,7 +338,6 @@ async function run() {
     }
   }
 
-  // Save updated tools.json
   fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools, null, 2))
   console.log("Total emulators:", tools.length)
 }
