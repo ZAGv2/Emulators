@@ -82,7 +82,7 @@ function getLogo(slug) {
     const logoPath = path.join(LOGOS_DIR, `${slug}.${ext}`)
     if (fs.existsSync(logoPath)) return path.relative(TOOLS_DIR, logoPath)
   }
-  return "logos/Default-cover.jpg"
+  return "tools/logos/Default-cover.jpg"
 }
 
 // ==================================================
@@ -266,7 +266,10 @@ async function run() {
     let page = 1
     while (page <= 10) {
       const repos = await fetchPage(query, page)
-      if (!repos.length) break
+if (!repos || repos.length === 0) {
+  page++
+  continue
+}
       for (const repo of repos) {
         if (seen.has(repo.html_url)) continue
         seen.add(repo.html_url)
