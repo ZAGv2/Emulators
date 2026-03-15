@@ -144,21 +144,6 @@ const oldEmulatorQueries = [
 //            ROTATION SYSTEM PER RUN (FIXED)
 // ==================================================
 
-// ======= Your batches =======
-const popularQueries = ["dolphin emulator", "pcsx2 emulator"];
-const starQueries = ["emulator stars:>500"];
-const recentQueries = ["emulator pushed:>2023-01-01"];
-const alphabetQueries = ["emulator a", "emulator b"];
-const oldEmulatorQueries = ["emulator created:<2015-01-01"];
-
-const allBatches = [
-  popularQueries,
-  starQueries,
-  recentQueries,
-  alphabetQueries,
-  oldEmulatorQueries
-];
-
 const batchFile = ".lastBatchIndex.json";
 
 // ======= Load or create batch file =======
