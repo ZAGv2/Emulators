@@ -243,6 +243,14 @@ function fetchPage(query, page) {
 // ==================================================
 //            ROTATION SYSTEM PER RUN
 // ==================================================
+// ======= Your batches =======
+const popularQueries = ["dolphin emulator", "pcsx2 emulator"];
+const starQueries = ["emulator stars:>500"];
+const recentQueries = ["emulator pushed:>2023-01-01"];
+const alphabetQueries = ["emulator a", "emulator b"];
+const oldEmulatorQueries = ["emulator created:<2015-01-01"];
+
+
 const allBatches = [
   popularQueries,
   starQueries,
