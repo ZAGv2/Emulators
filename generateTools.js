@@ -153,7 +153,7 @@ nav a, .dropbtn { margin-left:0; margin-right:15px; margin-bottom:8px; }
         <a href="https://zagv2.github.io/resources-tools/">Resources & Tools</a>
       </div>
     </div>
-    <a class="download-btn" href="https://zagv2.github.io/Emulators/">← Back to Emulators</a>
+    <a class="download-btn" href="javascript:history.back()">← Back to Emulators</a>
   </nav>
 </header>
 <div class="container">
