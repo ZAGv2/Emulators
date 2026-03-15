@@ -143,8 +143,6 @@ const oldEmulatorQueries = [
 // ==================================================
 //            ROTATION SYSTEM PER RUN (FIXED)
 // ==================================================
-const fs = require("fs");
-const path = require("path");
 
 // ======= Your batches =======
 const popularQueries = ["dolphin emulator", "pcsx2 emulator"];
