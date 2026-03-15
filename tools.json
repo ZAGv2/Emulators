@@ -14248,5 +14248,15 @@
     "url": "https://github.com/brokenbeterraba/Cutscene-Fix-for-Obscure-The-Aftermath",
     "cover": "https://avatars.githubusercontent.com/u/111199716?v=4",
     "description": "This is a set of fixes distributed as a precompiled save state for newer versions of PPSSPP.   The game started to break from PPSSPP version 1.11.3 and above, causing issues such as broken cutscenes and timing problems.   This save state restores proper behavior and makes the game playable again on modern builds of the emulator."
+  },
+  {
+    "name": "dolphin emulator",
+    "slug": "dolphin-emulator",
+    "creator": "test",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "#",
+    "cover": "logos/Default-cover.jpg",
+    "description": "Fallback tool for testing"
   }
 ]
