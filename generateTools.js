@@ -201,7 +201,7 @@ window.addEventListener('click', e => {
 // ==================================================
 function fetchPage(query, page) {
   const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=100&page=${page}`
-  const GITHUB_TOKEN = process.env.MY_TOKEN
+  const GITHUB_TOKEN = process.env.GITHUB_TOKEN
   const headers = {
     'User-Agent': 'node.js',
     ...(GITHUB_TOKEN ? { 'Authorization': `token ${GITHUB_TOKEN}` } : {})
@@ -272,7 +272,7 @@ console.log("Queries for this run:", queries)
 async function run() {
   for (const query of queries) {
     let page = 1
-    while (true) {
+    while (page <= 10) {
       const repos = await fetchPage(query, page)
       if (!repos.length) break
       for (const repo of repos) {
@@ -294,6 +294,9 @@ async function run() {
         createToolPage(tool)
       }
       page++
+
+      await new Promise(r => setTimeout(r, 1200))
+      
     }
   }
   fs.writeFileSync(TOOLS_FILE, JSON.stringify(tools, null, 2))
