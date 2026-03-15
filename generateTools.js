@@ -201,7 +201,7 @@ window.addEventListener('click', e => {
 // ==================================================
 function fetchPage(query, page) {
   const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=100&page=${page}`
-  const GITHUB_TOKEN = process.env.My_GUTHUB
+  const GITHUB_TOKEN = process.env.MY_TOKEN
   const headers = {
     'User-Agent': 'node.js',
     ...(GITHUB_TOKEN ? { 'Authorization': `token ${GITHUB_TOKEN}` } : {})
