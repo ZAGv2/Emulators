@@ -140,6 +140,15 @@ const oldEmulatorQueries = [
   "ios emulator created:<2015-01-01"
 ];
 
+// ✅ Combine into a single array
+const allBatches = [
+  popularQueries,
+  starQueries,
+  recentQueries,
+  alphabetQueries,
+  oldEmulatorQueries
+];
+
 // ==================================================
 //            ROTATION SYSTEM PER RUN (FIXED)
 // ==================================================
