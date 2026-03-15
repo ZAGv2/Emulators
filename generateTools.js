@@ -201,6 +201,8 @@ window.addEventListener('click', e => {
 // ==================================================
 function fetchPage(query, page) {
   const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=100&page=${page}`
+
+    // ✅ FIXED: GitHub token from workflow secret
   const GITHUB_TOKEN = process.env.GITHUB_TOKEN
   const headers = {
     'User-Agent': 'node.js',
