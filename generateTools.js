@@ -426,4 +426,10 @@ async function run() {
 // ==================================================
 //                    RUN SCRIPT
 // ==================================================
-run()
+run().then(() => {
+  lastBatchIndex = (lastBatchIndex + 1) % allBatches.length;
+  fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex }));
+  console.log("Next batch index saved as:", lastBatchIndex);
+}).catch(err => {
+  console.error("Error running script:", err);
+});
