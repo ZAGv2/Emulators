@@ -141,7 +141,7 @@ const oldEmulatorQueries = [
 ];
 
 // ==================================================
-//            ROTATION SYSTEM PER RUN
+//            ROTATION SYSTEM PER RUN (FIXED)
 // ==================================================
 const allBatches = [
   popularQueries,
@@ -151,15 +151,19 @@ const allBatches = [
   oldEmulatorQueries
 ];
 
-// Load last batch index from file or start at 0
-let lastBatchIndex = 0;
 const batchFile = ".lastBatchIndex.json";
-if (fs.existsSync(batchFile)) {
-  try {
-    lastBatchIndex = JSON.parse(fs.readFileSync(batchFile)).lastBatchIndex;
-  } catch {
-    lastBatchIndex = 0;
-  }
+let lastBatchIndex = 0;
+
+// ✅ Create the batch file if missing (safe initialization)
+if (!fs.existsSync(batchFile)) {
+  fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex: 0 }));
+}
+
+// Load last batch index from file
+try {
+  lastBatchIndex = JSON.parse(fs.readFileSync(batchFile)).lastBatchIndex || 0;
+} catch {
+  lastBatchIndex = 0;
 }
 
 // Select current batch for this run
