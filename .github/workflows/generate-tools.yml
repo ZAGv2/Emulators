@@ -24,8 +24,8 @@ jobs:
           node-version: '20'
 
       # 3️⃣ Run generateTools.js
-      - name: Run generateTools.js
-        run: node generateTools.js
+      - name: Run generateTools.jsd
+        run: node generateTools.jsd
         env:
           GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}  # workflow secret
 
