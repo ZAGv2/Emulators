@@ -243,13 +243,12 @@ function fetchPage(query, page) {
 // ==================================================
 //            ROTATION SYSTEM PER RUN
 // ==================================================
-// ======= Your batches =======
+// ✅ FIXED: Define batches BEFORE using them
 const popularQueries = ["dolphin emulator", "pcsx2 emulator"];
 const starQueries = ["emulator stars:>500"];
 const recentQueries = ["emulator pushed:>2023-01-01"];
 const alphabetQueries = ["emulator a", "emulator b"];
 const oldEmulatorQueries = ["emulator created:<2015-01-01"];
-
 
 const allBatches = [
   popularQueries,
@@ -258,10 +257,13 @@ const allBatches = [
   alphabetQueries,
   oldEmulatorQueries
 ]
+
+// ✅ FIXED: Last batch file
 const batchFile = ".lastBatchIndex.json"
 let lastBatchIndex = 0
 if (!fs.existsSync(batchFile)) fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex: 0 }, null, 2))
 try { lastBatchIndex = JSON.parse(fs.readFileSync(batchFile)).lastBatchIndex || 0 } catch { lastBatchIndex = 0 }
+
 const queries = allBatches[lastBatchIndex]
 console.log("Running batch index:", lastBatchIndex)
 console.log("Queries for this run:", queries)
@@ -295,7 +297,7 @@ async function run() {
       }
       page++
 
-      await new Promise(r => setTimeout(r, 1200))
+      await new Promise(r => setTimeout(r, 1200 + Math.floor(Math.random() * 600)))
       
     }
   }
@@ -309,9 +311,11 @@ async function run() {
 async function main() {
   try {
     await run()
+    // ✅ save next batch index
     lastBatchIndex = (lastBatchIndex + 1) % allBatches.length
     fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex }, null, 2))
     console.log("Next batch index saved as:", lastBatchIndex)
+
   } catch (err) {
     console.error("Script failed:", err)
   }
