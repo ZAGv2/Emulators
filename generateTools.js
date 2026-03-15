@@ -93,7 +93,7 @@ function createToolPage(tool){
   const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
-  const htmlPath = path.join(folder,"index.html")
+  const htmlPath = path.join(folder, `${tool.slug}.html`) // ✅ use tool.slug.html
   const coverImage = tool.cover || getLogo(tool.slug)
 
   const html = `
