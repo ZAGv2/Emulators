@@ -143,6 +143,16 @@ const oldEmulatorQueries = [
 // ==================================================
 //            ROTATION SYSTEM PER RUN (FIXED)
 // ==================================================
+const fs = require("fs");
+const path = require("path");
+
+// ======= Your batches =======
+const popularQueries = ["dolphin emulator", "pcsx2 emulator"];
+const starQueries = ["emulator stars:>500"];
+const recentQueries = ["emulator pushed:>2023-01-01"];
+const alphabetQueries = ["emulator a", "emulator b"];
+const oldEmulatorQueries = ["emulator created:<2015-01-01"];
+
 const allBatches = [
   popularQueries,
   starQueries,
@@ -152,24 +162,49 @@ const allBatches = [
 ];
 
 const batchFile = ".lastBatchIndex.json";
+
+// ======= Load or create batch file =======
 let lastBatchIndex = 0;
 
-// ✅ Create the batch file if missing (safe initialization)
-if (!fs.existsSync(batchFile)) {
-  fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex: 0 }));
+if (fs.existsSync(batchFile)) {
+  try {
+    lastBatchIndex = JSON.parse(fs.readFileSync(batchFile)).lastBatchIndex || 0;
+  } catch {
+    lastBatchIndex = 0;
+  }
+} else {
+  // Create the file if missing
+  fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex: 0 }, null, 2));
 }
 
-// Load last batch index from file
-try {
-  lastBatchIndex = JSON.parse(fs.readFileSync(batchFile)).lastBatchIndex || 0;
-} catch {
-  lastBatchIndex = 0;
-}
-
-// Select current batch for this run
+// ======= Select current batch =======
 const queries = allBatches[lastBatchIndex];
 console.log("Running batch index:", lastBatchIndex);
 console.log("Queries for this run:", queries);
+
+// ======= Simulated run function =======
+async function run() {
+  for (const q of queries) {
+    console.log("Processing query:", q);
+    // simulate work
+  }
+}
+
+// ======= Main =======
+async function main() {
+  try {
+    await run();
+
+    // Update batch index
+    lastBatchIndex = (lastBatchIndex + 1) % allBatches.length;
+    fs.writeFileSync(batchFile, JSON.stringify({ lastBatchIndex }, null, 2));
+    console.log("Next batch index saved as:", lastBatchIndex);
+  } catch (err) {
+    console.error("Script failed:", err);
+  }
+}
+
+main();
 
 // ==================================================
 //                 SLUGIFY FUNCTION
