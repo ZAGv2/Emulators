@@ -23,10 +23,13 @@ jobs:
         with:
           node-version: '20'
 
-      # 3️⃣ Run generateTools.js
-      - name: Run generateTools.js
-        run: node generateTools.js
+      # # 3️⃣ Run generateTools.js
+- name: Run generateTools.js
+  run: node generateTools.js
+  env:
+    GITHUB_TOKEN: ${{ secrets.MY_TOKEN }}
 
+     
       # 4️⃣ Commit & push changes automatically
       - name: Commit & Push Changes
         run: |
