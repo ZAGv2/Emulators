@@ -202,7 +202,6 @@ window.addEventListener('click', e => {
 function fetchPage(query, page) {
   const url = `https://api.github.com/search/repositories?q=${encodeURIComponent(query)}&sort=stars&order=desc&per_page=100&page=${page}`
 
-    // ✅ FIXED: GitHub token from workflow secret
   const GITHUB_TOKEN = process.env.GITHUB_TOKEN
   const headers = {
     'User-Agent': 'node.js',
@@ -217,25 +216,14 @@ function fetchPage(query, page) {
         try {
           const json = JSON.parse(data)
           if (json.items && json.items.length > 0) {
-            resolve(json.items)
+            resolve(json.items) // ✅ return real repos only
           } else {
             console.log("No repos found for query:", query, "Page:", page, json.message || "")
-            // fallback: create fake tool so JSON file is generated
-            resolve([{
-              name: query,
-              html_url: "#",
-              owner: { login: "test", avatar_url: getLogo(slugify(query)) },
-              description: "Fallback tool for testing"
-            }])
+            resolve([]) // ✅ return empty array instead of fake tool
           }
         } catch (err) {
           console.error("Failed to parse JSON for query:", query, err)
-          resolve([{
-            name: query,
-            html_url: "#",
-            owner: { login: "test", avatar_url: getLogo(slugify(query)) },
-            description: "Fallback tool for testing"
-          }])
+          resolve([]) // ✅ return empty array on parse error
         }
       })
     }).on('error', err => reject(err))
