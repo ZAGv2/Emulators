@@ -254,26 +254,33 @@ function renderTable(page=1, tools=allTools){
   const end=start+itemsPerPage
   const pageItems=tools.slice(start,end)
 
-  pageItems.forEach(tool=>{
-    const consoleFolder = (tool.console || "Multi Platform").toLowerCase().replace(/[^a-z0-9]+/g,"-")
-    const img = tool.cover || "tools/logos/default-cover.jpg"
+  function safeFolderName(str) {
+  if (!str) return "_"
+  str = str.toLowerCase().replace(/[^a-z0-9]+/g, "-")
+  if (/^[0-9]/.test(str)) str = "_" + str
+  return str
+}
 
-    const tr=document.createElement("tr")
-    tr.innerHTML=`
+pageItems.forEach(tool => {
+  const consoleFolder = safeFolderName(tool.console || "Multi Platform")
+  const first = safeFolderName(tool.slug[0])
+  const firstTwo = safeFolderName(tool.slug.slice(0, 2))
+  const img = tool.cover || "tools/logos/default-cover.jpg"
+
+  const tr = document.createElement("tr")
+  tr.innerHTML = `
 <td>
-<img src="${img}" style="width:32px;height:32px;border-radius:4px;">
+  <img src="${img}" style="width:32px;height:32px;border-radius:4px;">
 </td>
-
 <td>
-<a href="tools/${consoleFolder}/${tool.slug[0]}/${tool.slug.slice(0,2)}/${tool.slug}/index.html">
+  <a href="tools/${consoleFolder}/${first}/${firstTwo}/${tool.slug}/index.html">${tool.name}</a>
 </td>
-
 <td>${tool.console || "Multi Platform"}</td>
 <td>${tool.creator}</td>
 <td>${tool.version || "..."}</td>
 `
-    tbody.appendChild(tr)
-  })
+  tbody.appendChild(tr)
+})
 
   renderPagination(tools.length,page)
   localStorage.setItem('emulatorPage', page)
