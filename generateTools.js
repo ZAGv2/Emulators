@@ -88,10 +88,16 @@ function getLogo(slug) {
 // ==================================================
 //             CREATE TOOL HTML PAGE
 // ==================================================
+function safeFolderName(str) {
+  if (!str) return "_"
+  str = str.toLowerCase().replace(/[^a-z0-9]+/g, "-")
+  if (/^[0-9]/.test(str)) str = "_" + str
+  return str
+}
 function createToolPage(tool){
-  const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
-  const first = tool.slug[0] || "_"
-const firstTwo = tool.slug.slice(0,2) || "__"
+  const consoleFolder = safeFolderName(tool.console) || "multi-platform"
+const first = safeFolderName(tool.slug[0])
+const firstTwo = safeFolderName(tool.slug.slice(0,2))
 
 const folder = path.join(
   TOOLS_DIR,
