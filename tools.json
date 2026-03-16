@@ -34248,5 +34248,25 @@
     "url": "https://github.com/CTurt/Cinoop",
     "cover": "https://avatars.githubusercontent.com/u/6132330?v=4",
     "description": "Multiplatform Game Boy emulator"
+  },
+  {
+    "name": "DAEMON-Tools-Pro-Update-2026",
+    "slug": "daemon-tools-pro-update-2026",
+    "creator": "sydpidoras452",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sydpidoras452/DAEMON-Tools-Pro-Update-2026",
+    "cover": "https://avatars.githubusercontent.com/u/268252198?v=4",
+    "description": "DAEMON Tools is a feature-rich piece of software for creating disc images and emulating virtual CD/DVD/Blu-ray drives, with support for a wide range of copy protection systems. Daemon | Tools | Pro | 12 | Download"
+  },
+  {
+    "name": "build-a-terminal-emulator",
+    "slug": "build-a-terminal-emulator",
+    "creator": "ishuah",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ishuah/build-a-terminal-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/321040?v=4",
+    "description": "Build a simple terminal emulator"
   }
 ]
