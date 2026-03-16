@@ -265,7 +265,7 @@ function renderTable(page=1, tools=allTools){
 </td>
 
 <td>
-<a href="tools/${consoleFolder}/${tool.slug}/index.html">${tool.name}</a>
+<a href="tools/${consoleFolder}/${tool.slug[0]}/${tool.slug.slice(0,2)}/${tool.slug}/index.html">
 </td>
 
 <td>${tool.console || "Multi Platform"}</td>
