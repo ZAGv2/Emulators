@@ -90,7 +90,16 @@ function getLogo(slug) {
 // ==================================================
 function createToolPage(tool){
   const consoleFolder = tool.console ? tool.console.toLowerCase().replace(/[^a-z0-9]+/g,"-") : "multi-platform"
-  const folder = path.join(TOOLS_DIR, consoleFolder, tool.slug)
+  const first = tool.slug[0] || "_"
+const firstTwo = tool.slug.slice(0,2) || "__"
+
+const folder = path.join(
+  TOOLS_DIR,
+  consoleFolder,
+  first,
+  firstTwo,
+  tool.slug
+)
   if(!fs.existsSync(folder)) fs.mkdirSync(folder,{recursive:true})
 
   const htmlPath = path.join(folder, "index.html") // ✅ use tool.slug.html
