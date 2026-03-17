@@ -34308,5 +34308,15 @@
     "url": "https://github.com/DirtBagXon/model3emu-code-sinden",
     "cover": "https://avatars.githubusercontent.com/u/28685555?v=4",
     "description": "A fork of model3emu with Sinden and 2 player gun support in Linux/MacOS"
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "zay448345045",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zay448345045/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/22346235?v=4",
+    "description": "PCSX2 - The Playstation 2 Emulator"
   }
 ]
