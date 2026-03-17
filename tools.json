@@ -34278,5 +34278,15 @@
     "url": "https://github.com/OLDtherubyproject/rubyserver",
     "cover": "https://avatars.githubusercontent.com/u/35264907?v=4",
     "description": "A free and open-source Pokémon MMORPG server emulator written in C++ based on TFS 1.3."
+  },
+  {
+    "name": "retrobios",
+    "slug": "retrobios",
+    "creator": "Abdess",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/Abdess/retrobios",
+    "cover": "https://avatars.githubusercontent.com/u/3028866?v=4",
+    "description": "Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems."
   }
 ]
