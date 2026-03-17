@@ -34288,5 +34288,15 @@
     "url": "https://github.com/Abdess/retrobios",
     "cover": "https://avatars.githubusercontent.com/u/3028866?v=4",
     "description": "Complete BIOS & firmware collection for retrogaming emulators. RetroArch, Batocera, Recalbox, Lakka, and more. Verified checksums, automated packs, 50+ systems."
+  },
+  {
+    "name": "bcon",
+    "slug": "bcon",
+    "creator": "sanohiro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sanohiro/bcon",
+    "cover": "https://avatars.githubusercontent.com/u/7529745?v=4",
+    "description": "GPU-accelerated terminal emulator for Linux console (TTY) — no X11/Wayland required"
   }
 ]
