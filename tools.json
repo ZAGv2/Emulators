@@ -34268,5 +34268,15 @@
     "url": "https://github.com/ishuah/build-a-terminal-emulator",
     "cover": "https://avatars.githubusercontent.com/u/321040?v=4",
     "description": "Build a simple terminal emulator"
+  },
+  {
+    "name": "rubyserver",
+    "slug": "rubyserver",
+    "creator": "OLDtherubyproject",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OLDtherubyproject/rubyserver",
+    "cover": "https://avatars.githubusercontent.com/u/35264907?v=4",
+    "description": "A free and open-source Pokémon MMORPG server emulator written in C++ based on TFS 1.3."
   }
 ]
