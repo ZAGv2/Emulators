@@ -34298,5 +34298,15 @@
     "url": "https://github.com/sanohiro/bcon",
     "cover": "https://avatars.githubusercontent.com/u/7529745?v=4",
     "description": "GPU-accelerated terminal emulator for Linux console (TTY) — no X11/Wayland required"
+  },
+  {
+    "name": "model3emu-code-sinden",
+    "slug": "model3emu-code-sinden",
+    "creator": "DirtBagXon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DirtBagXon/model3emu-code-sinden",
+    "cover": "https://avatars.githubusercontent.com/u/28685555?v=4",
+    "description": "A fork of model3emu with Sinden and 2 player gun support in Linux/MacOS"
   }
 ]
