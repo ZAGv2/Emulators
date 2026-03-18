@@ -34348,5 +34348,15 @@
     "url": "https://github.com/SharathGames1/revanced-apks",
     "cover": "https://avatars.githubusercontent.com/u/56215847?v=4",
     "description": "An APK  builder for RVX/Morphe apps. Updated hourly. Also an apk source for dolphin emulator patched at SDK 29 using a vibe coded script"
+  },
+  {
+    "name": "bterm",
+    "slug": "bterm",
+    "creator": "kendru",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kendru/bterm",
+    "cover": "https://avatars.githubusercontent.com/u/1010813?v=4",
+    "description": "A simple terminal emulator HTML widget"
   }
 ]
