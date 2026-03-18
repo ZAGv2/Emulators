@@ -34338,5 +34338,15 @@
     "url": "https://github.com/Mintsuki/Flanterm",
     "cover": "https://avatars.githubusercontent.com/u/36459316?v=4",
     "description": "Fast and reasonably complete (framebuffer) terminal emulator. (Mirror of https://codeberg.org/Mintsuki/Flanterm)"
+  },
+  {
+    "name": "revanced-apks",
+    "slug": "revanced-apks",
+    "creator": "SharathGames1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SharathGames1/revanced-apks",
+    "cover": "https://avatars.githubusercontent.com/u/56215847?v=4",
+    "description": "An APK  builder for RVX/Morphe apps. Updated hourly. Also an apk source for dolphin emulator patched at SDK 29 using a vibe coded script"
   }
 ]
