@@ -34318,5 +34318,15 @@
     "url": "https://github.com/zay448345045/pcsx2",
     "cover": "https://avatars.githubusercontent.com/u/22346235?v=4",
     "description": "PCSX2 - The Playstation 2 Emulator"
+  },
+  {
+    "name": "dolphin2",
+    "slug": "dolphin2",
+    "creator": "483eo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/483eo/dolphin2",
+    "cover": "https://avatars.githubusercontent.com/u/268467634?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
   }
 ]
