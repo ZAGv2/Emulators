@@ -34358,5 +34358,15 @@
     "url": "https://github.com/kendru/bterm",
     "cover": "https://avatars.githubusercontent.com/u/1010813?v=4",
     "description": "A simple terminal emulator HTML widget"
+  },
+  {
+    "name": "jvmvm",
+    "slug": "jvmvm",
+    "creator": "drxaos",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drxaos/jvmvm",
+    "cover": "https://avatars.githubusercontent.com/u/2577993?v=4",
+    "description": "Fork of JauVM - JVM stack emulator in Java"
   }
 ]
