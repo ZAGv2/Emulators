@@ -34368,5 +34368,15 @@
     "url": "https://github.com/drxaos/jvmvm",
     "cover": "https://avatars.githubusercontent.com/u/2577993?v=4",
     "description": "Fork of JauVM - JVM stack emulator in Java"
+  },
+  {
+    "name": "ghostling",
+    "slug": "ghostling",
+    "creator": "ghostty-org",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ghostty-org/ghostling",
+    "cover": "https://avatars.githubusercontent.com/u/169223740?v=4",
+    "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
   }
 ]
