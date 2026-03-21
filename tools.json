@@ -34378,5 +34378,15 @@
     "url": "https://github.com/ghostty-org/ghostling",
     "cover": "https://avatars.githubusercontent.com/u/169223740?v=4",
     "description": "A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣"
+  },
+  {
+    "name": "orca",
+    "slug": "orca",
+    "creator": "bandlayash",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bandlayash/orca",
+    "cover": "https://avatars.githubusercontent.com/u/101607484?v=4",
+    "description": "Introducing Orca: A web-based Wii Emulator based on Dolphin"
   }
 ]
