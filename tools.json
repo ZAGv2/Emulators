@@ -34388,5 +34388,15 @@
     "url": "https://github.com/bandlayash/orca",
     "cover": "https://avatars.githubusercontent.com/u/101607484?v=4",
     "description": "Introducing Orca: A web-based Wii Emulator based on Dolphin"
+  },
+  {
+    "name": "iPSX2",
+    "slug": "ipsx2",
+    "creator": "otti83",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/otti83/iPSX2",
+    "cover": "https://avatars.githubusercontent.com/u/38341810?v=4",
+    "description": "PS2 Game emulator with ported PCSX2 ,ARMSX2"
   }
 ]
