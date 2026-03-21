@@ -34398,5 +34398,15 @@
     "url": "https://github.com/otti83/iPSX2",
     "cover": "https://avatars.githubusercontent.com/u/38341810?v=4",
     "description": "PS2 Game emulator with ported PCSX2 ,ARMSX2"
+  },
+  {
+    "name": "kms-pico-emulator-2026",
+    "slug": "kms-pico-emulator-2026",
+    "creator": "weeseezios",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/weeseezios/kms-pico-emulator-2026",
+    "cover": "https://avatars.githubusercontent.com/u/268447994?v=4",
+    "description": "The most reliable KMS emulator for 2026. Manage and validate Windows 10/11 and Office 2016-2024 instances instantly. Pure, open-source, and offline-ready."
   }
 ]
