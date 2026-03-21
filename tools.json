@@ -34408,5 +34408,15 @@
     "url": "https://github.com/weeseezios/kms-pico-emulator-2026",
     "cover": "https://avatars.githubusercontent.com/u/268447994?v=4",
     "description": "The most reliable KMS emulator for 2026. Manage and validate Windows 10/11 and Office 2016-2024 instances instantly. Pure, open-source, and offline-ready."
+  },
+  {
+    "name": "termy",
+    "slug": "termy",
+    "creator": "termy-org",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/termy-org/termy",
+    "cover": "https://avatars.githubusercontent.com/u/269988852?v=4",
+    "description": "A Lightweight & GPU-rendered terminal emulator, written in Rust. Termy starts instantly and stays fast. Cross-platform 🦀"
   }
 ]
