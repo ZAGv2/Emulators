@@ -34418,5 +34418,15 @@
     "url": "https://github.com/termy-org/termy",
     "cover": "https://avatars.githubusercontent.com/u/269988852?v=4",
     "description": "A Lightweight & GPU-rendered terminal emulator, written in Rust. Termy starts instantly and stays fast. Cross-platform 🦀"
+  },
+  {
+    "name": "floci",
+    "slug": "floci",
+    "creator": "hectorvent",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hectorvent/floci",
+    "cover": "https://avatars.githubusercontent.com/u/2405682?v=4",
+    "description": "Light, fluffy, and always free - AWS Local Emulator "
   }
 ]
