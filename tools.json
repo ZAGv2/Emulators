@@ -34428,5 +34428,15 @@
     "url": "https://github.com/hectorvent/floci",
     "cover": "https://avatars.githubusercontent.com/u/2405682?v=4",
     "description": "Light, fluffy, and always free - AWS Local Emulator "
+  },
+  {
+    "name": "belle",
+    "slug": "belle",
+    "creator": "axvonx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/axvonx/belle",
+    "cover": "https://avatars.githubusercontent.com/u/105593618?v=4",
+    "description": "BELLE (Big Endian, Low Level Emulator) The monorepo for a custom 16 bit RISC architecture."
   }
 ]
