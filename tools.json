@@ -34438,5 +34438,15 @@
     "url": "https://github.com/axvonx/belle",
     "cover": "https://avatars.githubusercontent.com/u/105593618?v=4",
     "description": "BELLE (Big Endian, Low Level Emulator) The monorepo for a custom 16 bit RISC architecture."
+  },
+  {
+    "name": "bbcmicro",
+    "slug": "bbcmicro",
+    "creator": "mcfasa09",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mcfasa09/bbcmicro",
+    "cover": "https://avatars.githubusercontent.com/u/10692335?v=4",
+    "description": "BBC Micro emulator for Android - based on Beebdroid"
   }
 ]
