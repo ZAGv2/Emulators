@@ -34448,5 +34448,15 @@
     "url": "https://github.com/mcfasa09/bbcmicro",
     "cover": "https://avatars.githubusercontent.com/u/10692335?v=4",
     "description": "BBC Micro emulator for Android - based on Beebdroid"
+  },
+  {
+    "name": "ps4_cheats",
+    "slug": "ps4-cheats",
+    "creator": "shadps4-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shadps4-emu/ps4_cheats",
+    "cover": "https://avatars.githubusercontent.com/u/152868421?v=4",
+    "description": "Official Cheat and Patches used for shadps4 emulator"
   }
 ]
