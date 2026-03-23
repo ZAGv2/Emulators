@@ -34498,5 +34498,25 @@
     "url": "https://github.com/TsekrekosEA/Burroughs-B1700-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/147249284?v=4",
     "description": "A completely functional emulator of the unique instruction-setless microprogrammable B1700 series computer"
+  },
+  {
+    "name": "pi-boy",
+    "slug": "pi-boy",
+    "creator": "patleeman",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/patleeman/pi-boy",
+    "cover": "https://avatars.githubusercontent.com/u/11035426?v=4",
+    "description": "pi-boy: embedded Game Boy emulator extension for pi"
+  },
+  {
+    "name": "agent-droid-bridge",
+    "slug": "agent-droid-bridge",
+    "creator": "Neverlow512",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Neverlow512/agent-droid-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/79411273?v=4",
+    "description": "Agent Droid Bridge gives AI agents programmatic control over Android devices and emulators via ADB, exposed as an MCP server."
   }
 ]
