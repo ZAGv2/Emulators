@@ -34458,5 +34458,45 @@
     "url": "https://github.com/shadps4-emu/ps4_cheats",
     "cover": "https://avatars.githubusercontent.com/u/152868421?v=4",
     "description": "Official Cheat and Patches used for shadps4 emulator"
+  },
+  {
+    "name": "Sharpie",
+    "slug": "sharpie",
+    "creator": "ChristosMaragkos",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ChristosMaragkos/Sharpie",
+    "cover": "https://avatars.githubusercontent.com/u/180113798?v=4",
+    "description": "A fantasy console written in C# with a simple but powerful assembly language"
+  },
+  {
+    "name": "CuteGhostty",
+    "slug": "cuteghostty",
+    "creator": "amywork777",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/amywork777/CuteGhostty",
+    "cover": "https://avatars.githubusercontent.com/u/192041387?v=4",
+    "description": "Cute Ghostty - A cute customized Ghostty terminal emulator for macOS"
+  },
+  {
+    "name": "BasicBox",
+    "slug": "basicbox",
+    "creator": "mikechambers84",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mikechambers84/BasicBox",
+    "cover": "https://avatars.githubusercontent.com/u/904313?v=4",
+    "description": "A 486-class PC emulator written entirely in Visual Basic 6"
+  },
+  {
+    "name": "Burroughs-B1700-Emulator",
+    "slug": "burroughs-b1700-emulator",
+    "creator": "TsekrekosEA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TsekrekosEA/Burroughs-B1700-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/147249284?v=4",
+    "description": "A completely functional emulator of the unique instruction-setless microprogrammable B1700 series computer"
   }
 ]
