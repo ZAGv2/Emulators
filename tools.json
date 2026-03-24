@@ -34518,5 +34518,15 @@
     "url": "https://github.com/Neverlow512/agent-droid-bridge",
     "cover": "https://avatars.githubusercontent.com/u/79411273?v=4",
     "description": "Agent Droid Bridge gives AI agents programmatic control over Android devices and emulators via ADB, exposed as an MCP server."
+  },
+  {
+    "name": "kumo",
+    "slug": "kumo",
+    "creator": "sivchari",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sivchari/kumo",
+    "cover": "https://avatars.githubusercontent.com/u/55221074?v=4",
+    "description": "A lightweight AWS service emulator written in Go for CI/CD environments"
   }
 ]
