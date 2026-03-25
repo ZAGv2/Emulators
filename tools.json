@@ -34558,5 +34558,15 @@
     "url": "https://github.com/Titan-Dynamics/USB-JR-BAY",
     "cover": "https://avatars.githubusercontent.com/u/157433605?v=4",
     "description": "Emulates a JR bay for ELRS TX modules with an ESP32 receiving commands via USB"
+  },
+  {
+    "name": "velxio",
+    "slug": "velxio",
+    "creator": "davidmonterocrespo24",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/davidmonterocrespo24/velxio",
+    "cover": "https://avatars.githubusercontent.com/u/47928504?v=4",
+    "description": "Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no cloud, no limits.. Discord: https://discord.gg/rCScB9cG"
   }
 ]
