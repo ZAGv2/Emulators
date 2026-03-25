@@ -34588,5 +34588,15 @@
     "url": "https://github.com/bitaxislabs/DolphinWeb",
     "cover": "https://avatars.githubusercontent.com/u/255264586?v=4",
     "description": "Dolphin GameCube/Wii emulator running in the browser via WebAssembly"
+  },
+  {
+    "name": "box64",
+    "slug": "box64",
+    "creator": "loong64",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/loong64/box64",
+    "cover": "https://avatars.githubusercontent.com/u/170494462?v=4",
+    "description": "Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices"
   }
 ]
