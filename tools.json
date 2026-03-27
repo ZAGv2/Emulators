@@ -34618,5 +34618,15 @@
     "url": "https://github.com/argonne-lcf/DLcomm_benchmark",
     "cover": "https://avatars.githubusercontent.com/u/52420195?v=4",
     "description": "Collective communication patterns emulator for deep learning "
+  },
+  {
+    "name": "ministack",
+    "slug": "ministack",
+    "creator": "Nahuel990",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Nahuel990/ministack",
+    "cover": "https://avatars.githubusercontent.com/u/7265617?v=4",
+    "description": "Ministack: the free LocalStack replacement"
   }
 ]
