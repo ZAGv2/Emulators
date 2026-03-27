@@ -34628,5 +34628,15 @@
     "url": "https://github.com/Nahuel990/ministack",
     "cover": "https://avatars.githubusercontent.com/u/7265617?v=4",
     "description": "Ministack: the free LocalStack replacement"
+  },
+  {
+    "name": "NeoJ2ME",
+    "slug": "neoj2me",
+    "creator": "EPICOMI",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EPICOMI/NeoJ2ME",
+    "cover": "https://avatars.githubusercontent.com/u/64307059?v=4",
+    "description": "Creating a J2ME games emulator for the Windows platform"
   }
 ]
