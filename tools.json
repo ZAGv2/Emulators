@@ -34658,5 +34658,25 @@
     "url": "https://github.com/xenios-jp/XeniOS",
     "cover": "https://avatars.githubusercontent.com/u/262539360?v=4",
     "description": "The iOS and MacOS port of Xenia, the Xbox 360 Emulator Research project."
+  },
+  {
+    "name": "e8bit_emulator",
+    "slug": "e8bit-emulator",
+    "creator": "mi66mc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mi66mc/e8bit_emulator",
+    "cover": "https://avatars.githubusercontent.com/u/87582992?v=4",
+    "description": "💾 A simple 8-bit virtual machine emulator written in Rust, designed for learning and experimentation."
+  },
+  {
+    "name": "BS-66.293",
+    "slug": "bs-66-293",
+    "creator": "Greedycell",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Greedycell/BS-66.293",
+    "cover": "https://avatars.githubusercontent.com/u/236865203?v=4",
+    "description": "Private server emulator for Brawl Stars 66.293 (2026) written on Node.js"
   }
 ]
