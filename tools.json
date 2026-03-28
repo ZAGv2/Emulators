@@ -34648,5 +34648,15 @@
     "url": "https://github.com/thecybersandeep/Frida-Launcher",
     "cover": "https://avatars.githubusercontent.com/u/172130560?v=4",
     "description": "An Android app to easily manage Frida server on your device or emulator"
+  },
+  {
+    "name": "XeniOS",
+    "slug": "xenios",
+    "creator": "xenios-jp",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/xenios-jp/XeniOS",
+    "cover": "https://avatars.githubusercontent.com/u/262539360?v=4",
+    "description": "The iOS and MacOS port of Xenia, the Xbox 360 Emulator Research project."
   }
 ]
