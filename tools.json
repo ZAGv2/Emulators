@@ -34638,5 +34638,15 @@
     "url": "https://github.com/EPICOMI/NeoJ2ME",
     "cover": "https://avatars.githubusercontent.com/u/64307059?v=4",
     "description": "Creating a J2ME games emulator for the Windows platform"
+  },
+  {
+    "name": "Frida-Launcher",
+    "slug": "frida-launcher",
+    "creator": "thecybersandeep",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/thecybersandeep/Frida-Launcher",
+    "cover": "https://avatars.githubusercontent.com/u/172130560?v=4",
+    "description": "An Android app to easily manage Frida server on your device or emulator"
   }
 ]
