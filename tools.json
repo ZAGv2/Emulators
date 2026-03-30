@@ -34698,5 +34698,25 @@
     "url": "https://github.com/sashkinbro/EmuCoreX",
     "cover": "https://avatars.githubusercontent.com/u/95984785?v=4",
     "description": "PlayStation 2 emulator for Android with a ARMSX2-based core, modern game library, live overlay controls, and a handheld-focused experience."
+  },
+  {
+    "name": "Dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "meyad4911-star",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/meyad4911-star/Dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/260920284?v=4",
+    "description": "Dolphin emulator"
+  },
+  {
+    "name": "solid-winner",
+    "slug": "solid-winner",
+    "creator": "meyad4911-star",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/meyad4911-star/solid-winner",
+    "cover": "https://avatars.githubusercontent.com/u/260920284?v=4",
+    "description": "Dolphin emulator"
   }
 ]
