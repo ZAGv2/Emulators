@@ -34738,5 +34738,15 @@
     "url": "https://github.com/wootzapp/wootz-browser",
     "cover": "https://avatars.githubusercontent.com/u/90070100?v=4",
     "description": "browser renderer & emulator for post-training domdiff rewards."
+  },
+  {
+    "name": "not-claude-code-emulator",
+    "slug": "not-claude-code-emulator",
+    "creator": "code-yeongyu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/code-yeongyu/not-claude-code-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/11153873?v=4",
+    "description": "ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE"
   }
 ]
