@@ -34748,5 +34748,15 @@
     "url": "https://github.com/code-yeongyu/not-claude-code-emulator",
     "cover": "https://avatars.githubusercontent.com/u/11153873?v=4",
     "description": "ULTRA DANGEROUS CLAUDE CODE EMULATOR; MAKING THE API REQUEST IDENTICAL TO CLAUDE CODE"
+  },
+  {
+    "name": "frida-game-hacking-mcp",
+    "slug": "frida-game-hacking-mcp",
+    "creator": "0xhackerfren",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/0xhackerfren/frida-game-hacking-mcp",
+    "cover": "https://avatars.githubusercontent.com/u/145796443?v=4",
+    "description": "A MCP implementation of Frida that seeks to emulate Cheat Engine functionally to allow for seamless Game Hacking by AI agents "
   }
 ]
