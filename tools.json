@@ -34758,5 +34758,15 @@
     "url": "https://github.com/0xhackerfren/frida-game-hacking-mcp",
     "cover": "https://avatars.githubusercontent.com/u/145796443?v=4",
     "description": "A MCP implementation of Frida that seeks to emulate Cheat Engine functionally to allow for seamless Game Hacking by AI agents "
+  },
+  {
+    "name": "hermes-ide",
+    "slug": "hermes-ide",
+    "creator": "hermes-hq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hermes-hq/hermes-ide",
+    "cover": "https://avatars.githubusercontent.com/u/266710001?v=4",
+    "description": "AI-native terminal emulator & IDE. Built with Tauri, React, and Rust."
   }
 ]
