@@ -34768,5 +34768,15 @@
     "url": "https://github.com/hermes-hq/hermes-ide",
     "cover": "https://avatars.githubusercontent.com/u/266710001?v=4",
     "description": "AI-native terminal emulator & IDE. Built with Tauri, React, and Rust."
+  },
+  {
+    "name": "pokemon-stadium2-benchmark",
+    "slug": "pokemon-stadium2-benchmark",
+    "creator": "Clad3815",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Clad3815/pokemon-stadium2-benchmark",
+    "cover": "https://avatars.githubusercontent.com/u/68906051?v=4",
+    "description": "An open-source platform to benchmark AI models by having them battle each other in real-time Pokemon Stadium 2 on the N64 emulator."
   }
 ]
