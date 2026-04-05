@@ -34798,5 +34798,15 @@
     "url": "https://github.com/wkoszek/cpu60",
     "cover": "https://avatars.githubusercontent.com/u/483344?v=4",
     "description": "Simple CPU model written in 60 lines of C with 8 registers and basic instructions"
+  },
+  {
+    "name": "mkgp2-view",
+    "slug": "mkgp2-view",
+    "creator": "naari3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/naari3/mkgp2-view",
+    "cover": "https://avatars.githubusercontent.com/u/12756563?v=4",
+    "description": "MKGP2 live memory viewer for Dolphin emulator"
   }
 ]
