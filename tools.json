@@ -34788,5 +34788,15 @@
     "url": "https://github.com/floci-io/floci",
     "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
     "description": "Light, fluffy, and always free - AWS Local Emulator "
+  },
+  {
+    "name": "cpu60",
+    "slug": "cpu60",
+    "creator": "wkoszek",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wkoszek/cpu60",
+    "cover": "https://avatars.githubusercontent.com/u/483344?v=4",
+    "description": "Simple CPU model written in 60 lines of C with 8 registers and basic instructions"
   }
 ]
