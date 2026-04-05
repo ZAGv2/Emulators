@@ -34778,5 +34778,15 @@
     "url": "https://github.com/Clad3815/pokemon-stadium2-benchmark",
     "cover": "https://avatars.githubusercontent.com/u/68906051?v=4",
     "description": "An open-source platform to benchmark AI models by having them battle each other in real-time Pokemon Stadium 2 on the N64 emulator."
+  },
+  {
+    "name": "floci",
+    "slug": "floci",
+    "creator": "floci-io",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/floci-io/floci",
+    "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
+    "description": "Light, fluffy, and always free - AWS Local Emulator "
   }
 ]
