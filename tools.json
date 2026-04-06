@@ -34808,5 +34808,15 @@
     "url": "https://github.com/naari3/mkgp2-view",
     "cover": "https://avatars.githubusercontent.com/u/12756563?v=4",
     "description": "MKGP2 live memory viewer for Dolphin emulator"
+  },
+  {
+    "name": "Dolphin-Recompiler-Prototype-",
+    "slug": "dolphin-recompiler-prototype",
+    "creator": "Sync-hiro-kun",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Sync-hiro-kun/Dolphin-Recompiler-Prototype-",
+    "cover": "https://avatars.githubusercontent.com/u/143283691?v=4",
+    "description": "A recompiler experiment using dolphin emulator as a foundation, please shout out Dolphin team but I was curious to see how this could work. "
   }
 ]
