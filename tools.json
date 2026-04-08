@@ -34828,5 +34828,15 @@
     "url": "https://github.com/tomquist/AstraMeter",
     "cover": "https://avatars.githubusercontent.com/u/528585?v=4",
     "description": "This project emulates Smart Meter devices for Marstek storages such as the B2500, Marstek Jupiter and Marstek Venus energy storage system while allowing integration with almost any smart meters."
+  },
+  {
+    "name": "babyagent",
+    "slug": "babyagent",
+    "creator": "Overclock-Accelerator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Overclock-Accelerator/babyagent",
+    "cover": "https://avatars.githubusercontent.com/u/234439697?v=4",
+    "description": "Browser-based agent-building emulator. Raise your own AI agent by filling in markdown files. Built for Overclock workshops."
   }
 ]
