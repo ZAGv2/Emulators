@@ -96,8 +96,8 @@ function safeFolderName(str) {
 }
 function createToolPage(tool){
   const consoleFolder = safeFolderName(tool.console) || "multi-platform"
-const first = safeFolderName(tool.slug[0])
-const firstTwo = safeFolderName(tool.slug.slice(0,2))
+  const first = tool.slug[0] || "_"
+  const firstTwo = (tool.slug[0] || "_") + (tool.slug[1] || tool.slug[0] || "_")
 
 const folder = path.join(
   TOOLS_DIR,
