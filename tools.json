@@ -34838,5 +34838,15 @@
     "url": "https://github.com/Overclock-Accelerator/babyagent",
     "cover": "https://avatars.githubusercontent.com/u/234439697?v=4",
     "description": "Browser-based agent-building emulator. Raise your own AI agent by filling in markdown files. Built for Overclock workshops."
+  },
+  {
+    "name": "berbel-remote",
+    "slug": "berbel-remote",
+    "creator": "tfohlmeister",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tfohlmeister/berbel-remote",
+    "cover": "https://avatars.githubusercontent.com/u/4696987?v=4",
+    "description": "ESP32-based BLE emulator for the Berbel BFB 6bT remote control with Home Assistant MQTT integration"
   }
 ]
