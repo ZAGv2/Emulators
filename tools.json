@@ -34318,5 +34318,115 @@
     "url": "https://github.com/Seidler93/Madden-Franchise-Server",
     "cover": "https://avatars.githubusercontent.com/u/66758675?v=4",
     "description": "Madden Franchise Server 🎮 A remote-accessible Madden franchise server for RPCS3 & PCSX2. Friends can play anytime via a custom Electron launcher with locked emulator settings, shared saves, and remote access (Parsec/Sunshine). Features auto-restart, watchdog scripts, and an easy setup for low-tech users. 🚀"
+  },
+  {
+    "name": "wsl-terminal",
+    "slug": "wsl-terminal",
+    "creator": "mskyaxl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mskyaxl/wsl-terminal",
+    "cover": "https://avatars.githubusercontent.com/u/5708771?v=4",
+    "description": "Terminal emulator for Windows Subsystem for Linux (WSL)"
+  },
+  {
+    "name": "qemu-t8030",
+    "slug": "qemu-t8030",
+    "creator": "TrungNguyen1909",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TrungNguyen1909/qemu-t8030",
+    "cover": "https://avatars.githubusercontent.com/u/22745058?v=4",
+    "description": "iPhone 11 emulated on QEMU"
+  },
+  {
+    "name": "qemu-rpi-kernel",
+    "slug": "qemu-rpi-kernel",
+    "creator": "dhruvvyas90",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dhruvvyas90/qemu-rpi-kernel",
+    "cover": "https://avatars.githubusercontent.com/u/1730398?v=4",
+    "description": "Qemu kernel for emulating Rpi on QEMU"
+  },
+  {
+    "name": "joycontrol",
+    "slug": "joycontrol",
+    "creator": "mart1nro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mart1nro/joycontrol",
+    "cover": "https://avatars.githubusercontent.com/u/10002144?v=4",
+    "description": "Emulate Nintendo Switch Controllers over Bluetooth"
+  },
+  {
+    "name": "psx_retroshader",
+    "slug": "psx-retroshader",
+    "creator": "dsoft20",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dsoft20/psx_retroshader",
+    "cover": "https://avatars.githubusercontent.com/u/8696770?v=4",
+    "description": "Shader that \"emulates\" the rendering style of ps1"
+  },
+  {
+    "name": "halfix",
+    "slug": "halfix",
+    "creator": "nepx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nepx/halfix",
+    "cover": "https://avatars.githubusercontent.com/u/23300488?v=4",
+    "description": "x86 PC emulator that runs both natively and in the browser, via WebAssembly"
+  },
+  {
+    "name": "rv8",
+    "slug": "rv8",
+    "creator": "larkmjc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/larkmjc/rv8",
+    "cover": "https://avatars.githubusercontent.com/u/358119?v=4",
+    "description": "RISC-V simulator for x86-64"
+  },
+  {
+    "name": "emulator101",
+    "slug": "emulator101",
+    "creator": "kpmiller",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kpmiller/emulator101",
+    "cover": "https://avatars.githubusercontent.com/u/689200?v=4",
+    "description": "Source code to all the tutorials on emulator101.com"
+  },
+  {
+    "name": "idaemu",
+    "slug": "idaemu",
+    "creator": "36hours",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/36hours/idaemu",
+    "cover": "https://avatars.githubusercontent.com/u/15320601?v=4",
+    "description": "idaemu is an IDA Pro Plugin - use for emulating code in IDA Pro."
+  },
+  {
+    "name": "uefiseven",
+    "slug": "uefiseven",
+    "creator": "manatails",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/manatails/uefiseven",
+    "cover": "https://avatars.githubusercontent.com/u/4215028?v=4",
+    "description": "An EFI loader that emulates int10h interrupts needed for booting Windows 7 under UEFI Class 3 systems."
+  },
+  {
+    "name": "Cinoop",
+    "slug": "cinoop",
+    "creator": "CTurt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CTurt/Cinoop",
+    "cover": "https://avatars.githubusercontent.com/u/6132330?v=4",
+    "description": "Multiplatform Game Boy emulator"
   }
 ]
