@@ -34848,5 +34848,15 @@
     "url": "https://github.com/tfohlmeister/berbel-remote",
     "cover": "https://avatars.githubusercontent.com/u/4696987?v=4",
     "description": "ESP32-based BLE emulator for the Berbel BFB 6bT remote control with Home Assistant MQTT integration"
+  },
+  {
+    "name": "EmuPresence-Rich-Presence-for-Discord",
+    "slug": "emupresence-rich-presence-for-discord",
+    "creator": "SPIN0ZAi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SPIN0ZAi/EmuPresence-Rich-Presence-for-Discord",
+    "cover": "https://avatars.githubusercontent.com/u/109903730?v=4",
+    "description": "Unified Discord Rich Presence for Windows emulators:  PCSX2 RPCS3 DuckStation EmuPresence runs quietly in the system tray, detects the active emulator automatically, and updates Discord Rich Presence with game art and state."
   }
 ]
