@@ -34428,5 +34428,15 @@
     "url": "https://github.com/CTurt/Cinoop",
     "cover": "https://avatars.githubusercontent.com/u/6132330?v=4",
     "description": "Multiplatform Game Boy emulator"
+  },
+  {
+    "name": "ghostel",
+    "slug": "ghostel",
+    "creator": "dakra",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dakra/ghostel",
+    "cover": "https://avatars.githubusercontent.com/u/574659?v=4",
+    "description": "Terminal emulator powered by libghostty"
   }
 ]
