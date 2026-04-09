@@ -34438,5 +34438,35 @@
     "url": "https://github.com/dakra/ghostel",
     "cover": "https://avatars.githubusercontent.com/u/574659?v=4",
     "description": "Terminal emulator powered by libghostty"
+  },
+  {
+    "name": "UNI_V3-Liquitidy-amounts-calcs",
+    "slug": "uni-v3-liquitidy-amounts-calcs",
+    "creator": "JNP777",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JNP777/UNI_V3-Liquitidy-amounts-calcs",
+    "cover": "https://avatars.githubusercontent.com/u/85952855?v=4",
+    "description": "Python library to emulate the calculations done in liquiditymath.sol of UNI_V3 peryphery contract"
+  },
+  {
+    "name": "AlmostServiceBus",
+    "slug": "almostservicebus",
+    "creator": "gkinsman",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gkinsman/AlmostServiceBus",
+    "cover": "https://avatars.githubusercontent.com/u/130231?v=4",
+    "description": "A test-friendly Azure Service Bus emulator"
+  },
+  {
+    "name": "BrokenNes",
+    "slug": "brokennes",
+    "creator": "ircluzar",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/ircluzar/BrokenNes",
+    "cover": "https://avatars.githubusercontent.com/u/8052175?v=4",
+    "description": "A very normal Nes emulator"
   }
 ]
