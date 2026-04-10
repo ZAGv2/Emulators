@@ -34488,5 +34488,15 @@
     "url": "https://github.com/nataliapc/mcp-openmsx",
     "cover": "https://avatars.githubusercontent.com/u/12614211?v=4",
     "description": "A Model Context Protocol (MCP) server for automating openMSX emulator instances. This server provides comprehensive tools for MSX software development, testing, and automation through standardized MCP protocols."
+  },
+  {
+    "name": "emacs-libgterm",
+    "slug": "emacs-libgterm",
+    "creator": "rwc9u",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rwc9u/emacs-libgterm",
+    "cover": "https://avatars.githubusercontent.com/u/2698?v=4",
+    "description": "Terminal emulator for Emacs using libghostty-vt (Ghostty's terminal engine)"
   }
 ]
