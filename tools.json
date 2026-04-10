@@ -34468,5 +34468,15 @@
     "url": "https://github.com/ircluzar/BrokenNes",
     "cover": "https://avatars.githubusercontent.com/u/8052175?v=4",
     "description": "A very normal Nes emulator"
+  },
+  {
+    "name": "BetterSteamAutoCracker",
+    "slug": "bettersteamautocracker",
+    "creator": "cmdmasquerade",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cmdmasquerade/BetterSteamAutoCracker",
+    "cover": "https://avatars.githubusercontent.com/u/59280576?v=4",
+    "description": "Imagined a nice looking Auto Cracker that is as little as ~8MB and is wicked fast? Say, \"hi\" to BSAC!"
   }
 ]
