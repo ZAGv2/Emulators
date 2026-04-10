@@ -34478,5 +34478,15 @@
     "url": "https://github.com/cmdmasquerade/BetterSteamAutoCracker",
     "cover": "https://avatars.githubusercontent.com/u/59280576?v=4",
     "description": "Imagined a nice looking Auto Cracker that is as little as ~8MB and is wicked fast? Say, \"hi\" to BSAC!"
+  },
+  {
+    "name": "mcp-openmsx",
+    "slug": "mcp-openmsx",
+    "creator": "nataliapc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nataliapc/mcp-openmsx",
+    "cover": "https://avatars.githubusercontent.com/u/12614211?v=4",
+    "description": "A Model Context Protocol (MCP) server for automating openMSX emulator instances. This server provides comprehensive tools for MSX software development, testing, and automation through standardized MCP protocols."
   }
 ]
