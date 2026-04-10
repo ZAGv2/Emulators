@@ -34508,5 +34508,15 @@
     "url": "https://github.com/TheRealMoeder/Energy2Shelly_ESP",
     "cover": "https://avatars.githubusercontent.com/u/8655395?v=4",
     "description": "Using an ESP8266/ESP32 to emulate a Shelly Power Meter using various energy meter data inputs"
+  },
+  {
+    "name": "ministack",
+    "slug": "ministack",
+    "creator": "ministackorg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ministackorg/ministack",
+    "cover": "https://avatars.githubusercontent.com/u/274374870?v=4",
+    "description": "Ministack: Free, open-source local AWS emulator - 35+ services, Terraform compatible, real databases. Free forever. MIT   licensed."
   }
 ]
