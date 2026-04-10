@@ -34498,5 +34498,15 @@
     "url": "https://github.com/rwc9u/emacs-libgterm",
     "cover": "https://avatars.githubusercontent.com/u/2698?v=4",
     "description": "Terminal emulator for Emacs using libghostty-vt (Ghostty's terminal engine)"
+  },
+  {
+    "name": "Energy2Shelly_ESP",
+    "slug": "energy2shelly-esp",
+    "creator": "TheRealMoeder",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheRealMoeder/Energy2Shelly_ESP",
+    "cover": "https://avatars.githubusercontent.com/u/8655395?v=4",
+    "description": "Using an ESP8266/ESP32 to emulate a Shelly Power Meter using various energy meter data inputs"
   }
 ]
