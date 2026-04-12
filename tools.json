@@ -34528,5 +34528,15 @@
     "url": "https://github.com/BMR11/ble-validation-platform",
     "cover": "https://avatars.githubusercontent.com/u/98811?v=4",
     "description": "Profile-driven BLE device emulator for React Native to simulate real medical and IoT devices, enabling hardware-free development, testing, and automation."
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "XenoPanther",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/XenoPanther/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/81916167?v=4",
+    "description": "PCSX2 - The Playstation 2 Emulator"
   }
 ]
