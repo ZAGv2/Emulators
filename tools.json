@@ -34548,5 +34548,15 @@
     "url": "https://github.com/arismoko/b0xx-linux",
     "cover": "https://avatars.githubusercontent.com/u/19542195?v=4",
     "description": "Keyboard-to-B0XX controller emulator for Dolphin on Linux"
+  },
+  {
+    "name": "Mesa-Turnip-Builder",
+    "slug": "mesa-turnip-builder",
+    "creator": "v3kt0r-87",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/v3kt0r-87/Mesa-Turnip-Builder",
+    "cover": "https://avatars.githubusercontent.com/u/127130512?v=4",
+    "description": "Script to build Freedreno Turnip Vulkan Driver as a Module for Magisk or EMULATORS"
   }
 ]
