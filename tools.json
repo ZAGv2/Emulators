@@ -34538,5 +34538,15 @@
     "url": "https://github.com/XenoPanther/pcsx2",
     "cover": "https://avatars.githubusercontent.com/u/81916167?v=4",
     "description": "PCSX2 - The Playstation 2 Emulator"
+  },
+  {
+    "name": "b0xx-linux",
+    "slug": "b0xx-linux",
+    "creator": "arismoko",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/arismoko/b0xx-linux",
+    "cover": "https://avatars.githubusercontent.com/u/19542195?v=4",
+    "description": "Keyboard-to-B0XX controller emulator for Dolphin on Linux"
   }
 ]
