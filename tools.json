@@ -34578,5 +34578,15 @@
     "url": "https://github.com/JsBergbau/Kostal-KSEM-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/37013344?v=4",
     "description": "Ziel dieses Projekts ist es, ein KSEM-Energiemeter für einen KOSTAL-Wechselrichter zu emulieren. Damit kann man einen Kostal Wechselrichter mit Akku betreiben. So lässt sich ohne zusätzliches Energiemeter z.B. ein Shelly als Datenquelle verwenden."
+  },
+  {
+    "name": "con",
+    "slug": "con",
+    "creator": "nowledge-co",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nowledge-co/con",
+    "cover": "https://avatars.githubusercontent.com/u/210230799?v=4",
+    "description": "The Native Terminal Emulator with a builtin AI Harness"
   }
 ]
