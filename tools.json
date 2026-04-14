@@ -34558,5 +34558,25 @@
     "url": "https://github.com/v3kt0r-87/Mesa-Turnip-Builder",
     "cover": "https://avatars.githubusercontent.com/u/127130512?v=4",
     "description": "Script to build Freedreno Turnip Vulkan Driver as a Module for Magisk or EMULATORS"
+  },
+  {
+    "name": "rusty_box",
+    "slug": "rusty-box",
+    "creator": "r3bb1t",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/r3bb1t/rusty_box",
+    "cover": "https://avatars.githubusercontent.com/u/49586603?v=4",
+    "description": "Rust rewrite of BOCHS emulator"
+  },
+  {
+    "name": "Kostal-KSEM-Emulator",
+    "slug": "kostal-ksem-emulator",
+    "creator": "JsBergbau",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JsBergbau/Kostal-KSEM-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/37013344?v=4",
+    "description": "Ziel dieses Projekts ist es, ein KSEM-Energiemeter für einen KOSTAL-Wechselrichter zu emulieren. Damit kann man einen Kostal Wechselrichter mit Akku betreiben. So lässt sich ohne zusätzliches Energiemeter z.B. ein Shelly als Datenquelle verwenden."
   }
 ]
