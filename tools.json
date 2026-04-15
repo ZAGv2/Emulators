@@ -34598,5 +34598,15 @@
     "url": "https://github.com/vercel-labs/wterm",
     "cover": "https://avatars.githubusercontent.com/u/108547162?v=4",
     "description": "A terminal emulator for the web"
+  },
+  {
+    "name": "Android_HCE_Beginner_App",
+    "slug": "android-hce-beginner-app",
+    "creator": "AndroidCrypto",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/AndroidCrypto/Android_HCE_Beginner_App",
+    "cover": "https://avatars.githubusercontent.com/u/102218597?v=4",
+    "description": "The app includes a Host-Based Card Emulated (HCE) NFC tag and the associated NFC reader. You learn how to setup your own HCE application and how you can communicate with the HCE tag. A tutorial is available on medium.com for more informations."
   }
 ]
