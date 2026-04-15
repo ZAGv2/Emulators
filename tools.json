@@ -34608,5 +34608,15 @@
     "url": "https://github.com/AndroidCrypto/Android_HCE_Beginner_App",
     "cover": "https://avatars.githubusercontent.com/u/102218597?v=4",
     "description": "The app includes a Host-Based Card Emulated (HCE) NFC tag and the associated NFC reader. You learn how to setup your own HCE application and how you can communicate with the HCE tag. A tutorial is available on medium.com for more informations."
+  },
+  {
+    "name": "mandarine-neo",
+    "slug": "mandarine-neo",
+    "creator": "ptyfyre",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ptyfyre/mandarine-neo",
+    "cover": "https://avatars.githubusercontent.com/u/254117058?v=4",
+    "description": "A Citra fork with new features and hacks which are experimental and may not be present in Azahar. Continuation of Mandarine 3DS emulator."
   }
 ]
