@@ -34588,5 +34588,15 @@
     "url": "https://github.com/nowledge-co/con",
     "cover": "https://avatars.githubusercontent.com/u/210230799?v=4",
     "description": "The Native Terminal Emulator with a builtin AI Harness"
+  },
+  {
+    "name": "wterm",
+    "slug": "wterm",
+    "creator": "vercel-labs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vercel-labs/wterm",
+    "cover": "https://avatars.githubusercontent.com/u/108547162?v=4",
+    "description": "A terminal emulator for the web"
   }
 ]
