@@ -34628,5 +34628,15 @@
     "url": "https://github.com/HuangLab-SYSU/block-emulator-x",
     "cover": "https://avatars.githubusercontent.com/u/133204349?v=4",
     "description": "Make blockchain experiments easy."
+  },
+  {
+    "name": "fakecloud",
+    "slug": "fakecloud",
+    "creator": "faiscadev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/faiscadev/fakecloud",
+    "cover": "https://avatars.githubusercontent.com/u/252636303?v=4",
+    "description": "Local AWS cloud emulator. Free forever."
   }
 ]
