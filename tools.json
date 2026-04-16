@@ -34638,5 +34638,15 @@
     "url": "https://github.com/faiscadev/fakecloud",
     "cover": "https://avatars.githubusercontent.com/u/252636303?v=4",
     "description": "Local AWS cloud emulator. Free forever."
+  },
+  {
+    "name": "Lossless-Scaling-Smoother-Gaming",
+    "slug": "lossless-scaling-smoother-gaming",
+    "creator": "BootRiotControl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BootRiotControl/Lossless-Scaling-Smoother-Gaming",
+    "cover": "https://avatars.githubusercontent.com/u/113141436?v=4",
+    "description": "Lossless Scaling is a powerful Windows tool for perfect upscaling and frame generation. Enjoy crisp integer scaling, AI-powered LSFG that can double or triple your FPS, and support for all major graphics APIs. Ideal for retro games, emulators, and modern titles. Get sharper visuals and smoother gameplay on any monitor."
   }
 ]
