@@ -34648,5 +34648,15 @@
     "url": "https://github.com/BootRiotControl/Lossless-Scaling-Smoother-Gaming",
     "cover": "https://avatars.githubusercontent.com/u/113141436?v=4",
     "description": "Lossless Scaling is a powerful Windows tool for perfect upscaling and frame generation. Enjoy crisp integer scaling, AI-powered LSFG that can double or triple your FPS, and support for all major graphics APIs. Ideal for retro games, emulators, and modern titles. Get sharper visuals and smoother gameplay on any monitor."
+  },
+  {
+    "name": "Boxer-Plus",
+    "slug": "boxer-plus",
+    "creator": "Solid7s",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Solid7s/Boxer-Plus",
+    "cover": "https://avatars.githubusercontent.com/u/268748528?v=4",
+    "description": "Enhanced Boxer App - DOS/Win3.x Game Emulator for Mac OS - Built on top of work done by Alinebee and MaddTheSane"
   }
 ]
