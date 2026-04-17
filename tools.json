@@ -34668,5 +34668,15 @@
     "url": "https://github.com/drhelius/Gearcoleco",
     "cover": "https://avatars.githubusercontent.com/u/863613?v=4",
     "description": "ColecoVision emulator and debugger for macOS, Windows, Linux, BSD and RetroArch."
+  },
+  {
+    "name": "Flanterm",
+    "slug": "flanterm",
+    "creator": "Mintsuki",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Mintsuki/Flanterm",
+    "cover": "https://avatars.githubusercontent.com/u/36459316?v=4",
+    "description": "Fast and reasonably complete (framebuffer) terminal emulator."
   }
 ]
