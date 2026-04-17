@@ -34658,5 +34658,15 @@
     "url": "https://github.com/Solid7s/Boxer-Plus",
     "cover": "https://avatars.githubusercontent.com/u/268748528?v=4",
     "description": "Enhanced Boxer App - DOS/Win3.x Game Emulator for Mac OS - Built on top of work done by Alinebee and MaddTheSane"
+  },
+  {
+    "name": "Gearcoleco",
+    "slug": "gearcoleco",
+    "creator": "drhelius",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drhelius/Gearcoleco",
+    "cover": "https://avatars.githubusercontent.com/u/863613?v=4",
+    "description": "ColecoVision emulator and debugger for macOS, Windows, Linux, BSD and RetroArch."
   }
 ]
