@@ -34698,5 +34698,15 @@
     "url": "https://github.com/SethPyle376/hiraeth",
     "cover": "https://avatars.githubusercontent.com/u/28579270?v=4",
     "description": "Local AWS emulator focused on fast integration testing, with SQS support, SQLite-backed state, and a debug-friendly web UI."
+  },
+  {
+    "name": "TT-PCSX2-Patch",
+    "slug": "tt-pcsx2-patch",
+    "creator": "Silentwarior112",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Silentwarior112/TT-PCSX2-Patch",
+    "cover": "https://avatars.githubusercontent.com/u/131560105?v=4",
+    "description": "Patches for Tourist Trophy (PS2) that fixes playability issues on the PCSX2 emulator."
   }
 ]
