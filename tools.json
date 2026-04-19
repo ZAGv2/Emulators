@@ -34718,5 +34718,15 @@
     "url": "https://github.com/SimonKagstrom/frodo",
     "cover": "https://avatars.githubusercontent.com/u/373351?v=4",
     "description": "Frodo C64 emulator ported to J2ME devices (using Cibyl)"
+  },
+  {
+    "name": "Dolphin-Android-Settings.ini",
+    "slug": "dolphin-android-settings-ini",
+    "creator": "KABL00MUK",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/KABL00MUK/Dolphin-Android-Settings.ini",
+    "cover": "https://avatars.githubusercontent.com/u/277368312?v=4",
+    "description": "A repository for different Dolphin Emulator Settings"
   }
 ]
