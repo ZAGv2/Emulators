@@ -34728,5 +34728,15 @@
     "url": "https://github.com/KABL00MUK/Dolphin-Android-Settings.ini",
     "cover": "https://avatars.githubusercontent.com/u/277368312?v=4",
     "description": "A repository for different Dolphin Emulator Settings"
+  },
+  {
+    "name": "Cxbx-Reloaded-legacy",
+    "slug": "cxbx-reloaded-legacy",
+    "creator": "Cxbx-Reloaded",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded-legacy",
+    "cover": "https://avatars.githubusercontent.com/u/24608560?v=4",
+    "description": "Xbox (Original) Emulator"
   }
 ]
