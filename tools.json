@@ -34708,5 +34708,15 @@
     "url": "https://github.com/Silentwarior112/TT-PCSX2-Patch",
     "cover": "https://avatars.githubusercontent.com/u/131560105?v=4",
     "description": "Patches for Tourist Trophy (PS2) that fixes playability issues on the PCSX2 emulator."
+  },
+  {
+    "name": "frodo",
+    "slug": "frodo",
+    "creator": "SimonKagstrom",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SimonKagstrom/frodo",
+    "cover": "https://avatars.githubusercontent.com/u/373351?v=4",
+    "description": "Frodo C64 emulator ported to J2ME devices (using Cibyl)"
   }
 ]
