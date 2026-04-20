@@ -34738,5 +34738,15 @@
     "url": "https://github.com/Cxbx-Reloaded/Cxbx-Reloaded-legacy",
     "cover": "https://avatars.githubusercontent.com/u/24608560?v=4",
     "description": "Xbox (Original) Emulator"
+  },
+  {
+    "name": "model3emu-code-sinden",
+    "slug": "model3emu-code-sinden",
+    "creator": "DirtBagXon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DirtBagXon/model3emu-code-sinden",
+    "cover": "https://avatars.githubusercontent.com/u/28685555?v=4",
+    "description": "A fork of model3emu with Sinden and 2 player gun support in Linux/MacOS"
   }
 ]
