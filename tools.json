@@ -34748,5 +34748,25 @@
     "url": "https://github.com/DirtBagXon/model3emu-code-sinden",
     "cover": "https://avatars.githubusercontent.com/u/28685555?v=4",
     "description": "A fork of model3emu with Sinden and 2 player gun support in Linux/MacOS"
+  },
+  {
+    "name": "con-terminal",
+    "slug": "con-terminal",
+    "creator": "nowledge-co",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nowledge-co/con-terminal",
+    "cover": "https://avatars.githubusercontent.com/u/210230799?v=4",
+    "description": "The Native Terminal Emulator with a builtin AI Harness"
+  },
+  {
+    "name": "ESP32-BLE5-NSController-Emulator",
+    "slug": "esp32-ble5-nscontroller-emulator",
+    "creator": "zhantss",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zhantss/ESP32-BLE5-NSController-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/3309818?v=4",
+    "description": "..."
   }
 ]
