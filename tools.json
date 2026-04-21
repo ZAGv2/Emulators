@@ -34788,5 +34788,15 @@
     "url": "https://github.com/asterisk-labs/beta-earth",
     "cover": "https://avatars.githubusercontent.com/u/181729991?v=4",
     "description": "Emulator of AlphaEarth"
+  },
+  {
+    "name": "Switch-Emulator-Ultrawide-FPS-Mods",
+    "slug": "switch-emulator-ultrawide-fps-mods",
+    "creator": "Fl4sh9174",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods",
+    "cover": "https://avatars.githubusercontent.com/u/153722828?v=4",
+    "description": "..."
   }
 ]
