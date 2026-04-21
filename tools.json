@@ -34768,5 +34768,25 @@
     "url": "https://github.com/zhantss/ESP32-BLE5-NSController-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/3309818?v=4",
     "description": "..."
+  },
+  {
+    "name": "android-lineage-emulator",
+    "slug": "android-lineage-emulator",
+    "creator": "SamuraiArtem",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/SamuraiArtem/android-lineage-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/132178327?v=4",
+    "description": "LineageOS emulator for Linux and Windows with GSI support"
+  },
+  {
+    "name": "beta-earth",
+    "slug": "beta-earth",
+    "creator": "asterisk-labs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/asterisk-labs/beta-earth",
+    "cover": "https://avatars.githubusercontent.com/u/181729991?v=4",
+    "description": "Emulator of AlphaEarth"
   }
 ]
