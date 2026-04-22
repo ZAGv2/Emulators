@@ -34828,5 +34828,25 @@
     "url": "https://github.com/momenbasel/ConsoleMini",
     "cover": "https://avatars.githubusercontent.com/u/8724766?v=4",
     "description": "Turn a Mac mini into a living-room retro/PS console - beautiful big-picture launcher (Electron + React)"
+  },
+  {
+    "name": "distrobox-gaming",
+    "slug": "distrobox-gaming",
+    "creator": "akitaonrails",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/akitaonrails/distrobox-gaming",
+    "cover": "https://avatars.githubusercontent.com/u/2840?v=4",
+    "description": "Script to create a gaming focused Distrobox with all emulators pre-configured"
+  },
+  {
+    "name": "ChromaBoy",
+    "slug": "chromaboy",
+    "creator": "Wynx-1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Wynx-1/ChromaBoy",
+    "cover": "https://avatars.githubusercontent.com/u/246902075?v=4",
+    "description": "A Game Boy and Game Boy Color emulator written in C++ with SDL2 and Dear ImGui."
   }
 ]
