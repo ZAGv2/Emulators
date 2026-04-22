@@ -34798,5 +34798,25 @@
     "url": "https://github.com/Fl4sh9174/Switch-Emulator-Ultrawide-FPS-Mods",
     "cover": "https://avatars.githubusercontent.com/u/153722828?v=4",
     "description": "..."
+  },
+  {
+    "name": "Lossless-Scaling-3.2.2-Desktop",
+    "slug": "lossless-scaling-3-2-2-desktop",
+    "creator": "Olivier1K",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Olivier1K/Lossless-Scaling-3.2.2-Desktop",
+    "cover": "https://avatars.githubusercontent.com/u/38142238?v=4",
+    "description": "Download Lossless Scaling is a powerful Windows tool for perfect upscaling and frame generation. Enjoy crisp integer scaling, AI-powered LSFG that can double or triple your FPS, and support for all major graphics APIs. Ideal for retro games, emulators, and modern titles. "
+  },
+  {
+    "name": "Freegosy",
+    "slug": "freegosy",
+    "creator": "abduznik",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/abduznik/Freegosy",
+    "cover": "https://avatars.githubusercontent.com/u/85239936?v=4",
+    "description": "A cross-platform Flutter app for browsing RomM libraries, downloading games, and launching emulators with automatic save synchronization."
   }
 ]
