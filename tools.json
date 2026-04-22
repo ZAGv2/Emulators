@@ -34848,5 +34848,15 @@
     "url": "https://github.com/Wynx-1/ChromaBoy",
     "cover": "https://avatars.githubusercontent.com/u/246902075?v=4",
     "description": "A Game Boy and Game Boy Color emulator written in C++ with SDL2 and Dear ImGui."
+  },
+  {
+    "name": "DroidXploit",
+    "slug": "droidxploit",
+    "creator": "gourav001-s",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gourav001-s/DroidXploit",
+    "cover": "https://avatars.githubusercontent.com/u/192239495?v=4",
+    "description": "DroidXploit – An all-in-one Android security assessment framework for rooted emulators, providing a modular CLI for enumeration, runtime analysis, and exploitation research."
   }
 ]
