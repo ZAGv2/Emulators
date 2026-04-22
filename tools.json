@@ -34818,5 +34818,15 @@
     "url": "https://github.com/abduznik/Freegosy",
     "cover": "https://avatars.githubusercontent.com/u/85239936?v=4",
     "description": "A cross-platform Flutter app for browsing RomM libraries, downloading games, and launching emulators with automatic save synchronization."
+  },
+  {
+    "name": "ConsoleMini",
+    "slug": "consolemini",
+    "creator": "momenbasel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/momenbasel/ConsoleMini",
+    "cover": "https://avatars.githubusercontent.com/u/8724766?v=4",
+    "description": "Turn a Mac mini into a living-room retro/PS console - beautiful big-picture launcher (Electron + React)"
   }
 ]
