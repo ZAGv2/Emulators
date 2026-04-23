@@ -34858,5 +34858,15 @@
     "url": "https://github.com/gourav001-s/DroidXploit",
     "cover": "https://avatars.githubusercontent.com/u/192239495?v=4",
     "description": "DroidXploit – An all-in-one Android security assessment framework for rooted emulators, providing a modular CLI for enumeration, runtime analysis, and exploitation research."
+  },
+  {
+    "name": "flow-cli",
+    "slug": "flow-cli",
+    "creator": "onflow",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/onflow/flow-cli",
+    "cover": "https://avatars.githubusercontent.com/u/62387156?v=4",
+    "description": "Flow CLI. Deploy contracts, run transactions, manage accounts, and run a local Flow emulator. The primary tool for building on Flow"
   }
 ]
