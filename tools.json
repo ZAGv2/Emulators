@@ -34868,5 +34868,15 @@
     "url": "https://github.com/onflow/flow-cli",
     "cover": "https://avatars.githubusercontent.com/u/62387156?v=4",
     "description": "Flow CLI. Deploy contracts, run transactions, manage accounts, and run a local Flow emulator. The primary tool for building on Flow"
+  },
+  {
+    "name": "Lossless-Scaling-Upscale-FPS-Games",
+    "slug": "lossless-scaling-upscale-fps-games",
+    "creator": "Ch-Abdou",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ch-Abdou/Lossless-Scaling-Upscale-FPS-Games",
+    "cover": "https://avatars.githubusercontent.com/u/192788924?v=4",
+    "description": "Lossless Scaling is a powerful Windows tool for lossless upscaling and AI frame generation.  with LSFG, enjoy crisp integer scaling, and improve image quality in any game or app. Perfect for retro games, emulators, and modern titles on 1440p, 4K, and ultrawide monitors."
   }
 ]
