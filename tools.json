@@ -34878,5 +34878,15 @@
     "url": "https://github.com/Ch-Abdou/Lossless-Scaling-Upscale-FPS-Games",
     "cover": "https://avatars.githubusercontent.com/u/192788924?v=4",
     "description": "Lossless Scaling is a powerful Windows tool for lossless upscaling and AI frame generation.  with LSFG, enjoy crisp integer scaling, and improve image quality in any game or app. Perfect for retro games, emulators, and modern titles on 1440p, 4K, and ultrawide monitors."
+  },
+  {
+    "name": "StepFC",
+    "slug": "stepfc",
+    "creator": "dustpg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dustpg/StepFC",
+    "cover": "https://avatars.githubusercontent.com/u/6801311?v=4",
+    "description": "Make FC(NES) Emulator Step-by-Step 一步一步模拟红白机"
   }
 ]
