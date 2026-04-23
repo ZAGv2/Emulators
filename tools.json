@@ -34898,5 +34898,15 @@
     "url": "https://github.com/ooovenenoso/Dall-E-3-Discord-Bot",
     "cover": "https://avatars.githubusercontent.com/u/120500656?v=4",
     "description": "Discord Bot for AI-Powered Art Creation, emulating Midjourney's capabilities with OpenAI's DALL·E API, enabling user-driven, text-to-image generation."
+  },
+  {
+    "name": "guac",
+    "slug": "guac",
+    "creator": "aabalke",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aabalke/guac",
+    "cover": "https://avatars.githubusercontent.com/u/22086435?v=4",
+    "description": "NDS, GBA, GBC, DMG Emulator written in golang"
   }
 ]
