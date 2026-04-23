@@ -34888,5 +34888,15 @@
     "url": "https://github.com/dustpg/StepFC",
     "cover": "https://avatars.githubusercontent.com/u/6801311?v=4",
     "description": "Make FC(NES) Emulator Step-by-Step 一步一步模拟红白机"
+  },
+  {
+    "name": "Dall-E-3-Discord-Bot",
+    "slug": "dall-e-3-discord-bot",
+    "creator": "ooovenenoso",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ooovenenoso/Dall-E-3-Discord-Bot",
+    "cover": "https://avatars.githubusercontent.com/u/120500656?v=4",
+    "description": "Discord Bot for AI-Powered Art Creation, emulating Midjourney's capabilities with OpenAI's DALL·E API, enabling user-driven, text-to-image generation."
   }
 ]
