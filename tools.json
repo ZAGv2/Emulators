@@ -34918,5 +34918,15 @@
     "url": "https://github.com/likeablob/cydintosh",
     "cover": "https://avatars.githubusercontent.com/u/46628917?v=4",
     "description": "Cydintosh: Little 68k Brother is watching your Smart Home 👀"
+  },
+  {
+    "name": "ratty",
+    "slug": "ratty",
+    "creator": "orhun",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/orhun/ratty",
+    "cover": "https://avatars.githubusercontent.com/u/24392180?v=4",
+    "description": "A next-gen terminal emulator for all the terminal rats 🐁🐁🐁"
   }
 ]
