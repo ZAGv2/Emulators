@@ -34908,5 +34908,15 @@
     "url": "https://github.com/aabalke/guac",
     "cover": "https://avatars.githubusercontent.com/u/22086435?v=4",
     "description": "NDS, GBA, GBC, DMG Emulator written in golang"
+  },
+  {
+    "name": "cydintosh",
+    "slug": "cydintosh",
+    "creator": "likeablob",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/likeablob/cydintosh",
+    "cover": "https://avatars.githubusercontent.com/u/46628917?v=4",
+    "description": "Cydintosh: Little 68k Brother is watching your Smart Home 👀"
   }
 ]
