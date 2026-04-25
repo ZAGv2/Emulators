@@ -34938,5 +34938,15 @@
     "url": "https://github.com/janhas1993/Tomodachi-Share-Discover-and-share-Mii",
     "cover": "https://avatars.githubusercontent.com/u/100170423?v=4",
     "description": "Tomodachi Life 2026 Save Data Sync Mii Creator Switch Emulator Performance Mii QR Codes Vulkan Support High FPS Social Simulator PC Mii Rendering Save Editor Profile Management Virtual Life Resource Data Preservation Metadata Tool 2026 Desktop Utility"
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "ignition-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ignition-emu/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/272125108?v=4",
+    "description": "Ignition fork of Dolphin emulator: adds PINE IPC server"
   }
 ]
