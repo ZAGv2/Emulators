@@ -34948,5 +34948,15 @@
     "url": "https://github.com/ignition-emu/dolphin",
     "cover": "https://avatars.githubusercontent.com/u/272125108?v=4",
     "description": "Ignition fork of Dolphin emulator: adds PINE IPC server"
+  },
+  {
+    "name": "pcsx2-texture-randomizer",
+    "slug": "pcsx2-texture-randomizer",
+    "creator": "real-xp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/real-xp/pcsx2-texture-randomizer",
+    "cover": "https://avatars.githubusercontent.com/u/59993949?v=4",
+    "description": "A silly program that randomizes all textures in a game in an emulator where texture replacement is possible."
   }
 ]
