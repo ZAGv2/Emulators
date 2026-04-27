@@ -34958,5 +34958,15 @@
     "url": "https://github.com/real-xp/pcsx2-texture-randomizer",
     "cover": "https://avatars.githubusercontent.com/u/59993949?v=4",
     "description": "A silly program that randomizes all textures in a game in an emulator where texture replacement is possible."
+  },
+  {
+    "name": "gse_fork",
+    "slug": "gse-fork",
+    "creator": "alex47exe",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alex47exe/gse_fork",
+    "cover": "https://avatars.githubusercontent.com/u/17827464?v=4",
+    "description": "Improved fork of https://github.com/Detanup01/gbe_fork for Goldberg Steam Emulator, originally developed by Mr_Goldberg - https://gitlab.com/Mr_Goldberg/goldberg_emulator"
   }
 ]
