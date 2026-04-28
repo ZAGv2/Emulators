@@ -34978,5 +34978,15 @@
     "url": "https://github.com/AussieCosmic/Pokemon-Champions-ON-PC",
     "cover": "https://avatars.githubusercontent.com/u/70511045?v=4",
     "description": "Pokémon Champions PC Download Mega Evolution Legends Z-A Indianapolis Regionals 2026 Pokémon Champions Regulation M-A Victory Points VP Training Guide Mega Meganium Mega Feraligatr Nintendo Switch 2 Emulator PC Pokémon HOME Sync 2026 VGC Battle Simulator Download Pokémon Champions Free Starter Pack Bundle Battle Pass Season 1 Rewards Pokémon 2026"
+  },
+  {
+    "name": "bigquery-emulator",
+    "slug": "bigquery-emulator",
+    "creator": "Recidiviz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Recidiviz/bigquery-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/35868122?v=4",
+    "description": "BigQuery emulator server implemented in Go"
   }
 ]
