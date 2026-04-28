@@ -34988,5 +34988,15 @@
     "url": "https://github.com/Recidiviz/bigquery-emulator",
     "cover": "https://avatars.githubusercontent.com/u/35868122?v=4",
     "description": "BigQuery emulator server implemented in Go"
+  },
+  {
+    "name": "revanced-apks",
+    "slug": "revanced-apks",
+    "creator": "sharath-r7q4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sharath-r7q4/revanced-apks",
+    "cover": "https://avatars.githubusercontent.com/u/56215847?v=4",
+    "description": "An APK/Module  builder for RVX/Morphe/Piko apps. Updated hourly. Upstream source: https://github.com/j-hc/revanced-magisk-module . Also an apk source for dolphin emulator patched at SDK 29 and spoofing Eden Emulator and Fold Craft Launcher to Other games causing a vibe coded script. "
   }
 ]
