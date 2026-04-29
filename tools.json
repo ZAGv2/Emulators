@@ -35018,5 +35018,15 @@
     "url": "https://github.com/nickkossolapov/fame-boy",
     "cover": "https://avatars.githubusercontent.com/u/1094516?v=4",
     "description": "Game Boy emulator written in F#"
+  },
+  {
+    "name": "Yuzu-Emulator-Nintendo-Switch",
+    "slug": "yuzu-emulator-nintendo-switch",
+    "creator": "Reyhankunlah",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+    "cover": "https://avatars.githubusercontent.com/u/195259087?v=4",
+    "description": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
   }
 ]
