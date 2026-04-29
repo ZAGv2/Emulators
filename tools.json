@@ -34998,5 +34998,25 @@
     "url": "https://github.com/sharath-r7q4/revanced-apks",
     "cover": "https://avatars.githubusercontent.com/u/56215847?v=4",
     "description": "An APK/Module  builder for RVX/Morphe/Piko apps. Updated hourly. Upstream source: https://github.com/j-hc/revanced-magisk-module . Also an apk source for dolphin emulator patched at SDK 29 and spoofing Eden Emulator and Fold Craft Launcher to Other games causing a vibe coded script. "
+  },
+  {
+    "name": "EmuCoreV",
+    "slug": "emucorev",
+    "creator": "sashkinbro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sashkinbro/EmuCoreV",
+    "cover": "https://avatars.githubusercontent.com/u/95984785?v=4",
+    "description": "PlayStation Vita emulator for Android with a custom UI, game library, catalog, and Vita3K-based core."
+  },
+  {
+    "name": "fame-boy",
+    "slug": "fame-boy",
+    "creator": "nickkossolapov",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nickkossolapov/fame-boy",
+    "cover": "https://avatars.githubusercontent.com/u/1094516?v=4",
+    "description": "Game Boy emulator written in F#"
   }
 ]
