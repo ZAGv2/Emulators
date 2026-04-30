@@ -35028,5 +35028,15 @@
     "url": "https://github.com/Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
     "cover": "https://avatars.githubusercontent.com/u/195259087?v=4",
     "description": "Yuzu Emulator Download April 2026 Eden Citron Switch Performance Fix Sudachi Update Suyu Legacy Archive Ryujinx vs Nuzu Best Android Emulator Snapdragon Mali GPU Game Preservation Tutorial High FPS Low Latency Shader Cache Firmware Keys 18.0.0 Pro Controller Support Steam Deck Optimization Free Full Version Latest Build"
+  },
+  {
+    "name": "emulator",
+    "slug": "emulator",
+    "creator": "citron-neo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/citron-neo/emulator",
+    "cover": "https://avatars.githubusercontent.com/u/268086996?v=4",
+    "description": "The switch fell off https://citron-neo.org/"
   }
 ]
