@@ -35038,5 +35038,35 @@
     "url": "https://github.com/citron-neo/emulator",
     "cover": "https://avatars.githubusercontent.com/u/268086996?v=4",
     "description": "The switch fell off https://citron-neo.org/"
+  },
+  {
+    "name": "mobilewright",
+    "slug": "mobilewright",
+    "creator": "mobile-next",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mobile-next/mobilewright",
+    "cover": "https://avatars.githubusercontent.com/u/205340688?v=4",
+    "description": "Mobilewright is a dev framework for Mobile App Testing and Automation. It allows testing iOS/Android app on real devices, emulators and simulators with a single API. "
+  },
+  {
+    "name": "Open-Source-RaceBox-mini-Emulator",
+    "slug": "open-source-racebox-mini-emulator",
+    "creator": "anchit92",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/anchit92/Open-Source-RaceBox-mini-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/41759144?v=4",
+    "description": "Open Source RaceBox mini emulator"
+  },
+  {
+    "name": "BSFv67",
+    "slug": "bsfv67",
+    "creator": "FMZNkdv",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/FMZNkdv/BSFv67",
+    "cover": "https://avatars.githubusercontent.com/u/175734193?v=4",
+    "description": "Core for emulating the Brawl Stars server on version 67"
   }
 ]
