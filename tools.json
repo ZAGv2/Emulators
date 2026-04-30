@@ -35068,5 +35068,25 @@
     "url": "https://github.com/FMZNkdv/BSFv67",
     "cover": "https://avatars.githubusercontent.com/u/175734193?v=4",
     "description": "Core for emulating the Brawl Stars server on version 67"
+  },
+  {
+    "name": "Animal-Crossing-New-Horizons-PC",
+    "slug": "animal-crossing-new-horizons-pc",
+    "creator": "hamzerbug-wq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+    "cover": "https://avatars.githubusercontent.com/u/254251538?v=4",
+    "description": "Animal Crossing New Horizons PC Download April 2026 Version 3.0.2 Patch Notes Switch 2 Edition Resort Hotel Bulk Crafting Update Free High Performance 4K 60FPS Shader Fix Horizon Zero Texture Pack Mii Maker 25th Anniversary Event Guide NookLink Bridge Tutorial Stable Build Latest Emulator Eden Ryujinx"
+  },
+  {
+    "name": "BetterKega",
+    "slug": "betterkega",
+    "creator": "lucmsilva651",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lucmsilva651/BetterKega",
+    "cover": "https://avatars.githubusercontent.com/u/90426410?v=4",
+    "description": "A patch for the Kega Fusion emulator"
   }
 ]
