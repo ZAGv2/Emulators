@@ -35098,5 +35098,15 @@
     "url": "https://github.com/Edosaqw/Tomodachi-Life-Living-The-Dream-PC",
     "cover": "https://avatars.githubusercontent.com/u/186414619?v=4",
     "description": "Tomodachi Life Living The Dream PC Download April 2026 Sequel Release Switch Emulator Eden Ryujinx Performance Fix Mii Maker HD Same Sex Marriage Guide Shop Lock Solution Time Travel Bypass 4K Textures Free Full Version Save Transfer Tutorial Latest Build Gaming Utility"
+  },
+  {
+    "name": "OpenEmu-Silicon",
+    "slug": "openemu-silicon",
+    "creator": "nickybmon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nickybmon/OpenEmu-Silicon",
+    "cover": "https://avatars.githubusercontent.com/u/227703028?v=4",
+    "description": "Native ARM64/Apple Silicon port of OpenEmu for M Series MacBooks"
   }
 ]
