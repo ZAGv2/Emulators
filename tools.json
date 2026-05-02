@@ -35108,5 +35108,15 @@
     "url": "https://github.com/nickybmon/OpenEmu-Silicon",
     "cover": "https://avatars.githubusercontent.com/u/227703028?v=4",
     "description": "Native ARM64/Apple Silicon port of OpenEmu for M Series MacBooks"
+  },
+  {
+    "name": "Super-Smash-Bros-PC",
+    "slug": "super-smash-bros-pc",
+    "creator": "ryrylliee",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ryrylliee/Super-Smash-Bros-PC",
+    "cover": "https://avatars.githubusercontent.com/u/225806958?v=4",
+    "description": "Super Smash Bros PC Download May 2026 Ultimate Performance Fix Eden Citron Emulator Smash Remix v2.0.1 Update Tug of War Mode Rollback Netplay Guide 4K Texture Pack High FPS Low Latency GameCube Adapter Setup Project Plus Slippi Melee Online Tutorial Free Full Version Latest Build"
   }
 ]
