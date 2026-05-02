@@ -35128,5 +35128,45 @@
     "url": "https://github.com/flaptos/Dolphin-AntiDetect",
     "cover": "https://avatars.githubusercontent.com/u/161287184?v=4",
     "description": "Basic AntiDetect browser for Dolphin emulator"
+  },
+  {
+    "name": "prosperity",
+    "slug": "prosperity",
+    "creator": "Force67",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Force67/prosperity",
+    "cover": "https://avatars.githubusercontent.com/u/17651856?v=4",
+    "description": "Experimental Emulator"
+  },
+  {
+    "name": "Yuzu-Switch-Studio",
+    "slug": "yuzu-switch-studio",
+    "creator": "eithanj952-jpg",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/eithanj952-jpg/Yuzu-Switch-Studio",
+    "cover": "https://avatars.githubusercontent.com/u/226779330?v=4",
+    "description": "🚀 RetroSwitch Pro 2026 – Ultimate Multi-System Emulator Hub 🎮"
+  },
+  {
+    "name": "acnh-wii-u-heritage-collection",
+    "slug": "acnh-wii-u-heritage-collection",
+    "creator": "Ahmadhalabia",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ahmadhalabia/acnh-wii-u-heritage-collection",
+    "cover": "https://avatars.githubusercontent.com/u/169250836?v=4",
+    "description": "🎮 Animal Crossing New Horizons PC Emulator 2026 - Best Free Nintendo Switch Port & Tracker 🏝️"
+  },
+  {
+    "name": "MiiHaven-Switch-Life-Sim",
+    "slug": "miihaven-switch-life-sim",
+    "creator": "andresha006",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/andresha006/MiiHaven-Switch-Life-Sim",
+    "cover": "https://avatars.githubusercontent.com/u/163346751?v=4",
+    "description": "🏆 Tomodachi Life 2026: Ultimate Mii Sharing & Life Sim Emulator 🔥 Best Free Homebrew Hacks & Downloads"
   }
 ]
