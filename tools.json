@@ -35168,5 +35168,15 @@
     "url": "https://github.com/andresha006/MiiHaven-Switch-Life-Sim",
     "cover": "https://avatars.githubusercontent.com/u/163346751?v=4",
     "description": "🏆 Tomodachi Life 2026: Ultimate Mii Sharing & Life Sim Emulator 🔥 Best Free Homebrew Hacks & Downloads"
+  },
+  {
+    "name": "VIIPER",
+    "slug": "viiper",
+    "creator": "Alia5",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Alia5/VIIPER",
+    "cover": "https://avatars.githubusercontent.com/u/3527662?v=4",
+    "description": "Virtual Input over IP Emulator - VIIPER is a tool to create virtual input devices using USBIP. (Linux/Windows)"
   }
 ]
