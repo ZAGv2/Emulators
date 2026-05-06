@@ -35178,5 +35178,15 @@
     "url": "https://github.com/Alia5/VIIPER",
     "cover": "https://avatars.githubusercontent.com/u/3527662?v=4",
     "description": "Virtual Input over IP Emulator - VIIPER is a tool to create virtual input devices using USBIP. (Linux/Windows)"
+  },
+  {
+    "name": "TheSamBoy",
+    "slug": "thesamboy",
+    "creator": "Sam-Belliveau",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Sam-Belliveau/TheSamBoy",
+    "cover": "https://avatars.githubusercontent.com/u/28713194?v=4",
+    "description": "An educational Gameboy emulator written in rust with the intention of making the implementation of OP codes and other systems as clear as possible."
   }
 ]
