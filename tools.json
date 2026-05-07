@@ -35208,5 +35208,15 @@
     "url": "https://github.com/Jellyfin-PG/JellyEmu",
     "cover": "https://avatars.githubusercontent.com/u/269343959?v=4",
     "description": "Adds support for rom library with emulator js to jellyfin."
+  },
+  {
+    "name": "godhand-trainer",
+    "slug": "godhand-trainer",
+    "creator": "AFreoN",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AFreoN/godhand-trainer",
+    "cover": "https://avatars.githubusercontent.com/u/53344011?v=4",
+    "description": "A Windows Forms application built in C# that connects to the PCSX2 emulator to provide cheat functionality for the game God Hand. This trainer allows players to modify in-game values and enhance gameplay experience through a simple, user-friendly interface."
   }
 ]
