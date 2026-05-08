@@ -35218,5 +35218,15 @@
     "url": "https://github.com/AFreoN/godhand-trainer",
     "cover": "https://avatars.githubusercontent.com/u/53344011?v=4",
     "description": "A Windows Forms application built in C# that connects to the PCSX2 emulator to provide cheat functionality for the game God Hand. This trainer allows players to modify in-game values and enhance gameplay experience through a simple, user-friendly interface."
+  },
+  {
+    "name": "RaspiCore_Deck",
+    "slug": "raspicore-deck",
+    "creator": "SuperGumka",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SuperGumka/RaspiCore_Deck",
+    "cover": "https://avatars.githubusercontent.com/u/234283482?v=4",
+    "description": "RaspiCore™ Deck is a Raspberry Pi 5 4gb based handheld console that suports popular emulators like Dolphin, AetherSX2."
   }
 ]
