@@ -35228,5 +35228,15 @@
     "url": "https://github.com/SuperGumka/RaspiCore_Deck",
     "cover": "https://avatars.githubusercontent.com/u/234283482?v=4",
     "description": "RaspiCore™ Deck is a Raspberry Pi 5 4gb based handheld console that suports popular emulators like Dolphin, AetherSX2."
+  },
+  {
+    "name": "terax-ai",
+    "slug": "terax-ai",
+    "creator": "crynta",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/crynta/terax-ai",
+    "cover": "https://avatars.githubusercontent.com/u/135257643?v=4",
+    "description": "Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React"
   }
 ]
