@@ -35238,5 +35238,15 @@
     "url": "https://github.com/crynta/terax-ai",
     "cover": "https://avatars.githubusercontent.com/u/135257643?v=4",
     "description": "Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React"
+  },
+  {
+    "name": "Tomodachi-Share-Discover-Share-Mii",
+    "slug": "tomodachi-share-discover-share-mii",
+    "creator": "CristianRO2003",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
+    "cover": "https://avatars.githubusercontent.com/u/30562005?v=4",
+    "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import "
   }
 ]
