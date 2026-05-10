@@ -35248,5 +35248,15 @@
     "url": "https://github.com/CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
     "cover": "https://avatars.githubusercontent.com/u/30562005?v=4",
     "description": "Tomodachi Share Discover share Mii download Tomodachi Life PC Mii QR codes sharing platform discovery tool characters island outfits interiors 3DS emulator Citra save editor custom Miis community hub fan port native port desktop version modding tools assets resources apartment management food items collection database storage export import "
+  },
+  {
+    "name": "ecoflow-wave2-bms-emulator",
+    "slug": "ecoflow-wave2-bms-emulator",
+    "creator": "drcross2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drcross2/ecoflow-wave2-bms-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/256608924?v=4",
+    "description": "EcoFlow Wave 2 — Third-Party Battery Integration Guide"
   }
 ]
