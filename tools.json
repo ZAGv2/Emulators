@@ -35278,5 +35278,15 @@
     "url": "https://github.com/online-9/HackShield-bypass",
     "cover": "https://avatars.githubusercontent.com/u/27728995?v=4",
     "description": "An emulator bypass for AhnLab's HackShield version 5.7.09.24."
+  },
+  {
+    "name": "dolphin-oracle",
+    "slug": "dolphin-oracle",
+    "creator": "chrisking1981",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/chrisking1981/dolphin-oracle",
+    "cover": "https://avatars.githubusercontent.com/u/48853558?v=4",
+    "description": "Dolphin emulator fork with TCP control protocol (SAVE/LOAD/READ/WRITE/SUBSCRIBE/SCREENSHOT) for automated GameCube/Wii test harnesses. Inspired by TwitchPlaysPokemon/dolphinWatch, rebased on modern Dolphin master."
   }
 ]
