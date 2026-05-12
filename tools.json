@@ -35308,5 +35308,25 @@
     "url": "https://github.com/dmang-dev/mcp-pine",
     "cover": "https://avatars.githubusercontent.com/u/282426319?v=4",
     "description": "MCP server for PINE-speaking emulators (PCSX2, RPCS3, etc.) — exposes memory r/w and savestate control"
+  },
+  {
+    "name": "KMSAutoTool",
+    "slug": "kmsautotool",
+    "creator": "ltyzen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ltyzen/KMSAutoTool",
+    "cover": "https://avatars.githubusercontent.com/u/103900554?v=4",
+    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool."
+  },
+  {
+    "name": "termy",
+    "slug": "termy",
+    "creator": "lassejlv",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lassejlv/termy",
+    "cover": "https://avatars.githubusercontent.com/u/77295879?v=4",
+    "description": "A lightweight, fast and gpu-rendered terminal emulator "
   }
 ]
