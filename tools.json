@@ -35288,5 +35288,15 @@
     "url": "https://github.com/chrisking1981/dolphin-oracle",
     "cover": "https://avatars.githubusercontent.com/u/48853558?v=4",
     "description": "Dolphin emulator fork with TCP control protocol (SAVE/LOAD/READ/WRITE/SUBSCRIBE/SCREENSHOT) for automated GameCube/Wii test harnesses. Inspired by TwitchPlaysPokemon/dolphinWatch, rebased on modern Dolphin master."
+  },
+  {
+    "name": "floci-az",
+    "slug": "floci-az",
+    "creator": "floci-io",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/floci-io/floci-az",
+    "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
+    "description": "Light, fluffy, and always free - Local Azure Emulator "
   }
 ]
