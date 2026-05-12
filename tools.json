@@ -35298,5 +35298,15 @@
     "url": "https://github.com/floci-io/floci-az",
     "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
     "description": "Light, fluffy, and always free - Local Azure Emulator "
+  },
+  {
+    "name": "mcp-pine",
+    "slug": "mcp-pine",
+    "creator": "dmang-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dmang-dev/mcp-pine",
+    "cover": "https://avatars.githubusercontent.com/u/282426319?v=4",
+    "description": "MCP server for PINE-speaking emulators (PCSX2, RPCS3, etc.) — exposes memory r/w and savestate control"
   }
 ]
