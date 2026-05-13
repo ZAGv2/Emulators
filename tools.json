@@ -35348,5 +35348,15 @@
     "url": "https://github.com/LittleCoaks/CGecko",
     "cover": "https://avatars.githubusercontent.com/u/73801742?v=4",
     "description": "An environment to help with writing gecko codes. Converts asm, c, and ini files into gecko codes. Automatically imports codes into Dolphin Emulator"
+  },
+  {
+    "name": "spectre",
+    "slug": "spectre",
+    "creator": "MaukWM",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MaukWM/spectre",
+    "cover": "https://avatars.githubusercontent.com/u/22435746?v=4",
+    "description": "Automatically find HUD disabling cheats in games emulated on dolphin"
   }
 ]
