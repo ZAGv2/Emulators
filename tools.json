@@ -35358,5 +35358,15 @@
     "url": "https://github.com/MaukWM/spectre",
     "cover": "https://avatars.githubusercontent.com/u/22435746?v=4",
     "description": "Automatically find HUD disabling cheats in games emulated on dolphin"
+  },
+  {
+    "name": "WATaBoy",
+    "slug": "wataboy",
+    "creator": "EnergeticBark",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EnergeticBark/WATaBoy",
+    "cover": "https://avatars.githubusercontent.com/u/33643461?v=4",
+    "description": "A Game Boy emulator with an SM83 to Wasm JIT compiler"
   }
 ]
