@@ -35388,5 +35388,25 @@
     "url": "https://github.com/libraries/gameboy",
     "cover": "https://avatars.githubusercontent.com/u/42462844?v=4",
     "description": "Full featured Cross-platform GameBoy emulator by Rust. Forever boys!."
+  },
+  {
+    "name": "Zelda-TP-Native-Port",
+    "slug": "zelda-tp-native-port",
+    "creator": "StrucksTech",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/StrucksTech/Zelda-TP-Native-Port",
+    "cover": "https://avatars.githubusercontent.com/u/57258123?v=4",
+    "description": "Zelda Twilight Princess PC: GameCube ROM download, Wii ISO, Wii U HD download. Dolphin emulator settings, Cemu setup guide, 60 FPS patch, 4K texture pack, widescreen hack. Heart pieces locations, Poe souls map, Golden bugs guide, Master Sword unlock, Snowpeak Ruins walkthrough, HD texture pack Henrico."
+  },
+  {
+    "name": "dolphin-re-mcp",
+    "slug": "dolphin-re-mcp",
+    "creator": "Matt-Wood-23",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Matt-Wood-23/dolphin-re-mcp",
+    "cover": "https://avatars.githubusercontent.com/u/70288536?v=4",
+    "description": "MCP server exposing Dolphin emulator's GDB stub + process-attach memory backend as tools for LLM agents. Live PowerPC reverse engineering for GameCube/Wii games."
   }
 ]
