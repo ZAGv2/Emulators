@@ -35378,5 +35378,15 @@
     "url": "https://github.com/jiaoyanming0-bot/OPAutoClicker",
     "cover": "https://avatars.githubusercontent.com/u/265744887?v=4",
     "description": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. "
+  },
+  {
+    "name": "gameboy",
+    "slug": "gameboy",
+    "creator": "libraries",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/libraries/gameboy",
+    "cover": "https://avatars.githubusercontent.com/u/42462844?v=4",
+    "description": "Full featured Cross-platform GameBoy emulator by Rust. Forever boys!."
   }
 ]
