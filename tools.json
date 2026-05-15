@@ -35368,5 +35368,15 @@
     "url": "https://github.com/EnergeticBark/WATaBoy",
     "cover": "https://avatars.githubusercontent.com/u/33643461?v=4",
     "description": "A Game Boy emulator with an SM83 to Wasm JIT compiler"
+  },
+  {
+    "name": "OPAutoClicker",
+    "slug": "opautoclicker",
+    "creator": "jiaoyanming0-bot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jiaoyanming0-bot/OPAutoClicker",
+    "cover": "https://avatars.githubusercontent.com/u/265744887?v=4",
+    "description": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. "
   }
 ]
