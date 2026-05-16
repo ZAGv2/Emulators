@@ -35408,5 +35408,15 @@
     "url": "https://github.com/Matt-Wood-23/dolphin-re-mcp",
     "cover": "https://avatars.githubusercontent.com/u/70288536?v=4",
     "description": "MCP server exposing Dolphin emulator's GDB stub + process-attach memory backend as tools for LLM agents. Live PowerPC reverse engineering for GameCube/Wii games."
+  },
+  {
+    "name": "Brovan",
+    "slug": "brovan",
+    "creator": "AdvDebug",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AdvDebug/Brovan",
+    "cover": "https://avatars.githubusercontent.com/u/90452585?v=4",
+    "description": "Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file formats."
   }
 ]
