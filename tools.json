@@ -35418,5 +35418,15 @@
     "url": "https://github.com/AdvDebug/Brovan",
     "cover": "https://avatars.githubusercontent.com/u/90452585?v=4",
     "description": "Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file formats."
+  },
+  {
+    "name": "System-emulator-Simulator-using-Batch-cmd-",
+    "slug": "system-emulator-simulator-using-batch-cmd",
+    "creator": "HuckleR2003",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HuckleR2003/System-emulator-Simulator-using-Batch-cmd-",
+    "cover": "https://avatars.githubusercontent.com/u/64114763?v=4",
+    "description": "A system emulator/Simulator using Batch(cmd). With some features, "
   }
 ]
