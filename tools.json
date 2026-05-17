@@ -35438,5 +35438,25 @@
     "url": "https://github.com/NNM24EE533/Mii-Link-Tomodachi-Archives",
     "cover": "https://avatars.githubusercontent.com/u/255049112?v=4",
     "description": "Tomodachi Life 2026 PC Emulator Setup - Best Free Mii Sharing & Life Sim Hub 🎮"
+  },
+  {
+    "name": "Yuzu-Ryujinx-Emulation-Framework",
+    "slug": "yuzu-ryujinx-emulation-framework",
+    "creator": "Kkkkkkao",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kkkkkkao/Yuzu-Ryujinx-Emulation-Framework",
+    "cover": "https://avatars.githubusercontent.com/u/118613456?v=4",
+    "description": "⚡ Yuzu Nintendo Switch Emulator 2026 – Download Free & Play NX Games on PC"
+  },
+  {
+    "name": "nooklink-pc-emulator-toolkit",
+    "slug": "nooklink-pc-emulator-toolkit",
+    "creator": "abhirammandula-boop",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/abhirammandula-boop/nooklink-pc-emulator-toolkit",
+    "cover": "https://avatars.githubusercontent.com/u/237242797?v=4",
+    "description": "Ultimate Animal Crossing New Horizons PC Port 2026 - Best Desktop Tracker & Emulator Guide 🎮✨"
   }
 ]
