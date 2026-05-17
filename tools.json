@@ -35468,5 +35468,25 @@
     "url": "https://github.com/gleedgleed/gleeds-tracker",
     "cover": "https://avatars.githubusercontent.com/u/285483804?v=4",
     "description": "Auto-tracker (memory-reading) for Twilight Princess (Dolphin / Dusk) and Ocarina of Time (various emulators)"
+  },
+  {
+    "name": "yuzu-emu",
+    "slug": "yuzu-emu",
+    "creator": "pedrodg28",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pedrodg28/yuzu-emu",
+    "cover": "https://avatars.githubusercontent.com/u/65268289?v=4",
+    "description": "Yuzu Emulator Switch Nintendo Pokemon Scarlet Violet, Mario Kart 8 Deluxe, firmware 18.1.0, prod.keys, shader stutter fix, FPS++ mod, save file importer, amiibo bin, motion control setup, local wireless LDN, multicore, handheld mode, docked mode, custom resolution, Joy-Con drift fix."
+  },
+  {
+    "name": "ROM-MGBA-Pokemon-Emulator-PC",
+    "slug": "rom-mgba-pokemon-emulator-pc",
+    "creator": "Flizorules05",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+    "cover": "https://avatars.githubusercontent.com/u/46368738?v=4",
+    "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution"
   }
 ]
