@@ -35458,5 +35458,15 @@
     "url": "https://github.com/abhirammandula-boop/nooklink-pc-emulator-toolkit",
     "cover": "https://avatars.githubusercontent.com/u/237242797?v=4",
     "description": "Ultimate Animal Crossing New Horizons PC Port 2026 - Best Desktop Tracker & Emulator Guide 🎮✨"
+  },
+  {
+    "name": "gleeds-tracker",
+    "slug": "gleeds-tracker",
+    "creator": "gleedgleed",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gleedgleed/gleeds-tracker",
+    "cover": "https://avatars.githubusercontent.com/u/285483804?v=4",
+    "description": "Auto-tracker (memory-reading) for Twilight Princess (Dolphin / Dusk) and Ocarina of Time (various emulators)"
   }
 ]
