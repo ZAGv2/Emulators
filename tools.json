@@ -35528,5 +35528,15 @@
     "url": "https://github.com/Council-of-Ben/b-emulator",
     "cover": "https://avatars.githubusercontent.com/u/123035259?v=4",
     "description": "An emulator for blooket to use mods, and possibly even other versions."
+  },
+  {
+    "name": "dolphin3",
+    "slug": "dolphin3",
+    "creator": "483eo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/483eo/dolphin3",
+    "cover": "https://avatars.githubusercontent.com/u/268467634?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
   }
 ]
