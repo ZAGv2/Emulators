@@ -35488,5 +35488,45 @@
     "url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
     "cover": "https://avatars.githubusercontent.com/u/46368738?v=4",
     "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution"
+  },
+  {
+    "name": "gecko",
+    "slug": "gecko",
+    "creator": "ioncodes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ioncodes/gecko",
+    "cover": "https://avatars.githubusercontent.com/u/18533297?v=4",
+    "description": "A GameCube/Wii emulator and debugger written in Rust."
+  },
+  {
+    "name": "Free-Fire-UID-Bypass",
+    "slug": "free-fire-uid-bypass",
+    "creator": "navneetak16",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/navneetak16/Free-Fire-UID-Bypass",
+    "cover": "https://avatars.githubusercontent.com/u/125375766?v=4",
+    "description": "Free Fire UID/Proxy based Emulator bypass system using mitmproxy script."
+  },
+  {
+    "name": "RetroBatGFN",
+    "slug": "retrobatgfn",
+    "creator": "dpadGuy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dpadGuy/RetroBatGFN",
+    "cover": "https://avatars.githubusercontent.com/u/164203577?v=4",
+    "description": "RetroBatGFN is a RetroBat installer that gives you the ability of emulating your favourite game consoles on Geforce NOW withouth the need of powerful hardware. (Only for I2P game sessions with persistent storage !)"
+  },
+  {
+    "name": "b-emulator",
+    "slug": "b-emulator",
+    "creator": "Council-of-Ben",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Council-of-Ben/b-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/123035259?v=4",
+    "description": "An emulator for blooket to use mods, and possibly even other versions."
   }
 ]
