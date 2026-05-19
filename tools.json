@@ -35538,5 +35538,15 @@
     "url": "https://github.com/483eo/dolphin3",
     "cover": "https://avatars.githubusercontent.com/u/268467634?v=4",
     "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "DS4Windows",
+    "slug": "ds4windows",
+    "creator": "ds4windowsapp",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/ds4windowsapp/DS4Windows",
+    "cover": "https://avatars.githubusercontent.com/u/91286618?v=4",
+    "description": "DS4Windows is an open-source gamepad input mapper and virtual emulator designed to use and connect your PlayStation controller (DualShock 3/4 and DualSense 5) to a Windows 10 & 11 PC."
   }
 ]
