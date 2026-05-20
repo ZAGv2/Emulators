@@ -35558,5 +35558,25 @@
     "url": "https://github.com/bishopscode/Yoshi-and-the-Mysterious-Book-PC",
     "cover": "https://avatars.githubusercontent.com/u/64908269?v=4",
     "description": "Yoshi and the Mysterious Book review metacritic release date PC: download yoshi game ryujinx yuzu emulator config, yosshī to fukashigi no zukan rom, prod keys title keys zip. nintendo switch 2 emulator pc, shaders cache free download, fitgirl repack  rumors, good-feel mr e encyclopedia, controls mapping keyboard, 60 fps hack mo"
+  },
+  {
+    "name": "Aero_Local_Server",
+    "slug": "aero-local-server",
+    "creator": "Optimus1200",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Optimus1200/Aero_Local_Server",
+    "cover": "https://avatars.githubusercontent.com/u/123526215?v=4",
+    "description": "Local server that mocks the Wind API to allow a user to play Ace Combat Infinity singleplayer (emulator only)"
+  },
+  {
+    "name": "BeebEm-for-Android",
+    "slug": "beebem-for-android",
+    "creator": "Isomage73",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Isomage73/BeebEm-for-Android",
+    "cover": "https://avatars.githubusercontent.com/u/274986127?v=4",
+    "description": "An Android Port of the BeebEm emulator"
   }
 ]
