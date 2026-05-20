@@ -35578,5 +35578,25 @@
     "url": "https://github.com/Isomage73/BeebEm-for-Android",
     "cover": "https://avatars.githubusercontent.com/u/274986127?v=4",
     "description": "An Android Port of the BeebEm emulator"
+  },
+  {
+    "name": "AeroServer",
+    "slug": "aeroserver",
+    "creator": "Optimus1200",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Optimus1200/AeroServer",
+    "cover": "https://avatars.githubusercontent.com/u/123526215?v=4",
+    "description": "Local server that mocks the Wind API to allow a user to play Ace Combat Infinity (emulator only). Also comes with a built-in patch to unlock all DLC and infinite fuel."
+  },
+  {
+    "name": "nRF52-go-plus-plus-backup-",
+    "slug": "nrf52-go-plus-plus-backup",
+    "creator": "kiyoukan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kiyoukan/nRF52-go-plus-plus-backup-",
+    "cover": "https://avatars.githubusercontent.com/u/1359396?v=4",
+    "description": "nRF52 Pokemon GO Plus + BLE emulator for personal device backups, using user-supplied device material and flash-dump extraction tooling."
   }
 ]
