@@ -35598,5 +35598,15 @@
     "url": "https://github.com/kiyoukan/nRF52-go-plus-plus-backup-",
     "cover": "https://avatars.githubusercontent.com/u/1359396?v=4",
     "description": "nRF52 Pokemon GO Plus + BLE emulator for personal device backups, using user-supplied device material and flash-dump extraction tooling."
+  },
+  {
+    "name": "emulator-ps2-for-pc",
+    "slug": "emulator-ps2-for-pc",
+    "creator": "cacing1209",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/cacing1209/emulator-ps2-for-pc",
+    "cover": "https://avatars.githubusercontent.com/u/65495500?v=4",
+    "description": "Repositori ini berisi kumpulan file yang memungkinkan Anda untuk memainkan game PlayStation 2 (PS2) di PC menggunakan software emulator PCSX2."
   }
 ]
