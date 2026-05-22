@@ -35608,5 +35608,25 @@
     "url": "https://github.com/cacing1209/emulator-ps2-for-pc",
     "cover": "https://avatars.githubusercontent.com/u/65495500?v=4",
     "description": "Repositori ini berisi kumpulan file yang memungkinkan Anda untuk memainkan game PlayStation 2 (PS2) di PC menggunakan software emulator PCSX2."
+  },
+  {
+    "name": "dolphin-gamecube",
+    "slug": "dolphin-gamecube",
+    "creator": "edctx6t58z",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/edctx6t58z/dolphin-gamecube",
+    "cover": "https://avatars.githubusercontent.com/u/286802896?v=4",
+    "description": "Grab Dolphin Emulator - updated 2026"
+  },
+  {
+    "name": "dgba",
+    "slug": "dgba",
+    "creator": "Linkinworm",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/Linkinworm/dgba",
+    "cover": "https://avatars.githubusercontent.com/u/32615992?v=4",
+    "description": "dolphin emulator with GBA integration"
   }
 ]
