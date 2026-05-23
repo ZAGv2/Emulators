@@ -35628,5 +35628,15 @@
     "url": "https://github.com/Linkinworm/dgba",
     "cover": "https://avatars.githubusercontent.com/u/32615992?v=4",
     "description": "dolphin emulator with GBA integration"
+  },
+  {
+    "name": "Yuzu-Switch-Emulation-Kit",
+    "slug": "yuzu-switch-emulation-kit",
+    "creator": "pierremichaeljensen",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/pierremichaeljensen/Yuzu-Switch-Emulation-Kit",
+    "cover": "https://avatars.githubusercontent.com/u/239263527?v=4",
+    "description": "Yuzu Nintendo Switch Emulator 2026 ⚡ Best Free PC Download & Vulkan Setup Guide"
   }
 ]
