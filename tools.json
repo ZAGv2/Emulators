@@ -35668,5 +35668,15 @@
     "url": "https://github.com/mrgummy007/Yoshi-pc",
     "cover": "https://avatars.githubusercontent.com/u/5265486?v=4",
     "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
+  },
+  {
+    "name": "Retro-Rewind-UHD-Faithful",
+    "slug": "retro-rewind-uhd-faithful",
+    "creator": "ItsPancho8",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ItsPancho8/Retro-Rewind-UHD-Faithful",
+    "cover": "https://avatars.githubusercontent.com/u/70075545?v=4",
+    "description": "Texture Pack for Dolphin Emulator with upscaled textures from both vanilla and Retro Rewind in order to give a high definition experience to Dolphin Emulator players while keeping faithful to the original textures"
   }
 ]
