@@ -35638,5 +35638,15 @@
     "url": "https://github.com/pierremichaeljensen/Yuzu-Switch-Emulation-Kit",
     "cover": "https://avatars.githubusercontent.com/u/239263527?v=4",
     "description": "Yuzu Nintendo Switch Emulator 2026 ⚡ Best Free PC Download & Vulkan Setup Guide"
+  },
+  {
+    "name": "dolphinXR",
+    "slug": "dolphinxr",
+    "creator": "Nobbie248",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Nobbie248/dolphinXR",
+    "cover": "https://avatars.githubusercontent.com/u/109515734?v=4",
+    "description": "DolphinXR is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements and in VR."
   }
 ]
