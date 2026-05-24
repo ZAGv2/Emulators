@@ -35648,5 +35648,25 @@
     "url": "https://github.com/Nobbie248/dolphinXR",
     "cover": "https://avatars.githubusercontent.com/u/109515734?v=4",
     "description": "DolphinXR is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements and in VR."
+  },
+  {
+    "name": "tomodachi-pc",
+    "slug": "tomodachi-pc",
+    "creator": "RayceAnderson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RayceAnderson/tomodachi-pc",
+    "cover": "https://avatars.githubusercontent.com/u/89491544?v=4",
+    "description": "tomodachi life pc living  the dream windows  free patch notes update ryujinx emulator rom nsp xci mii creator life simulator 60fps mod graphics config save file setup guide fix crash"
+  },
+  {
+    "name": "Yoshi-pc",
+    "slug": "yoshi-pc",
+    "creator": "mrgummy007",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mrgummy007/Yoshi-pc",
+    "cover": "https://avatars.githubusercontent.com/u/5265486?v=4",
+    "description": "yoshi and the mysterious book free pc review switch 2 download gameplay walkthrough ryujinx yuzu emulator installation"
   }
 ]
