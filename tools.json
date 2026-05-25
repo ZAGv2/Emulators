@@ -35678,5 +35678,15 @@
     "url": "https://github.com/ItsPancho8/Retro-Rewind-UHD-Faithful",
     "cover": "https://avatars.githubusercontent.com/u/70075545?v=4",
     "description": "Texture Pack for Dolphin Emulator with upscaled textures from both vanilla and Retro Rewind in order to give a high definition experience to Dolphin Emulator players while keeping faithful to the original textures"
+  },
+  {
+    "name": "void",
+    "slug": "void",
+    "creator": "dancinlab",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dancinlab/void",
+    "cover": "https://avatars.githubusercontent.com/u/269336231?v=4",
+    "description": "🕳️ VOID — Terminal emulator written in hexa-lang."
   }
 ]
