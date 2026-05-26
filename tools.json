@@ -35758,5 +35758,15 @@
     "url": "https://github.com/mcurzi/custom-8bit-cpu",
     "cover": "https://avatars.githubusercontent.com/u/10477095?v=4",
     "description": "Custom 8-bit ISA emulator, assembler, and debugger with memory-mapped graphics."
+  },
+  {
+    "name": "ESP32-Paperang-Emulator",
+    "slug": "esp32-paperang-emulator",
+    "creator": "lxydiy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lxydiy/ESP32-Paperang-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/148050370?v=4",
+    "description": "Make a Paperang printer with ESP32 Arduino"
   }
 ]
