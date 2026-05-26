@@ -35738,5 +35738,25 @@
     "url": "https://github.com/Icedomega13/SteamControllerBridge",
     "cover": "https://avatars.githubusercontent.com/u/56163400?v=4",
     "description": "A lightweight Windows tray app that lets the 2026 Steam Controller work as a virtual Xbox 360 controller for Game Pass, Epic, emulators, and other non-Steam XInput games."
+  },
+  {
+    "name": "nes-emulator-book",
+    "slug": "nes-emulator-book",
+    "creator": "matiassalles99",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/matiassalles99/nes-emulator-book",
+    "cover": "https://avatars.githubusercontent.com/u/57004457?v=4",
+    "description": "..."
+  },
+  {
+    "name": "custom-8bit-cpu",
+    "slug": "custom-8bit-cpu",
+    "creator": "mcurzi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mcurzi/custom-8bit-cpu",
+    "cover": "https://avatars.githubusercontent.com/u/10477095?v=4",
+    "description": "Custom 8-bit ISA emulator, assembler, and debugger with memory-mapped graphics."
   }
 ]
