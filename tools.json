@@ -35768,5 +35768,55 @@
     "url": "https://github.com/lxydiy/ESP32-Paperang-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/148050370?v=4",
     "description": "Make a Paperang printer with ESP32 Arduino"
+  },
+  {
+    "name": "m68k-interpreter",
+    "slug": "m68k-interpreter",
+    "creator": "gianlucarea",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gianlucarea/m68k-interpreter",
+    "cover": "https://avatars.githubusercontent.com/u/43826151?v=4",
+    "description": "Rebuilt a Motorola 68000 emulator with 50+ instructions — runs entirely in the browser, no install."
+  },
+  {
+    "name": "gngeo",
+    "slug": "gngeo",
+    "creator": "linuxlinks",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linuxlinks/gngeo",
+    "cover": "https://avatars.githubusercontent.com/u/17218712?v=4",
+    "description": "A NeoGeo emulator for linux"
+  },
+  {
+    "name": "bah",
+    "slug": "bah",
+    "creator": "Cyri129",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Cyri129/bah",
+    "cover": "https://avatars.githubusercontent.com/u/34913372?v=4",
+    "description": "Emulator for storytelling box"
+  },
+  {
+    "name": "kingshot-bot",
+    "slug": "kingshot-bot",
+    "creator": "kingshot-bot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kingshot-bot/kingshot-bot",
+    "cover": "https://avatars.githubusercontent.com/u/249805970?v=4",
+    "description": "Kingshot Bot - Advanced automation tool for Kingshot mobile game. No emulator required (no BlueStacks/LDPlayer). 31+ features: auto farming, troop training, resource gathering, daily quests, arena battles, alliance help. Multi-account support (5+ accounts). Ultra lightweight 256MB RAM. Free tier 2h/day. Auto-updates included."
+  },
+  {
+    "name": "Umamusume-Emulator-Eden-Bot",
+    "slug": "umamusume-emulator-eden-bot",
+    "creator": "EdenUmaBots",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EdenUmaBots/Umamusume-Emulator-Eden-Bot",
+    "cover": "https://avatars.githubusercontent.com/u/226228405?v=4",
+    "description": "We don't use this anymore because API botting is just better (Also available for download)"
   }
 ]
