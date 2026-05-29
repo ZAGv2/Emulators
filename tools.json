@@ -35878,5 +35878,15 @@
     "url": "https://github.com/alex-wolf-ps/service-bus-emulator",
     "cover": "https://avatars.githubusercontent.com/u/33110774?v=4",
     "description": "..."
+  },
+  {
+    "name": "Path-of-Exile-2-Alpha-Dev-Build",
+    "slug": "path-of-exile-2-alpha-dev-build",
+    "creator": "HackFletcher",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HackFletcher/Path-of-Exile-2-Alpha-Dev-Build",
+    "cover": "https://avatars.githubusercontent.com/u/281261366?v=4",
+    "description": "Offline local realm emulator with full sandbox mode, debug console for levels and currency, and unrestricted build testing for all classes, gems, and endgame gear."
   }
 ]
