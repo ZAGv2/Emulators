@@ -35888,5 +35888,35 @@
     "url": "https://github.com/HackFletcher/Path-of-Exile-2-Alpha-Dev-Build",
     "cover": "https://avatars.githubusercontent.com/u/281261366?v=4",
     "description": "Offline local realm emulator with full sandbox mode, debug console for levels and currency, and unrestricted build testing for all classes, gems, and endgame gear."
+  },
+  {
+    "name": "IBM5150",
+    "slug": "ibm5150",
+    "creator": "bachimusprime",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bachimusprime/IBM5150",
+    "cover": "https://avatars.githubusercontent.com/u/956763?v=4",
+    "description": "An emulator of the IBM PC 5150, and its descendants and clones."
+  },
+  {
+    "name": "SuperPC",
+    "slug": "superpc",
+    "creator": "bachimusprime",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bachimusprime/SuperPC",
+    "cover": "https://avatars.githubusercontent.com/u/956763?v=4",
+    "description": "A PC emulator"
+  },
+  {
+    "name": "SIDMIDISynth",
+    "slug": "sidmidisynth",
+    "creator": "nicolacimmino",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nicolacimmino/SIDMIDISynth",
+    "cover": "https://avatars.githubusercontent.com/u/5907879?v=4",
+    "description": "An emulated SID based synth controllable through MIDI"
   }
 ]
