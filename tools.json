@@ -35848,5 +35848,35 @@
     "url": "https://github.com/Dharyen/ryujinx-emu",
     "cover": "https://avatars.githubusercontent.com/u/70955853?v=4",
     "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download"
+  },
+  {
+    "name": "brimir",
+    "slug": "brimir",
+    "creator": "coredds",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/coredds/brimir",
+    "cover": "https://avatars.githubusercontent.com/u/8438335?v=4",
+    "description": "Brimir is a libretro core for Sega Saturn emulation, built on the Ymir emulator"
+  },
+  {
+    "name": "ESP32_BLE_ELM327",
+    "slug": "esp32-ble-elm327",
+    "creator": "eyzinox",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/eyzinox/ESP32_BLE_ELM327",
+    "cover": "https://avatars.githubusercontent.com/u/51854634?v=4",
+    "description": "A lightweight ELM327 emulator running on ESP32 over Bluetooth Low Energy (BLE). Supports basic OBD-II commands, provides real-time CAN/ASCII data, and logs both HEX and ASCII for debugging. Ideal for testing OBD-II apps and learning automotive communication protocols."
+  },
+  {
+    "name": "service-bus-emulator",
+    "slug": "service-bus-emulator",
+    "creator": "alex-wolf-ps",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/alex-wolf-ps/service-bus-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/33110774?v=4",
+    "description": "..."
   }
 ]
