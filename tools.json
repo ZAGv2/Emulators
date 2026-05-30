@@ -35918,5 +35918,15 @@
     "url": "https://github.com/nicolacimmino/SIDMIDISynth",
     "cover": "https://avatars.githubusercontent.com/u/5907879?v=4",
     "description": "An emulated SID based synth controllable through MIDI"
+  },
+  {
+    "name": "SimDeck",
+    "slug": "simdeck",
+    "creator": "NativeScript",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NativeScript/SimDeck",
+    "cover": "https://avatars.githubusercontent.com/u/7392261?v=4",
+    "description": "SimDeck is a developer tool built for streamlining mobile app development using agents. Drive iOS Simulators and Android emulators from your favorite IDE & CLI."
   }
 ]
