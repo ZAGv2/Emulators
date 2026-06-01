@@ -35968,5 +35968,35 @@
     "url": "https://github.com/slippilaucnherapp/slippi-launcher",
     "cover": "https://avatars.githubusercontent.com/u/120046772?v=4",
     "description": "project slippi slippi launcher download free github ssbm super smash bros melee online rollback netcode dolphin emulator windows 11 mac linux setup guide tutorial iso rom matchmaking ranked unranked fix latest version 2026"
+  },
+  {
+    "name": "arduino-board-emulator",
+    "slug": "arduino-board-emulator",
+    "creator": "toastmanAu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/toastmanAu/arduino-board-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/81925564?v=4",
+    "description": "Desktop simulator for ESP32+Arduino sketches using LovyanGFX and LVGL — runs unmodified sketches with simulated ILI9488 / SSD1306 displays"
+  },
+  {
+    "name": "EV-Battery-Emulator-dalathegreats-work",
+    "slug": "ev-battery-emulator-dalathegreats-work",
+    "creator": "blacklisted786",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/blacklisted786/EV-Battery-Emulator-dalathegreats-work",
+    "cover": "https://avatars.githubusercontent.com/u/43950216?v=4",
+    "description": "..."
+  },
+  {
+    "name": "RNS-MFD2-Bluetooth",
+    "slug": "rns-mfd2-bluetooth",
+    "creator": "damogranlabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/damogranlabs/RNS-MFD2-Bluetooth",
+    "cover": "https://avatars.githubusercontent.com/u/17387034?v=4",
+    "description": "RNS MFD2 Bluetooth CD Changer emulator based on STM32L100 + KCX_BT002"
   }
 ]
