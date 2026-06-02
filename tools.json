@@ -35998,5 +35998,15 @@
     "url": "https://github.com/damogranlabs/RNS-MFD2-Bluetooth",
     "cover": "https://avatars.githubusercontent.com/u/17387034?v=4",
     "description": "RNS MFD2 Bluetooth CD Changer emulator based on STM32L100 + KCX_BT002"
+  },
+  {
+    "name": "X360-Mobile---OFFICIAL",
+    "slug": "x360-mobile-official",
+    "creator": "Ashnar2602",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ashnar2602/X360-Mobile---OFFICIAL",
+    "cover": "https://avatars.githubusercontent.com/u/161518051?v=4",
+    "description": "This repository will contain all future releases of the experimental Xbox 360 emulator"
   }
 ]
