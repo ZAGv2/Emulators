@@ -36038,5 +36038,25 @@
     "url": "https://github.com/PsycheWoodpecker67/PCSX2-cracked",
     "cover": "https://avatars.githubusercontent.com/u/288738252?v=4",
     "description": "PCSX2 - PlayStation 2 emulator with upscaling and widescreen support. Official page with installation notes, activation guidance, and configuration tips."
+  },
+  {
+    "name": "External-RPM-WPM-for-Bluestacks-5-Android-Emulator",
+    "slug": "external-rpm-wpm-for-bluestacks-5-android-emulator",
+    "creator": "Xanderca",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Xanderca/External-RPM-WPM-for-Bluestacks-5-Android-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/81170015?v=4",
+    "description": "A complete example of external read/write for android guest instance running inside Bluestacks 5. the project was created with days of work and reversing/researching how the guest virtual/phyical addresses are mapped in host virtual and accesing task list pid and it's loaded modules externally using kernel structs founded with help of reversing"
+  },
+  {
+    "name": "Flipper-GameBoy",
+    "slug": "flipper-gameboy",
+    "creator": "jblanked",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/jblanked/Flipper-GameBoy",
+    "cover": "https://avatars.githubusercontent.com/u/82678820?v=4",
+    "description": "GameBoy Emulator for Flipper Zero and Video Game Module"
   }
 ]
