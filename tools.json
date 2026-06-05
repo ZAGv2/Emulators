@@ -36108,5 +36108,25 @@
     "url": "https://github.com/obsolescence/kim_uno",
     "cover": "https://avatars.githubusercontent.com/u/7725197?v=4",
     "description": "KIM Uno is a KIM-1 emulator and 6502 programmable calculator for Arduino"
+  },
+  {
+    "name": "ess-corrector",
+    "slug": "ess-corrector",
+    "creator": "luna15161718",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/luna15161718/ess-corrector",
+    "cover": "https://avatars.githubusercontent.com/u/49074896?v=4",
+    "description": "A program to apply ESS correction to Gamecube control stick input for use with Dolphin Emulator on Linux"
+  },
+  {
+    "name": "pcsx2-libretro",
+    "slug": "pcsx2-libretro",
+    "creator": "WizzardSK",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/WizzardSK/pcsx2-libretro",
+    "cover": "https://avatars.githubusercontent.com/u/42868978?v=4",
+    "description": "Libretro core port of PCSX2 (PlayStation 2 emulator)"
   }
 ]
