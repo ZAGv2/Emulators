@@ -36068,5 +36068,15 @@
     "url": "https://github.com/Fuindin/DQ8SaveEditor",
     "cover": "https://avatars.githubusercontent.com/u/21113581?v=4",
     "description": "A WinForms application that is a save state editor for Dragon Quest VIII save states from the PCSX2 emulator."
+  },
+  {
+    "name": "MikuSB",
+    "slug": "mikusb",
+    "creator": "MikuLeaks",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MikuLeaks/MikuSB",
+    "cover": "https://avatars.githubusercontent.com/u/187074981?v=4",
+    "description": "Open-source C#/.NET research server emulator for local protocol and networking experimentation."
   }
 ]
