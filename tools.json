@@ -36098,5 +36098,15 @@
     "url": "https://github.com/cepetr/blue2joy",
     "cover": "https://avatars.githubusercontent.com/u/60569462?v=4",
     "description": "Bluetooth HID adapter for Atari 8-bit computers: use modern BLE gamepads or mice to emulate the Atari joystick and paddles."
+  },
+  {
+    "name": "kim_uno",
+    "slug": "kim-uno",
+    "creator": "obsolescence",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/obsolescence/kim_uno",
+    "cover": "https://avatars.githubusercontent.com/u/7725197?v=4",
+    "description": "KIM Uno is a KIM-1 emulator and 6502 programmable calculator for Arduino"
   }
 ]
