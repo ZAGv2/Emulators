@@ -36078,5 +36078,25 @@
     "url": "https://github.com/MikuLeaks/MikuSB",
     "cover": "https://avatars.githubusercontent.com/u/187074981?v=4",
     "description": "Open-source C#/.NET research server emulator for local protocol and networking experimentation."
+  },
+  {
+    "name": "best-inference",
+    "slug": "best-inference",
+    "creator": "AndreasNygaard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AndreasNygaard/best-inference",
+    "cover": "https://avatars.githubusercontent.com/u/61239752?v=4",
+    "description": "Batched Emulator Sampling with Tensorflow"
+  },
+  {
+    "name": "blue2joy",
+    "slug": "blue2joy",
+    "creator": "cepetr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cepetr/blue2joy",
+    "cover": "https://avatars.githubusercontent.com/u/60569462?v=4",
+    "description": "Bluetooth HID adapter for Atari 8-bit computers: use modern BLE gamepads or mice to emulate the Atari joystick and paddles."
   }
 ]
