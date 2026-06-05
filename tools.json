@@ -36058,5 +36058,15 @@
     "url": "https://github.com/jblanked/Flipper-GameBoy",
     "cover": "https://avatars.githubusercontent.com/u/82678820?v=4",
     "description": "GameBoy Emulator for Flipper Zero and Video Game Module"
+  },
+  {
+    "name": "DQ8SaveEditor",
+    "slug": "dq8saveeditor",
+    "creator": "Fuindin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Fuindin/DQ8SaveEditor",
+    "cover": "https://avatars.githubusercontent.com/u/21113581?v=4",
+    "description": "A WinForms application that is a save state editor for Dragon Quest VIII save states from the PCSX2 emulator."
   }
 ]
