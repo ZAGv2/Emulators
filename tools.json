@@ -36128,5 +36128,25 @@
     "url": "https://github.com/WizzardSK/pcsx2-libretro",
     "cover": "https://avatars.githubusercontent.com/u/42868978?v=4",
     "description": "Libretro core port of PCSX2 (PlayStation 2 emulator)"
+  },
+  {
+    "name": "Skylanders-Vibrancy-Collection-for-ReShade",
+    "slug": "skylanders-vibrancy-collection-for-reshade",
+    "creator": "XalesDev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/XalesDev/Skylanders-Vibrancy-Collection-for-ReShade",
+    "cover": "https://avatars.githubusercontent.com/u/211319848?v=4",
+    "description": "A collection of lightweight ReShade presets for games in the Skylanders series designed to inject vibrant colors, restore contrast and remove blur for use with emulators."
+  },
+  {
+    "name": "pcee2-libretro",
+    "slug": "pcee2-libretro",
+    "creator": "WizzardSK",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/WizzardSK/pcee2-libretro",
+    "cover": "https://avatars.githubusercontent.com/u/42868978?v=4",
+    "description": "PCEE2 — libretro core port of current PCSX2 (PlayStation 2 emulator)"
   }
 ]
