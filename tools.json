@@ -36148,5 +36148,15 @@
     "url": "https://github.com/WizzardSK/pcee2-libretro",
     "cover": "https://avatars.githubusercontent.com/u/42868978?v=4",
     "description": "PCEE2 — libretro core port of current PCSX2 (PlayStation 2 emulator)"
+  },
+  {
+    "name": "PCSX2_CoverSync",
+    "slug": "pcsx2-coversync",
+    "creator": "derikcalixto",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/derikcalixto/PCSX2_CoverSync",
+    "cover": "https://avatars.githubusercontent.com/u/30416513?v=4",
+    "description": "PCSX2_CoverSync: Utilitário multiplataforma (Linux/Windows) para automação de capas (2D/3D) da sua biblioteca de jogos no emulador PCSX2."
   }
 ]
