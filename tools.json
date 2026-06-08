@@ -36158,5 +36158,15 @@
     "url": "https://github.com/derikcalixto/PCSX2_CoverSync",
     "cover": "https://avatars.githubusercontent.com/u/30416513?v=4",
     "description": "PCSX2_CoverSync: Utilitário multiplataforma (Linux/Windows) para automação de capas (2D/3D) da sua biblioteca de jogos no emulador PCSX2."
+  },
+  {
+    "name": "twitaba-twitter-bot",
+    "slug": "twitaba-twitter-bot",
+    "creator": "superswan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/superswan/twitaba-twitter-bot",
+    "cover": "https://avatars.githubusercontent.com/u/5325504?v=4",
+    "description": "Twitter reply bot emulating imageboard games in node"
   }
 ]
