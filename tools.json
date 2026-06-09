@@ -36168,5 +36168,15 @@
     "url": "https://github.com/superswan/twitaba-twitter-bot",
     "cover": "https://avatars.githubusercontent.com/u/5325504?v=4",
     "description": "Twitter reply bot emulating imageboard games in node"
+  },
+  {
+    "name": "blue_chorus",
+    "slug": "blue-chorus",
+    "creator": "sigurd4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sigurd4/blue_chorus",
+    "cover": "https://avatars.githubusercontent.com/u/11297695?v=4",
+    "description": "A chorus-effect VST emulating the BOSS CE-2"
   }
 ]
