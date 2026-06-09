@@ -36178,5 +36178,15 @@
     "url": "https://github.com/sigurd4/blue_chorus",
     "cover": "https://avatars.githubusercontent.com/u/11297695?v=4",
     "description": "A chorus-effect VST emulating the BOSS CE-2"
+  },
+  {
+    "name": "PSG2SaveEditor",
+    "slug": "psg2saveeditor",
+    "creator": "Fuindin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Fuindin/PSG2SaveEditor",
+    "cover": "https://avatars.githubusercontent.com/u/21113581?v=4",
+    "description": "A WinForms application that allows a user to load and edit save states for the PS2 game Phantasy Star Generation 2. Supported Save states are from the PCSX2 emulator."
   }
 ]
