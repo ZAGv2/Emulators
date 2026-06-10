@@ -36188,5 +36188,15 @@
     "url": "https://github.com/Fuindin/PSG2SaveEditor",
     "cover": "https://avatars.githubusercontent.com/u/21113581?v=4",
     "description": "A WinForms application that allows a user to load and edit save states for the PS2 game Phantasy Star Generation 2. Supported Save states are from the PCSX2 emulator."
+  },
+  {
+    "name": "balatro-web",
+    "slug": "balatro-web",
+    "creator": "OutBlade",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OutBlade/balatro-web",
+    "cover": "https://avatars.githubusercontent.com/u/182438328?v=4",
+    "description": "Play Balatro GBA fan demake in your browser - no download needed"
   }
 ]
