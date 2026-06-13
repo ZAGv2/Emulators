@@ -36198,5 +36198,15 @@
     "url": "https://github.com/OutBlade/balatro-web",
     "cover": "https://avatars.githubusercontent.com/u/182438328?v=4",
     "description": "Play Balatro GBA fan demake in your browser - no download needed"
+  },
+  {
+    "name": "rax",
+    "slug": "rax",
+    "creator": "HexRaysSA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HexRaysSA/rax",
+    "cover": "https://avatars.githubusercontent.com/u/122276041?v=4",
+    "description": "rax is a CPU emulator that does not trust itself."
   }
 ]
