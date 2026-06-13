@@ -36208,5 +36208,25 @@
     "url": "https://github.com/HexRaysSA/rax",
     "cover": "https://avatars.githubusercontent.com/u/122276041?v=4",
     "description": "rax is a CPU emulator that does not trust itself."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "Dolphin-Emulator-For-Pc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Dolphin-Emulator-For-Pc/.github",
+    "cover": "https://avatars.githubusercontent.com/u/293218334?v=4",
+    "description": "Deploy the official dolphin emulator for pc interface to analyze legacy application subsystems. Implement granular dolphin dsp register tracking, configure a native dolphin emulator dolphin bar integration setup, and execute rigorous nintendo gamecube emulator pipeline validations."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "Emulator-Pcsx2-Pc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Emulator-Pcsx2-Pc/.github",
+    "cover": "https://avatars.githubusercontent.com/u/293217124?v=4",
+    "description": "Deploy the native emulator pcsx2 core on modern systems to examine system registers. Create a clean workspace using official automated pcsx2 builds, map local game pcsx2 pc directories, and evaluate precision virtualization layers."
   }
 ]
