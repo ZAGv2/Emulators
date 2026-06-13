@@ -36228,5 +36228,15 @@
     "url": "https://github.com/Emulator-Pcsx2-Pc/.github",
     "cover": "https://avatars.githubusercontent.com/u/293217124?v=4",
     "description": "Deploy the native emulator pcsx2 core on modern systems to examine system registers. Create a clean workspace using official automated pcsx2 builds, map local game pcsx2 pc directories, and evaluate precision virtualization layers."
+  },
+  {
+    "name": "mos6502",
+    "slug": "mos6502",
+    "creator": "mre",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mre/mos6502",
+    "cover": "https://avatars.githubusercontent.com/u/175809?v=4",
+    "description": "Standard-compliant, no_std MOS 6502 emulator written in Rust with support for different variants (Revision A, NMOS 6502, Ricoh 2A03, 65C02)"
   }
 ]
