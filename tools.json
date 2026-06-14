@@ -36248,5 +36248,15 @@
     "url": "https://github.com/rochus-keller/OberonSystem3Native",
     "cover": "https://avatars.githubusercontent.com/u/2523113?v=4",
     "description": "This is a version based on v2.3.7 running on emulated PC i386, native Raspi Model 3b and Zero 2, and eventually Olimex ESP32-P4-PC, using existing bootloaders instead of Oberon0"
+  },
+  {
+    "name": "BlueStacks-Emulator-Setup",
+    "slug": "bluestacks-emulator-setup",
+    "creator": "ConvergeChiefAnger",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ConvergeChiefAnger/BlueStacks-Emulator-Setup",
+    "cover": "https://avatars.githubusercontent.com/u/291627051?v=4",
+    "description": "BlueStacks runs Android apps and games on Windows PC — play mobile games with keyboard, mouse and gamepad at 240 FPS with multi-instance"
   }
 ]
