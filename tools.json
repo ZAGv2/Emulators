@@ -36238,5 +36238,15 @@
     "url": "https://github.com/mre/mos6502",
     "cover": "https://avatars.githubusercontent.com/u/175809?v=4",
     "description": "Standard-compliant, no_std MOS 6502 emulator written in Rust with support for different variants (Revision A, NMOS 6502, Ricoh 2A03, 65C02)"
+  },
+  {
+    "name": "OberonSystem3Native",
+    "slug": "oberonsystem3native",
+    "creator": "rochus-keller",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rochus-keller/OberonSystem3Native",
+    "cover": "https://avatars.githubusercontent.com/u/2523113?v=4",
+    "description": "This is a version based on v2.3.7 running on emulated PC i386, native Raspi Model 3b and Zero 2, and eventually Olimex ESP32-P4-PC, using existing bootloaders instead of Oberon0"
   }
 ]
