@@ -36258,5 +36258,15 @@
     "url": "https://github.com/ConvergeChiefAnger/BlueStacks-Emulator-Setup",
     "cover": "https://avatars.githubusercontent.com/u/291627051?v=4",
     "description": "BlueStacks runs Android apps and games on Windows PC — play mobile games with keyboard, mouse and gamepad at 240 FPS with multi-instance"
+  },
+  {
+    "name": "slippi-launcher-install",
+    "slug": "slippi-launcher-install",
+    "creator": "slippi-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/slippi-project/slippi-launcher-install",
+    "cover": "https://avatars.githubusercontent.com/u/72073761?v=4",
+    "description": "slippi launcher project slippi super smash bros melee ssbm rollback netcode online matchmaking dolphin emulator emulation nintendo gamecube replays stats ranked mode github download macos linux frame data desktop app"
   }
 ]
