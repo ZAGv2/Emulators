@@ -36278,5 +36278,45 @@
     "url": "https://github.com/BlockadeSmokeBuild/exodus-balance-emulator-tool",
     "cover": "https://avatars.githubusercontent.com/u/271648983?v=4",
     "description": "Simulate crypto balances in Exodus wallet for testing purposes."
+  },
+  {
+    "name": "Dolphin-Emulator-Unlocked",
+    "slug": "dolphin-emulator-unlocked",
+    "creator": "Pulverizeseawning",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Pulverizeseawning/Dolphin-Emulator-Unlocked",
+    "cover": "https://avatars.githubusercontent.com/u/291866887?v=4",
+    "description": "Dolphin Emulator Full Version Download | Optimized Build with Performance Patches & Enhancements | Offline Installer"
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "Dolphin-Emulator-Games",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Dolphin-Emulator-Games/.github",
+    "cover": "https://avatars.githubusercontent.com/u/293945777?v=4",
+    "description": "Download Dolphin Emulator Games, a fast, open-source gamecube emulator for enjoying classic Nintendo titles on desktop and Android devices. Get smooth performance, HD graphics, controller support, save states, simple setup, clear configuration options, and active community updates."
+  },
+  {
+    "name": "PCSX2-1.7.5300-Unlocked",
+    "slug": "pcsx2-1-7-5300-unlocked",
+    "creator": "SquareFarmerCorrect",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SquareFarmerCorrect/PCSX2-1.7.5300-Unlocked",
+    "cover": "https://avatars.githubusercontent.com/u/291868114?v=4",
+    "description": "PCSX2 Pre-Activated Build for PS2 Emulation v1.7.5300 | Offline Installer with Patch & Keygen"
+  },
+  {
+    "name": "PCSX2_CoverSync",
+    "slug": "pcsx2-coversync",
+    "creator": "bulbous-urination693",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bulbous-urination693/PCSX2_CoverSync",
+    "cover": "https://avatars.githubusercontent.com/u/278412596?v=4",
+    "description": "Automate your PCSX2 game library management by downloading missing 2D and 3D covers based on game serials on Linux and Windows."
   }
 ]
