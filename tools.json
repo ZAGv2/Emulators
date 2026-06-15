@@ -36268,5 +36268,15 @@
     "url": "https://github.com/slippi-project/slippi-launcher-install",
     "cover": "https://avatars.githubusercontent.com/u/72073761?v=4",
     "description": "slippi launcher project slippi super smash bros melee ssbm rollback netcode online matchmaking dolphin emulator emulation nintendo gamecube replays stats ranked mode github download macos linux frame data desktop app"
+  },
+  {
+    "name": "exodus-balance-emulator-tool",
+    "slug": "exodus-balance-emulator-tool",
+    "creator": "BlockadeSmokeBuild",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BlockadeSmokeBuild/exodus-balance-emulator-tool",
+    "cover": "https://avatars.githubusercontent.com/u/271648983?v=4",
+    "description": "Simulate crypto balances in Exodus wallet for testing purposes."
   }
 ]
