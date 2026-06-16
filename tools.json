@@ -36318,5 +36318,15 @@
     "url": "https://github.com/bulbous-urination693/PCSX2_CoverSync",
     "cover": "https://avatars.githubusercontent.com/u/278412596?v=4",
     "description": "Automate your PCSX2 game library management by downloading missing 2D and 3D covers based on game serials on Linux and Windows."
+  },
+  {
+    "name": "Simple-Boy",
+    "slug": "simple-boy",
+    "creator": "Pratyush-gg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Pratyush-gg/Simple-Boy",
+    "cover": "https://avatars.githubusercontent.com/u/173465557?v=4",
+    "description": "Game Boy (DMG-01) emulator written in C++17, featuring an interactive ImGui/SFML debugger."
   }
 ]
