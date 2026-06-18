@@ -36338,5 +36338,15 @@
     "url": "https://github.com/qb40/bochs",
     "cover": "https://avatars.githubusercontent.com/u/32803022?v=4",
     "description": "Bochs is a highly portable open source IA-32 (x86) PC emulator."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-PC",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-PC/.github",
+    "cover": "https://avatars.githubusercontent.com/u/294615641?v=4",
+    "description": "Download PCSX2 PC to play your PlayStation 2 library on Windows, macOS, or Linux with high compatibility, save states, controller support, widescreen options, and HD rendering. This pcsx2 emulator guide helps you get set up quickly and enjoy smoother classic console gameplay."
   }
 ]
