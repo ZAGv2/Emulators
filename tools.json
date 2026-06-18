@@ -36348,5 +36348,45 @@
     "url": "https://github.com/PCSX2-PC/.github",
     "cover": "https://avatars.githubusercontent.com/u/294615641?v=4",
     "description": "Download PCSX2 PC to play your PlayStation 2 library on Windows, macOS, or Linux with high compatibility, save states, controller support, widescreen options, and HD rendering. This pcsx2 emulator guide helps you get set up quickly and enjoy smoother classic console gameplay."
+  },
+  {
+    "name": "yuzu-switch-retro-archive",
+    "slug": "yuzu-switch-retro-archive",
+    "creator": "sayanhazra699-web",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/sayanhazra699-web/yuzu-switch-retro-archive",
+    "cover": "https://avatars.githubusercontent.com/u/229088708?v=4",
+    "description": "Yuzu for Nintendo Switch: Best Switch Emulator Performance & Optimization Guide 2026"
+  },
+  {
+    "name": "localemu",
+    "slug": "localemu",
+    "creator": "localemu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/localemu/localemu",
+    "cover": "https://avatars.githubusercontent.com/u/274083213?v=4",
+    "description": "LocalEmu: a free, open-source AWS emulator. Run 132 AWS services locally with one pip install. No account, no token, no telemetry. The drop-in LocalStack alternative for the AWS CLI, boto3, Terraform and CDK."
+  },
+  {
+    "name": "crabBoy",
+    "slug": "crabboy",
+    "creator": "thrr0",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/thrr0/crabBoy",
+    "cover": "https://avatars.githubusercontent.com/u/136412385?v=4",
+    "description": "Gameboy emulator written in Rust"
+  },
+  {
+    "name": "rom-bus-control-protocol",
+    "slug": "rom-bus-control-protocol",
+    "creator": "piersfinlayson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/piersfinlayson/rom-bus-control-protocol",
+    "cover": "https://avatars.githubusercontent.com/u/16500953?v=4",
+    "description": "The ROM Bus Control Protocol (RBCP) specification and reference host implementations. RBCP enables bidirectional communication between a host computer and an RBCP-capable ROM emulator using only the ROM address and data buses — no additional hardware required.  One ROM, the most flexible replacement ROM for your retro system supports RBCP."
   }
 ]
