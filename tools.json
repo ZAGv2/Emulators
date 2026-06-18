@@ -36328,5 +36328,15 @@
     "url": "https://github.com/Pratyush-gg/Simple-Boy",
     "cover": "https://avatars.githubusercontent.com/u/173465557?v=4",
     "description": "Game Boy (DMG-01) emulator written in C++17, featuring an interactive ImGui/SFML debugger."
+  },
+  {
+    "name": "bochs",
+    "slug": "bochs",
+    "creator": "qb40",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/qb40/bochs",
+    "cover": "https://avatars.githubusercontent.com/u/32803022?v=4",
+    "description": "Bochs is a highly portable open source IA-32 (x86) PC emulator."
   }
 ]
