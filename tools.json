@@ -36388,5 +36388,15 @@
     "url": "https://github.com/piersfinlayson/rom-bus-control-protocol",
     "cover": "https://avatars.githubusercontent.com/u/16500953?v=4",
     "description": "The ROM Bus Control Protocol (RBCP) specification and reference host implementations. RBCP enables bidirectional communication between a host computer and an RBCP-capable ROM emulator using only the ROM address and data buses — no additional hardware required.  One ROM, the most flexible replacement ROM for your retro system supports RBCP."
+  },
+  {
+    "name": "ryujinx-emulator",
+    "slug": "ryujinx-emulator",
+    "creator": "Inproger",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Inproger/ryujinx-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/95681334?v=4",
+    "description": "Ryujinx canary  download Nintendo Switch emulator tomodachi life PC Ryubing  github  firmware prod keys Vulkan shader cache graphics mods cheats 60fps local wireless LDN multiplayer config tools save"
   }
 ]
