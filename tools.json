@@ -36398,5 +36398,15 @@
     "url": "https://github.com/Inproger/ryujinx-emulator",
     "cover": "https://avatars.githubusercontent.com/u/95681334?v=4",
     "description": "Ryujinx canary  download Nintendo Switch emulator tomodachi life PC Ryubing  github  firmware prod keys Vulkan shader cache graphics mods cheats 60fps local wireless LDN multiplayer config tools save"
+  },
+  {
+    "name": "BSL.v56",
+    "slug": "bsl-v56",
+    "creator": "LkPrtctrd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LkPrtctrd/BSL.v56",
+    "cover": "https://avatars.githubusercontent.com/u/147986354?v=4",
+    "description": "C Sharp Brawl Stars server emulator for version 56"
   }
 ]
