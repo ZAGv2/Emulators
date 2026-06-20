@@ -36438,5 +36438,15 @@
     "url": "https://github.com/allps2bios-ops/How-to-Set-Up-PS2-BIOS-in-PCSX2-and-AetherSX2-Step-by-Step-Guide-",
     "cover": "https://avatars.githubusercontent.com/u/286324662?v=4",
     "description": "Step-by-step guide on how to set up PS2 BIOS in PCSX2 and AetherSX2 emulator, including installation, configuration, and best settings for smooth gameplay on PC and Android."
+  },
+  {
+    "name": "EmuStack",
+    "slug": "emustack",
+    "creator": "ZachAR3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ZachAR3/EmuStack",
+    "cover": "https://avatars.githubusercontent.com/u/32562377?v=4",
+    "description": "A GUI for installing and updating emulators, in addition a mod manager. "
   }
 ]
