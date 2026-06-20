@@ -36418,5 +36418,25 @@
     "url": "https://github.com/Malkensiendores/Crypto_Fake_Balance",
     "cover": "https://avatars.githubusercontent.com/u/295030606?v=4",
     "description": "..."
+  },
+  {
+    "name": "Sony-PS2-BIOS-Download-For-PCSX2-and-AetherSX2-All-Regions-2026-",
+    "slug": "sony-ps2-bios-download-for-pcsx2-and-aethersx2-all-regions-2026",
+    "creator": "allps2bios-ops",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/allps2bios-ops/Sony-PS2-BIOS-Download-For-PCSX2-and-AetherSX2-All-Regions-2026-",
+    "cover": "https://avatars.githubusercontent.com/u/286324662?v=4",
+    "description": "Learn how Sony PS2 BIOS works with PCSX2 and AetherSX2, explore region differences, avoid common emulator errors, and set up your PlayStation 2 emulator for smooth gameplay in 2026."
+  },
+  {
+    "name": "How-to-Set-Up-PS2-BIOS-in-PCSX2-and-AetherSX2-Step-by-Step-Guide-",
+    "slug": "how-to-set-up-ps2-bios-in-pcsx2-and-aethersx2-step-by-step-guide",
+    "creator": "allps2bios-ops",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/allps2bios-ops/How-to-Set-Up-PS2-BIOS-in-PCSX2-and-AetherSX2-Step-by-Step-Guide-",
+    "cover": "https://avatars.githubusercontent.com/u/286324662?v=4",
+    "description": "Step-by-step guide on how to set up PS2 BIOS in PCSX2 and AetherSX2 emulator, including installation, configuration, and best settings for smooth gameplay on PC and Android."
   }
 ]
