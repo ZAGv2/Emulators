@@ -36458,5 +36458,15 @@
     "url": "https://github.com/dibba-oss/wives",
     "cover": "https://avatars.githubusercontent.com/u/231490564?v=4",
     "description": "A beautiful, modern & feature-rich Terminal Emulator"
+  },
+  {
+    "name": "Leningrad2-BDI-TR-DOS",
+    "slug": "leningrad2-bdi-tr-dos",
+    "creator": "Alex-2-Graf",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS",
+    "cover": "https://avatars.githubusercontent.com/u/182795204?v=4",
+    "description": "Beta Disk Interface (TR-DOS) controller for Leningrad-2. Features 5 distinct read channel (PLL) hardware versions. Supports physical floppy drives and Gotek emulators."
   }
 ]
