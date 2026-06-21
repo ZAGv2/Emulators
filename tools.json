@@ -36448,5 +36448,15 @@
     "url": "https://github.com/ZachAR3/EmuStack",
     "cover": "https://avatars.githubusercontent.com/u/32562377?v=4",
     "description": "A GUI for installing and updating emulators, in addition a mod manager. "
+  },
+  {
+    "name": "wives",
+    "slug": "wives",
+    "creator": "dibba-oss",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dibba-oss/wives",
+    "cover": "https://avatars.githubusercontent.com/u/231490564?v=4",
+    "description": "A beautiful, modern & feature-rich Terminal Emulator"
   }
 ]
