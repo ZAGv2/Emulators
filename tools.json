@@ -36468,5 +36468,15 @@
     "url": "https://github.com/Alex-2-Graf/Leningrad2-BDI-TR-DOS",
     "cover": "https://avatars.githubusercontent.com/u/182795204?v=4",
     "description": "Beta Disk Interface (TR-DOS) controller for Leningrad-2. Features 5 distinct read channel (PLL) hardware versions. Supports physical floppy drives and Gotek emulators."
+  },
+  {
+    "name": "oryxis",
+    "slug": "oryxis",
+    "creator": "wilsonglasser",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wilsonglasser/oryxis",
+    "cover": "https://avatars.githubusercontent.com/u/342362?v=4",
+    "description": "Rust SSH Client & Terminal Emulator with an encrypted vault, SFTP, port forwarding, cloud discovery, and P2P sync. Windows, macOS, Linux."
   }
 ]
