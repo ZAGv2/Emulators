@@ -36478,5 +36478,15 @@
     "url": "https://github.com/wilsonglasser/oryxis",
     "cover": "https://avatars.githubusercontent.com/u/342362?v=4",
     "description": "Rust SSH Client & Terminal Emulator with an encrypted vault, SFTP, port forwarding, cloud discovery, and P2P sync. Windows, macOS, Linux."
+  },
+  {
+    "name": "bigquery-emulator",
+    "slug": "bigquery-emulator",
+    "creator": "vantaboard",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vantaboard/bigquery-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/86866786?v=4",
+    "description": "An open source emulator for BigQuery."
   }
 ]
