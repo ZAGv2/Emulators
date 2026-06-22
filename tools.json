@@ -36508,5 +36508,25 @@
     "url": "https://github.com/roppik/tomodachi-pc",
     "cover": "https://avatars.githubusercontent.com/u/46084787?v=4",
     "description": "tomodachi pc port life simulator mii sharing qr codes island life citra fork panda3ds 3ds emulator github living the dream save editor transfer modding hd texture pack 60fps mod desktop utility macos linux open source community enhancement patch fan made translation gameplay simulation"
+  },
+  {
+    "name": "tmuxy",
+    "slug": "tmuxy",
+    "creator": "flplima",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/flplima/tmuxy",
+    "cover": "https://avatars.githubusercontent.com/u/20775579?v=4",
+    "description": "The missing tmux GUI. Not a terminal emulator."
+  },
+  {
+    "name": "BSL.v54",
+    "slug": "bsl-v54",
+    "creator": "LkPrtctrd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LkPrtctrd/BSL.v54",
+    "cover": "https://avatars.githubusercontent.com/u/147986354?v=4",
+    "description": "C Sharp Brawl Stars server emulator for version 54"
   }
 ]
