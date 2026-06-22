@@ -36488,5 +36488,25 @@
     "url": "https://github.com/vantaboard/bigquery-emulator",
     "cover": "https://avatars.githubusercontent.com/u/86866786?v=4",
     "description": "An open source emulator for BigQuery."
+  },
+  {
+    "name": "Tomodachi-Share-Mii",
+    "slug": "tomodachi-share-mii",
+    "creator": "d-samaun",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/d-samaun/Tomodachi-Share-Mii",
+    "cover": "https://avatars.githubusercontent.com/u/181573826?v=4",
+    "description": "tomodachi share mii tomodachi life mii sharing qr codes mii editor database github web utility export mii import mii nintendo 3ds citra emulator save editor avatar generator custom miis collection archive fan made project open source browser app"
+  },
+  {
+    "name": "tomodachi-pc",
+    "slug": "tomodachi-pc",
+    "creator": "roppik",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/roppik/tomodachi-pc",
+    "cover": "https://avatars.githubusercontent.com/u/46084787?v=4",
+    "description": "tomodachi pc port life simulator mii sharing qr codes island life citra fork panda3ds 3ds emulator github living the dream save editor transfer modding hd texture pack 60fps mod desktop utility macos linux open source community enhancement patch fan made translation gameplay simulation"
   }
 ]
