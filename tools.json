@@ -36528,5 +36528,15 @@
     "url": "https://github.com/LkPrtctrd/BSL.v54",
     "cover": "https://avatars.githubusercontent.com/u/147986354?v=4",
     "description": "C Sharp Brawl Stars server emulator for version 54"
+  },
+  {
+    "name": "pokemon-champions-pc",
+    "slug": "pokemon-champions-pc",
+    "creator": "kontaktinfob-popeb-music-glitch",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kontaktinfob-popeb-music-glitch/pokemon-champions-pc",
+    "cover": "https://avatars.githubusercontent.com/u/237193193?v=4",
+    "description": "pokemon champions on pc desktop emulator mobile"
   }
 ]
