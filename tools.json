@@ -36558,5 +36558,15 @@
     "url": "https://github.com/rob-smallshire/beebium",
     "cover": "https://avatars.githubusercontent.com/u/1044137?v=4",
     "description": "A BBC Micro emulator with separate backend and front-end."
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "MatthewMcEwen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MatthewMcEwen/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/91122053?v=4",
+    "description": "PCSX2 - The Playstation 2 Emulator"
   }
 ]
