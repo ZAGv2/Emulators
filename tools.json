@@ -36538,5 +36538,25 @@
     "url": "https://github.com/kontaktinfob-popeb-music-glitch/pokemon-champions-pc",
     "cover": "https://avatars.githubusercontent.com/u/237193193?v=4",
     "description": "pokemon champions on pc desktop emulator mobile"
+  },
+  {
+    "name": "BLEForEmulator",
+    "slug": "bleforemulator",
+    "creator": "engelon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/engelon/BLEForEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/3580319?v=4",
+    "description": "Real Bluetooth for the Android Emulator — macOS bridge + Android library"
+  },
+  {
+    "name": "beebium",
+    "slug": "beebium",
+    "creator": "rob-smallshire",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rob-smallshire/beebium",
+    "cover": "https://avatars.githubusercontent.com/u/1044137?v=4",
+    "description": "A BBC Micro emulator with separate backend and front-end."
   }
 ]
