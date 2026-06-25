@@ -36568,5 +36568,15 @@
     "url": "https://github.com/MatthewMcEwen/pcsx2",
     "cover": "https://avatars.githubusercontent.com/u/91122053?v=4",
     "description": "PCSX2 - The Playstation 2 Emulator"
+  },
+  {
+    "name": "bluestacks-emulator",
+    "slug": "bluestacks-emulator",
+    "creator": "buffercobraoutfit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/buffercobraoutfit/bluestacks-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/293623722?v=4",
+    "description": "BlueStacks Android emulator setup and optimization toolkit"
   }
 ]
