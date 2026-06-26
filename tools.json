@@ -36578,5 +36578,15 @@
     "url": "https://github.com/buffercobraoutfit/bluestacks-emulator",
     "cover": "https://avatars.githubusercontent.com/u/293623722?v=4",
     "description": "BlueStacks Android emulator setup and optimization toolkit"
+  },
+  {
+    "name": "bigquery-emulator-ui",
+    "slug": "bigquery-emulator-ui",
+    "creator": "filipecaixeta",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/filipecaixeta/bigquery-emulator-ui",
+    "cover": "https://avatars.githubusercontent.com/u/1094052?v=4",
+    "description": "..."
   }
 ]
