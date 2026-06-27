@@ -36598,5 +36598,25 @@
     "url": "https://github.com/steeljardas/Kingshot-Bot-Hunting-Gathering-Power-Account-Growth",
     "cover": "https://avatars.githubusercontent.com/u/84510026?v=4",
     "description": "Kingshot Bot Made for android emulators like LDPlayer, Bluestacks, Nox, etc... It will allow you to supercharge your account and outgrow every other player in your server by keeping your account active & improving itself 24/7. Get infinite resources through gathering, train troops, hunt and much more available!"
+  },
+  {
+    "name": "dolphinios",
+    "slug": "dolphinios",
+    "creator": "Pa1chedDream",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/Pa1chedDream/dolphinios",
+    "cover": "https://avatars.githubusercontent.com/u/134000529?v=4",
+    "description": "DolphiniOS - GameCube/Wii emulator for iOS/iPadOS"
+  },
+  {
+    "name": "wiimotedsu",
+    "slug": "wiimotedsu",
+    "creator": "Pa1chedDream",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Pa1chedDream/wiimotedsu",
+    "cover": "https://avatars.githubusercontent.com/u/134000529?v=4",
+    "description": "WiiMoteDSU - Turn your phone into a Wiimote for Dolphin emulator"
   }
 ]
