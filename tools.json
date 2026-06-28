@@ -36628,5 +36628,15 @@
     "url": "https://github.com/mwemuorg/mwemu",
     "cover": "https://avatars.githubusercontent.com/u/297498661?v=4",
     "description": "x86 malware emulator"
+  },
+  {
+    "name": "ps2-emulator",
+    "slug": "ps2-emulator",
+    "creator": "TriangleLeaderHunt37",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/TriangleLeaderHunt37/ps2-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/295477497?v=4",
+    "description": "..."
   }
 ]
