@@ -36618,5 +36618,15 @@
     "url": "https://github.com/Pa1chedDream/wiimotedsu",
     "cover": "https://avatars.githubusercontent.com/u/134000529?v=4",
     "description": "WiiMoteDSU - Turn your phone into a Wiimote for Dolphin emulator"
+  },
+  {
+    "name": "mwemu",
+    "slug": "mwemu",
+    "creator": "mwemuorg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mwemuorg/mwemu",
+    "cover": "https://avatars.githubusercontent.com/u/297498661?v=4",
+    "description": "x86 malware emulator"
   }
 ]
