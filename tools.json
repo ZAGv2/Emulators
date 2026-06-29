@@ -36648,5 +36648,25 @@
     "url": "https://github.com/4jayyy/tomodachi-pc",
     "cover": "https://avatars.githubusercontent.com/u/74713118?v=4",
     "description": "tomodachi pc port tomodachi life simulation game ryujinx emulator switch emulation mii sharing qr codes island life living the dream github download open source save editor hd texture pack 60fps mod custom resolution desktop utility "
+  },
+  {
+    "name": "Stable-Retro",
+    "slug": "stable-retro",
+    "creator": "Farama-Foundation",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Farama-Foundation/Stable-Retro",
+    "cover": "https://avatars.githubusercontent.com/u/62961550?v=4",
+    "description": "A fork of gym-retro with additional games, emulators and supported platforms"
+  },
+  {
+    "name": "sim-use",
+    "slug": "sim-use",
+    "creator": "lycorp-jp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lycorp-jp/sim-use",
+    "cover": "https://avatars.githubusercontent.com/u/132046583?v=4",
+    "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices."
   }
 ]
