@@ -36668,5 +36668,75 @@
     "url": "https://github.com/lycorp-jp/sim-use",
     "cover": "https://avatars.githubusercontent.com/u/132046583?v=4",
     "description": "Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices."
+  },
+  {
+    "name": "android-emulator-internals-illustrated",
+    "slug": "android-emulator-internals-illustrated",
+    "creator": "jaibharatbhuna-bit",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/jaibharatbhuna-bit/android-emulator-internals-illustrated",
+    "cover": "https://avatars.githubusercontent.com/u/258218068?v=4",
+    "description": "Android Emulator Internals Guide 2026 – Architecture, Build & Custom Development"
+  },
+  {
+    "name": "android-adb-tunnel-vantage",
+    "slug": "android-adb-tunnel-vantage",
+    "creator": "Anirudh-pandit-466",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Anirudh-pandit-466/android-adb-tunnel-vantage",
+    "cover": "https://avatars.githubusercontent.com/u/233101579?v=4",
+    "description": "Remote ADB Proxy 2026: Cross-Platform SSH Tunnel & Android Emulator Manager"
+  },
+  {
+    "name": "docker-android-emulator-cluster",
+    "slug": "docker-android-emulator-cluster",
+    "creator": "hoangnd24",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/hoangnd24/docker-android-emulator-cluster",
+    "cover": "https://avatars.githubusercontent.com/u/144251188?v=4",
+    "description": "Android Container with noVNC & Video Recording 2026"
+  },
+  {
+    "name": "uniterm",
+    "slug": "uniterm",
+    "creator": "ys-ll",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ys-ll/uniterm",
+    "cover": "https://avatars.githubusercontent.com/u/114486081?v=4",
+    "description": "A modern cross-platform terminal emulator with a built-in autonomous AI Agent — capable of independently planning and executing multi-turn shell commands, like Claude Code for your terminal."
+  },
+  {
+    "name": "BlueStacks-Performance-Optimizer",
+    "slug": "bluestacks-performance-optimizer",
+    "creator": "suryasitohang15",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/suryasitohang15/BlueStacks-Performance-Optimizer",
+    "cover": "https://avatars.githubusercontent.com/u/136286493?v=4",
+    "description": "BlueStacks Android Emulator Automated Setup Guide 2026"
+  },
+  {
+    "name": "corebluetooth-netem-bridge",
+    "slug": "corebluetooth-netem-bridge",
+    "creator": "doxxie67",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/doxxie67/corebluetooth-netem-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/261112294?v=4",
+    "description": "MacPhone 3.0: Build & Test iOS Bluetooth LE Apps on an Emulator Bridge 2026"
+  },
+  {
+    "name": "ViBeAuto",
+    "slug": "vibeauto",
+    "creator": "git-lakshy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/git-lakshy/ViBeAuto",
+    "cover": "https://avatars.githubusercontent.com/u/172724242?v=4",
+    "description": "Automation extension which automatically navigates through webpages, courses and completes assignments, able to bypass camera stream restrictions by emulating stream."
   }
 ]
