@@ -36738,5 +36738,55 @@
     "url": "https://github.com/git-lakshy/ViBeAuto",
     "cover": "https://avatars.githubusercontent.com/u/172724242?v=4",
     "description": "Automation extension which automatically navigates through webpages, courses and completes assignments, able to bypass camera stream restrictions by emulating stream."
+  },
+  {
+    "name": "MEmu-Play-Emulator-Framework",
+    "slug": "memu-play-emulator-framework",
+    "creator": "amirnopal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/amirnopal/MEmu-Play-Emulator-Framework",
+    "cover": "https://avatars.githubusercontent.com/u/201044163?v=4",
+    "description": "MEmu Play 2026 Full Setup Guide for Windows 11 & 10"
+  },
+  {
+    "name": "OmniCore-Virtual-Legacy",
+    "slug": "omnicore-virtual-legacy",
+    "creator": "johangelg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/johangelg/OmniCore-Virtual-Legacy",
+    "cover": "https://avatars.githubusercontent.com/u/53565494?v=4",
+    "description": "Modern & Legacy System Emulation in One Core 2026: OmniEmu Universal Emulator for Preservation & Testing"
+  },
+  {
+    "name": "LDPlayer-Setup-Utility",
+    "slug": "ldplayer-setup-utility",
+    "creator": "nightblox10-boop",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nightblox10-boop/LDPlayer-Setup-Utility",
+    "cover": "https://avatars.githubusercontent.com/u/291567216?v=4",
+    "description": "LDPlayer 2026 Ultimate Guide: Setup, Optimize & Master Android on Windows 11, 10"
+  },
+  {
+    "name": "wsa-input-mapper-redux",
+    "slug": "wsa-input-mapper-redux",
+    "creator": "AymanMan0",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AymanMan0/wsa-input-mapper-redux",
+    "cover": "https://avatars.githubusercontent.com/u/147921727?v=4",
+    "description": "WMapperKeymapper 2026: Bind Keyboard and Mouse to Android Touch Controls"
+  },
+  {
+    "name": "mobile-sim-streamer",
+    "slug": "mobile-sim-streamer",
+    "creator": "2501035-wq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/2501035-wq/mobile-sim-streamer",
+    "cover": "https://avatars.githubusercontent.com/u/250176814?v=4",
+    "description": "Self-Hosted Mobile Device Streaming for QA Teams 2026"
   }
 ]
