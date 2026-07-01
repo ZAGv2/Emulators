@@ -36798,5 +36798,35 @@
     "url": "https://github.com/CYP4502D6/DCJ11CoreBoard",
     "cover": "https://avatars.githubusercontent.com/u/28823937?v=4",
     "description": "PDP-11 replica project based on the DEC DCJ-11 chipset, utilizing FPGA as bus controller and peripheral emulator, using external SRAM to provide system memory"
+  },
+  {
+    "name": "ChimeraBLE",
+    "slug": "chimerable",
+    "creator": "MatthewKuKanich",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MatthewKuKanich/ChimeraBLE",
+    "cover": "https://avatars.githubusercontent.com/u/113921492?v=4",
+    "description": "Advanced BLE security & reverse-engineering tool for ESP32: scan, GATT dump, HID decode, clone/emulate, foxhunt, and MITM - via serial CLI or Cardputer UI."
+  },
+  {
+    "name": "old-RetroBat-BIOS-obsolete",
+    "slug": "old-retrobat-bios-obsolete",
+    "creator": "kaylh",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/kaylh/old-RetroBat-BIOS-obsolete",
+    "cover": "https://avatars.githubusercontent.com/u/30243810?v=4",
+    "description": "No proprietary BIOSes here, only files needed by emulators to run properly."
+  },
+  {
+    "name": "vim-bubble",
+    "slug": "vim-bubble",
+    "creator": "mieubrisse",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mieubrisse/vim-bubble",
+    "cover": "https://avatars.githubusercontent.com/u/1142185?v=4",
+    "description": "A BubbleTea component for emulating a Vim buffer"
   }
 ]
