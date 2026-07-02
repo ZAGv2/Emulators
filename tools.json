@@ -36838,5 +36838,15 @@
     "url": "https://github.com/linkmaster6/Dolphin-2018-TDEV",
     "cover": "https://avatars.githubusercontent.com/u/1765535?v=4",
     "description": "A build of the Dolphin Emulator biased off of 5.0-8710 modified specifically to run the Metroid Prime 3 Prototype on Android"
+  },
+  {
+    "name": "ryujinx-emu",
+    "slug": "ryujinx-emu",
+    "creator": "ChaseTheHunter",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ChaseTheHunter/ryujinx-emu",
+    "cover": "https://avatars.githubusercontent.com/u/25713250?v=4",
+    "description": "ryujinx emu ryujinx emulator nintendo switch emulation pc gaming open source github mirror download fork ryubing vulkan api opengl renderer shader.  mod ldn multiplayer local wireless save manager firmware setup configuration guide controller mapping dualsense xbox gamepad steam deck linux"
   }
 ]
