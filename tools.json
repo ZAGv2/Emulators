@@ -36828,5 +36828,15 @@
     "url": "https://github.com/mieubrisse/vim-bubble",
     "cover": "https://avatars.githubusercontent.com/u/1142185?v=4",
     "description": "A BubbleTea component for emulating a Vim buffer"
+  },
+  {
+    "name": "Dolphin-2018-TDEV",
+    "slug": "dolphin-2018-tdev",
+    "creator": "linkmaster6",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linkmaster6/Dolphin-2018-TDEV",
+    "cover": "https://avatars.githubusercontent.com/u/1765535?v=4",
+    "description": "A build of the Dolphin Emulator biased off of 5.0-8710 modified specifically to run the Metroid Prime 3 Prototype on Android"
   }
 ]
