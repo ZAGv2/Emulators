@@ -36848,5 +36848,15 @@
     "url": "https://github.com/ChaseTheHunter/ryujinx-emu",
     "cover": "https://avatars.githubusercontent.com/u/25713250?v=4",
     "description": "ryujinx emu ryujinx emulator nintendo switch emulation pc gaming open source github mirror download fork ryubing vulkan api opengl renderer shader.  mod ldn multiplayer local wireless save manager firmware setup configuration guide controller mapping dualsense xbox gamepad steam deck linux"
+  },
+  {
+    "name": "tapflow",
+    "slug": "tapflow",
+    "creator": "jo-duchan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jo-duchan/tapflow",
+    "cover": "https://avatars.githubusercontent.com/u/79234094?v=4",
+    "description": "Self-hosted iOS & Android simulator streaming for the whole team"
   }
 ]
