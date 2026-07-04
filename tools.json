@@ -36878,5 +36878,15 @@
     "url": "https://github.com/payloadcms/vercel-blob-emulator",
     "cover": "https://avatars.githubusercontent.com/u/62968818?v=4",
     "description": "Local Docker emulator for the @vercel/blob SDK - for development and testing only"
+  },
+  {
+    "name": "Zelda-Breath-of-the-Wild-PC-Optimization-Suite",
+    "slug": "zelda-breath-of-the-wild-pc-optimization-suite",
+    "creator": "ClawPilotSplit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ClawPilotSplit/Zelda-Breath-of-the-Wild-PC-Optimization-Suite",
+    "cover": "https://avatars.githubusercontent.com/u/293476541?v=4",
+    "description": "Zelda Breath of the Wild PC Optimization Suite is a Windows configuration bundle for BOTW on PC with FPS presets, shader packs, graphics profiles, and save backup tools for emulator setups."
   }
 ]
