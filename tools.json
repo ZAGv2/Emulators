@@ -36898,5 +36898,25 @@
     "url": "https://github.com/foralexpet/wiimotecast",
     "cover": "https://avatars.githubusercontent.com/u/181274806?v=4",
     "description": "WiimoteCast is an Android application and companion Python server that enables you to use a Nintendo Wiimote as a controller universally (over ViGEmBus [vgamepad] as an XBOX360 controller) for your PC, including support for Dolphin Emulator and for any game with controller support in general."
+  },
+  {
+    "name": "copilot-emulator-patch",
+    "slug": "copilot-emulator-patch",
+    "creator": "Alikhader2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Alikhader2/copilot-emulator-patch",
+    "cover": "https://avatars.githubusercontent.com/u/216944998?v=4",
+    "description": "GitHub Copilot 2026 Pro Access: Get Premium Features Without Subscription"
+  },
+  {
+    "name": "ME10-Android-Emulator-Patch-Pack",
+    "slug": "me10-android-emulator-patch-pack",
+    "creator": "Samuel974-hue",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Samuel974-hue/ME10-Android-Emulator-Patch-Pack",
+    "cover": "https://avatars.githubusercontent.com/u/81464703?v=4",
+    "description": "MEmu Android Emulator 10.0.1 Pro Performance Mod 2026"
   }
 ]
