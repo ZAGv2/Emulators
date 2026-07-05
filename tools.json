@@ -36888,5 +36888,15 @@
     "url": "https://github.com/ClawPilotSplit/Zelda-Breath-of-the-Wild-PC-Optimization-Suite",
     "cover": "https://avatars.githubusercontent.com/u/293476541?v=4",
     "description": "Zelda Breath of the Wild PC Optimization Suite is a Windows configuration bundle for BOTW on PC with FPS presets, shader packs, graphics profiles, and save backup tools for emulator setups."
+  },
+  {
+    "name": "wiimotecast",
+    "slug": "wiimotecast",
+    "creator": "foralexpet",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/foralexpet/wiimotecast",
+    "cover": "https://avatars.githubusercontent.com/u/181274806?v=4",
+    "description": "WiimoteCast is an Android application and companion Python server that enables you to use a Nintendo Wiimote as a controller universally (over ViGEmBus [vgamepad] as an XBOX360 controller) for your PC, including support for Dolphin Emulator and for any game with controller support in general."
   }
 ]
