@@ -36918,5 +36918,15 @@
     "url": "https://github.com/Samuel974-hue/ME10-Android-Emulator-Patch-Pack",
     "cover": "https://avatars.githubusercontent.com/u/81464703?v=4",
     "description": "MEmu Android Emulator 10.0.1 Pro Performance Mod 2026"
+  },
+  {
+    "name": "dolphin-hd",
+    "slug": "dolphin-hd",
+    "creator": "sinceohsix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sinceohsix/dolphin-hd",
+    "cover": "https://avatars.githubusercontent.com/u/44753505?v=4",
+    "description": "HD texture packs for Dolphin Emulator"
   }
 ]
