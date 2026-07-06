@@ -36928,5 +36928,25 @@
     "url": "https://github.com/sinceohsix/dolphin-hd",
     "cover": "https://avatars.githubusercontent.com/u/44753505?v=4",
     "description": "HD texture packs for Dolphin Emulator"
+  },
+  {
+    "name": "ax360e",
+    "slug": "ax360e",
+    "creator": "aenu1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aenu1/ax360e",
+    "cover": "https://avatars.githubusercontent.com/u/209302141?v=4",
+    "description": "An experimental Android XBOX360 emulator based on Xenia and Xenia canary porting."
+  },
+  {
+    "name": "BGMI-Launcher",
+    "slug": "bgmi-launcher",
+    "creator": "daemon-001",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/daemon-001/BGMI-Launcher",
+    "cover": "https://avatars.githubusercontent.com/u/113987446?v=4",
+    "description": "A tool that open BGMI mobile game in LDPlayer Android Emulator (Windows) with bypassing emulator detection"
   }
 ]
