@@ -36948,5 +36948,25 @@
     "url": "https://github.com/daemon-001/BGMI-Launcher",
     "cover": "https://avatars.githubusercontent.com/u/113987446?v=4",
     "description": "A tool that open BGMI mobile game in LDPlayer Android Emulator (Windows) with bypassing emulator detection"
+  },
+  {
+    "name": "gamma-bloke",
+    "slug": "gamma-bloke",
+    "creator": "EimaMei",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EimaMei/gamma-bloke",
+    "cover": "https://avatars.githubusercontent.com/u/69605234?v=4",
+    "description": "Gamma Bloke: An attempt in creating a simple GameBoy emulator, only in C"
+  },
+  {
+    "name": "BetterSteamAutoCracker",
+    "slug": "bettersteamautocracker",
+    "creator": "notrevenant",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/notrevenant/BetterSteamAutoCracker",
+    "cover": "https://avatars.githubusercontent.com/u/59280576?v=4",
+    "description": "Imagined a nice looking Auto Cracker that is as little as ~8MB and is wicked fast? Say, \"hi\" to BSAC!"
   }
 ]
