@@ -36988,5 +36988,25 @@
     "url": "https://github.com/YusufBalmumcu/emu-launcher",
     "cover": "https://avatars.githubusercontent.com/u/162025366?v=4",
     "description": "A simple emulation launcher to organize and quickly start your emulators (Azahar, PCSX2, Eden, etc.) from one window."
+  },
+  {
+    "name": "kb-android-emulator",
+    "slug": "kb-android-emulator",
+    "creator": "kil0bit-kb",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/kil0bit-kb/kb-android-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/106017926?v=4",
+    "description": "A standalone, high-performance Android Emulator Manager built with React and Tauri v2. Features GPU auto-tuning, smart TV/Watch resource clamping, Wipe & Boot recovery, and AOT compilation."
+  },
+  {
+    "name": "open-bot-framework",
+    "slug": "open-bot-framework",
+    "creator": "georgios-tsoumas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/georgios-tsoumas/open-bot-framework",
+    "cover": "https://avatars.githubusercontent.com/u/69189659?v=4",
+    "description": "An open-source, TypeScript-powered backend that emulates Microsoft Bot Framework / Azure Bot Service"
   }
 ]
