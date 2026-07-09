@@ -37008,5 +37008,15 @@
     "url": "https://github.com/georgios-tsoumas/open-bot-framework",
     "cover": "https://avatars.githubusercontent.com/u/69189659?v=4",
     "description": "An open-source, TypeScript-powered backend that emulates Microsoft Bot Framework / Azure Bot Service"
+  },
+  {
+    "name": "linux-idle-master",
+    "slug": "linux-idle-master",
+    "creator": "michael-n0813",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/michael-n0813/linux-idle-master",
+    "cover": "https://avatars.githubusercontent.com/u/30021949?v=4",
+    "description": "Linux version of idle-master, a simple script that emulates being in a steam game to unlock trading cards."
   }
 ]
