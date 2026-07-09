@@ -37018,5 +37018,25 @@
     "url": "https://github.com/michael-n0813/linux-idle-master",
     "cover": "https://avatars.githubusercontent.com/u/30021949?v=4",
     "description": "Linux version of idle-master, a simple script that emulates being in a steam game to unlock trading cards."
+  },
+  {
+    "name": "dolphin-4-web",
+    "slug": "dolphin-4-web",
+    "creator": "Sdaminer",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Sdaminer/dolphin-4-web",
+    "cover": "https://avatars.githubusercontent.com/u/190934575?v=4",
+    "description": "Dolphin Emulator for the web!"
+  },
+  {
+    "name": "play-with-claude",
+    "slug": "play-with-claude",
+    "creator": "teuzowebdeveloper9",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/teuzowebdeveloper9/play-with-claude",
+    "cover": "https://avatars.githubusercontent.com/u/196498933?v=4",
+    "description": "Claude plays Tekken 5 against you on PCSX2 — it counter-picks your character, writes a conditional game plan, and adapts between rounds from live RAM telemetry. 60Hz local executor, zero API calls mid-round. Human-vs-AI record so far: 8 Claude wins in 20 matches."
   }
 ]
