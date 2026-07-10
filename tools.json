@@ -37048,5 +37048,15 @@
     "url": "https://github.com/par274/sharpemu",
     "cover": "https://avatars.githubusercontent.com/u/12572227?v=4",
     "description": "An experimental PlayStation 5 emulator project."
+  },
+  {
+    "name": "Hyperspace",
+    "slug": "hyperspace",
+    "creator": "MicrosoftARMAssembler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MicrosoftARMAssembler/Hyperspace",
+    "cover": "https://avatars.githubusercontent.com/u/257940835?v=4",
+    "description": "Hyperspace is a multi-purpose tool for Emulating, Injecting, Dumping and Externals. "
   }
 ]
