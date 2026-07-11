@@ -37068,5 +37068,15 @@
     "url": "https://github.com/Trihedraf/Dolphin-Big-Screen-Launcher",
     "cover": "https://avatars.githubusercontent.com/u/26759970?v=4",
     "description": "A cross-platform, controller or keyboard launcher for [Dolphin Emulator](https://dolphin-emu.org/) games."
+  },
+  {
+    "name": "KytyPS5",
+    "slug": "kytyps5",
+    "creator": "Nmzik",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Nmzik/KytyPS5",
+    "cover": "https://avatars.githubusercontent.com/u/691945?v=4",
+    "description": "PlayStation 5 emulator for Windows"
   }
 ]
