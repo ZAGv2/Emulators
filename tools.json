@@ -37058,5 +37058,15 @@
     "url": "https://github.com/MicrosoftARMAssembler/Hyperspace",
     "cover": "https://avatars.githubusercontent.com/u/257940835?v=4",
     "description": "Hyperspace is a multi-purpose tool for Emulating, Injecting, Dumping and Externals. "
+  },
+  {
+    "name": "Dolphin-Big-Screen-Launcher",
+    "slug": "dolphin-big-screen-launcher",
+    "creator": "Trihedraf",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Trihedraf/Dolphin-Big-Screen-Launcher",
+    "cover": "https://avatars.githubusercontent.com/u/26759970?v=4",
+    "description": "A cross-platform, controller or keyboard launcher for [Dolphin Emulator](https://dolphin-emu.org/) games."
   }
 ]
