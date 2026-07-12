@@ -37108,5 +37108,15 @@
     "url": "https://github.com/bronchitic-bunt160/kaizen-pc-script-tool",
     "cover": "https://avatars.githubusercontent.com/u/277945189?v=4",
     "description": "Automate targeting and concealment mechanics in PC games with this script utility."
+  },
+  {
+    "name": "partypad",
+    "slug": "partypad",
+    "creator": "benmross",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/benmross/partypad",
+    "cover": "https://avatars.githubusercontent.com/u/85196883?v=4",
+    "description": "Turn phone browsers into motion-capable controllers for Dolphin"
   }
 ]
