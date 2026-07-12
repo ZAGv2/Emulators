@@ -37118,5 +37118,15 @@
     "url": "https://github.com/benmross/partypad",
     "cover": "https://avatars.githubusercontent.com/u/85196883?v=4",
     "description": "Turn phone browsers into motion-capable controllers for Dolphin"
+  },
+  {
+    "name": "Yuzu-Emu",
+    "slug": "yuzu-emu",
+    "creator": "Yuzu-NES",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Yuzu-NES/Yuzu-Emu",
+    "cover": "https://avatars.githubusercontent.com/u/173103003?v=4",
+    "description": " yuzu emulator nintendo switch emulation open source community fork backup archive github repository download link suyu torzu pineappleea vulkan api shader cache graphics mods production keys firmware windows 11 linux steam deck android configuration setup guide troubleshooting performance optimization gaming utility tutorial"
   }
 ]
