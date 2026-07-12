@@ -37078,5 +37078,15 @@
     "url": "https://github.com/Nmzik/KytyPS5",
     "cover": "https://avatars.githubusercontent.com/u/691945?v=4",
     "description": "PlayStation 5 emulator for Windows"
+  },
+  {
+    "name": "pcsx2-standalone",
+    "slug": "pcsx2-standalone",
+    "creator": "Fractal-Echo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Fractal-Echo/pcsx2-standalone",
+    "cover": "https://avatars.githubusercontent.com/u/287325017?v=4",
+    "description": "PCSX2 - The Playstation 2 Emulator"
   }
 ]
