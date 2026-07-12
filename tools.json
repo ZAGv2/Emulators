@@ -37088,5 +37088,15 @@
     "url": "https://github.com/Fractal-Echo/pcsx2-standalone",
     "cover": "https://avatars.githubusercontent.com/u/287325017?v=4",
     "description": "PCSX2 - The Playstation 2 Emulator"
+  },
+  {
+    "name": "Ryujinx-Emu",
+    "slug": "ryujinx-emu",
+    "creator": "ryujinx-emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ryujinx-emu/Ryujinx-Emu",
+    "cover": "https://avatars.githubusercontent.com/u/230632328?v=4",
+    "description": "ryujinx emulator nintendo switch emulation pc gaming open source github repository download link fork ryubing vulkan api opengl renderer shader cache graphics mods ldn multiplayer local wireless save manager firmware setup configuration guide controller mapping steam deck linux windows 11 desktop applicatio"
   }
 ]
