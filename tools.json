@@ -37138,5 +37138,25 @@
     "url": "https://github.com/jdtwy/Transformers-AP-Test",
     "cover": "https://avatars.githubusercontent.com/u/83193721?v=4",
     "description": "Quick/dirty code I wrote for interfacing with PCSX2 emulator using PINE, specifically for modifying RAM in the Transformers 2004 game."
+  },
+  {
+    "name": "bottleship",
+    "slug": "bottleship",
+    "creator": "jenissimo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jenissimo/bottleship",
+    "cover": "https://avatars.githubusercontent.com/u/302287?v=4",
+    "description": "Run classic Windows games in your browser. A high-level-emulation engine that boots real x86 Windows executables and reimplements Win32, COM and DirectDraw/Direct3D on WebGPU, WebAudio and OPFS"
+  },
+  {
+    "name": "boss",
+    "slug": "boss",
+    "creator": "xusheng6",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xusheng6/boss",
+    "cover": "https://avatars.githubusercontent.com/u/94503187?v=4",
+    "description": "Binja Obfuscated String Solver — recover stack & decoded strings in Binary Ninja via the LLIL emulator (inspired by flare-floss)"
   }
 ]
