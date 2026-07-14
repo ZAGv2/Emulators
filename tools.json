@@ -37158,5 +37158,15 @@
     "url": "https://github.com/xusheng6/boss",
     "cover": "https://avatars.githubusercontent.com/u/94503187?v=4",
     "description": "Binja Obfuscated String Solver — recover stack & decoded strings in Binary Ninja via the LLIL emulator (inspired by flare-floss)"
+  },
+  {
+    "name": "blueMSX-plus",
+    "slug": "bluemsx-plus",
+    "creator": "Hesoten",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Hesoten/blueMSX-plus",
+    "cover": "https://avatars.githubusercontent.com/u/286946580?v=4",
+    "description": "an unofficial fork of the MSX emulator blueMSX (https://msxblue.com/bluemsx/), modernized for Windows 11"
   }
 ]
