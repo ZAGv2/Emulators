@@ -37198,5 +37198,15 @@
     "url": "https://github.com/sharpemu/sharpemu",
     "cover": "https://avatars.githubusercontent.com/u/305455046?v=4",
     "description": "An experimental PlayStation 5 emulator project."
+  },
+  {
+    "name": "floci-gcp",
+    "slug": "floci-gcp",
+    "creator": "floci-io",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/floci-io/floci-gcp",
+    "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
+    "description": "Light, fluffy, and always free - GCP Local Emulator"
   }
 ]
