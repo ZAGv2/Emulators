@@ -37188,5 +37188,15 @@
     "url": "https://github.com/Tosserreddwarfstar408/tosserreddwarfstar408.github.io",
     "cover": "https://avatars.githubusercontent.com/u/277744180?v=4",
     "description": "Convert GameCube and Wii NKit disc images to bit-exact ISO files for use in emulators like Dolphin."
+  },
+  {
+    "name": "sharpemu",
+    "slug": "sharpemu",
+    "creator": "sharpemu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sharpemu/sharpemu",
+    "cover": "https://avatars.githubusercontent.com/u/305455046?v=4",
+    "description": "An experimental PlayStation 5 emulator project."
   }
 ]
