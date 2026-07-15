@@ -37168,5 +37168,25 @@
     "url": "https://github.com/Hesoten/blueMSX-plus",
     "cover": "https://avatars.githubusercontent.com/u/286946580?v=4",
     "description": "an unofficial fork of the MSX emulator blueMSX (https://msxblue.com/bluemsx/), modernized for Windows 11"
+  },
+  {
+    "name": "WiiMotion",
+    "slug": "wiimotion",
+    "creator": "taksheelscode",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/taksheelscode/WiiMotion",
+    "cover": "https://avatars.githubusercontent.com/u/218262914?v=4",
+    "description": "Apple Watch motion controller for Dolphin Emulator"
+  },
+  {
+    "name": "tosserreddwarfstar408.github.io",
+    "slug": "tosserreddwarfstar408-github-io",
+    "creator": "Tosserreddwarfstar408",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Tosserreddwarfstar408/tosserreddwarfstar408.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/277744180?v=4",
+    "description": "Convert GameCube and Wii NKit disc images to bit-exact ISO files for use in emulators like Dolphin."
   }
 ]
