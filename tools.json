@@ -37208,5 +37208,35 @@
     "url": "https://github.com/floci-io/floci-gcp",
     "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
     "description": "Light, fluffy, and always free - GCP Local Emulator"
+  },
+  {
+    "name": "beamicom_scenic",
+    "slug": "beamicom-scenic",
+    "creator": "dbernheisel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dbernheisel/beamicom_scenic",
+    "cover": "https://avatars.githubusercontent.com/u/643967?v=4",
+    "description": "NES Emulator in Elixir"
+  },
+  {
+    "name": "android-emulator-detect-bypass",
+    "slug": "android-emulator-detect-bypass",
+    "creator": "mabbcoll13",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/mabbcoll13/android-emulator-detect-bypass",
+    "cover": "https://avatars.githubusercontent.com/u/290022398?v=4",
+    "description": "Android emulator detection bypass: a Magisk module template, an Xposed hook template, a device-property generator, and build tools to package a flashable zip."
+  },
+  {
+    "name": "android-emulator-internal-book",
+    "slug": "android-emulator-internal-book",
+    "creator": "aospbooks",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/aospbooks/android-emulator-internal-book",
+    "cover": "https://avatars.githubusercontent.com/u/270103625?v=4",
+    "description": "The book introduces the internal of Android Emulator"
   }
 ]
