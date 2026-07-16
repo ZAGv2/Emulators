@@ -37238,5 +37238,15 @@
     "url": "https://github.com/aospbooks/android-emulator-internal-book",
     "cover": "https://avatars.githubusercontent.com/u/270103625?v=4",
     "description": "The book introduces the internal of Android Emulator"
+  },
+  {
+    "name": "KytyPS5",
+    "slug": "kytyps5",
+    "creator": "KytyPS5",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KytyPS5/KytyPS5",
+    "cover": "https://avatars.githubusercontent.com/u/305704146?v=4",
+    "description": "PlayStation 5 emulator for Windows"
   }
 ]
