@@ -37248,5 +37248,15 @@
     "url": "https://github.com/KytyPS5/KytyPS5",
     "cover": "https://avatars.githubusercontent.com/u/305704146?v=4",
     "description": "PlayStation 5 emulator for Windows"
+  },
+  {
+    "name": "Proyecto-Nevada---Wiimotes-conectados-mediante-Bluetooth-al-emulador-Dolphin",
+    "slug": "proyecto-nevada-wiimotes-conectados-mediante-bluetooth-al-emulador-dolphin",
+    "creator": "juandanieltech-design",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/juandanieltech-design/Proyecto-Nevada---Wiimotes-conectados-mediante-Bluetooth-al-emulador-Dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/267960847?v=4",
+    "description": "Technical documentation of connecting original Nintendo Wii Remotes to Dolphin Emulator on Linux using Bluetooth, including troubleshooting, configuration, and real hardware testing."
   }
 ]
