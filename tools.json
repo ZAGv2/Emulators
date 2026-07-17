@@ -37258,5 +37258,35 @@
     "url": "https://github.com/juandanieltech-design/Proyecto-Nevada---Wiimotes-conectados-mediante-Bluetooth-al-emulador-Dolphin",
     "cover": "https://avatars.githubusercontent.com/u/267960847?v=4",
     "description": "Technical documentation of connecting original Nintendo Wii Remotes to Dolphin Emulator on Linux using Bluetooth, including troubleshooting, configuration, and real hardware testing."
+  },
+  {
+    "name": "beamicom",
+    "slug": "beamicom",
+    "creator": "dbernheisel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dbernheisel/beamicom",
+    "cover": "https://avatars.githubusercontent.com/u/643967?v=4",
+    "description": "NES Emulator in Elixir"
+  },
+  {
+    "name": "JCI-bsi-emulator",
+    "slug": "jci-bsi-emulator",
+    "creator": "prototux",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/prototux/JCI-bsi-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/1549232?v=4",
+    "description": "An emulator for ARMv7TDMI-based (Johnson Controls/JCI) BSI, as used on AEE2004 PSA cars (emulating the EasyCan4 MCU)"
+  },
+  {
+    "name": "bmx",
+    "slug": "bmx",
+    "creator": "kdre",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kdre/bmx",
+    "cover": "https://avatars.githubusercontent.com/u/1189361?v=4",
+    "description": "A Bare Metal Emulator for the Raspberry Pi 4/5 family."
   }
 ]
