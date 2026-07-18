@@ -37298,5 +37298,15 @@
     "url": "https://github.com/Night-Traders-Dev/Bramble",
     "cover": "https://avatars.githubusercontent.com/u/80061955?v=4",
     "description": "A from-scratch emulator for Raspberry Pi RP2040 and RP2350 microcontrollers, supporting both ARM Cortex-M0+ (Thumb) and RISC-V Hazard3 (RV32IMAC) cores. Loads and executes UF2 and ELF firmware with accurate memory mapping and peripheral emulation."
+  },
+  {
+    "name": "wives",
+    "slug": "wives",
+    "creator": "workhog-app",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/workhog-app/wives",
+    "cover": "https://avatars.githubusercontent.com/u/179501407?v=4",
+    "description": "A beautiful, modern & feature-rich Terminal Emulator"
   }
 ]
