@@ -37308,5 +37308,15 @@
     "url": "https://github.com/workhog-app/wives",
     "cover": "https://avatars.githubusercontent.com/u/179501407?v=4",
     "description": "A beautiful, modern & feature-rich Terminal Emulator"
+  },
+  {
+    "name": "yazelix",
+    "slug": "yazelix",
+    "creator": "luccahuguet",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/luccahuguet/yazelix",
+    "cover": "https://avatars.githubusercontent.com/u/27565287?v=4",
+    "description": "Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, Lazygit, Ratconfig, optional coding agents, a configurable widget bar for CPU, RAM, and AI usage, cursor effects, and terminal animations"
   }
 ]
