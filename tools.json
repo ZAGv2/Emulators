@@ -37318,5 +37318,15 @@
     "url": "https://github.com/luccahuguet/yazelix",
     "cover": "https://avatars.githubusercontent.com/u/27565287?v=4",
     "description": "Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, Lazygit, Ratconfig, optional coding agents, a configurable widget bar for CPU, RAM, and AI usage, cursor effects, and terminal animations"
+  },
+  {
+    "name": "BFA-HavenCore",
+    "slug": "bfa-havencore",
+    "creator": "Hextv",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Hextv/BFA-HavenCore",
+    "cover": "https://avatars.githubusercontent.com/u/132233897?v=4",
+    "description": "BFA-HavenCore is a open-source project for World of Warcraft, currently supporting the 8.3.7 (build 35662) game version."
   }
 ]
