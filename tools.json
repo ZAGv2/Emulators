@@ -37338,5 +37338,25 @@
     "url": "https://github.com/synOptixCode/Skylanders-Vibrancy-Collection-for-ReShade",
     "cover": "https://avatars.githubusercontent.com/u/211319848?v=4",
     "description": "A collection of lightweight ReShade presets for games in the Skylanders series designed to inject vibrant colors, restore contrast and remove blur for use with emulators."
+  },
+  {
+    "name": "AnyGameAnywhere",
+    "slug": "anygameanywhere",
+    "creator": "srbengueros",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/srbengueros/AnyGameAnywhere",
+    "cover": "https://avatars.githubusercontent.com/u/254354140?v=4",
+    "description": "Play ANY game online with friends — even games without multiplayer. Emulators, retro games, Epic, GOG, or any executable. Just add to launcher, invite friends. Works with PCSX2, Dolphin, RetroArch, and more. Free & lightweight. Made with ❤️ by ROCHIZIN. 🎮 https://www.youtube.com/@ROCHIZIN"
+  },
+  {
+    "name": "MPS2",
+    "slug": "mps2",
+    "creator": "Abhishekrazy",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/Abhishekrazy/MPS2",
+    "cover": "https://avatars.githubusercontent.com/u/20985137?v=4",
+    "description": "PS2 emulator for Android (iOS planned) — GameHub-style UI, broad SoC/GPU support. Based on ARMSX2/PCSX2 (GPLv3)."
   }
 ]
