@@ -37358,5 +37358,25 @@
     "url": "https://github.com/Abhishekrazy/MPS2",
     "cover": "https://avatars.githubusercontent.com/u/20985137?v=4",
     "description": "PS2 emulator for Android (iOS planned) — GameHub-style UI, broad SoC/GPU support. Based on ARMSX2/PCSX2 (GPLv3)."
+  },
+  {
+    "name": "Anemoia-NES-Emulator-fixes",
+    "slug": "anemoia-nes-emulator-fixes",
+    "creator": "rkindustriesYT",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/rkindustriesYT/Anemoia-NES-Emulator-fixes",
+    "cover": "https://avatars.githubusercontent.com/u/140969045?v=4",
+    "description": "..."
+  },
+  {
+    "name": "busybar-emulator",
+    "slug": "busybar-emulator",
+    "creator": "maxswinkels",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/maxswinkels/busybar-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/17542867?v=4",
+    "description": "A faithful local emulator of the Flipper BUSY Bar: mock HTTP API and live LED display. Unofficial community project."
   }
 ]
