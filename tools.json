@@ -37378,5 +37378,15 @@
     "url": "https://github.com/maxswinkels/busybar-emulator",
     "cover": "https://avatars.githubusercontent.com/u/17542867?v=4",
     "description": "A faithful local emulator of the Flipper BUSY Bar: mock HTTP API and live LED display. Unofficial community project."
+  },
+  {
+    "name": "qemu-system-ia64",
+    "slug": "qemu-system-ia64",
+    "creator": "syunnPC",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/syunnPC/qemu-system-ia64",
+    "cover": "https://avatars.githubusercontent.com/u/127605285?v=4",
+    "description": "A QEMU-based experimental IA-64 full system emulator"
   }
 ]
