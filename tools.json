@@ -37388,5 +37388,15 @@
     "url": "https://github.com/syunnPC/qemu-system-ia64",
     "cover": "https://avatars.githubusercontent.com/u/127605285?v=4",
     "description": "A QEMU-based experimental IA-64 full system emulator"
+  },
+  {
+    "name": "dolphin-emu-shaders",
+    "slug": "dolphin-emu-shaders",
+    "creator": "andrewleosteel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/andrewleosteel/dolphin-emu-shaders",
+    "cover": "https://avatars.githubusercontent.com/u/33418880?v=4",
+    "description": "Custom post-processing effects for the Dolphin emulator."
   }
 ]
