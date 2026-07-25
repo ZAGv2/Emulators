@@ -37398,5 +37398,15 @@
     "url": "https://github.com/andrewleosteel/dolphin-emu-shaders",
     "cover": "https://avatars.githubusercontent.com/u/33418880?v=4",
     "description": "Custom post-processing effects for the Dolphin emulator."
+  },
+  {
+    "name": "emulator-uefi-shell-app",
+    "slug": "emulator-uefi-shell-app",
+    "creator": "MikeWuPing",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MikeWuPing/emulator-uefi-shell-app",
+    "cover": "https://avatars.githubusercontent.com/u/18527141?v=4",
+    "description": "本技能可以为 Claude Code 提供 UEFI Shell 应用程序开发的完整知识库，涵盖从环境搭建到调试部署的全流程. This skill provides Claude Code with complete knowledge for UEFI Shell application development, covering the entire workflow from environment setup to debugging and deployment."
   }
 ]
