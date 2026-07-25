@@ -37408,5 +37408,15 @@
     "url": "https://github.com/MikeWuPing/emulator-uefi-shell-app",
     "cover": "https://avatars.githubusercontent.com/u/18527141?v=4",
     "description": "本技能可以为 Claude Code 提供 UEFI Shell 应用程序开发的完整知识库，涵盖从环境搭建到调试部署的全流程. This skill provides Claude Code with complete knowledge for UEFI Shell application development, covering the entire workflow from environment setup to debugging and deployment."
+  },
+  {
+    "name": "background-action",
+    "slug": "background-action",
+    "creator": "JarvusInnovations",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JarvusInnovations/background-action",
+    "cover": "https://avatars.githubusercontent.com/u/609450?v=4",
+    "description": "GitHub Action: run a long-running process (server, emulator, tunnel) in the background and wait until the http endpoints, tcp ports, sockets or files it provides are ready. Output is captured to files, not your job log, and replayed only when you choose, such as on failure. If it dies on startup you fail instantly with its logs."
   }
 ]
