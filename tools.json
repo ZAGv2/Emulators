@@ -37428,5 +37428,15 @@
     "url": "https://github.com/jaker-z/gamecube-saves",
     "cover": "https://avatars.githubusercontent.com/u/279795687?v=4",
     "description": "Dolphin Emulator Gamecube saves"
+  },
+  {
+    "name": "iron-boy-advance",
+    "slug": "iron-boy-advance",
+    "creator": "areklaw2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/areklaw2/iron-boy-advance",
+    "cover": "https://avatars.githubusercontent.com/u/79781048?v=4",
+    "description": "Iron Boy Advance a Game Boy Advance emulator and debugger, written in Rust."
   }
 ]
