@@ -37448,5 +37448,15 @@
     "url": "https://github.com/stampdomaingrip/bluestacks",
     "cover": "https://avatars.githubusercontent.com/u/301825133?v=4",
     "description": "Android emulator for running mobile apps and games on Windows and macOS"
+  },
+  {
+    "name": "Chip8",
+    "slug": "chip8",
+    "creator": "netpro2k",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/netpro2k/Chip8",
+    "cover": "https://avatars.githubusercontent.com/u/130735?v=4",
+    "description": "A Chip8 Emulator"
   }
 ]
