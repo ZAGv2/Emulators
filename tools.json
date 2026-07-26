@@ -37418,5 +37418,15 @@
     "url": "https://github.com/JarvusInnovations/background-action",
     "cover": "https://avatars.githubusercontent.com/u/609450?v=4",
     "description": "GitHub Action: run a long-running process (server, emulator, tunnel) in the background and wait until the http endpoints, tcp ports, sockets or files it provides are ready. Output is captured to files, not your job log, and replayed only when you choose, such as on failure. If it dies on startup you fail instantly with its logs."
+  },
+  {
+    "name": "gamecube-saves",
+    "slug": "gamecube-saves",
+    "creator": "jaker-z",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jaker-z/gamecube-saves",
+    "cover": "https://avatars.githubusercontent.com/u/279795687?v=4",
+    "description": "Dolphin Emulator Gamecube saves"
   }
 ]
