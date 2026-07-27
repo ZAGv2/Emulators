@@ -37478,5 +37478,55 @@
     "url": "https://github.com/InvestorCapture/pcsx2",
     "cover": "https://avatars.githubusercontent.com/u/301831795?v=4",
     "description": "Open-source PlayStation 2 emulator with broad game compatibility and graphical enhancements"
+  },
+  {
+    "name": "citra",
+    "slug": "citra",
+    "creator": "StoneJourneyman",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/StoneJourneyman/citra",
+    "cover": "https://avatars.githubusercontent.com/u/301825634?v=4",
+    "description": "Open-source Nintendo 3DS emulator for playing 3DS games on PC"
+  },
+  {
+    "name": "greenluma",
+    "slug": "greenluma",
+    "creator": "TropicalMagpieComply",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TropicalMagpieComply/greenluma",
+    "cover": "https://avatars.githubusercontent.com/u/301828747?v=4",
+    "description": "Steam DRM bypass tool that emulates game ownership by spoofing license verification"
+  },
+  {
+    "name": "rpcs3",
+    "slug": "rpcs3",
+    "creator": "DrizzleAnalyst",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DrizzleAnalyst/rpcs3",
+    "cover": "https://avatars.githubusercontent.com/u/298506308?v=4",
+    "description": "Open-source PlayStation 3 emulator for running PS3 games on PC"
+  },
+  {
+    "name": "cemu",
+    "slug": "cemu",
+    "creator": "CyclopsCourierCreate",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CyclopsCourierCreate/cemu",
+    "cover": "https://avatars.githubusercontent.com/u/301825625?v=4",
+    "description": "Open-source Wii U emulator for running Wii U games on PC with enhanced graphics"
+  },
+  {
+    "name": "vita3k",
+    "slug": "vita3k",
+    "creator": "masspilotwhirl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/masspilotwhirl/vita3k",
+    "cover": "https://avatars.githubusercontent.com/u/298508153?v=4",
+    "description": "Open-source PlayStation Vita emulator for running PS Vita games on PC"
   }
 ]
