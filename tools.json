@@ -37528,5 +37528,15 @@
     "url": "https://github.com/masspilotwhirl/vita3k",
     "cover": "https://avatars.githubusercontent.com/u/298508153?v=4",
     "description": "Open-source PlayStation Vita emulator for running PS Vita games on PC"
+  },
+  {
+    "name": "BSL.v68",
+    "slug": "bsl-v68",
+    "creator": "LkPrtctrd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/LkPrtctrd/BSL.v68",
+    "cover": "https://avatars.githubusercontent.com/u/147986354?v=4",
+    "description": "C Sharp Brawl Stars server emulator for version 68"
   }
 ]
