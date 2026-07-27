@@ -37458,5 +37458,25 @@
     "url": "https://github.com/netpro2k/Chip8",
     "cover": "https://avatars.githubusercontent.com/u/130735?v=4",
     "description": "A Chip8 Emulator"
+  },
+  {
+    "name": "dolphin-emu",
+    "slug": "dolphin-emu",
+    "creator": "crestlightgaze",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/crestlightgaze/dolphin-emu",
+    "cover": "https://avatars.githubusercontent.com/u/301827632?v=4",
+    "description": "Open-source Nintendo GameCube and Wii emulator for playing console games on PC"
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "InvestorCapture",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/InvestorCapture/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/301831795?v=4",
+    "description": "Open-source PlayStation 2 emulator with broad game compatibility and graphical enhancements"
   }
 ]
