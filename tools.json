@@ -37538,5 +37538,15 @@
     "url": "https://github.com/LkPrtctrd/BSL.v68",
     "cover": "https://avatars.githubusercontent.com/u/147986354?v=4",
     "description": "C Sharp Brawl Stars server emulator for version 68"
+  },
+  {
+    "name": "iced_term",
+    "slug": "iced-term",
+    "creator": "kemokempo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kemokempo/iced_term",
+    "cover": "https://avatars.githubusercontent.com/u/29344092?v=4",
+    "description": "Terminal emulator widget powered by ICED framework and alacritty terminal backend."
   }
 ]
