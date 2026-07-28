@@ -37558,5 +37558,25 @@
     "url": "https://github.com/martingeidobler/android-mcp-server",
     "cover": "https://avatars.githubusercontent.com/u/77100219?v=4",
     "description": "MCP server for controlling Android emulators via ADB — screenshots, UI interaction, logcat, and bug documentation for Claude Code"
+  },
+  {
+    "name": "dolphin-gamecube-wii-emulator-hd",
+    "slug": "dolphin-gamecube-wii-emulator-hd",
+    "creator": "Marooneoknot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Marooneoknot/dolphin-gamecube-wii-emulator-hd",
+    "cover": "https://avatars.githubusercontent.com/u/300109722?v=4",
+    "description": "Dolphin Emulator"
+  },
+  {
+    "name": "pcsx2-rpcs3-citra-cemu-emulator-pack",
+    "slug": "pcsx2-rpcs3-citra-cemu-emulator-pack",
+    "creator": "Drizzleofreanimate",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Drizzleofreanimate/pcsx2-rpcs3-citra-cemu-emulator-pack",
+    "cover": "https://avatars.githubusercontent.com/u/300112449?v=4",
+    "description": "Game Emulators"
   }
 ]
