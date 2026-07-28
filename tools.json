@@ -37578,5 +37578,15 @@
     "url": "https://github.com/Drizzleofreanimate/pcsx2-rpcs3-citra-cemu-emulator-pack",
     "cover": "https://avatars.githubusercontent.com/u/300112449?v=4",
     "description": "Game Emulators"
+  },
+  {
+    "name": "bluestacks-5-android-emulator-pro",
+    "slug": "bluestacks-5-android-emulator-pro",
+    "creator": "MidwifeChateau",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/MidwifeChateau/bluestacks-5-android-emulator-pro",
+    "cover": "https://avatars.githubusercontent.com/u/300107853?v=4",
+    "description": "Bluestacks"
   }
 ]
