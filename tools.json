@@ -37548,5 +37548,15 @@
     "url": "https://github.com/kemokempo/iced_term",
     "cover": "https://avatars.githubusercontent.com/u/29344092?v=4",
     "description": "Terminal emulator widget powered by ICED framework and alacritty terminal backend."
+  },
+  {
+    "name": "android-mcp-server",
+    "slug": "android-mcp-server",
+    "creator": "martingeidobler",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/martingeidobler/android-mcp-server",
+    "cover": "https://avatars.githubusercontent.com/u/77100219?v=4",
+    "description": "MCP server for controlling Android emulators via ADB — screenshots, UI interaction, logcat, and bug documentation for Claude Code"
   }
 ]
