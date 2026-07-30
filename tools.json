@@ -37628,5 +37628,15 @@
     "url": "https://github.com/SuperTavor/puniemu",
     "cover": "https://avatars.githubusercontent.com/u/111663937?v=4",
     "description": "Puniemu is a server emulator for Yo-kai Watch Puni Puni, written in C#."
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "byteshiftlabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/byteshiftlabs/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/35693456?v=4",
+    "description": "PCSX2 - The Playstation 2 Emulator"
   }
 ]
