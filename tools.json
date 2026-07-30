@@ -37598,5 +37598,15 @@
     "url": "https://github.com/fhoedemakers/pico-bootLoader",
     "cover": "https://avatars.githubusercontent.com/u/8100740?v=4",
     "description": "Turn your RP2350 board into a retro console — an on-screen boot menu that flashes and launches emulators and Doom straight from the SD card. Works for any RP2350 app you make bootable."
+  },
+  {
+    "name": "orca",
+    "slug": "orca",
+    "creator": "russiang00s3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/russiang00s3/orca",
+    "cover": "https://avatars.githubusercontent.com/u/209811202?v=4",
+    "description": "Introducing Orca: A web-based Wii Emulator based on Dolphin"
   }
 ]
