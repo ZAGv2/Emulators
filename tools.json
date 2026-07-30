@@ -37608,5 +37608,25 @@
     "url": "https://github.com/russiang00s3/orca",
     "cover": "https://avatars.githubusercontent.com/u/209811202?v=4",
     "description": "Introducing Orca: A web-based Wii Emulator based on Dolphin"
+  },
+  {
+    "name": "Super3",
+    "slug": "super3",
+    "creator": "izzy2lost",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/izzy2lost/Super3",
+    "cover": "https://avatars.githubusercontent.com/u/170889516?v=4",
+    "description": "Super3 a Sega Model 3 emulator for android based on the supermodel emulator"
+  },
+  {
+    "name": "puniemu",
+    "slug": "puniemu",
+    "creator": "SuperTavor",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SuperTavor/puniemu",
+    "cover": "https://avatars.githubusercontent.com/u/111663937?v=4",
+    "description": "Puniemu is a server emulator for Yo-kai Watch Puni Puni, written in C#."
   }
 ]
