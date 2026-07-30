@@ -37588,5 +37588,15 @@
     "url": "https://github.com/MidwifeChateau/bluestacks-5-android-emulator-pro",
     "cover": "https://avatars.githubusercontent.com/u/300107853?v=4",
     "description": "Bluestacks"
+  },
+  {
+    "name": "pico-bootLoader",
+    "slug": "pico-bootloader",
+    "creator": "fhoedemakers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fhoedemakers/pico-bootLoader",
+    "cover": "https://avatars.githubusercontent.com/u/8100740?v=4",
+    "description": "Turn your RP2350 board into a retro console — an on-screen boot menu that flashes and launches emulators and Doom straight from the SD card. Works for any RP2350 app you make bootable."
   }
 ]
