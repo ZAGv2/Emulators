@@ -37638,5 +37638,15 @@
     "url": "https://github.com/byteshiftlabs/pcsx2",
     "cover": "https://avatars.githubusercontent.com/u/35693456?v=4",
     "description": "PCSX2 - The Playstation 2 Emulator"
+  },
+  {
+    "name": "hinge-auto",
+    "slug": "hinge-auto",
+    "creator": "TerraByte-Dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TerraByte-Dev/hinge-auto",
+    "cover": "https://avatars.githubusercontent.com/u/220516856?v=4",
+    "description": "Emulator + ADB + Claude/Ollama vision: experimental Hinge automation that judges profiles and writes personalized openers against a user-defined rubric."
   }
 ]
