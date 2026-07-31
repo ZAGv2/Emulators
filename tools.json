@@ -37648,5 +37648,25 @@
     "url": "https://github.com/TerraByte-Dev/hinge-auto",
     "cover": "https://avatars.githubusercontent.com/u/220516856?v=4",
     "description": "Emulator + ADB + Claude/Ollama vision: experimental Hinge automation that judges profiles and writes personalized openers against a user-defined rubric."
+  },
+  {
+    "name": "dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "hiddenheronmoat",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hiddenheronmoat/dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/307222342?v=4",
+    "description": "Dolphin Emulator"
+  },
+  {
+    "name": "CRT-Geom-Shader-Filter-for-Dolphin",
+    "slug": "crt-geom-shader-filter-for-dolphin",
+    "creator": "reagansi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/reagansi/CRT-Geom-Shader-Filter-for-Dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/311235724?v=4",
+    "description": "Port of OpenEmu's CRT-Geom Shader to the Dolphin emulator"
   }
 ]
