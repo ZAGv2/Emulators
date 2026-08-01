@@ -37668,5 +37668,15 @@
     "url": "https://github.com/reagansi/CRT-Geom-Shader-Filter-for-Dolphin",
     "cover": "https://avatars.githubusercontent.com/u/311235724?v=4",
     "description": "Port of OpenEmu's CRT-Geom Shader to the Dolphin emulator"
+  },
+  {
+    "name": "flycast-wasm",
+    "slug": "flycast-wasm",
+    "creator": "nasomers",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nasomers/flycast-wasm",
+    "cover": "https://avatars.githubusercontent.com/u/26925692?v=4",
+    "description": "The first Sega Dreamcast emulator running in a browser. Custom SH4 to WebAssembly JIT recompiler at native performance. Core, patches, full technical writeup."
   }
 ]
