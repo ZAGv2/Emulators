@@ -37698,5 +37698,15 @@
     "url": "https://github.com/bml3mk5/EmuB-S1",
     "cover": "https://avatars.githubusercontent.com/u/99339286?v=4",
     "description": "This is an emulator that behaves like Hitachi MB-S1."
+  },
+  {
+    "name": "xeno-pc-auto-update-exec",
+    "slug": "xeno-pc-auto-update-exec",
+    "creator": "thommy001132",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/thommy001132/xeno-pc-auto-update-exec",
+    "cover": "https://avatars.githubusercontent.com/u/211561801?v=4",
+    "description": "Execute Roblox Lua scripts on Windows with this automated injector featuring a built-in script hub and automatic update support."
   }
 ]
