@@ -37708,5 +37708,15 @@
     "url": "https://github.com/thommy001132/xeno-pc-auto-update-exec",
     "cover": "https://avatars.githubusercontent.com/u/211561801?v=4",
     "description": "Execute Roblox Lua scripts on Windows with this automated injector featuring a built-in script hub and automatic update support."
+  },
+  {
+    "name": "ProjectBlackoutServer",
+    "slug": "projectblackoutserver",
+    "creator": "dekthaiinchina",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dekthaiinchina/ProjectBlackoutServer",
+    "cover": "https://avatars.githubusercontent.com/u/132539847?v=4",
+    "description": "pointblank server emulator written in c#"
   }
 ]
