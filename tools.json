@@ -37678,5 +37678,25 @@
     "url": "https://github.com/nasomers/flycast-wasm",
     "cover": "https://avatars.githubusercontent.com/u/26925692?v=4",
     "description": "The first Sega Dreamcast emulator running in a browser. Custom SH4 to WebAssembly JIT recompiler at native performance. Core, patches, full technical writeup."
+  },
+  {
+    "name": "ProjectBlackoutServerV324",
+    "slug": "projectblackoutserverv324",
+    "creator": "dekthaiinchina",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dekthaiinchina/ProjectBlackoutServerV324",
+    "cover": "https://avatars.githubusercontent.com/u/132539847?v=4",
+    "description": "pointblank server emulator v3.24 written in c#"
+  },
+  {
+    "name": "EmuB-S1",
+    "slug": "emub-s1",
+    "creator": "bml3mk5",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bml3mk5/EmuB-S1",
+    "cover": "https://avatars.githubusercontent.com/u/99339286?v=4",
+    "description": "This is an emulator that behaves like Hitachi MB-S1."
   }
 ]
