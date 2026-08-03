@@ -37738,5 +37738,15 @@
     "url": "https://github.com/pg83/shitty",
     "cover": "https://avatars.githubusercontent.com/u/1481268?v=4",
     "description": "A serious terminal emulator with a stupid name"
+  },
+  {
+    "name": "PCSX2ARM64",
+    "slug": "pcsx2arm64",
+    "creator": "bazley82",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bazley82/PCSX2ARM64",
+    "cover": "https://avatars.githubusercontent.com/u/106496550?v=4",
+    "description": "Native Apple Silicon (ARM64/macOS) standalone port of the PCSX2 PlayStation 2 emulator, built with AI-assisted coding."
   }
 ]
