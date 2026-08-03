@@ -37728,5 +37728,15 @@
     "url": "https://github.com/wie-project/kakehashi",
     "cover": "https://avatars.githubusercontent.com/u/308322985?v=4",
     "description": "Userspace macOS translation layer for Linux ARM64"
+  },
+  {
+    "name": "shitty",
+    "slug": "shitty",
+    "creator": "pg83",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pg83/shitty",
+    "cover": "https://avatars.githubusercontent.com/u/1481268?v=4",
+    "description": "A serious terminal emulator with a stupid name"
   }
 ]
