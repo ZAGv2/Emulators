@@ -37718,5 +37718,15 @@
     "url": "https://github.com/dekthaiinchina/ProjectBlackoutServer",
     "cover": "https://avatars.githubusercontent.com/u/132539847?v=4",
     "description": "pointblank server emulator written in c#"
+  },
+  {
+    "name": "kakehashi",
+    "slug": "kakehashi",
+    "creator": "wie-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wie-project/kakehashi",
+    "cover": "https://avatars.githubusercontent.com/u/308322985?v=4",
+    "description": "Userspace macOS translation layer for Linux ARM64"
   }
 ]
