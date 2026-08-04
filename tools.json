@@ -37748,5 +37748,15 @@
     "url": "https://github.com/bazley82/PCSX2ARM64",
     "cover": "https://avatars.githubusercontent.com/u/106496550?v=4",
     "description": "Native Apple Silicon (ARM64/macOS) standalone port of the PCSX2 PlayStation 2 emulator, built with AI-assisted coding."
+  },
+  {
+    "name": "ARMSX1",
+    "slug": "armsx1",
+    "creator": "ARMSX2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ARMSX2/ARMSX1",
+    "cover": "https://avatars.githubusercontent.com/u/225954912?v=4",
+    "description": "New PS1 Emulator from the Founders of ARMSX2 "
   }
 ]
