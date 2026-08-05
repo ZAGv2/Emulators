@@ -37758,5 +37758,15 @@
     "url": "https://github.com/ARMSX2/ARMSX1",
     "cover": "https://avatars.githubusercontent.com/u/225954912?v=4",
     "description": "New PS1 Emulator from the Founders of ARMSX2 "
+  },
+  {
+    "name": "Bootbox",
+    "slug": "bootbox",
+    "creator": "yu314-coder",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yu314-coder/Bootbox",
+    "cover": "https://avatars.githubusercontent.com/u/174002717?v=4",
+    "description": "Boot manager for iPad — boots real 64-bit Linux (dual-core x86-64 + ARM64), Windows 98/2000, Python + pip + Wine, with real internet and Files-app integration. QEMU-Wasm + v86 in a native iOS app; everything on-device, guest images download on demand."
   }
 ]
