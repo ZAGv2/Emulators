@@ -37798,5 +37798,15 @@
     "url": "https://github.com/evnzt/PlayStation-Save-Manager",
     "cover": "https://avatars.githubusercontent.com/u/226440841?v=4",
     "description": "A Windows application for managing PlayStation and PlayStation 2 memory cards, individual saves, save packages, PCSX2 folder cards, and conversions across consoles and emulators."
+  },
+  {
+    "name": "android_emulator",
+    "slug": "android-emulator",
+    "creator": "ashishb",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/ashishb/android_emulator",
+    "cover": "https://avatars.githubusercontent.com/u/389236?v=4",
+    "description": "A customized version of Android Emulator"
   }
 ]
