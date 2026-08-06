@@ -37818,5 +37818,15 @@
     "url": "https://github.com/dbernheisel/beamicom-core-old",
     "cover": "https://avatars.githubusercontent.com/u/643967?v=4",
     "description": "NES Emulator in Elixir"
+  },
+  {
+    "name": "virtualjaguar-libretro",
+    "slug": "virtualjaguar-libretro",
+    "creator": "libretro",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/libretro/virtualjaguar-libretro",
+    "cover": "https://avatars.githubusercontent.com/u/1812827?v=4",
+    "description": "Atari Jaguar and Jaguar CD emulator for libretro/RetroArch — the actively maintained continuation of Virtual Jaguar. Embedded BIOS, save states, netplay link cable, RetroAchievements."
   }
 ]
