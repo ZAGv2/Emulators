@@ -37808,5 +37808,15 @@
     "url": "https://github.com/ashishb/android_emulator",
     "cover": "https://avatars.githubusercontent.com/u/389236?v=4",
     "description": "A customized version of Android Emulator"
+  },
+  {
+    "name": "beamicom-core-old",
+    "slug": "beamicom-core-old",
+    "creator": "dbernheisel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dbernheisel/beamicom-core-old",
+    "cover": "https://avatars.githubusercontent.com/u/643967?v=4",
+    "description": "NES Emulator in Elixir"
   }
 ]
