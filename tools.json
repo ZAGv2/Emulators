@@ -37838,5 +37838,35 @@
     "url": "https://github.com/wukinnin/dolphin_ds4",
     "cover": "https://avatars.githubusercontent.com/u/84181231?v=4",
     "description": "save to your user directory @ \"Dolphin Emulator/Config/Profiles\""
+  },
+  {
+    "name": "codex-micro-stream-deck-emulator",
+    "slug": "codex-micro-stream-deck-emulator",
+    "creator": "mpociot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mpociot/codex-micro-stream-deck-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/804684?v=4",
+    "description": "Use your Elgato Stream Deck as a Codex Micro keyboard"
+  },
+  {
+    "name": "VirtualBloxStudio",
+    "slug": "virtualbloxstudio",
+    "creator": "Humanagon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Humanagon/VirtualBloxStudio",
+    "cover": "https://avatars.githubusercontent.com/u/57272456?v=4",
+    "description": "ROBLOX Studio 2016 Emulator that runs inside Roblox!"
+  },
+  {
+    "name": "7DSGC_Semi-LegitBot",
+    "slug": "7dsgc-semi-legitbot",
+    "creator": "JeSuisJo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/JeSuisJo/7DSGC_Semi-LegitBot",
+    "cover": "https://avatars.githubusercontent.com/u/68827364?v=4",
+    "description": "Automation bot for The Seven Deadly Sins: Grand Cross : Daily, Auto Demon Farm, and Equipment Farm."
   }
 ]
