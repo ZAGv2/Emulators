@@ -37868,5 +37868,15 @@
     "url": "https://github.com/JeSuisJo/7DSGC_Semi-LegitBot",
     "cover": "https://avatars.githubusercontent.com/u/68827364?v=4",
     "description": "Automation bot for The Seven Deadly Sins: Grand Cross : Daily, Auto Demon Farm, and Equipment Farm."
+  },
+  {
+    "name": "ipsx2",
+    "slug": "ipsx2",
+    "creator": "tayyipdogan360",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tayyipdogan360/ipsx2",
+    "cover": "https://avatars.githubusercontent.com/u/267103531?v=4",
+    "description": "PS2 Game emulator with ported PCSX2 ,ARMSX2"
   }
 ]
