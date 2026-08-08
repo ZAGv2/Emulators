@@ -37878,5 +37878,15 @@
     "url": "https://github.com/tayyipdogan360/ipsx2",
     "cover": "https://avatars.githubusercontent.com/u/267103531?v=4",
     "description": "PS2 Game emulator with ported PCSX2 ,ARMSX2"
+  },
+  {
+    "name": "sandbox",
+    "slug": "sandbox",
+    "creator": "ton-blockchain",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ton-blockchain/sandbox",
+    "cover": "https://avatars.githubusercontent.com/u/55018343?v=4",
+    "description": "Local TON emulator"
   }
 ]
