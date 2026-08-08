@@ -37888,5 +37888,15 @@
     "url": "https://github.com/ton-blockchain/sandbox",
     "cover": "https://avatars.githubusercontent.com/u/55018343?v=4",
     "description": "Local TON emulator"
+  },
+  {
+    "name": "PocketHLE",
+    "slug": "pockethle",
+    "creator": "j92580498-max",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/j92580498-max/PocketHLE",
+    "cover": "https://avatars.githubusercontent.com/u/252151737?v=4",
+    "description": "A high-level Windows Mobile / Pocket PC emulator for Linux, Windows and Android."
   }
 ]
