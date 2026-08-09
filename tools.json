@@ -37938,5 +37938,15 @@
     "url": "https://github.com/valedetonative801/synapse-pc-lua-executor",
     "cover": "https://avatars.githubusercontent.com/u/276370280?v=4",
     "description": "Run Roblox Lua scripts on Windows with a keyless 2026 executor, 500+ scripts, and a sleek desktop client."
+  },
+  {
+    "name": "nova",
+    "slug": "nova",
+    "creator": "Yazelix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Yazelix/nova",
+    "cover": "https://avatars.githubusercontent.com/u/313977451?v=4",
+    "description": "Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, Lazygit, Ratconfig, optional coding agents, a configurable widget bar for CPU, RAM, and AI usage, cursor effects, and terminal animations"
   }
 ]
