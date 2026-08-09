@@ -37958,5 +37958,25 @@
     "url": "https://github.com/Dolphin-GameCube/.github",
     "cover": "https://avatars.githubusercontent.com/u/315008688?v=4",
     "description": "Download Dolphin to play legally owned GameCube and Wii dumps plus homebrew on a PC you own. Dolphin emulator tools help you set controllers, graphics backends, and per-game profiles so discs you dumped from hardware you bought stay playable in private desktop sessions."
+  },
+  {
+    "name": "dolphin-exp",
+    "slug": "dolphin-exp",
+    "creator": "wiiUEnthustiant26",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wiiUEnthustiant26/dolphin-exp",
+    "cover": "https://avatars.githubusercontent.com/u/314692091?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-Personal-Backups",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-Personal-Backups/.github",
+    "cover": "https://avatars.githubusercontent.com/u/315040388?v=4",
+    "description": "Download PCSX2 to play legally owned PlayStation 2 game dumps, homebrew software, and personal disc backups on your own Windows PC. Built for collectors using the PCSX2 PlayStation 2 emulator toolkit, it helps upscale owned titles, manage memory cards, and keep classic libraries running locally with modern controllers."
   }
 ]
