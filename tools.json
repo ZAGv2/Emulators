@@ -37898,5 +37898,35 @@
     "url": "https://github.com/j92580498-max/PocketHLE",
     "cover": "https://avatars.githubusercontent.com/u/252151737?v=4",
     "description": "A high-level Windows Mobile / Pocket PC emulator for Linux, Windows and Android."
+  },
+  {
+    "name": "Ryujinx-Emu",
+    "slug": "ryujinx-emu",
+    "creator": "ryujinxcanary",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ryujinxcanary/Ryujinx-Emu",
+    "cover": "https://avatars.githubusercontent.com/u/291608021?v=4",
+    "description": "Ryujinx Canary download  Nintendo Switch emulator for PC, Mac and Linux. Play Zelda Tears of the Kingdom, Mario, Pokemon in 4K. Ryujinx keys and firmware setup guide, prod.keys folder location explained. Ryujinx vs Yuzu best emulator 2026. Ryujinx android via forks. Ryujinx canary github latest build 1.1.1403. Download Ryujinx emulator free."
+  },
+  {
+    "name": "Yuzu-Emu",
+    "slug": "yuzu-emu",
+    "creator": "yuzunintendoemulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yuzunintendoemulator/Yuzu-Emu",
+    "cover": "https://avatars.githubusercontent.com/u/306774706?v=4",
+    "description": "Yuzu emulator download play Nintendo Switch games on Windows, Linux and Android APK. Yuzu emulator quickstart guide, install tutorial, prod.keys and firmware setup. Yuzu emulator Android APK via Eden, Suyu, Sudachi and Citron forks. Yuzu emulator Reddit 2026 .Yuzu emulator iOS support. Download Yuzu free best Nintendo Switch emulator for PC."
+  },
+  {
+    "name": "Splatoon-Raiders-PC-Port",
+    "slug": "splatoon-raiders-pc-port",
+    "creator": "splatoonraiders",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/splatoonraiders/Splatoon-Raiders-PC-Port",
+    "cover": "https://avatars.githubusercontent.com/u/228673370?v=4",
+    "description": "Splatoon Raiders PC guide to playing Splatoon Raiders on PC via Nintendo Switch 2 emulator. Splatoon pc port, splatoon 3 pc port setup, splatoon raiders gameplay, Deep Cut, Spirhalite Islands. Play Splatoon Raiders on Windows, macOS and Linux with Ryujinx and Yuzu. Full controller, gyro and LDN multiplayer setup. Download the Splatoon Raiders PC"
   }
 ]
