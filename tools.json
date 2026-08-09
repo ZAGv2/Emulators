@@ -37948,5 +37948,15 @@
     "url": "https://github.com/Yazelix/nova",
     "cover": "https://avatars.githubusercontent.com/u/313977451?v=4",
     "description": "Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, Lazygit, Ratconfig, optional coding agents, a configurable widget bar for CPU, RAM, and AI usage, cursor effects, and terminal animations"
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "Dolphin-GameCube",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Dolphin-GameCube/.github",
+    "cover": "https://avatars.githubusercontent.com/u/315008688?v=4",
+    "description": "Download Dolphin to play legally owned GameCube and Wii dumps plus homebrew on a PC you own. Dolphin emulator tools help you set controllers, graphics backends, and per-game profiles so discs you dumped from hardware you bought stay playable in private desktop sessions."
   }
 ]
