@@ -37978,5 +37978,15 @@
     "url": "https://github.com/PCSX2-Personal-Backups/.github",
     "cover": "https://avatars.githubusercontent.com/u/315040388?v=4",
     "description": "Download PCSX2 to play legally owned PlayStation 2 game dumps, homebrew software, and personal disc backups on your own Windows PC. Built for collectors using the PCSX2 PlayStation 2 emulator toolkit, it helps upscale owned titles, manage memory cards, and keep classic libraries running locally with modern controllers."
+  },
+  {
+    "name": "nebula",
+    "slug": "nebula",
+    "creator": "Kuddev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kuddev/nebula",
+    "cover": "https://avatars.githubusercontent.com/u/292709043?v=4",
+    "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows."
   }
 ]
