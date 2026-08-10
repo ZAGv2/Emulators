@@ -37988,5 +37988,15 @@
     "url": "https://github.com/Kuddev/nebula",
     "cover": "https://avatars.githubusercontent.com/u/292709043?v=4",
     "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows."
+  },
+  {
+    "name": "OpenBor_on_mac",
+    "slug": "openbor-on-mac",
+    "creator": "sasus470",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sasus470/OpenBor_on_mac",
+    "cover": "https://avatars.githubusercontent.com/u/107611104?v=4",
+    "description": "An upgraded OpenBor emulator of the old build created for the old Mac systems"
   }
 ]
