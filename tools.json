@@ -38018,5 +38018,15 @@
     "url": "https://github.com/Containerpak/dolphin-emu",
     "cover": "https://avatars.githubusercontent.com/u/144563190?v=4",
     "description": "Dolphin Emulator package for cpak"
+  },
+  {
+    "name": "Gradient-Light-Bridge",
+    "slug": "gradient-light-bridge",
+    "creator": "3Qax",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/3Qax/Gradient-Light-Bridge",
+    "cover": "https://avatars.githubusercontent.com/u/16107365?v=4",
+    "description": "Hue-compatible Zigbee gradient light emulator for OpenRGB and addressable LEDs."
   }
 ]
