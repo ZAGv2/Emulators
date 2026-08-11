@@ -37998,5 +37998,15 @@
     "url": "https://github.com/sasus470/OpenBor_on_mac",
     "cover": "https://avatars.githubusercontent.com/u/107611104?v=4",
     "description": "An upgraded OpenBor emulator of the old build created for the old Mac systems"
+  },
+  {
+    "name": "basil-gb",
+    "slug": "basil-gb",
+    "creator": "h4lfheart",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/h4lfheart/basil-gb",
+    "cover": "https://avatars.githubusercontent.com/u/69497698?v=4",
+    "description": "A cycle-accurate Game Boy Color emulator built for FPGA hardware"
   }
 ]
