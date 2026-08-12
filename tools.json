@@ -38038,5 +38038,35 @@
     "url": "https://github.com/jiangxincode/BBKEmu",
     "cover": "https://avatars.githubusercontent.com/u/5327122?v=4",
     "description": "BBK Electronic Dictionary Game Emulator"
+  },
+  {
+    "name": "dolphin-4-web",
+    "slug": "dolphin-4-web",
+    "creator": "duckisapie",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/duckisapie/dolphin-4-web",
+    "cover": "https://avatars.githubusercontent.com/u/190934575?v=4",
+    "description": "Dolphin Emulator for the web!"
+  },
+  {
+    "name": "retro-shooter-pro-emulator-dolphin",
+    "slug": "retro-shooter-pro-emulator-dolphin",
+    "creator": "igormouawad",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/igormouawad/retro-shooter-pro-emulator-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/4791766?v=4",
+    "description": "Dolphin integration module for Retro Shooter Pro"
+  },
+  {
+    "name": "dolphin-helm-chart",
+    "slug": "dolphin-helm-chart",
+    "creator": "HenriqZimer",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HenriqZimer/dolphin-helm-chart",
+    "cover": "https://avatars.githubusercontent.com/u/62187338?v=4",
+    "description": "Helm chart for running Dolphin (GameCube/Wii emulator) as a browser-based KasmVNC desktop on Kubernetes"
   }
 ]
