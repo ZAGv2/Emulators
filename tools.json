@@ -38028,5 +38028,15 @@
     "url": "https://github.com/3Qax/Gradient-Light-Bridge",
     "cover": "https://avatars.githubusercontent.com/u/16107365?v=4",
     "description": "Hue-compatible Zigbee gradient light emulator for OpenRGB and addressable LEDs."
+  },
+  {
+    "name": "BBKEmu",
+    "slug": "bbkemu",
+    "creator": "jiangxincode",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jiangxincode/BBKEmu",
+    "cover": "https://avatars.githubusercontent.com/u/5327122?v=4",
+    "description": "BBK Electronic Dictionary Game Emulator"
   }
 ]
