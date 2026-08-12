@@ -38068,5 +38068,15 @@
     "url": "https://github.com/HenriqZimer/dolphin-helm-chart",
     "cover": "https://avatars.githubusercontent.com/u/62187338?v=4",
     "description": "Helm chart for running Dolphin (GameCube/Wii emulator) as a browser-based KasmVNC desktop on Kubernetes"
+  },
+  {
+    "name": "dolphin_pfc",
+    "slug": "dolphin-pfc",
+    "creator": "patrickfcarey",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/patrickfcarey/dolphin_pfc",
+    "cover": "https://avatars.githubusercontent.com/u/13877160?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
   }
 ]
