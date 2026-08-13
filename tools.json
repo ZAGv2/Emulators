@@ -38088,5 +38088,15 @@
     "url": "https://github.com/MauritsArissen/OpenServiceBus",
     "cover": "https://avatars.githubusercontent.com/u/43166413?v=4",
     "description": "Building an open-source Azure Service Bus emulator - drop-in Docker container for local development. Real AMQP, works with official SDKs. Contributors welcome."
+  },
+  {
+    "name": "Ryujinx-Nextendo",
+    "slug": "ryujinx-nextendo",
+    "creator": "NextendoNetwork",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NextendoNetwork/Ryujinx-Nextendo",
+    "cover": "https://avatars.githubusercontent.com/u/308141678?v=4",
+    "description": "The Nextendo Network emulator — a Ryujinx build with the Nextendo account system and online play built in. Windows x64."
   }
 ]
