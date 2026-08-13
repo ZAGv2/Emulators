@@ -38078,5 +38078,15 @@
     "url": "https://github.com/patrickfcarey/dolphin_pfc",
     "cover": "https://avatars.githubusercontent.com/u/13877160?v=4",
     "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "OpenServiceBus",
+    "slug": "openservicebus",
+    "creator": "MauritsArissen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MauritsArissen/OpenServiceBus",
+    "cover": "https://avatars.githubusercontent.com/u/43166413?v=4",
+    "description": "Building an open-source Azure Service Bus emulator - drop-in Docker container for local development. Real AMQP, works with official SDKs. Contributors welcome."
   }
 ]
