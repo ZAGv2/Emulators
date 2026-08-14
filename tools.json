@@ -38138,5 +38138,15 @@
     "url": "https://github.com/Serega25511s/Batla-3D-server-emu",
     "cover": "https://avatars.githubusercontent.com/u/113927159?v=4",
     "description": "Clean-room server emulator for Batla 3D, the 2015 Unity 4 arena shooter whose servers shut down. Reimplements the HTTP API and UDP combat protocol recovered from the shipped client, plus a CIL patcher that repoints the game at your own host, so you can run matches with friends. No game files included."
+  },
+  {
+    "name": "cterm",
+    "slug": "cterm",
+    "creator": "uint23",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/uint23/cterm",
+    "cover": "https://avatars.githubusercontent.com/u/72694427?v=4",
+    "description": "A tiny, cross-platform terminal emulator (written in C)"
   }
 ]
