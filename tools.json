@@ -38118,5 +38118,25 @@
     "url": "https://github.com/thecybersandeep/Frida-Launcher",
     "cover": "https://avatars.githubusercontent.com/u/172130560?v=4",
     "description": "An Android app to easily manage Frida server on your device or emulator"
+  },
+  {
+    "name": "m365-copilot-proxy",
+    "slug": "m365-copilot-proxy",
+    "creator": "cramt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cramt/m365-copilot-proxy",
+    "cover": "https://avatars.githubusercontent.com/u/23054512?v=4",
+    "description": "OpenAI-compatible proxy for Microsoft 365 Copilot — use the Copilot licence you already have as a backend for pi, openclaw and other coding agents. Prompt-emulated tool calling, no extra licence, no MCP."
+  },
+  {
+    "name": "Batla-3D-server-emu",
+    "slug": "batla-3d-server-emu",
+    "creator": "Serega25511s",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Serega25511s/Batla-3D-server-emu",
+    "cover": "https://avatars.githubusercontent.com/u/113927159?v=4",
+    "description": "Clean-room server emulator for Batla 3D, the 2015 Unity 4 arena shooter whose servers shut down. Reimplements the HTTP API and UDP combat protocol recovered from the shipped client, plus a CIL patcher that repoints the game at your own host, so you can run matches with friends. No game files included."
   }
 ]
