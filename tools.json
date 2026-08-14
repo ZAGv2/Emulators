@@ -38098,5 +38098,15 @@
     "url": "https://github.com/NextendoNetwork/Ryujinx-Nextendo",
     "cover": "https://avatars.githubusercontent.com/u/308141678?v=4",
     "description": "The Nextendo Network emulator — a Ryujinx build with the Nextendo account system and online play built in. Windows x64."
+  },
+  {
+    "name": "trs80-coco-basic",
+    "slug": "trs80-coco-basic",
+    "creator": "bshichman",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bshichman/trs80-coco-basic",
+    "cover": "https://avatars.githubusercontent.com/u/3093962?v=4",
+    "description": "TRS-80 Color Computer Extended BASIC Emulator in JavaScript"
   }
 ]
