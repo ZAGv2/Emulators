@@ -38148,5 +38148,15 @@
     "url": "https://github.com/uint23/cterm",
     "cover": "https://avatars.githubusercontent.com/u/72694427?v=4",
     "description": "A tiny, cross-platform terminal emulator (written in C)"
+  },
+  {
+    "name": "BFA-HavenCore",
+    "slug": "bfa-havencore",
+    "creator": "HavenWoW",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HavenWoW/BFA-HavenCore",
+    "cover": "https://avatars.githubusercontent.com/u/317394488?v=4",
+    "description": "BFA-HavenCore is a open-source project for World of Warcraft, currently supporting the 8.3.7 (build 35662) game version."
   }
 ]
