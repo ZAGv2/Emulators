@@ -38188,5 +38188,35 @@
     "url": "https://github.com/SapphireRhodonite/SeedlessDS",
     "cover": "https://avatars.githubusercontent.com/u/29993671?v=4",
     "description": "A Nintendo DS emulator app for Android, built for handhelds with physical controls and, above all, for devices"
+  },
+  {
+    "name": "bluekey",
+    "slug": "bluekey",
+    "creator": "olbyolby",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/olbyolby/bluekey",
+    "cover": "https://avatars.githubusercontent.com/u/108549480?v=4",
+    "description": "Pass a keyboard or mouse through an emulated Bluetooth device"
+  },
+  {
+    "name": "dsh-hdc-bridge",
+    "slug": "dsh-hdc-bridge",
+    "creator": "1na-ko",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/1na-ko/dsh-hdc-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/178667615?v=4",
+    "description": "DSH 原生鸿蒙开发助手：hdc 设备闭环调试 + 设备面板（官方 client 插件形态）+ 离线官方知识层（Tier-1 随包）+ DevEco CLI 构建/签名/模拟器控制 / DSH-native HarmonyOS dev assistant: hdc device loop, live device panel, offline official knowledge, DevEco CLI build/sign/emulator"
+  },
+  {
+    "name": "Dragon-Island-Blue-TouchHLE-Emulator",
+    "slug": "dragon-island-blue-touchhle-emulator",
+    "creator": "Calpringles",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Calpringles/Dragon-Island-Blue-TouchHLE-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/227794600?v=4",
+    "description": "Unlocked Frame rate, Speedhack (hotkeys \"[\" - Speed down | \"]\" - Speed up) 1.5x Resolution, fixed crashing bug after many battles."
   }
 ]
