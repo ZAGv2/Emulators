@@ -38168,5 +38168,15 @@
     "url": "https://github.com/BlazejosP/Sony-Bravia-TV",
     "cover": "https://avatars.githubusercontent.com/u/60147797?v=4",
     "description": "IRCC-IP protocol API dedicated to substitute emulate remote  over IP in Sony Bravia TV manufactured between (2010-2013) "
+  },
+  {
+    "name": "pokemon-go-coin-bag",
+    "slug": "pokemon-go-coin-bag",
+    "creator": "na-ji",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/na-ji/pokemon-go-coin-bag",
+    "cover": "https://avatars.githubusercontent.com/u/757637?v=4",
+    "description": "Emulates a Nintendo Switch over Bluetooth to pair with the Pokémon GO app and receive postcards, without needing a real Switch."
   }
 ]
