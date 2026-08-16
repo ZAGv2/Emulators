@@ -38178,5 +38178,15 @@
     "url": "https://github.com/na-ji/pokemon-go-coin-bag",
     "cover": "https://avatars.githubusercontent.com/u/757637?v=4",
     "description": "Emulates a Nintendo Switch over Bluetooth to pair with the Pokémon GO app and receive postcards, without needing a real Switch."
+  },
+  {
+    "name": "SeedlessDS",
+    "slug": "seedlessds",
+    "creator": "SapphireRhodonite",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SapphireRhodonite/SeedlessDS",
+    "cover": "https://avatars.githubusercontent.com/u/29993671?v=4",
+    "description": "A Nintendo DS emulator app for Android, built for handhelds with physical controls and, above all, for devices"
   }
 ]
