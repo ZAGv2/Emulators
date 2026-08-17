@@ -38258,5 +38258,15 @@
     "url": "https://github.com/sort282-rgb/battery-display-t-display-s3",
     "cover": "https://avatars.githubusercontent.com/u/308944026?v=4",
     "description": "Battery Emulator dashboard firmware and web installer for LILYGO T-Display-S3"
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-Emulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-Emulator/.github",
+    "cover": "https://avatars.githubusercontent.com/u/318001589?v=4",
+    "description": "Download PCSX2 to play PlayStation 2 titles from game dumps you legally own and homebrew software you are authorized to use. Built for careful PC emulation, it helps users manage PCSX2 emulator profiles and PCSX2 settings packages on hardware they control with stable configs."
   }
 ]
