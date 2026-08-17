@@ -38248,5 +38248,15 @@
     "url": "https://github.com/reapercanuk39/termux-kotlin-app",
     "cover": "https://avatars.githubusercontent.com/u/117741646?v=4",
     "description": "🚀 Termux Android Terminal Emulator - Fully converted to Kotlin! A modern, type-safe fork of the official termux-app with 100% Kotlin codebase."
+  },
+  {
+    "name": "battery-display-t-display-s3",
+    "slug": "battery-display-t-display-s3",
+    "creator": "sort282-rgb",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sort282-rgb/battery-display-t-display-s3",
+    "cover": "https://avatars.githubusercontent.com/u/308944026?v=4",
+    "description": "Battery Emulator dashboard firmware and web installer for LILYGO T-Display-S3"
   }
 ]
