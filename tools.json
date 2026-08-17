@@ -38218,5 +38218,25 @@
     "url": "https://github.com/Calpringles/Dragon-Island-Blue-TouchHLE-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/227794600?v=4",
     "description": "Unlocked Frame rate, Speedhack (hotkeys \"[\" - Speed down | \"]\" - Speed up) 1.5x Resolution, fixed crashing bug after many battles."
+  },
+  {
+    "name": "AetherKiri",
+    "slug": "aetherkiri",
+    "creator": "AetherKiri",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AetherKiri/AetherKiri",
+    "cover": "https://avatars.githubusercontent.com/u/286601150?v=4",
+    "description": "A cross-platform, multi-runtime visual novel emulator using Godot 4 as the rendering layer."
+  },
+  {
+    "name": "blaze",
+    "slug": "blaze",
+    "creator": "grid-leak",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/grid-leak/blaze",
+    "cover": "https://avatars.githubusercontent.com/u/274784240?v=4",
+    "description": "EA's Blaze emulator for Mirror's Edge catalyst written in Rust"
   }
 ]
