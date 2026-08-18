@@ -38318,5 +38318,15 @@
     "url": "https://github.com/billeted-2429-crevices/Dolphin-Emulator-Premium-Suite",
     "cover": "https://avatars.githubusercontent.com/u/317848420?v=4",
     "description": "Dolphin Emulator – Premium features and enhanced tools for Windows 10/11 emulation."
+  },
+  {
+    "name": "PCSX2-Portable-Tools-Suite-2026",
+    "slug": "pcsx2-portable-tools-suite-2026",
+    "creator": "uncoiled-846122wefts",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/uncoiled-846122wefts/PCSX2-Portable-Tools-Suite-2026",
+    "cover": "https://avatars.githubusercontent.com/u/317841195?v=4",
+    "description": "PCSX2 – A comprehensive tool suite for configuring and enhancing your PCSX2 emulator experience with portable features and advanced settings."
   }
 ]
