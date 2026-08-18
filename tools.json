@@ -38268,5 +38268,45 @@
     "url": "https://github.com/PCSX2-Emulator/.github",
     "cover": "https://avatars.githubusercontent.com/u/318001589?v=4",
     "description": "Download PCSX2 to play PlayStation 2 titles from game dumps you legally own and homebrew software you are authorized to use. Built for careful PC emulation, it helps users manage PCSX2 emulator profiles and PCSX2 settings packages on hardware they control with stable configs."
+  },
+  {
+    "name": "dolphin-ios-ui",
+    "slug": "dolphin-ios-ui",
+    "creator": "bward-dev1",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/bward-dev1/dolphin-ios-ui",
+    "cover": "https://avatars.githubusercontent.com/u/219576721?v=4",
+    "description": "UI modernization fork of dolphin-ios (sleek reskin)"
+  },
+  {
+    "name": "dolphin-ios-ui-glass",
+    "slug": "dolphin-ios-ui-glass",
+    "creator": "bward-dev1",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/bward-dev1/dolphin-ios-ui-glass",
+    "cover": "https://avatars.githubusercontent.com/u/219576721?v=4",
+    "description": "UI modernization tier 3 (iOS 26, native Liquid Glass, full SwiftUI) of dolphin-ios"
+  },
+  {
+    "name": "dolphin-ios-ui-modern",
+    "slug": "dolphin-ios-ui-modern",
+    "creator": "bward-dev1",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/bward-dev1/dolphin-ios-ui-modern",
+    "cover": "https://avatars.githubusercontent.com/u/219576721?v=4",
+    "description": "UI modernization tier 2 (iOS 17-18, SwiftUI-in-UIKit-shell) of dolphin-ios"
+  },
+  {
+    "name": "dolphin-ios-controller",
+    "slug": "dolphin-ios-controller",
+    "creator": "bward-dev1",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/bward-dev1/dolphin-ios-controller",
+    "cover": "https://avatars.githubusercontent.com/u/219576721?v=4",
+    "description": "DolphiniOS Controller Architecture fork — one Virtual Wii Remote presented in five modes (Normal / On-Device Portrait+Landscape / TV Portrait+Landscape), with a back-normal 'Apple logo' IR anchor and multi-remote DSU."
   }
 ]
