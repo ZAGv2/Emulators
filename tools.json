@@ -38308,5 +38308,15 @@
     "url": "https://github.com/bward-dev1/dolphin-ios-controller",
     "cover": "https://avatars.githubusercontent.com/u/219576721?v=4",
     "description": "DolphiniOS Controller Architecture fork — one Virtual Wii Remote presented in five modes (Normal / On-Device Portrait+Landscape / TV Portrait+Landscape), with a back-normal 'Apple logo' IR anchor and multi-remote DSU."
+  },
+  {
+    "name": "Dolphin-Emulator-Premium-Suite",
+    "slug": "dolphin-emulator-premium-suite",
+    "creator": "billeted-2429-crevices",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/billeted-2429-crevices/Dolphin-Emulator-Premium-Suite",
+    "cover": "https://avatars.githubusercontent.com/u/317848420?v=4",
+    "description": "Dolphin Emulator – Premium features and enhanced tools for Windows 10/11 emulation."
   }
 ]
