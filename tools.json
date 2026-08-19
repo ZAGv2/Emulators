@@ -38348,5 +38348,15 @@
     "url": "https://github.com/ProjectShiftHomebrew/DolphinULator",
     "cover": "https://avatars.githubusercontent.com/u/249133116?v=4",
     "description": "Free html emulator with wii/wiiu support"
+  },
+  {
+    "name": "nokia-dct3-emulator",
+    "slug": "nokia-dct3-emulator",
+    "creator": "djr-747",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/djr-747/nokia-dct3-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/10139667?v=4",
+    "description": "Open-source emulator + analysis toolkit for Nokia DCT3 phones (3310/3410/5210/8210/8250/8850…). Boots real firmware in the browser (WASM) and a native SDL GUI. Bring-your-own firmware — none included. GPL-2."
   }
 ]
