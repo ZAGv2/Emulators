@@ -38338,5 +38338,15 @@
     "url": "https://github.com/erik-dunteman/browserbox",
     "cover": "https://avatars.githubusercontent.com/u/44653944?v=4",
     "description": "Risc-V emulator compiled to WASM, with the (stretch) goal of running a Linux kernel"
+  },
+  {
+    "name": "DolphinULator",
+    "slug": "dolphinulator",
+    "creator": "ProjectShiftHomebrew",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ProjectShiftHomebrew/DolphinULator",
+    "cover": "https://avatars.githubusercontent.com/u/249133116?v=4",
+    "description": "Free html emulator with wii/wiiu support"
   }
 ]
