@@ -38328,5 +38328,15 @@
     "url": "https://github.com/uncoiled-846122wefts/PCSX2-Portable-Tools-Suite-2026",
     "cover": "https://avatars.githubusercontent.com/u/317841195?v=4",
     "description": "PCSX2 – A comprehensive tool suite for configuring and enhancing your PCSX2 emulator experience with portable features and advanced settings."
+  },
+  {
+    "name": "browserbox",
+    "slug": "browserbox",
+    "creator": "erik-dunteman",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/erik-dunteman/browserbox",
+    "cover": "https://avatars.githubusercontent.com/u/44653944?v=4",
+    "description": "Risc-V emulator compiled to WASM, with the (stretch) goal of running a Linux kernel"
   }
 ]
