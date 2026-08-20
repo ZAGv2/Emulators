@@ -38378,5 +38378,45 @@
     "url": "https://github.com/wanszai/Ridge-Racer-Collection",
     "cover": "https://avatars.githubusercontent.com/u/159951181?v=4",
     "description": "Ridge Racer collection System 22 Emulator "
+  },
+  {
+    "name": "pcsx2-helm-chart",
+    "slug": "pcsx2-helm-chart",
+    "creator": "HenriqZimer",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HenriqZimer/pcsx2-helm-chart",
+    "cover": "https://avatars.githubusercontent.com/u/62187338?v=4",
+    "description": "Helm chart for PCSX2, the PlayStation 2 emulator, deployed as a full desktop over the browser via KasmVNC."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-Emulator-App",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-Emulator-App/.github",
+    "cover": "https://avatars.githubusercontent.com/u/318818560?v=4",
+    "description": "Download PCSX2 for Windows, the free PS2 emulator with a cover downloader, wide compatibility, and a tidy game library for playing your own PlayStation 2 games."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-Desktop-App",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-Desktop-App/.github",
+    "cover": "https://avatars.githubusercontent.com/u/318817019?v=4",
+    "description": "Download PCSX2 for Windows, the free PS2 emulator that plays your own PlayStation 2 titles with upscaled visuals, save states, and controller support on any PC."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-App-Windows",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-App-Windows/.github",
+    "cover": "https://avatars.githubusercontent.com/u/318818051?v=4",
+    "description": "Download PCSX2 for Windows, the open-source PS2 emulator on GitHub, and dial in the best settings to run your own PlayStation 2 games smoothly with better visuals."
   }
 ]
