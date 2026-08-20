@@ -38368,5 +38368,15 @@
     "url": "https://github.com/ymir-emu/Ymir",
     "cover": "https://avatars.githubusercontent.com/u/292791808?v=4",
     "description": "Sega Saturn emulator"
+  },
+  {
+    "name": "Ridge-Racer-Collection",
+    "slug": "ridge-racer-collection",
+    "creator": "wanszai",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wanszai/Ridge-Racer-Collection",
+    "cover": "https://avatars.githubusercontent.com/u/159951181?v=4",
+    "description": "Ridge Racer collection System 22 Emulator "
   }
 ]
