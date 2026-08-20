@@ -38418,5 +38418,15 @@
     "url": "https://github.com/PCSX2-App-Windows/.github",
     "cover": "https://avatars.githubusercontent.com/u/318818051?v=4",
     "description": "Download PCSX2 for Windows, the open-source PS2 emulator on GitHub, and dial in the best settings to run your own PlayStation 2 games smoothly with better visuals."
+  },
+  {
+    "name": "PCSX2-Ultimate-2026-Suite",
+    "slug": "pcsx2-ultimate-2026-suite",
+    "creator": "status-triads99013",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/status-triads99013/PCSX2-Ultimate-2026-Suite",
+    "cover": "https://avatars.githubusercontent.com/u/317883724?v=4",
+    "description": "PCSX2 – An all-in-one enhancement suite for the PCSX2 emulator with advanced graphics and performance tuning features."
   }
 ]
