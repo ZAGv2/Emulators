@@ -38428,5 +38428,15 @@
     "url": "https://github.com/status-triads99013/PCSX2-Ultimate-2026-Suite",
     "cover": "https://avatars.githubusercontent.com/u/317883724?v=4",
     "description": "PCSX2 – An all-in-one enhancement suite for the PCSX2 emulator with advanced graphics and performance tuning features."
+  },
+  {
+    "name": "Pokemon-XD-Game-in-Darkness",
+    "slug": "pokemon-xd-game-in-darkness",
+    "creator": "PeanutPablo",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/PeanutPablo/Pokemon-XD-Game-in-Darkness",
+    "cover": "https://avatars.githubusercontent.com/u/134905686?v=4",
+    "description": "This is an access layer for the Nintendo Gamecube game \"Pokemon XD: Gale of Darkness\" that allows blind players to play the game in th Dolphin Emulator. This mod does not come with the game; players are expected to have their own copy of the game."
   }
 ]
