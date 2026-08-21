@@ -38438,5 +38438,15 @@
     "url": "https://github.com/PeanutPablo/Pokemon-XD-Game-in-Darkness",
     "cover": "https://avatars.githubusercontent.com/u/134905686?v=4",
     "description": "This is an access layer for the Nintendo Gamecube game \"Pokemon XD: Gale of Darkness\" that allows blind players to play the game in th Dolphin Emulator. This mod does not come with the game; players are expected to have their own copy of the game."
+  },
+  {
+    "name": "BBKEmu",
+    "slug": "bbkemu",
+    "creator": "AloysHF",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AloysHF/BBKEmu",
+    "cover": "https://avatars.githubusercontent.com/u/5327122?v=4",
+    "description": "BBK Electronic Dictionary Game Emulator"
   }
 ]
