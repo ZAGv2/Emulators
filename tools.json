@@ -38448,5 +38448,15 @@
     "url": "https://github.com/AloysHF/BBKEmu",
     "cover": "https://avatars.githubusercontent.com/u/5327122?v=4",
     "description": "BBK Electronic Dictionary Game Emulator"
+  },
+  {
+    "name": "The-Warriors-Freecam-Android",
+    "slug": "the-warriors-freecam-android",
+    "creator": "mostdak1ng",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/mostdak1ng/The-Warriors-Freecam-Android",
+    "cover": "https://avatars.githubusercontent.com/u/283279203?v=4",
+    "description": "Free camera, on-screen coordinates, world pause, God mode and player carry for The Warriors (PS2), as a single .pnach that runs inside the emulator - on Android as well as desktop PCSX2."
   }
 ]
