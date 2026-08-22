@@ -38488,5 +38488,15 @@
     "url": "https://github.com/Yebot32/xenra",
     "cover": "https://avatars.githubusercontent.com/u/137461530?v=4",
     "description": "Xenra an xbox og/360 emulator"
+  },
+  {
+    "name": "dsh-android",
+    "slug": "dsh-android",
+    "creator": "ZSeven-W",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/ZSeven-W/dsh-android",
+    "cover": "https://avatars.githubusercontent.com/u/218180147?v=4",
+    "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."
   }
 ]
