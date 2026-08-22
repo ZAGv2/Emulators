@@ -38498,5 +38498,15 @@
     "url": "https://github.com/ZSeven-W/dsh-android",
     "cover": "https://avatars.githubusercontent.com/u/218180147?v=4",
     "description": "DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb."
+  },
+  {
+    "name": "Ps2Builder",
+    "slug": "ps2builder",
+    "creator": "williamdc92",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/williamdc92/Ps2Builder",
+    "cover": "https://avatars.githubusercontent.com/u/73306002?v=4",
+    "description": "Standalone PCSX2 game packager for Windows. Build a self-contained PS2 game ISO with PLAY.exe — no PCSX2 installation or emulator configuration required."
   }
 ]
