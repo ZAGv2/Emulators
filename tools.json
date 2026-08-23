@@ -38508,5 +38508,15 @@
     "url": "https://github.com/williamdc92/Ps2Builder",
     "cover": "https://avatars.githubusercontent.com/u/73306002?v=4",
     "description": "Standalone PCSX2 game packager for Windows. Build a self-contained PS2 game ISO with PLAY.exe — no PCSX2 installation or emulator configuration required."
+  },
+  {
+    "name": "bubbleterm",
+    "slug": "bubbleterm",
+    "creator": "taigrr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/taigrr/bubbleterm",
+    "cover": "https://avatars.githubusercontent.com/u/8261498?v=4",
+    "description": "Headless, embeddable ANSI terminal emulator in Go with a Bubble Tea-compatible rendering layer for building TUIs"
   }
 ]
