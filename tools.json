@@ -38518,5 +38518,25 @@
     "url": "https://github.com/taigrr/bubbleterm",
     "cover": "https://avatars.githubusercontent.com/u/8261498?v=4",
     "description": "Headless, embeddable ANSI terminal emulator in Go with a Bubble Tea-compatible rendering layer for building TUIs"
+  },
+  {
+    "name": "dynoxide",
+    "slug": "dynoxide",
+    "creator": "nubo-db",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nubo-db/dynoxide",
+    "cover": "https://avatars.githubusercontent.com/u/261902040?v=4",
+    "description": "A DynamoDB emulator in Rust, backed by SQLite. Starts in milliseconds as a single static binary, and is verified against real AWS by a public conformance suite. Runs as an HTTP server, an MCP server for coding agents, an embeddable library, or in the browser via WebAssembly."
+  },
+  {
+    "name": "go-r8",
+    "slug": "go-r8",
+    "creator": "bitfield",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bitfield/go-r8",
+    "cover": "https://avatars.githubusercontent.com/u/142262?v=4",
+    "description": "A Go project template for an 8-bit CPU emulator."
   }
 ]
