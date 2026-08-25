@@ -38548,5 +38548,25 @@
     "url": "https://github.com/kyll3r/GunBound-Java-Server",
     "cover": "https://avatars.githubusercontent.com/u/4714149?v=4",
     "description": "A complete GunBound Thor's Hammer server emulator featuring BrokerServer, BuddyServer, and GameServer, built to preserve and keep alive the classic GunBound experience."
+  },
+  {
+    "name": "ajazz-companion-bridge",
+    "slug": "ajazz-companion-bridge",
+    "creator": "dvortsis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dvortsis/ajazz-companion-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/83323977?v=4",
+    "description": "A high-performance bridge for Ajazz & Mirabox macro pads (AKP05, AKP153, N4). It emulates the Satellite API to connect USB hardware to Bitfocus Companion as native surfaces. Features a Windows tray interface, auto-device detection, and zero-delay HID writes for rapid LCD refreshes."
+  },
+  {
+    "name": "GameBoy-Emulator",
+    "slug": "gameboy-emulator",
+    "creator": "WhyPratyush",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/WhyPratyush/GameBoy-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/185387968?v=4",
+    "description": "..."
   }
 ]
