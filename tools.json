@@ -38568,5 +38568,15 @@
     "url": "https://github.com/WhyPratyush/GameBoy-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/185387968?v=4",
     "description": "..."
+  },
+  {
+    "name": "fix-cover-problem-dolphin-android",
+    "slug": "fix-cover-problem-dolphin-android",
+    "creator": "lauragilastro",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/lauragilastro/fix-cover-problem-dolphin-android",
+    "cover": "https://avatars.githubusercontent.com/u/243200275?v=4",
+    "description": "Fix for missing / gray game covers in Dolphin Emulator for Android"
   }
 ]
