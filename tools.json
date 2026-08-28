@@ -38578,5 +38578,15 @@
     "url": "https://github.com/lauragilastro/fix-cover-problem-dolphin-android",
     "cover": "https://avatars.githubusercontent.com/u/243200275?v=4",
     "description": "Fix for missing / gray game covers in Dolphin Emulator for Android"
+  },
+  {
+    "name": "refactoring-ui-skill",
+    "slug": "refactoring-ui-skill",
+    "creator": "s0xDk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/s0xDk/refactoring-ui-skill",
+    "cover": "https://avatars.githubusercontent.com/u/44265?v=4",
+    "description": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces."
   }
 ]
