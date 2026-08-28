@@ -38588,5 +38588,75 @@
     "url": "https://github.com/s0xDk/refactoring-ui-skill",
     "cover": "https://avatars.githubusercontent.com/u/44265?v=4",
     "description": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces."
+  },
+  {
+    "name": "pico-infonesPlus",
+    "slug": "pico-infonesplus",
+    "creator": "PicoPlus-devel",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/PicoPlus-devel/pico-infonesPlus",
+    "cover": "https://avatars.githubusercontent.com/u/322056750?v=4",
+    "description": "NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display."
+  },
+  {
+    "name": "laws",
+    "slug": "laws",
+    "creator": "huseyinbabal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/huseyinbabal/laws",
+    "cover": "https://avatars.githubusercontent.com/u/1237982?v=4",
+    "description": "Local AWS - a lightweight AWS service emulator"
+  },
+  {
+    "name": "backlot",
+    "slug": "backlot",
+    "creator": "brekkylab",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/brekkylab/backlot",
+    "cover": "https://avatars.githubusercontent.com/u/130592615?v=4",
+    "description": "A local emulator for enterprise SaaS APIs — Slack, Gmail, Google Drive, GitHub, Jira, Notion, S3 and more — with the real response shapes, pagination, auth and per-document ACLs, over a corpus you supply."
+  },
+  {
+    "name": "pico-bootLoader",
+    "slug": "pico-bootloader",
+    "creator": "PicoPlus-devel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PicoPlus-devel/pico-bootLoader",
+    "cover": "https://avatars.githubusercontent.com/u/322056750?v=4",
+    "description": "Turn your RP2350 board into a retro console — an on-screen boot menu that flashes and launches emulators and Doom straight from the SD card. Works for any RP2350 app you make bootable."
+  },
+  {
+    "name": "bestspeech-android",
+    "slug": "bestspeech-android",
+    "creator": "masonasons",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/masonasons/bestspeech-android",
+    "cover": "https://avatars.githubusercontent.com/u/6657647?v=4",
+    "description": "The 1995 BestSpeech/Keynote Gold speech synthesizer as an Android TTS engine, running its original 32-bit Windows DLL under the Unicorn CPU emulator"
+  },
+  {
+    "name": "RPCS3-Seamless-Toypad-Build",
+    "slug": "rpcs3-seamless-toypad-build",
+    "creator": "NeverCookFirst",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NeverCookFirst/RPCS3-Seamless-Toypad-Build",
+    "cover": "https://avatars.githubusercontent.com/u/46416213?v=4",
+    "description": "A modified RPCS3 build that adds a loopback TCP listener for the emulated LEGO Dimensions Toypad, so figures can be loaded, removed or moved from a controller-driven companion app instead of the mouse-driven Dimensions Manager dialog"
+  },
+  {
+    "name": "BatPU-Emulator---Web-Port",
+    "slug": "batpu-emulator-web-port",
+    "creator": "Cheze-Burgur",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Cheze-Burgur/BatPU-Emulator---Web-Port",
+    "cover": "https://avatars.githubusercontent.com/u/169696273?v=4",
+    "description": "Web remake of Mattbatwings’ redstone CPU emulator"
   }
 ]
