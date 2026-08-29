@@ -38668,5 +38668,75 @@
     "url": "https://github.com/adifreza/playwdgames",
     "cover": "https://avatars.githubusercontent.com/u/142273262?v=4",
     "description": "Lightweight Playnite-inspired game launcher with a PS5-style fullscreen mode — Tauri v2 + React 19, built for shipping curated game libraries on portable HDDs"
+  },
+  {
+    "name": "feint",
+    "slug": "feint",
+    "creator": "stephrobert",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stephrobert/feint",
+    "cover": "https://avatars.githubusercontent.com/u/681788?v=4",
+    "description": "A local emulator of the Scaleway, Outscale and Exoscale APIs. Their own official CLIs drive it end to end, Terraform and OpenTofu drive two of the three — no cloud account, no cloud credentials, nothing billed."
+  },
+  {
+    "name": "goldeneye-native",
+    "slug": "goldeneye-native",
+    "creator": "SegfaultEvan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SegfaultEvan/goldeneye-native",
+    "cover": "https://avatars.githubusercontent.com/u/318355275?v=4",
+    "description": "GoldenEye 007 as a native app for Windows, macOS and Linux. Built from the N64 decompilation, not an emulator. Mouse and keyboard, arbitrary resolution, split-screen multiplayer, Lua mods, rulesets and horde mode. Bring your own ROM."
+  },
+  {
+    "name": "BeebSCSI",
+    "slug": "beebscsi",
+    "creator": "Domesday86",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Domesday86/BeebSCSI",
+    "cover": "https://avatars.githubusercontent.com/u/262070801?v=4",
+    "description": "SCSI-1 Emulator for 8-bit Acorn computers such as the BBC Master and BBC Model B"
+  },
+  {
+    "name": "bsnes-jg",
+    "slug": "bsnes-jg",
+    "creator": "libretro",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/libretro/bsnes-jg",
+    "cover": "https://avatars.githubusercontent.com/u/1812827?v=4",
+    "description": "Extremely high accuracy SNES/Super Famicom emulator brought to the libretro ecosystem"
+  },
+  {
+    "name": "el-be-back",
+    "slug": "el-be-back",
+    "creator": "ArthurHeymans",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ArthurHeymans/el-be-back",
+    "cover": "https://avatars.githubusercontent.com/u/15137817?v=4",
+    "description": "The machine that Skynet would use to deploy to production. Terminal emulator for Emacs, pure elisp."
+  },
+  {
+    "name": "Ultimate-Frida-Bypass",
+    "slug": "ultimate-frida-bypass",
+    "creator": "Ishanoshada",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ishanoshada/Ultimate-Frida-Bypass",
+    "cover": "https://avatars.githubusercontent.com/u/63636533?v=4",
+    "description": "Complete Frida script that bypasses 19 layers of Android security including Talsec, freeRASP, PairIP, SSL pinning, root detection, emulator detection, and custom Frida detection mechanisms"
+  },
+  {
+    "name": "shadPS4-Seamless-Toypad-Bridge",
+    "slug": "shadps4-seamless-toypad-bridge",
+    "creator": "NeverCookFirst",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NeverCookFirst/shadPS4-Seamless-Toypad-Bridge",
+    "cover": "https://avatars.githubusercontent.com/u/46416213?v=4",
+    "description": "shadPS4 Seamless Toypad Bridge — a standalone utility (not a custom build) that connects the LegoToypad companion app to shadPS4's built-in emulated LEGO Dimensions Toypad over IPC, so figures can be loaded, removed or moved from a controller-driven app. Stock emulator, no fork needed"
   }
 ]
