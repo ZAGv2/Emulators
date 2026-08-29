@@ -38658,5 +38658,15 @@
     "url": "https://github.com/Cheze-Burgur/BatPU-Emulator---Web-Port",
     "cover": "https://avatars.githubusercontent.com/u/169696273?v=4",
     "description": "Web remake of Mattbatwings’ redstone CPU emulator"
+  },
+  {
+    "name": "playwdgames",
+    "slug": "playwdgames",
+    "creator": "adifreza",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/adifreza/playwdgames",
+    "cover": "https://avatars.githubusercontent.com/u/142273262?v=4",
+    "description": "Lightweight Playnite-inspired game launcher with a PS5-style fullscreen mode — Tauri v2 + React 19, built for shipping curated game libraries on portable HDDs"
   }
 ]
