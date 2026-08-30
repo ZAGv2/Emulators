@@ -38738,5 +38738,15 @@
     "url": "https://github.com/NeverCookFirst/shadPS4-Seamless-Toypad-Bridge",
     "cover": "https://avatars.githubusercontent.com/u/46416213?v=4",
     "description": "shadPS4 Seamless Toypad Bridge — a standalone utility (not a custom build) that connects the LegoToypad companion app to shadPS4's built-in emulated LEGO Dimensions Toypad over IPC, so figures can be loaded, removed or moved from a controller-driven app. Stock emulator, no fork needed"
+  },
+  {
+    "name": "wasm-dolphin",
+    "slug": "wasm-dolphin",
+    "creator": "dougchansan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dougchansan/wasm-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/236513096?v=4",
+    "description": "The Dolphin GameCube/Wii emulator running in a browser tab, compiled to WebAssembly with a PowerPC-to-WASM JIT and a WebGPU presentation path."
   }
 ]
