@@ -38768,5 +38768,15 @@
     "url": "https://github.com/emu-sync/EmuSync",
     "cover": "https://avatars.githubusercontent.com/u/244350198?v=4",
     "description": "Game save sync tool for PC games and emulated games"
+  },
+  {
+    "name": "bma8",
+    "slug": "bma8",
+    "creator": "serkantanriverdi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/serkantanriverdi/bma8",
+    "cover": "https://avatars.githubusercontent.com/u/25474155?v=4",
+    "description": "Baremetal Atari 8-bit emulator for Raspberry Pi (400/800/XL/XE/5200). Instant boot, no OS. Inspired by BMC64."
   }
 ]
