@@ -38748,5 +38748,15 @@
     "url": "https://github.com/dougchansan/wasm-dolphin",
     "cover": "https://avatars.githubusercontent.com/u/236513096?v=4",
     "description": "The Dolphin GameCube/Wii emulator running in a browser tab, compiled to WebAssembly with a PowerPC-to-WASM JIT and a WebGPU presentation path."
+  },
+  {
+    "name": "WebGC",
+    "slug": "webgc",
+    "creator": "Trent525",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Trent525/WebGC",
+    "cover": "https://avatars.githubusercontent.com/u/209907587?v=4",
+    "description": "WebAssembly GameCube emulator (Dolphin) - private repo scaffold and build scripts"
   }
 ]
