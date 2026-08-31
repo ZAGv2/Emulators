@@ -38758,5 +38758,15 @@
     "url": "https://github.com/Trent525/WebGC",
     "cover": "https://avatars.githubusercontent.com/u/209907587?v=4",
     "description": "WebAssembly GameCube emulator (Dolphin) - private repo scaffold and build scripts"
+  },
+  {
+    "name": "EmuSync",
+    "slug": "emusync",
+    "creator": "emu-sync",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/emu-sync/EmuSync",
+    "cover": "https://avatars.githubusercontent.com/u/244350198?v=4",
+    "description": "Game save sync tool for PC games and emulated games"
   }
 ]
