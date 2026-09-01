@@ -38808,5 +38808,15 @@
     "url": "https://github.com/ACoolerName/WiiCompiled-mii-fix",
     "cover": "https://avatars.githubusercontent.com/u/95275227?v=4",
     "description": "A method to get your mii ingame on WiiCompiled without needing to download and install dolphin emulator."
+  },
+  {
+    "name": "KMS-Pico-Toolkit",
+    "slug": "kms-pico-toolkit",
+    "creator": "leveelevelstuff",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/leveelevelstuff/KMS-Pico-Toolkit",
+    "cover": "https://avatars.githubusercontent.com/u/270994989?v=4",
+    "description": "KMS Windows and Office Emulator – Universal Local Activation Loopback Server for Volume License Emulation (CLI & GUI Source)"
   }
 ]
