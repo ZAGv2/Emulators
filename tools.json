@@ -38818,5 +38818,25 @@
     "url": "https://github.com/leveelevelstuff/KMS-Pico-Toolkit",
     "cover": "https://avatars.githubusercontent.com/u/270994989?v=4",
     "description": "KMS Windows and Office Emulator – Universal Local Activation Loopback Server for Volume License Emulation (CLI & GUI Source)"
+  },
+  {
+    "name": "nova-launcher",
+    "slug": "nova-launcher",
+    "creator": "cybercooper08-stack",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cybercooper08-stack/nova-launcher",
+    "cover": "https://avatars.githubusercontent.com/u/242446253?v=4",
+    "description": "A local-first Windows launcher for apps, games, emulators and anime."
+  },
+  {
+    "name": "AltirraSDL",
+    "slug": "altirrasdl",
+    "creator": "ilmenit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ilmenit/AltirraSDL",
+    "cover": "https://avatars.githubusercontent.com/u/1752394?v=4",
+    "description": "Portable version of Altirra - 8bit Atari emulator by Avery Lee"
   }
 ]
