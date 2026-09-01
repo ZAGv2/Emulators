@@ -38778,5 +38778,35 @@
     "url": "https://github.com/serkantanriverdi/bma8",
     "cover": "https://avatars.githubusercontent.com/u/25474155?v=4",
     "description": "Baremetal Atari 8-bit emulator for Raspberry Pi (400/800/XL/XE/5200). Instant boot, no OS. Inspired by BMC64."
+  },
+  {
+    "name": "wii-play-tanks-agent",
+    "slug": "wii-play-tanks-agent",
+    "creator": "ThudSoundEffect",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ThudSoundEffect/wii-play-tanks-agent",
+    "cover": "https://avatars.githubusercontent.com/u/130328484?v=4",
+    "description": "Custom Gymnasium environment to train RL agent to play Wii Play Tanks through the Dolphin emulator."
+  },
+  {
+    "name": "ISO---RVZ-converter",
+    "slug": "iso-rvz-converter",
+    "creator": "KaLoU-pixel",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KaLoU-pixel/ISO---RVZ-converter",
+    "cover": "https://avatars.githubusercontent.com/u/212756851?v=4",
+    "description": "Convertisseur ISO ↔ RVZ pour jeux GameCube/Wii, basé sur nodtool — sans dépendance à Dolphin Emulator."
+  },
+  {
+    "name": "WiiCompiled-mii-fix",
+    "slug": "wiicompiled-mii-fix",
+    "creator": "ACoolerName",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ACoolerName/WiiCompiled-mii-fix",
+    "cover": "https://avatars.githubusercontent.com/u/95275227?v=4",
+    "description": "A method to get your mii ingame on WiiCompiled without needing to download and install dolphin emulator."
   }
 ]
