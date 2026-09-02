@@ -38838,5 +38838,25 @@
     "url": "https://github.com/ilmenit/AltirraSDL",
     "cover": "https://avatars.githubusercontent.com/u/1752394?v=4",
     "description": "Portable version of Altirra - 8bit Atari emulator by Avery Lee"
+  },
+  {
+    "name": "DLSS5-Swapper",
+    "slug": "dlss5-swapper",
+    "creator": "rakanki911",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "cover": "https://avatars.githubusercontent.com/u/199753947?v=4",
+    "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL."
+  },
+  {
+    "name": "cdj3k-emu",
+    "slug": "cdj3k-emu",
+    "creator": "nsaintot",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nsaintot/cdj3k-emu",
+    "cover": "https://avatars.githubusercontent.com/u/5430566?v=4",
+    "description": "An emulator for the CDJ-3000 player in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, and Pro DJ Link network"
   }
 ]
