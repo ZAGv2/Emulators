@@ -38858,5 +38858,15 @@
     "url": "https://github.com/nsaintot/cdj3k-emu",
     "cover": "https://avatars.githubusercontent.com/u/5430566?v=4",
     "description": "An emulator for the CDJ-3000 player in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, and Pro DJ Link network"
+  },
+  {
+    "name": "jy-crpg-bench",
+    "slug": "jy-crpg-bench",
+    "creator": "hanxiao",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hanxiao/jy-crpg-bench",
+    "cover": "https://avatars.githubusercontent.com/u/2041322?v=4",
+    "description": "A long-horizon CRPG benchmark for frontier agents. Raw 320x200 frames, Traditional Chinese, isometric navigation, twelve books to find."
   }
 ]
