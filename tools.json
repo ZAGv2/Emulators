@@ -38888,5 +38888,15 @@
     "url": "https://github.com/matztam/signalk-beluga-core",
     "cover": "https://avatars.githubusercontent.com/u/1258468?v=4",
     "description": "A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server."
+  },
+  {
+    "name": "unity-android-nfc-skylanders-bridge",
+    "slug": "unity-android-nfc-skylanders-bridge",
+    "creator": "Andrea-Graziano-Gitto",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Andrea-Graziano-Gitto/unity-android-nfc-skylanders-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/183817936?v=4",
+    "description": "The first 100% Free & Open-Source Native Android NFC Reader for Unity with Continuous Presence Detection (no paid plugins) + Virtual Skylanders Portal Bridge for Dolphin Emulator."
   }
 ]
