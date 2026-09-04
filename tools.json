@@ -38898,5 +38898,15 @@
     "url": "https://github.com/Andrea-Graziano-Gitto/unity-android-nfc-skylanders-bridge",
     "cover": "https://avatars.githubusercontent.com/u/183817936?v=4",
     "description": "The first 100% Free & Open-Source Native Android NFC Reader for Unity with Continuous Presence Detection (no paid plugins) + Virtual Skylanders Portal Bridge for Dolphin Emulator."
+  },
+  {
+    "name": "TrollNFC",
+    "slug": "trollnfc",
+    "creator": "owngoal-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/owngoal-dev/TrollNFC",
+    "cover": "https://avatars.githubusercontent.com/u/176883745?v=4",
+    "description": "A versatile tool for reading, writing, managing, and emulating NFC cards on your iPhone."
   }
 ]
