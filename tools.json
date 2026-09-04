@@ -38868,5 +38868,25 @@
     "url": "https://github.com/hanxiao/jy-crpg-bench",
     "cover": "https://avatars.githubusercontent.com/u/2041322?v=4",
     "description": "A long-horizon CRPG benchmark for frontier agents. Raw 320x200 frames, Traditional Chinese, isometric navigation, twelve books to find."
+  },
+  {
+    "name": "OpenCrossing-Anbernic",
+    "slug": "opencrossing-anbernic",
+    "creator": "GabeConway",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GabeConway/OpenCrossing-Anbernic",
+    "cover": "https://avatars.githubusercontent.com/u/64233226?v=4",
+    "description": "OpenCrossing: Animal Crossing running natively at ~60 fps on Anbernic handhelds — no emulator. GameCube decomp port for the H700 family (RG-34XX/35XX/28XX) via PortMaster (muOS, Knulli)."
+  },
+  {
+    "name": "signalk-beluga-core",
+    "slug": "signalk-beluga-core",
+    "creator": "matztam",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/matztam/signalk-beluga-core",
+    "cover": "https://avatars.githubusercontent.com/u/1258468?v=4",
+    "description": "A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server."
   }
 ]
