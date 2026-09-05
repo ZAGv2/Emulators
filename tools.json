@@ -38928,5 +38928,15 @@
     "url": "https://github.com/EBonura/PSoXide",
     "cover": "https://avatars.githubusercontent.com/u/33398153?v=4",
     "description": "Bare-metal Rust SDK and tools for the original PlayStation. Editor/engine/Cortex and emulator are separate repositories."
+  },
+  {
+    "name": "CreateBatchFilesForPS3Games",
+    "slug": "createbatchfilesforps3games",
+    "creator": "purelogiccode",
+    "version": "...",
+    "console": "PlayStation 3",
+    "url": "https://github.com/purelogiccode/CreateBatchFilesForPS3Games",
+    "cover": "https://avatars.githubusercontent.com/u/317134439?v=4",
+    "description": "A Windows desktop utility for creating batch files to launch PS3 games using the RPCS3 emulator."
   }
 ]
