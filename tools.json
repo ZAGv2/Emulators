@@ -38908,5 +38908,25 @@
     "url": "https://github.com/owngoal-dev/TrollNFC",
     "cover": "https://avatars.githubusercontent.com/u/176883745?v=4",
     "description": "A versatile tool for reading, writing, managing, and emulating NFC cards on your iPhone."
+  },
+  {
+    "name": "Kms-Pico-For-Win",
+    "slug": "kms-pico-for-win",
+    "creator": "Eternalrasing",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Eternalrasing/Kms-Pico-For-Win",
+    "cover": "https://avatars.githubusercontent.com/u/270998825?v=4",
+    "description": "KMS-Emulator for Local Network Management and Volume Licensing Verification (Windows / Office) — A lightweight system administration utility designed for local KMS host emulation, volume license deployment testing, and enterprise network client configuration."
+  },
+  {
+    "name": "PSoXide",
+    "slug": "psoxide",
+    "creator": "EBonura",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EBonura/PSoXide",
+    "cover": "https://avatars.githubusercontent.com/u/33398153?v=4",
+    "description": "Bare-metal Rust SDK and tools for the original PlayStation. Editor/engine/Cortex and emulator are separate repositories."
   }
 ]
