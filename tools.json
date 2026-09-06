@@ -38938,5 +38938,25 @@
     "url": "https://github.com/purelogiccode/CreateBatchFilesForPS3Games",
     "cover": "https://avatars.githubusercontent.com/u/317134439?v=4",
     "description": "A Windows desktop utility for creating batch files to launch PS3 games using the RPCS3 emulator."
+  },
+  {
+    "name": "bob16",
+    "slug": "bob16",
+    "creator": "somerandomviolinkid",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/somerandomviolinkid/bob16",
+    "cover": "https://avatars.githubusercontent.com/u/84521318?v=4",
+    "description": "extremely simple custom 16 bit cpu emulator and assembler as seen on youtube"
+  },
+  {
+    "name": "Breadbin466",
+    "slug": "breadbin466",
+    "creator": "Breadbin466",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Breadbin466/Breadbin466",
+    "cover": "https://avatars.githubusercontent.com/u/309387312?v=4",
+    "description": "A C64 emulator in Rust"
   }
 ]
