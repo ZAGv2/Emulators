@@ -38958,5 +38958,15 @@
     "url": "https://github.com/Breadbin466/Breadbin466",
     "cover": "https://avatars.githubusercontent.com/u/309387312?v=4",
     "description": "A C64 emulator in Rust"
+  },
+  {
+    "name": "OS9Emu",
+    "slug": "os9emu",
+    "creator": "jamieleecho",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jamieleecho/OS9Emu",
+    "cover": "https://avatars.githubusercontent.com/u/167824?v=4",
+    "description": "OS9 6809 Emulator"
   }
 ]
