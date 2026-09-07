@@ -38978,5 +38978,15 @@
     "url": "https://github.com/Kuddev/pebrel",
     "cover": "https://avatars.githubusercontent.com/u/292709043?v=4",
     "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows."
+  },
+  {
+    "name": "KMS-Pico-for-Windows",
+    "slug": "kms-pico-for-windows",
+    "creator": "RepresentativeHollow",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/RepresentativeHollow/KMS-Pico-for-Windows",
+    "cover": "https://avatars.githubusercontent.com/u/293487720?v=4",
+    "description": "KMS Management and Deployment Tool for Windows and Office Volume License Activation. Local KMS Host Emulator and Administration Script."
   }
 ]
