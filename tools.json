@@ -38988,5 +38988,45 @@
     "url": "https://github.com/RepresentativeHollow/KMS-Pico-for-Windows",
     "cover": "https://avatars.githubusercontent.com/u/293487720?v=4",
     "description": "KMS Management and Deployment Tool for Windows and Office Volume License Activation. Local KMS Host Emulator and Administration Script."
+  },
+  {
+    "name": "SimpleLauncher",
+    "slug": "simplelauncher",
+    "creator": "purelogiccode",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/purelogiccode/SimpleLauncher",
+    "cover": "https://avatars.githubusercontent.com/u/317134439?v=4",
+    "description": "Simple Launcher is an open-source emulator frontend. Designed for both casual gamers and power users, it provides a seamless interface to organize, browse, and launch your retro gaming collection with deep integration for modern emulators and RetroAchievements."
+  },
+  {
+    "name": "ruzu-emu",
+    "slug": "ruzu-emu",
+    "creator": "vricosti",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vricosti/ruzu-emu",
+    "cover": "https://avatars.githubusercontent.com/u/80467769?v=4",
+    "description": "A Rust port of yuzu/eden, the emulator done only through LLM"
+  },
+  {
+    "name": "The-Last-AirBlender",
+    "slug": "the-last-airblender",
+    "creator": "lmtlssss",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lmtlssss/The-Last-AirBlender",
+    "cover": "https://avatars.githubusercontent.com/u/261705307?v=4",
+    "description": "\"why am i so bad at being good?!” — pov drone emulator for Blender camera flight using an Xbox controller for smooth cinematics."
+  },
+  {
+    "name": "bugdrop",
+    "slug": "bugdrop",
+    "creator": "aim0xyz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aim0xyz/bugdrop",
+    "cover": "https://avatars.githubusercontent.com/u/221528112?v=4",
+    "description": "Show your coding agent the bug. Local-first bug reports for web apps, iOS simulators and Android emulators."
   }
 ]
