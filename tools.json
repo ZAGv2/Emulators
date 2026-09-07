@@ -38968,5 +38968,15 @@
     "url": "https://github.com/jamieleecho/OS9Emu",
     "cover": "https://avatars.githubusercontent.com/u/167824?v=4",
     "description": "OS9 6809 Emulator"
+  },
+  {
+    "name": "pebrel",
+    "slug": "pebrel",
+    "creator": "Kuddev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kuddev/pebrel",
+    "cover": "https://avatars.githubusercontent.com/u/292709043?v=4",
+    "description": "AI-native, GPU-accelerated terminal emulator for Windows with SSH, persistent sessions, split panes, and first-class AI CLI workflows."
   }
 ]
