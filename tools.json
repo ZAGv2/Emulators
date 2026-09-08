@@ -39028,5 +39028,25 @@
     "url": "https://github.com/aim0xyz/bugdrop",
     "cover": "https://avatars.githubusercontent.com/u/221528112?v=4",
     "description": "Show your coding agent the bug. Local-first bug reports for web apps, iOS simulators and Android emulators."
+  },
+  {
+    "name": "DolphinTASStudio",
+    "slug": "dolphintasstudio",
+    "creator": "ChaseLewis",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ChaseLewis/DolphinTASStudio",
+    "cover": "https://avatars.githubusercontent.com/u/5825110?v=4",
+    "description": "An application that specializes in using the Dolphin emulator to make TAS and run computer simulations against said games."
+  },
+  {
+    "name": "Dolphin-Full-Version",
+    "slug": "dolphin-full-version",
+    "creator": "blueberrysandbox7",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/blueberrysandbox7/Dolphin-Full-Version",
+    "cover": "https://avatars.githubusercontent.com/u/295056102?v=4",
+    "description": "Dolphin is a free full-version console emulator for Windows that lets you play classic GameCube and Wii games effortlessly. Enjoy titles like Super Mario Galaxy and customize controls easily. Download the latest version free."
   }
 ]
