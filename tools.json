@@ -39048,5 +39048,15 @@
     "url": "https://github.com/blueberrysandbox7/Dolphin-Full-Version",
     "cover": "https://avatars.githubusercontent.com/u/295056102?v=4",
     "description": "Dolphin is a free full-version console emulator for Windows that lets you play classic GameCube and Wii games effortlessly. Enjoy titles like Super Mario Galaxy and customize controls easily. Download the latest version free."
+  },
+  {
+    "name": "ESP32-BLE-HID-Emulator",
+    "slug": "esp32-ble-hid-emulator",
+    "creator": "petarkabashki",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/petarkabashki/ESP32-BLE-HID-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/3595459?v=4",
+    "description": "Bluetooth/BLE HID Keyboard emulator"
   }
 ]
