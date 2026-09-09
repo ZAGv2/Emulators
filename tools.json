@@ -39068,5 +39068,15 @@
     "url": "https://github.com/antoniograzioli/VintageEmulatorStudio",
     "cover": "https://avatars.githubusercontent.com/u/16060683?v=4",
     "description": "Vintage Emulator Studio (VES) is an audio plug-in available in AU and VST3 formats where supported. It includes a collection of vintage synthesizers, samplers, drum machines and sound modules emulated by MAME"
+  },
+  {
+    "name": "Pcsx2-Full-Version",
+    "slug": "pcsx2-full-version",
+    "creator": "darksoul896",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/darksoul896/Pcsx2-Full-Version",
+    "cover": "https://avatars.githubusercontent.com/u/274173688?v=4",
+    "description": "PCSX2 is a free full-version PlayStation 2 emulator for Windows that lets you enjoy classic games like Gran Turismo and Final Fantasy. With improved graphics and limitless memory cards, you can save anytime. Download the latest version free."
   }
 ]
