@@ -39088,5 +39088,15 @@
     "url": "https://github.com/ITSeniy/PnachToLuaConverter",
     "cover": "https://avatars.githubusercontent.com/u/130840662?v=4",
     "description": "Lightweight converter from PCSX2 .pnach files to the format used by PS2 Classics emulator on PS4."
+  },
+  {
+    "name": "DLSS5-Universal",
+    "slug": "dlss5-universal",
+    "creator": "BodyLieutenantLock",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BodyLieutenantLock/DLSS5-Universal",
+    "cover": "https://avatars.githubusercontent.com/u/307313220?v=4",
+    "description": "Universal DLSS 5 Neural Rendering for any GPU — NVIDIA RTX 20/30/40/50, AMD RDNA 3/4, Intel Arc. One-click install, DLL Swapper, Feeder mode (synthetic DLAA), ReShade, OptiScaler, emulator support. Download now."
   }
 ]
