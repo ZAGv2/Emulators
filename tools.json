@@ -39098,5 +39098,35 @@
     "url": "https://github.com/BodyLieutenantLock/DLSS5-Universal",
     "cover": "https://avatars.githubusercontent.com/u/307313220?v=4",
     "description": "Universal DLSS 5 Neural Rendering for any GPU — NVIDIA RTX 20/30/40/50, AMD RDNA 3/4, Intel Arc. One-click install, DLL Swapper, Feeder mode (synthetic DLAA), ReShade, OptiScaler, emulator support. Download now."
+  },
+  {
+    "name": "Inferno-iOS",
+    "slug": "inferno-ios",
+    "creator": "MakrSas",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/MakrSas/Inferno-iOS",
+    "cover": "https://avatars.githubusercontent.com/u/58633902?v=4",
+    "description": "An emulated iPhone 11 running iOS 14, as an app on a real iPhone. Unofficial, built on Inferno."
+  },
+  {
+    "name": "embedded",
+    "slug": "embedded",
+    "creator": "ExploreEdge",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ExploreEdge/embedded",
+    "cover": "https://avatars.githubusercontent.com/u/225996905?v=4",
+    "description": "A simple library to intercept calls to libnvram when running embedded linux applications in emulated environments."
+  },
+  {
+    "name": "BattleCrab",
+    "slug": "battlecrab",
+    "creator": "artemijan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/artemijan/BattleCrab",
+    "cover": "https://avatars.githubusercontent.com/u/7948990?v=4",
+    "description": "Rust implementation of Lineage 2 emulator"
   }
 ]
