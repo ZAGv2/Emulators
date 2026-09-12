@@ -39148,5 +39148,15 @@
     "url": "https://github.com/liuk7071/ChonkyStation4",
     "cover": "https://avatars.githubusercontent.com/u/62625900?v=4",
     "description": "PlayStation®4 Emulator "
+  },
+  {
+    "name": "cordial",
+    "slug": "cordial",
+    "creator": "luohoa97",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/luohoa97/cordial",
+    "cover": "https://avatars.githubusercontent.com/u/119039443?v=4",
+    "description": "Open-source Roblox runtime for Linux. Cordial runs the Roblox client natively, no Wine, no Android emulator. Multi-instance launcher, customizable, GPL-3.0 and fully auditable. A direct alternative to Sober."
   }
 ]
