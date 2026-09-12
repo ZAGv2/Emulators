@@ -39128,5 +39128,15 @@
     "url": "https://github.com/artemijan/BattleCrab",
     "cover": "https://avatars.githubusercontent.com/u/7948990?v=4",
     "description": "Rust implementation of Lineage 2 emulator"
+  },
+  {
+    "name": "Phocoena",
+    "slug": "phocoena",
+    "creator": "FFcustoms",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/FFcustoms/Phocoena",
+    "cover": "https://avatars.githubusercontent.com/u/328069608?v=4",
+    "description": " Experimental Nintendo GameCube emulator for Nintendo Switch homebrew, based on Dolphin."
   }
 ]
