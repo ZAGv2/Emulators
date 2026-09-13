@@ -39208,5 +39208,15 @@
     "url": "https://github.com/HertzPerfumer/Pcsx2-Full-Version",
     "cover": "https://avatars.githubusercontent.com/u/311829609?v=4",
     "description": "PlayStation 2 emulator for Android with a PCSX2-based core adapted by EmuCoreX, a modern game library, live overlay controls"
+  },
+  {
+    "name": "Linux-on-esp32-S3",
+    "slug": "linux-on-esp32-s3",
+    "creator": "paulneja",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/paulneja/Linux-on-esp32-S3",
+    "cover": "https://avatars.githubusercontent.com/u/207793167?v=4",
+    "description": "Real Linux 6.11 running natively on the ESP32-S3's Xtensa cores (not emulated), with working WiFi and the chip's hardware RSA accelerator exposed to the Linux Crypto API and fork(). One flashable image; 16MB flash / 8MB PSRAM; NOMMU; STA-only."
   }
 ]
