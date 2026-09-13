@@ -39158,5 +39158,15 @@
     "url": "https://github.com/luohoa97/cordial",
     "cover": "https://avatars.githubusercontent.com/u/119039443?v=4",
     "description": "Open-source Roblox runtime for Linux. Cordial runs the Roblox client natively, no Wine, no Android emulator. Multi-instance launcher, customizable, GPL-3.0 and fully auditable. A direct alternative to Sober."
+  },
+  {
+    "name": "retro8",
+    "slug": "retro8",
+    "creator": "Jakz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Jakz/retro8",
+    "cover": "https://avatars.githubusercontent.com/u/3068920?v=4",
+    "description": "PICO-8 implementation with SDL2/SDL1.2 and RetroArch back-ends"
   }
 ]
