@@ -39168,5 +39168,25 @@
     "url": "https://github.com/Jakz/retro8",
     "cover": "https://avatars.githubusercontent.com/u/3068920?v=4",
     "description": "PICO-8 implementation with SDL2/SDL1.2 and RetroArch back-ends"
+  },
+  {
+    "name": "wine-assembly",
+    "slug": "wine-assembly",
+    "creator": "vgrichina",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vgrichina/wine-assembly",
+    "cover": "https://avatars.githubusercontent.com/u/126710?v=4",
+    "description": "Run real Windows 98 apps and games in your browser. An x86 emulator and Win32 layer written directly in WebAssembly Text, no OS image, no source ports."
+  },
+  {
+    "name": "AetherPS4",
+    "slug": "aetherps4",
+    "creator": "Leviidev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Leviidev/AetherPS4",
+    "cover": "https://avatars.githubusercontent.com/u/281482210?v=4",
+    "description": "PS4 Emulator for iOS & iPadOS (core with standalone app)"
   }
 ]
