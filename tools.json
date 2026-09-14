@@ -39228,5 +39228,15 @@
     "url": "https://github.com/ajoneil/missingno",
     "cover": "https://avatars.githubusercontent.com/u/460342?v=4",
     "description": "Multi-system emulator and debugger"
+  },
+  {
+    "name": "Dolphin",
+    "slug": "dolphin",
+    "creator": "bountyhunter985",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bountyhunter985/Dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/275563043?v=4",
+    "description": "Get Dolphin — the ultimate console emulator for Windows offering a free download to relive the magic of GameCube and Wii classics. Experience customizable controls and automatic game optimization for a nostalgic adventure. Download the latest release."
   }
 ]
