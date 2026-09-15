@@ -39288,5 +39288,25 @@
     "url": "https://github.com/johnny-spaceboots/pcsx2",
     "cover": "https://avatars.githubusercontent.com/u/76140134?v=4",
     "description": "PCSX2 - The Playstation 2 Emulator"
+  },
+  {
+    "name": "harmony-next.skills",
+    "slug": "harmony-next-skills",
+    "creator": "linhay",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linhay/harmony-next.skills",
+    "cover": "https://avatars.githubusercontent.com/u/15262434?v=4",
+    "description": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling."
+  },
+  {
+    "name": "DLSS5-Universal",
+    "slug": "dlss5-universal",
+    "creator": "Rushsheboost",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Rushsheboost/DLSS5-Universal",
+    "cover": "https://avatars.githubusercontent.com/u/292901186?v=4",
+    "description": "DLSS5-Universal — one-click DLSS 5 neural rendering installer, swapper, feeder, optiscaler & renodx for any GPU. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL, DirectDraw & emulators."
   }
 ]
