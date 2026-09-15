@@ -39278,5 +39278,15 @@
     "url": "https://github.com/kodi-game/game.libretro.blastem",
     "cover": "https://avatars.githubusercontent.com/u/11261185?v=4",
     "description": "BlastEm - The fast and accurate Genesis emulator"
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "johnny-spaceboots",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/johnny-spaceboots/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/76140134?v=4",
+    "description": "PCSX2 - The Playstation 2 Emulator"
   }
 ]
