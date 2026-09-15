@@ -39248,5 +39248,35 @@
     "url": "https://github.com/ps2max32/neutrino",
     "cover": "https://avatars.githubusercontent.com/u/329014230?v=4",
     "description": "Small, Fast and Modular PS2 Device Emulator"
+  },
+  {
+    "name": "expo-device-hub",
+    "slug": "expo-device-hub",
+    "creator": "expo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/expo/expo-device-hub",
+    "cover": "https://avatars.githubusercontent.com/u/12504344?v=4",
+    "description": "A single control surface for every simulator, emulator, and device to develop your Expo app."
+  },
+  {
+    "name": "riscv-emulator",
+    "slug": "riscv-emulator",
+    "creator": "WerWolv",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/WerWolv/riscv-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/10835354?v=4",
+    "description": "A RISC-V rv32ima emulator capable of booting Linux"
+  },
+  {
+    "name": "game.libretro.blastem",
+    "slug": "game-libretro-blastem",
+    "creator": "kodi-game",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kodi-game/game.libretro.blastem",
+    "cover": "https://avatars.githubusercontent.com/u/11261185?v=4",
+    "description": "BlastEm - The fast and accurate Genesis emulator"
   }
 ]
