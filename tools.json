@@ -39328,5 +39328,25 @@
     "url": "https://github.com/coye2/UNCANNY",
     "cover": "https://avatars.githubusercontent.com/u/293159403?v=4",
     "description": "UNCANNY is a Universal DLSS 5 neural remaster engine for PC games and emulators: Clean reconstruction, Motion Guard, REVENANT, and D3D9/D3D12 compatibility."
+  },
+  {
+    "name": "8800-simulator",
+    "slug": "8800-simulator",
+    "creator": "wixette",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wixette/8800-simulator",
+    "cover": "https://avatars.githubusercontent.com/u/5819968?v=4",
+    "description": "Altair 8800 emulator in your browser: a working front panel, an Intel 8080, an ASR-33 Teletype and Microsoft's original 4K BASIC"
+  },
+  {
+    "name": "BareMSX",
+    "slug": "baremsx",
+    "creator": "joskwanten",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joskwanten/BareMSX",
+    "cover": "https://avatars.githubusercontent.com/u/10811058?v=4",
+    "description": "An MSX emulator running on a PicoCalc calculator equipped with a Pico2 W board"
   }
 ]
