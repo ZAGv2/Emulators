@@ -39308,5 +39308,25 @@
     "url": "https://github.com/Rushsheboost/DLSS5-Universal",
     "cover": "https://avatars.githubusercontent.com/u/292901186?v=4",
     "description": "DLSS5-Universal — one-click DLSS 5 neural rendering installer, swapper, feeder, optiscaler & renodx for any GPU. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL, DirectDraw & emulators."
+  },
+  {
+    "name": "iphone-gyro-controller",
+    "slug": "iphone-gyro-controller",
+    "creator": "MrHoustonOff",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MrHoustonOff/iphone-gyro-controller",
+    "cover": "https://avatars.githubusercontent.com/u/192683746?v=4",
+    "description": "Turn your phone into a gyroscope motion controller for PC emulators (Cemu, Dolphin, Ryujinx, Citron.. etc) - no app install, just scan a QR code in your browser. Works on iOS & Android. Perfect for  The Legend of Zelda: Breath of the Wild (BotW) and Tears of the Kingdom (TotK)."
+  },
+  {
+    "name": "UNCANNY",
+    "slug": "uncanny",
+    "creator": "coye2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/coye2/UNCANNY",
+    "cover": "https://avatars.githubusercontent.com/u/293159403?v=4",
+    "description": "UNCANNY is a Universal DLSS 5 neural remaster engine for PC games and emulators: Clean reconstruction, Motion Guard, REVENANT, and D3D9/D3D12 compatibility."
   }
 ]
