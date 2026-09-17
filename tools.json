@@ -39358,5 +39358,35 @@
     "url": "https://github.com/fhshaik/typesafe-mario",
     "cover": "https://avatars.githubusercontent.com/u/123507582?v=4",
     "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state."
+  },
+  {
+    "name": "avdslim",
+    "slug": "avdslim",
+    "creator": "kdbhalala",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kdbhalala/avdslim",
+    "cover": "https://avatars.githubusercontent.com/u/20184673?v=4",
+    "description": "⚡ Drop Android Virtual Device (AVD) emulator RAM from ~8GB to ~1.5GB on Apple Silicon & Linux. Inspired by simslim."
+  },
+  {
+    "name": "ANPASIDE",
+    "slug": "anpaside",
+    "creator": "Helltar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Helltar/ANPASIDE",
+    "cover": "https://avatars.githubusercontent.com/u/6628997?v=4",
+    "description": "Android IDE for MIDletPascal"
+  },
+  {
+    "name": "blugaemand",
+    "slug": "blugaemand",
+    "creator": "pablopenna",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pablopenna/blugaemand",
+    "cover": "https://avatars.githubusercontent.com/u/11214682?v=4",
+    "description": "Bluetooth Gamepad Emulator for Android - Turn your Android into a bluetooth gamepad"
   }
 ]
