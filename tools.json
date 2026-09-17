@@ -39348,5 +39348,15 @@
     "url": "https://github.com/joskwanten/BareMSX",
     "cover": "https://avatars.githubusercontent.com/u/10811058?v=4",
     "description": "An MSX emulator running on a PicoCalc calculator equipped with a Pico2 W board"
+  },
+  {
+    "name": "typesafe-mario",
+    "slug": "typesafe-mario",
+    "creator": "fhshaik",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fhshaik/typesafe-mario",
+    "cover": "https://avatars.githubusercontent.com/u/123507582?v=4",
+    "description": "A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state."
   }
 ]
