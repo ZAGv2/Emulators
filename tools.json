@@ -39428,5 +39428,15 @@
     "url": "https://github.com/HelloClyde/bbk9588-emulator",
     "cover": "https://avatars.githubusercontent.com/u/12826558?v=4",
     "description": "BBK 9588 emulator based on QEMU and the JZ4740 hardware model"
+  },
+  {
+    "name": "tme",
+    "slug": "tme",
+    "creator": "DavidGriffith",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DavidGriffith/tme",
+    "cover": "https://avatars.githubusercontent.com/u/1289035?v=4",
+    "description": "The Machine Emulator"
   }
 ]
