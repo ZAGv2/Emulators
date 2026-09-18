@@ -39398,5 +39398,15 @@
     "url": "https://github.com/RosehearthFarms/dolphin-VR-Upgrade",
     "cover": "https://avatars.githubusercontent.com/u/121828284?v=4",
     "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "Mugshot",
+    "slug": "mugshot",
+    "creator": "TRazDev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TRazDev/Mugshot",
+    "cover": "https://avatars.githubusercontent.com/u/121578074?v=4",
+    "description": "Screenshot testing for Compose Multiplatform and Android previews. One annotation, no test code, no emulator"
   }
 ]
