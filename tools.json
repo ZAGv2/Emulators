@@ -39388,5 +39388,15 @@
     "url": "https://github.com/pablopenna/blugaemand",
     "cover": "https://avatars.githubusercontent.com/u/11214682?v=4",
     "description": "Bluetooth Gamepad Emulator for Android - Turn your Android into a bluetooth gamepad"
+  },
+  {
+    "name": "dolphin-VR-Upgrade",
+    "slug": "dolphin-vr-upgrade",
+    "creator": "RosehearthFarms",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RosehearthFarms/dolphin-VR-Upgrade",
+    "cover": "https://avatars.githubusercontent.com/u/121828284?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
   }
 ]
