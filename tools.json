@@ -39408,5 +39408,25 @@
     "url": "https://github.com/TRazDev/Mugshot",
     "cover": "https://avatars.githubusercontent.com/u/121578074?v=4",
     "description": "Screenshot testing for Compose Multiplatform and Android previews. One annotation, no test code, no emulator"
+  },
+  {
+    "name": "BreadZed80",
+    "slug": "breadzed80",
+    "creator": "PainfulDiodes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PainfulDiodes/BreadZed80",
+    "cover": "https://avatars.githubusercontent.com/u/160266765?v=4",
+    "description": "A simple Z80 breadboard computer, usable via a terminal emulator on a host computer via USB"
+  },
+  {
+    "name": "bbk9588-emulator",
+    "slug": "bbk9588-emulator",
+    "creator": "HelloClyde",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HelloClyde/bbk9588-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/12826558?v=4",
+    "description": "BBK 9588 emulator based on QEMU and the JZ4740 hardware model"
   }
 ]
