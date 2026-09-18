@@ -39438,5 +39438,45 @@
     "url": "https://github.com/DavidGriffith/tme",
     "cover": "https://avatars.githubusercontent.com/u/1289035?v=4",
     "description": "The Machine Emulator"
+  },
+  {
+    "name": "dolphinios",
+    "slug": "dolphinios",
+    "creator": "gepatcht",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/gepatcht/dolphinios",
+    "cover": "https://avatars.githubusercontent.com/u/134000529?v=4",
+    "description": "DolphiniOS - GameCube/Wii emulator for iOS/iPadOS"
+  },
+  {
+    "name": "wiimotedsu",
+    "slug": "wiimotedsu",
+    "creator": "gepatcht",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gepatcht/wiimotedsu",
+    "cover": "https://avatars.githubusercontent.com/u/134000529?v=4",
+    "description": "WiiMoteDSU - Turn your phone into a Wiimote for Dolphin emulator"
+  },
+  {
+    "name": "Mario-Kart-Wii---MK8-Esque-Bindings",
+    "slug": "mario-kart-wii-mk8-esque-bindings",
+    "creator": "Crissley10",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Crissley10/Mario-Kart-Wii---MK8-Esque-Bindings",
+    "cover": "https://avatars.githubusercontent.com/u/80502975?v=4",
+    "description": "Mario Kart Wii controls more like Mario Kart 8/Deluxe with these controller bindings, versions for both Dolphin Emulator and the now public Mario Kart Wiicompiled w/ Retro Rewind. This is for anyone that wants MKWii to control more like MK8/Deluxe out of habit (particularly the JUMPS/TRICKS boosting that is controlled with the Joystick + R/ZR)."
+  },
+  {
+    "name": "vitasx2",
+    "slug": "vitasx2",
+    "creator": "shoui520",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shoui520/vitasx2",
+    "cover": "https://avatars.githubusercontent.com/u/77593657?v=4",
+    "description": "Research PlayStation 2 Emulator for the PS Vita / ARM32 — Based on PCSX2."
   }
 ]
