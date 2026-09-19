@@ -39478,5 +39478,25 @@
     "url": "https://github.com/shoui520/vitasx2",
     "cover": "https://avatars.githubusercontent.com/u/77593657?v=4",
     "description": "Research PlayStation 2 Emulator for the PS Vita / ARM32 — Based on PCSX2."
+  },
+  {
+    "name": "terminal-benchmark",
+    "slug": "terminal-benchmark",
+    "creator": "isvizen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/isvizen/terminal-benchmark",
+    "cover": "https://avatars.githubusercontent.com/u/89829361?v=4",
+    "description": "Benchmarks of several Wayland terminal emulator"
+  },
+  {
+    "name": "RedBox-PC-Emulator",
+    "slug": "redbox-pc-emulator",
+    "creator": "RimvydopOfficial",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RimvydopOfficial/RedBox-PC-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/133641239?v=4",
+    "description": "RedBox PC Emulator is a QEMU-based emulator for Android. It currently supports x86 emulation for android devices."
   }
 ]
