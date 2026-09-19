@@ -39498,5 +39498,25 @@
     "url": "https://github.com/RimvydopOfficial/RedBox-PC-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/133641239?v=4",
     "description": "RedBox PC Emulator is a QEMU-based emulator for Android. It currently supports x86 emulation for android devices."
+  },
+  {
+    "name": "Black-Ice-Emulator",
+    "slug": "black-ice-emulator",
+    "creator": "uran39281-bit",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/uran39281-bit/Black-Ice-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/328597254?v=4",
+    "description": "Black Ice Emulator 1.0 source checkpoint built on ARMSX2/PCSX2."
+  },
+  {
+    "name": "mymc-py",
+    "slug": "mymc-py",
+    "creator": "G4brym",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/G4brym/mymc-py",
+    "cover": "https://avatars.githubusercontent.com/u/5445926?v=4",
+    "description": "Python 3 library and CLI for PlayStation 2 memory card images (.ps2): read, write, format and build cards from uLaunchELF folder saves. Port of Ross Ridge's mymc. PCSX2/AetherSX2 compatible."
   }
 ]
