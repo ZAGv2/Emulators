@@ -39548,5 +39548,35 @@
     "url": "https://github.com/zx0CF1/RetroPapaPS5-Beta",
     "cover": "https://avatars.githubusercontent.com/u/58010920?v=4",
     "description": "Native retro frontend and emulator launcher for jailbroken PS5"
+  },
+  {
+    "name": "Orbitra",
+    "slug": "orbitra",
+    "creator": "hehuang139",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hehuang139/Orbitra",
+    "cover": "https://avatars.githubusercontent.com/u/9929843?v=4",
+    "description": "Orbitra is a local-first browser emulator for GBA, Game Boy, NES, SNES, and experimental GameCube, powered by WebAssembly cores."
+  },
+  {
+    "name": "dolphin-emulator-surface-laptop-go-1",
+    "slug": "dolphin-emulator-surface-laptop-go-1",
+    "creator": "MPESMPEK",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MPESMPEK/dolphin-emulator-surface-laptop-go-1",
+    "cover": "https://avatars.githubusercontent.com/u/233679218?v=4",
+    "description": "Dolphin Emulator optimized specifically for Microsoft Surface Laptop Go 1 (Intel Ice Lake i5-1035G1, UHD Graphics, 3:2 screen ratio)"
+  },
+  {
+    "name": "pcsx2-surface-laptop-go-1",
+    "slug": "pcsx2-surface-laptop-go-1",
+    "creator": "MPESMPEK",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MPESMPEK/pcsx2-surface-laptop-go-1",
+    "cover": "https://avatars.githubusercontent.com/u/233679218?v=4",
+    "description": "PCSX2 PS2 Emulator optimized specifically for Microsoft Surface Laptop Go 1 (Intel Ice Lake i5-1035G1, UHD Graphics, 3:2 screen ratio)"
   }
 ]
