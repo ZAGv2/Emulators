@@ -39578,5 +39578,15 @@
     "url": "https://github.com/MPESMPEK/pcsx2-surface-laptop-go-1",
     "cover": "https://avatars.githubusercontent.com/u/233679218?v=4",
     "description": "PCSX2 PS2 Emulator optimized specifically for Microsoft Surface Laptop Go 1 (Intel Ice Lake i5-1035G1, UHD Graphics, 3:2 screen ratio)"
+  },
+  {
+    "name": "STM32-Bluepill-emu",
+    "slug": "stm32-bluepill-emu",
+    "creator": "danish9661",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/danish9661/STM32-Bluepill-emu",
+    "cover": "https://avatars.githubusercontent.com/u/110881758?v=4",
+    "description": "STM32F103 Bluepill emulator running real Arduino firmware in the browser — WASM + Unicorn"
   }
 ]
