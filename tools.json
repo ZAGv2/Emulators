@@ -39518,5 +39518,35 @@
     "url": "https://github.com/G4brym/mymc-py",
     "cover": "https://avatars.githubusercontent.com/u/5445926?v=4",
     "description": "Python 3 library and CLI for PlayStation 2 memory card images (.ps2): read, write, format and build cards from uLaunchELF folder saves. Port of Ross Ridge's mymc. PCSX2/AetherSX2 compatible."
+  },
+  {
+    "name": "ase",
+    "slug": "ase",
+    "creator": "thebitculture",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/thebitculture/ase",
+    "cover": "https://avatars.githubusercontent.com/u/231766974?v=4",
+    "description": "Atari System Emulator"
+  },
+  {
+    "name": "entra-local",
+    "slug": "entra-local",
+    "creator": "cmaneu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cmaneu/entra-local",
+    "cover": "https://avatars.githubusercontent.com/u/790974?v=4",
+    "description": "A local Entra ID emulator for application developers that need to mock authentication"
+  },
+  {
+    "name": "RetroPapaPS5-Beta",
+    "slug": "retropapaps5-beta",
+    "creator": "zx0CF1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zx0CF1/RetroPapaPS5-Beta",
+    "cover": "https://avatars.githubusercontent.com/u/58010920?v=4",
+    "description": "Native retro frontend and emulator launcher for jailbroken PS5"
   }
 ]
