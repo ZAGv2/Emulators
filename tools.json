@@ -39588,5 +39588,15 @@
     "url": "https://github.com/danish9661/STM32-Bluepill-emu",
     "cover": "https://avatars.githubusercontent.com/u/110881758?v=4",
     "description": "STM32F103 Bluepill emulator running real Arduino firmware in the browser — WASM + Unicorn"
+  },
+  {
+    "name": "DLSS5-Neural-Suite",
+    "slug": "dlss5-neural-suite",
+    "creator": "Serpentiutriumph",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Serpentiutriumph/DLSS5-Neural-Suite",
+    "cover": "https://avatars.githubusercontent.com/u/319185940?v=4",
+    "description": "DLSS5-Neural-Suite — one-click DLSS 5 neural rendering suite with swapper, feeder, optiscaler & renodx. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL & emulators."
   }
 ]
