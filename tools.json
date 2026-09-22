@@ -39638,5 +39638,25 @@
     "url": "https://github.com/rleeon/hoard",
     "cover": "https://avatars.githubusercontent.com/u/233607842?v=4",
     "description": "Automatic, versioned game save sync across devices. Supports Steam, GOG, 20k+ games, emulators. Hoard-Cloud or Self-Host without account or telemetry. Open source (AGPL-3.0)."
+  },
+  {
+    "name": "dlss5-neural-amd",
+    "slug": "dlss5-neural-amd",
+    "creator": "zmodelerlover",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zmodelerlover/dlss5-neural-amd",
+    "cover": "https://avatars.githubusercontent.com/u/171363449?v=4",
+    "description": "AMD Neural Rendering: a ReShade add-on that runs neural rendering on Radeon. RDNA3/RDNA4, Direct3D 11 and emulators. Vulkan, OpenGL and 32-bit games experimental."
+  },
+  {
+    "name": "AndroidBurpLab",
+    "slug": "androidburplab",
+    "creator": "DouglasFreshHabian",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/DouglasFreshHabian/AndroidBurpLab",
+    "cover": "https://avatars.githubusercontent.com/u/146692496?v=4",
+    "description": "Android emulator lab for routing HTTP/HTTPS traffic through Burp Suite using ADB, including CA installation, proxy configuration, and troubleshooting for authorized security testing. ⭐️"
   }
 ]
