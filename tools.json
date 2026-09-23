@@ -39658,5 +39658,15 @@
     "url": "https://github.com/DouglasFreshHabian/AndroidBurpLab",
     "cover": "https://avatars.githubusercontent.com/u/146692496?v=4",
     "description": "Android emulator lab for routing HTTP/HTTPS traffic through Burp Suite using ADB, including CA installation, proxy configuration, and troubleshooting for authorized security testing. ⭐️"
+  },
+  {
+    "name": "Build-with-anthropic-fable-5",
+    "slug": "build-with-anthropic-fable-5",
+    "creator": "hamzabellouch",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hamzabellouch/Build-with-anthropic-fable-5",
+    "cover": "https://avatars.githubusercontent.com/u/237856042?v=4",
+    "description": "A curated monorepo of interactive web experiments, 3D flight simulators, physics engines, web OS emulators, and creative tools."
   }
 ]
