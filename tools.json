@@ -39668,5 +39668,15 @@
     "url": "https://github.com/hamzabellouch/Build-with-anthropic-fable-5",
     "cover": "https://avatars.githubusercontent.com/u/237856042?v=4",
     "description": "A curated monorepo of interactive web experiments, 3D flight simulators, physics engines, web OS emulators, and creative tools."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-PlayStation-Emulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-PlayStation-Emulator/.github",
+    "cover": "https://avatars.githubusercontent.com/u/333078397?v=4",
+    "description": "PCSX2 is a Windows emulator designed to recreate the PlayStation 2 gaming environment on modern PC hardware. It provides configurable graphics, controller, audio, and emulation settings, allowing users to tailor individual games to their system."
   }
 ]
