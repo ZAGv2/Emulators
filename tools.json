@@ -39678,5 +39678,15 @@
     "url": "https://github.com/PCSX2-PlayStation-Emulator/.github",
     "cover": "https://avatars.githubusercontent.com/u/333078397?v=4",
     "description": "PCSX2 is a Windows emulator designed to recreate the PlayStation 2 gaming environment on modern PC hardware. It provides configurable graphics, controller, audio, and emulation settings, allowing users to tailor individual games to their system."
+  },
+  {
+    "name": "BO2Z-Offline",
+    "slug": "bo2z-offline",
+    "creator": "Ghostx10742",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ghostx10742/BO2Z-Offline",
+    "cover": "https://avatars.githubusercontent.com/u/97923224?v=4",
+    "description": "BO2Z-Offline is a clean launcher and local service emulator that lets legitimate Steam owners play Black Ops II Zombies completely offline with separate persistent progression while leaving the original game files and native online mode untouched."
   }
 ]
