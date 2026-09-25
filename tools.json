@@ -39708,5 +39708,15 @@
     "url": "https://github.com/XITRIX/RPCS3-iOS-Releases",
     "cover": "https://avatars.githubusercontent.com/u/9553519?v=4",
     "description": "Release repo for RPCS3 iOS port builds"
+  },
+  {
+    "name": "KytyPlus",
+    "slug": "kytyplus",
+    "creator": "Coder787-source",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Coder787-source/KytyPlus",
+    "cover": "https://avatars.githubusercontent.com/u/207118432?v=4",
+    "description": "KytyPS5-based PS5 emulator with extra compatibility/HLE work. Experimental crash/boot-reach improvements — not a playability claim."
   }
 ]
