@@ -39688,5 +39688,15 @@
     "url": "https://github.com/Ghostx10742/BO2Z-Offline",
     "cover": "https://avatars.githubusercontent.com/u/97923224?v=4",
     "description": "BO2Z-Offline is a clean launcher and local service emulator that lets legitimate Steam owners play Black Ops II Zombies completely offline with separate persistent progression while leaving the original game files and native online mode untouched."
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "dreamboyn81",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dreamboyn81/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/15012771?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
   }
 ]
