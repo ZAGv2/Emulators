@@ -39698,5 +39698,15 @@
     "url": "https://github.com/dreamboyn81/dolphin",
     "cover": "https://avatars.githubusercontent.com/u/15012771?v=4",
     "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "RPCS3-iOS-Releases",
+    "slug": "rpcs3-ios-releases",
+    "creator": "XITRIX",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/XITRIX/RPCS3-iOS-Releases",
+    "cover": "https://avatars.githubusercontent.com/u/9553519?v=4",
+    "description": "Release repo for RPCS3 iOS port builds"
   }
 ]
