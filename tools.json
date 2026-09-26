@@ -39718,5 +39718,35 @@
     "url": "https://github.com/Coder787-source/KytyPlus",
     "cover": "https://avatars.githubusercontent.com/u/207118432?v=4",
     "description": "KytyPS5-based PS5 emulator with extra compatibility/HLE work. Experimental crash/boot-reach improvements — not a playability claim."
+  },
+  {
+    "name": "VipeDolphin",
+    "slug": "vipedolphin",
+    "creator": "jerrypeter259",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jerrypeter259/VipeDolphin",
+    "cover": "https://avatars.githubusercontent.com/u/311846901?v=4",
+    "description": "A GameCube and Wii emulator project for Android"
+  },
+  {
+    "name": "Dolphin-Full-Version-Unlocked",
+    "slug": "dolphin-full-version-unlocked",
+    "creator": "branskoji",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/branskoji/Dolphin-Full-Version-Unlocked",
+    "cover": "https://avatars.githubusercontent.com/u/272412773?v=4",
+    "description": "Get Dolphin — a console emulator for Windows with free download. Relive classic GameCube and Wii experiences by playing popular titles like Super Mario Galaxy and Zelda effortlessly. Customize controls and settings easily. Download and run today."
+  },
+  {
+    "name": "Pcsx2-Full-Version-Unlocked",
+    "slug": "pcsx2-full-version-unlocked",
+    "creator": "brian59frostball",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/brian59frostball/Pcsx2-Full-Version-Unlocked",
+    "cover": "https://avatars.githubusercontent.com/u/276103802?v=4",
+    "description": "Download PCSX2 — a powerful PlayStation 2 emulator for Windows with free download available. Enjoy enhanced graphics, limitless memory cards, and compatibility with various file formats like ISO and BIN. Get started free today."
   }
 ]
