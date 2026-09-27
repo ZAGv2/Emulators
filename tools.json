@@ -39758,5 +39758,25 @@
     "url": "https://github.com/Fastbrasecret8/DLSS5-Manager",
     "cover": "https://avatars.githubusercontent.com/u/293958511?v=4",
     "description": "The intelligent one-click manager for DLSS 5 Neural Rendering. Swapper, Feeder, OptiScaler, RenoDX, Multipass, ReShade, F8 overlay. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL & emulators."
+  },
+  {
+    "name": "octabam",
+    "slug": "octabam",
+    "creator": "sambanks",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sambanks/octabam",
+    "cover": "https://avatars.githubusercontent.com/u/3905846?v=4",
+    "description": "A remixer for the Elektron Octatrack's OS: modules (custom DSP56300 effects, ColdFire mods, ports of community mods) composed into one firmware image built from your own 1.40C. No firmware distributed."
+  },
+  {
+    "name": "ZettaBridge",
+    "slug": "zettabridge",
+    "creator": "ZailoxTT",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ZailoxTT/ZettaBridge",
+    "cover": "https://avatars.githubusercontent.com/u/88113162?v=4",
+    "description": "Run 32-bit Android apps on 64-bit-only ARM phones: open-source ARM32 -> ARM64 native code translator and app launcher"
   }
 ]
