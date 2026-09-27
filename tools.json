@@ -39778,5 +39778,15 @@
     "url": "https://github.com/ZailoxTT/ZettaBridge",
     "cover": "https://avatars.githubusercontent.com/u/88113162?v=4",
     "description": "Run 32-bit Android apps on 64-bit-only ARM phones: open-source ARM32 -> ARM64 native code translator and app launcher"
+  },
+  {
+    "name": "PhoneGyro",
+    "slug": "phonegyro",
+    "creator": "MrHoustonOff",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MrHoustonOff/PhoneGyro",
+    "cover": "https://avatars.githubusercontent.com/u/192683746?v=4",
+    "description": "Turn your phone into a gyroscope motion controller for PC emulators (Cemu, Dolphin, Ryujinx, Citron.. etc) - no app install, just scan a QR code in your browser. Works on iOS & Android. Perfect for  The Legend of Zelda: Breath of the Wild (BotW) and Tears of the Kingdom (TotK)."
   }
 ]
