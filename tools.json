@@ -39748,5 +39748,15 @@
     "url": "https://github.com/brian59frostball/Pcsx2-Full-Version-Unlocked",
     "cover": "https://avatars.githubusercontent.com/u/276103802?v=4",
     "description": "Download PCSX2 — a powerful PlayStation 2 emulator for Windows with free download available. Enjoy enhanced graphics, limitless memory cards, and compatibility with various file formats like ISO and BIN. Get started free today."
+  },
+  {
+    "name": "DLSS5-Manager",
+    "slug": "dlss5-manager",
+    "creator": "Fastbrasecret8",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Fastbrasecret8/DLSS5-Manager",
+    "cover": "https://avatars.githubusercontent.com/u/293958511?v=4",
+    "description": "The intelligent one-click manager for DLSS 5 Neural Rendering. Swapper, Feeder, OptiScaler, RenoDX, Multipass, ReShade, F8 overlay. RTX 20/30/40/50, AMD RDNA, Intel Arc. DX8/9/10/11/12, Vulkan, OpenGL & emulators."
   }
 ]
