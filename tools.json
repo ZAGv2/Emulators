@@ -39808,5 +39808,35 @@
     "url": "https://github.com/blackbearreloaded/ProsperoEden",
     "cover": "https://avatars.githubusercontent.com/u/316784285?v=4",
     "description": "Unofficial port of the Eden (Nintendo switch) emulator for PS5"
+  },
+  {
+    "name": "terminal-benchmark",
+    "slug": "terminal-benchmark",
+    "creator": "vizenc",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vizenc/terminal-benchmark",
+    "cover": "https://avatars.githubusercontent.com/u/89829361?v=4",
+    "description": "Benchmarks of several Wayland terminal emulator"
+  },
+  {
+    "name": "Earthbound-Widescreen-patch-for-BSNES-HD",
+    "slug": "earthbound-widescreen-patch-for-bsnes-hd",
+    "creator": "Raid-rgb",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/Raid-rgb/Earthbound-Widescreen-patch-for-BSNES-HD",
+    "cover": "https://avatars.githubusercontent.com/u/39531048?v=4",
+    "description": "simple .bps patch that enables widescreen for Earthbound, when played on BSNES-HD emulator."
+  },
+  {
+    "name": "KingBugCastle",
+    "slug": "kingbugcastle",
+    "creator": "nowl-it",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nowl-it/KingBugCastle",
+    "cover": "https://avatars.githubusercontent.com/u/83193108?v=4",
+    "description": "Reverse-engineered Private Server & API Emulator for King God Castle. Features IL2CPP analysis, ARM64 patching, and offline logic emulation."
   }
 ]
