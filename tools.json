@@ -39788,5 +39788,25 @@
     "url": "https://github.com/MrHoustonOff/PhoneGyro",
     "cover": "https://avatars.githubusercontent.com/u/192683746?v=4",
     "description": "Turn your phone into a gyroscope motion controller for PC emulators (Cemu, Dolphin, Ryujinx, Citron.. etc) - no app install, just scan a QR code in your browser. Works on iOS & Android. Perfect for  The Legend of Zelda: Breath of the Wild (BotW) and Tears of the Kingdom (TotK)."
+  },
+  {
+    "name": "local_roborock_server",
+    "slug": "local-roborock-server",
+    "creator": "Python-roborock",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Python-roborock/local_roborock_server",
+    "cover": "https://avatars.githubusercontent.com/u/193806031?v=4",
+    "description": "Local HTTPS and MQTT cloud emulator for Roborock vacuums without rooting or hardware modifications"
+  },
+  {
+    "name": "ProsperoEden",
+    "slug": "prosperoeden",
+    "creator": "blackbearreloaded",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/blackbearreloaded/ProsperoEden",
+    "cover": "https://avatars.githubusercontent.com/u/316784285?v=4",
+    "description": "Unofficial port of the Eden (Nintendo switch) emulator for PS5"
   }
 ]
