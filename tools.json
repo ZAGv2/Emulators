@@ -39848,5 +39848,15 @@
     "url": "https://github.com/mRbRaIn0/Emulator-PC-Hub",
     "cover": "https://avatars.githubusercontent.com/u/133802870?v=4",
     "description": "Controller-friendly Windows launcher for Dolphin, Cemu, Eden, melonDS & Azahar – play your own dumps from one console-style UI. No games, keys or firmware included."
+  },
+  {
+    "name": "snes9xgx",
+    "slug": "snes9xgx",
+    "creator": "dborth",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/dborth/snes9xgx",
+    "cover": "https://avatars.githubusercontent.com/u/11741529?v=4",
+    "description": "Snes9x GX - Super Nintendo emulator for GameCube, Wii, and Wii U"
   }
 ]
