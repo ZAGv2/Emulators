@@ -39888,5 +39888,25 @@
     "url": "https://github.com/Leviidev/Husk",
     "cover": "https://avatars.githubusercontent.com/u/281482210?v=4",
     "description": "Android Emulator for iOS"
+  },
+  {
+    "name": "dolphin",
+    "slug": "dolphin",
+    "creator": "XboxEmulationHub",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/XboxEmulationHub/dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/177692055?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on UWP/Xbox with improvements."
+  },
+  {
+    "name": "Kingshot-bot",
+    "slug": "kingshot-bot",
+    "creator": "KingshotAuto",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KingshotAuto/Kingshot-bot",
+    "cover": "https://avatars.githubusercontent.com/u/297937438?v=4",
+    "description": "KingshotAuto is a free, open-source Windows automation bot for the mobile game Kingshot. Built with C#/.NET 10 and WPF, it runs the game in the LDPlayer Android emulator and uses OpenCV template matching + Tesseract OCR to automate farming, hunting, shields, building, troop training across multiple accounts. MIT-licensed and open to contributors."
   }
 ]
