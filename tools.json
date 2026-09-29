@@ -39858,5 +39858,35 @@
     "url": "https://github.com/dborth/snes9xgx",
     "cover": "https://avatars.githubusercontent.com/u/11741529?v=4",
     "description": "Snes9x GX - Super Nintendo emulator for GameCube, Wii, and Wii U"
+  },
+  {
+    "name": "vbagx",
+    "slug": "vbagx",
+    "creator": "dborth",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dborth/vbagx",
+    "cover": "https://avatars.githubusercontent.com/u/11741529?v=4",
+    "description": "Visual Boy Advance GX - GB/GBC/GBA emulator for GameCube, Wii, and Wii U"
+  },
+  {
+    "name": "fceugx",
+    "slug": "fceugx",
+    "creator": "dborth",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dborth/fceugx",
+    "cover": "https://avatars.githubusercontent.com/u/11741529?v=4",
+    "description": "FCE Ultra GX - NES emulator for GameCube, Wii, and Wii U"
+  },
+  {
+    "name": "Husk",
+    "slug": "husk",
+    "creator": "Leviidev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Leviidev/Husk",
+    "cover": "https://avatars.githubusercontent.com/u/281482210?v=4",
+    "description": "Android Emulator for iOS"
   }
 ]
