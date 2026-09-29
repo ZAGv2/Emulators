@@ -39838,5 +39838,15 @@
     "url": "https://github.com/nowl-it/KingBugCastle",
     "cover": "https://avatars.githubusercontent.com/u/83193108?v=4",
     "description": "Reverse-engineered Private Server & API Emulator for King God Castle. Features IL2CPP analysis, ARM64 patching, and offline logic emulation."
+  },
+  {
+    "name": "Emulator-PC-Hub",
+    "slug": "emulator-pc-hub",
+    "creator": "mRbRaIn0",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mRbRaIn0/Emulator-PC-Hub",
+    "cover": "https://avatars.githubusercontent.com/u/133802870?v=4",
+    "description": "Controller-friendly Windows launcher for Dolphin, Cemu, Eden, melonDS & Azahar – play your own dumps from one console-style UI. No games, keys or firmware included."
   }
 ]
