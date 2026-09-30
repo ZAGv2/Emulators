@@ -39908,5 +39908,15 @@
     "url": "https://github.com/KingshotAuto/Kingshot-bot",
     "cover": "https://avatars.githubusercontent.com/u/297937438?v=4",
     "description": "KingshotAuto is a free, open-source Windows automation bot for the mobile game Kingshot. Built with C#/.NET 10 and WPF, it runs the game in the LDPlayer Android emulator and uses OpenCV template matching + Tesseract OCR to automate farming, hunting, shields, building, troop training across multiple accounts. MIT-licensed and open to contributors."
+  },
+  {
+    "name": "PCSX2-to-Mobile-Hash-Renamer",
+    "slug": "pcsx2-to-mobile-hash-renamer",
+    "creator": "HitoriKira",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HitoriKira/PCSX2-to-Mobile-Hash-Renamer",
+    "cover": "https://avatars.githubusercontent.com/u/118804746?v=4",
+    "description": "Use to convert modern PCSX2 Texture Pack Hash name into compatible hash used by various PS2 Emulator like AettherSX2/NetherSX2"
   }
 ]
