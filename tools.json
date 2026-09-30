@@ -39928,5 +39928,25 @@
     "url": "https://github.com/blackbearreloaded/ProsperoEden-Legacy",
     "cover": "https://avatars.githubusercontent.com/u/316784285?v=4",
     "description": "Unofficial port of the Eden emulator for PS5"
+  },
+  {
+    "name": "AEmulator",
+    "slug": "aemulator",
+    "creator": "uxazu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/uxazu/AEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/319944140?v=4",
+    "description": "Android emulator that emulates older Android firmware versions."
+  },
+  {
+    "name": "DeadCells-PS5-Native",
+    "slug": "deadcells-ps5-native",
+    "creator": "OverkillLabs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OverkillLabs/DeadCells-PS5-Native",
+    "cover": "https://avatars.githubusercontent.com/u/10800190?v=4",
+    "description": "Dead Cells for PS5 as a fully native Windows program: relinked, not emulated. Built on AnyPS5."
   }
 ]
