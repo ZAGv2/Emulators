@@ -39918,5 +39918,15 @@
     "url": "https://github.com/HitoriKira/PCSX2-to-Mobile-Hash-Renamer",
     "cover": "https://avatars.githubusercontent.com/u/118804746?v=4",
     "description": "Use to convert modern PCSX2 Texture Pack Hash name into compatible hash used by various PS2 Emulator like AettherSX2/NetherSX2"
+  },
+  {
+    "name": "ProsperoEden-Legacy",
+    "slug": "prosperoeden-legacy",
+    "creator": "blackbearreloaded",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/blackbearreloaded/ProsperoEden-Legacy",
+    "cover": "https://avatars.githubusercontent.com/u/316784285?v=4",
+    "description": "Unofficial port of the Eden emulator for PS5"
   }
 ]
