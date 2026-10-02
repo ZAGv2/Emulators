@@ -39948,5 +39948,45 @@
     "url": "https://github.com/OverkillLabs/DeadCells-PS5-Native",
     "cover": "https://avatars.githubusercontent.com/u/10800190?v=4",
     "description": "Dead Cells for PS5 as a fully native Windows program: relinked, not emulated. Built on AnyPS5."
+  },
+  {
+    "name": "Dolphin-Emulator",
+    "slug": "dolphin-emulator",
+    "creator": "dolphinemu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dolphinemu/Dolphin-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/323671804?v=4",
+    "description": "Dolphin Emulator 2609 is GameCube and Wii: dolphin wii emulator, download dolphin emulator, dolphin emulator pc, dolphin emulator android. Windows x64, VC++ 14. Android NetPlay in this pin. Official free download. Download:🡇"
+  },
+  {
+    "name": "ludusavi-emulator-manifests",
+    "slug": "ludusavi-emulator-manifests",
+    "creator": "sharkusmanch",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sharkusmanch/ludusavi-emulator-manifests",
+    "cover": "https://avatars.githubusercontent.com/u/9328629?v=4",
+    "description": "Per-game Ludusavi secondary manifests for emulator saves (RetroArch, PCSX2, PPSSPP, Dolphin, Azahar), generated from public game databases"
+  },
+  {
+    "name": "yabasanshiro-nx",
+    "slug": "yabasanshiro-nx",
+    "creator": "Thorhax",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Thorhax/yabasanshiro-nx",
+    "cover": "https://avatars.githubusercontent.com/u/105724862?v=4",
+    "description": "YabaSanshiro Saturn emulator for Nintendo Switch, with a launcher adapted from NaGa's Dolphin NX frontend"
+  },
+  {
+    "name": "ps2linux10-whiterhino",
+    "slug": "ps2linux10-whiterhino",
+    "creator": "ajfa",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/ajfa/ps2linux10-whiterhino",
+    "cover": "https://avatars.githubusercontent.com/u/3520832?v=4",
+    "description": "Sony PS2 Linux 1.0 (PAL, 2002) running up to X and WindowMaker on WhiteRhino (PCSX2 fork): 13 emulator patches and scripts that build the hard disk from your own discs"
   }
 ]
