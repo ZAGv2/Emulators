@@ -40008,5 +40008,25 @@
     "url": "https://github.com/TechProGabe/OpenCrossing-Anbernic",
     "cover": "https://avatars.githubusercontent.com/u/64233226?v=4",
     "description": "OpenCrossing: Animal Crossing running natively at ~60 fps on Anbernic handhelds — no emulator. GameCube decomp port for the H700 family (RG-34XX/35XX/28XX) via PortMaster (muOS, Knulli)."
+  },
+  {
+    "name": "dolphin-emulator-desktop",
+    "slug": "dolphin-emulator-desktop",
+    "creator": "jeremy-barnes270",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jeremy-barnes270/dolphin-emulator-desktop",
+    "cover": "https://avatars.githubusercontent.com/u/335792464?v=4",
+    "description": "A local helper for Dolphin Emulator save-state folders, config and BIOS-path files, and photo albums on Windows and macOS."
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "Dolphin-Wii-Emulator",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Dolphin-Wii-Emulator/.github",
+    "cover": "https://avatars.githubusercontent.com/u/337311018?v=4",
+    "description": "Dolphin emulator resources for GameCube and Wii emulation, graphics configuration, controller setup, performance tuning, and game compatibility."
   }
 ]
