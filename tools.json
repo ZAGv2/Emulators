@@ -39988,5 +39988,25 @@
     "url": "https://github.com/ajfa/ps2linux10-whiterhino",
     "cover": "https://avatars.githubusercontent.com/u/3520832?v=4",
     "description": "Sony PS2 Linux 1.0 (PAL, 2002) running up to X and WindowMaker on WhiteRhino (PCSX2 fork): 13 emulator patches and scripts that build the hard disk from your own discs"
+  },
+  {
+    "name": "CoreDeck",
+    "slug": "coredeck",
+    "creator": "devmuaz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/devmuaz/CoreDeck",
+    "cover": "https://avatars.githubusercontent.com/u/17835497?v=4",
+    "description": "A native desktop command center for the Android SDK. Create virtual devices, launch them, install system images, inspect APKs, and see whether your tools are actually ready, all in one fast app. It drives Google's official emulator, avdmanager, sdkmanager, and apkanalyzer. Android Studio does not need to be installed. Using C++20 & Dear ImGUI."
+  },
+  {
+    "name": "OpenCrossing-Anbernic",
+    "slug": "opencrossing-anbernic",
+    "creator": "TechProGabe",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TechProGabe/OpenCrossing-Anbernic",
+    "cover": "https://avatars.githubusercontent.com/u/64233226?v=4",
+    "description": "OpenCrossing: Animal Crossing running natively at ~60 fps on Anbernic handhelds — no emulator. GameCube decomp port for the H700 family (RG-34XX/35XX/28XX) via PortMaster (muOS, Knulli)."
   }
 ]
