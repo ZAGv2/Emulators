@@ -40028,5 +40028,45 @@
     "url": "https://github.com/Dolphin-Wii-Emulator/.github",
     "cover": "https://avatars.githubusercontent.com/u/337311018?v=4",
     "description": "Dolphin emulator resources for GameCube and Wii emulation, graphics configuration, controller setup, performance tuning, and game compatibility."
+  },
+  {
+    "name": "Podium",
+    "slug": "podium",
+    "creator": "Leviidev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Leviidev/Podium",
+    "cover": "https://avatars.githubusercontent.com/u/281482210?v=4",
+    "description": "Podium is a Classic iPod Touch Emulator"
+  },
+  {
+    "name": "DragonFable-Private-Server",
+    "slug": "dragonfable-private-server",
+    "creator": "hiperesp",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hiperesp/DragonFable-Private-Server",
+    "cover": "https://avatars.githubusercontent.com/u/40553363?v=4",
+    "description": "A Dragon Fable Private Server emulator for current working client."
+  },
+  {
+    "name": "Birdman64",
+    "slug": "birdman64",
+    "creator": "NoahVl",
+    "version": "...",
+    "console": "Nintendo 64",
+    "url": "https://github.com/NoahVl/Birdman64",
+    "cover": "https://avatars.githubusercontent.com/u/54477889?v=4",
+    "description": "Pilotwings 64 as a native PC game for Windows and Linux: widescreen, 144 Hz+, gamepads. Bring your own ROM, no emulator."
+  },
+  {
+    "name": "RedBox-PC-Emulator",
+    "slug": "redbox-pc-emulator",
+    "creator": "RedBoxEmu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RedBoxEmu/RedBox-PC-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/337301821?v=4",
+    "description": "RedBox PC Emulator is a QEMU-based emulator for Android. It currently supports x86 emulation for android devices."
   }
 ]
