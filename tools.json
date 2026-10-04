@@ -40068,5 +40068,25 @@
     "url": "https://github.com/RedBoxEmu/RedBox-PC-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/337301821?v=4",
     "description": "RedBox PC Emulator is a QEMU-based emulator for Android. It currently supports x86 emulation for android devices."
+  },
+  {
+    "name": "Porpoise",
+    "slug": "porpoise",
+    "creator": "elripalda",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/elripalda/Porpoise",
+    "cover": "https://avatars.githubusercontent.com/u/224081549?v=4",
+    "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music."
+  },
+  {
+    "name": "recvx60-Dolphin_60fps_Code",
+    "slug": "recvx60-dolphin-60fps-code",
+    "creator": "NobodyCatchMe-AZ92",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NobodyCatchMe-AZ92/recvx60-Dolphin_60fps_Code",
+    "cover": "https://avatars.githubusercontent.com/u/337590079?v=4",
+    "description": "An action replay code for Code Veronica emulated via Dolphin that enables 60fps interpolation while maintaining the original 30fps game logic."
   }
 ]
