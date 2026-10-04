@@ -40088,5 +40088,35 @@
     "url": "https://github.com/NobodyCatchMe-AZ92/recvx60-Dolphin_60fps_Code",
     "cover": "https://avatars.githubusercontent.com/u/337590079?v=4",
     "description": "An action replay code for Code Veronica emulated via Dolphin that enables 60fps interpolation while maintaining the original 30fps game logic."
+  },
+  {
+    "name": "Angelic-Angel",
+    "slug": "angelic-angel",
+    "creator": "sh1ma",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sh1ma/Angelic-Angel",
+    "cover": "https://avatars.githubusercontent.com/u/22412947?v=4",
+    "description": "A server for streaming tweets by emulating browser Web Push."
+  },
+  {
+    "name": "fakeredis-py",
+    "slug": "fakeredis-py",
+    "creator": "cunla",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cunla/fakeredis-py",
+    "cover": "https://avatars.githubusercontent.com/u/3419721?v=4",
+    "description": "In-memory fake Redis for Python tests: a drop-in replacement for redis-py and valkey-py, with no server to run. Emulates Redis, Valkey, DragonflyDB, KeyDB and KiviDB."
+  },
+  {
+    "name": "compatibility",
+    "slug": "compatibility",
+    "creator": "psOff-emulation-project",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/psOff-emulation-project/compatibility",
+    "cover": "https://avatars.githubusercontent.com/u/337690805?v=4",
+    "description": "Playstation 4 Emulator"
   }
 ]
