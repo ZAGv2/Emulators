@@ -40128,5 +40128,35 @@
     "url": "https://github.com/AscEmu/AscEmu",
     "cover": "https://avatars.githubusercontent.com/u/8471310?v=4",
     "description": "Official AscEmu repo... a never ending place to work. With cutting edge technologies XD master/develop Classic - 5875, TBC - 8606, WotLK - 12340, Cata - 15595, MoP - 18414, WoD - 21742. ClassicPlus: Forever"
+  },
+  {
+    "name": "Porpoise-Dolphin-Emulator-for-PS5",
+    "slug": "porpoise-dolphin-emulator-for-ps5",
+    "creator": "elripalda",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/elripalda/Porpoise-Dolphin-Emulator-for-PS5",
+    "cover": "https://avatars.githubusercontent.com/u/224081549?v=4",
+    "description": "A native GameCube and Wii emulator for jailbroken PS5, powered by Dolphin. Cover-flow library, box art, memory cards, original music."
+  },
+  {
+    "name": "DolphinPS4",
+    "slug": "dolphinps4",
+    "creator": "iHaiDeeZ",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iHaiDeeZ/DolphinPS4",
+    "cover": "https://avatars.githubusercontent.com/u/23220202?v=4",
+    "description": "Dolphin (GameCube/Wii emulator) for jailbroken PS4: Vulkan on the PS4 GPU, PSP-style XMB menu, per-game settings"
+  },
+  {
+    "name": "Gekko2",
+    "slug": "gekko2",
+    "creator": "Mafiacoding",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Mafiacoding/Gekko2",
+    "cover": "https://avatars.githubusercontent.com/u/11912308?v=4",
+    "description": "Gekko2 is an experimental PlayStation 2 emulator for Nintendo Wii, featuring a custom PowerPC JIT and GX renderer. Real PS2 BIOS startup works on Wii, with OSDSYS navigation tested in native builds. Early alpha—stability and performance are the priority. Inspired by PCSX2."
   }
 ]
