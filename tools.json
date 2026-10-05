@@ -40118,5 +40118,15 @@
     "url": "https://github.com/psOff-emulation-project/compatibility",
     "cover": "https://avatars.githubusercontent.com/u/337690805?v=4",
     "description": "Playstation 4 Emulator"
+  },
+  {
+    "name": "AscEmu",
+    "slug": "ascemu",
+    "creator": "AscEmu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AscEmu/AscEmu",
+    "cover": "https://avatars.githubusercontent.com/u/8471310?v=4",
+    "description": "Official AscEmu repo... a never ending place to work. With cutting edge technologies XD master/develop Classic - 5875, TBC - 8606, WotLK - 12340, Cata - 15595, MoP - 18414, WoD - 21742. ClassicPlus: Forever"
   }
 ]
