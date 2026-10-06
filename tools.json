@@ -40158,5 +40158,15 @@
     "url": "https://github.com/Mafiacoding/Gekko2",
     "cover": "https://avatars.githubusercontent.com/u/11912308?v=4",
     "description": "Gekko2 is an experimental PlayStation 2 emulator for Nintendo Wii, featuring a custom PowerPC JIT and GX renderer. Real PS2 BIOS startup works on Wii, with OSDSYS navigation tested in native builds. Early alpha—stability and performance are the priority. Inspired by PCSX2."
+  },
+  {
+    "name": "Aether",
+    "slug": "aether",
+    "creator": "AetherKiri",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AetherKiri/Aether",
+    "cover": "https://avatars.githubusercontent.com/u/286601150?v=4",
+    "description": "A cross-platform, multi-runtime visual novel emulator using Godot 4 as the rendering layer."
   }
 ]
