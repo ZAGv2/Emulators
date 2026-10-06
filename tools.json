@@ -40168,5 +40168,55 @@
     "url": "https://github.com/AetherKiri/Aether",
     "cover": "https://avatars.githubusercontent.com/u/286601150?v=4",
     "description": "A cross-platform, multi-runtime visual novel emulator using Godot 4 as the rendering layer."
+  },
+  {
+    "name": "AstroQuest",
+    "slug": "astroquest",
+    "creator": "bigmak94",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bigmak94/AstroQuest",
+    "cover": "https://avatars.githubusercontent.com/u/196841780?v=4",
+    "description": "ASTRO BOT Rescue Mission (PS4, PlayStation VR) in virtual reality on Meta Quest 3: on the headset alone, or from a Windows PC through Virtual Desktop or SteamVR. A PS4 emulator (shadPS4) with the PlayStation VR it needs. Bring your own copy of the game."
+  },
+  {
+    "name": "HyperOS-AVD",
+    "slug": "hyperos-avd",
+    "creator": "NEORUAA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NEORUAA/HyperOS-AVD",
+    "cover": "https://avatars.githubusercontent.com/u/75155966?v=4",
+    "description": "HyperOS in the official ARM64 Android Studio Emulator"
+  },
+  {
+    "name": "awesome-cloud-emulators",
+    "slug": "awesome-cloud-emulators",
+    "creator": "upgundecha",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/upgundecha/awesome-cloud-emulators",
+    "cover": "https://avatars.githubusercontent.com/u/1009929?v=4",
+    "description": "A curated list of cloud emulators and local cloud development tools for AWS, Azure, and Google Cloud. Explore Moto, Azurite, LocalStack, Firebase, and more for integration testing and CI/CD."
+  },
+  {
+    "name": "build-with-anthropic-fable-5",
+    "slug": "build-with-anthropic-fable-5",
+    "creator": "hamzabellouch",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hamzabellouch/build-with-anthropic-fable-5",
+    "cover": "https://avatars.githubusercontent.com/u/237856042?v=4",
+    "description": "A curated monorepo of interactive web experiments, 3D flight simulators, physics engines, web OS emulators, and creative tools."
+  },
+  {
+    "name": "signalk-navico-autopilot-bridge",
+    "slug": "signalk-navico-autopilot-bridge",
+    "creator": "johansolve",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/johansolve/signalk-navico-autopilot-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/562428?v=4",
+    "description": "Emulate a Simrad AC autopilot computer so a Navico MFD drives the SignalK Autopilot V2 API — steer any V2-backed pilot (e.g. Raymarine EV-200) from a B&G/Simrad/Lowrance autopilot control view."
   }
 ]
