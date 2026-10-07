@@ -40278,5 +40278,35 @@
     "url": "https://github.com/rafaelferreiram/ps1-2-emulator",
     "cover": "https://avatars.githubusercontent.com/u/33552692?v=4",
     "description": "Central pessoal para DuckStation (PS1) e PCSX2 (PS2) no macOS, em SwiftUI."
+  },
+  {
+    "name": "PS5X360",
+    "slug": "ps5x360",
+    "creator": "BrinooTk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BrinooTk/PS5X360",
+    "cover": "https://avatars.githubusercontent.com/u/126296596?v=4",
+    "description": "Experimental Xbox 360 emulator for PlayStation 5, built on Xenia Canary with native audio, DualSense input and RADV Vulkan graphics."
+  },
+  {
+    "name": "emufii",
+    "slug": "emufii",
+    "creator": "jojodogm-ctrl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jojodogm-ctrl/emufii",
+    "cover": "https://avatars.githubusercontent.com/u/280754771?v=4",
+    "description": "One code, and you're in the same room. Remote multiplayer between Android emulators: 3DS, Switch, PSP, PS2, DS and WII."
+  },
+  {
+    "name": "kernemul",
+    "slug": "kernemul",
+    "creator": "noahware",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/noahware/kernemul",
+    "cover": "https://avatars.githubusercontent.com/u/131519316?v=4",
+    "description": "Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets."
   }
 ]
