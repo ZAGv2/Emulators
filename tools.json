@@ -40308,5 +40308,85 @@
     "url": "https://github.com/noahware/kernemul",
     "cover": "https://avatars.githubusercontent.com/u/131519316?v=4",
     "description": "Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets."
+  },
+  {
+    "name": "Andy-Emulator-Windows-Setup",
+    "slug": "andy-emulator-windows-setup",
+    "creator": "nhuat-muynh",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/nhuat-muynh/Andy-Emulator-Windows-Setup",
+    "cover": "https://avatars.githubusercontent.com/u/193063544?v=4",
+    "description": "Andy Android Emulator 2026 Setup Guide for Windows 11 and 10 Install Tips"
+  },
+  {
+    "name": "Andy-Android-Emulator-Windows-Setup-Guide",
+    "slug": "andy-android-emulator-windows-setup-guide",
+    "creator": "zahrahusniaa",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/zahrahusniaa/Andy-Android-Emulator-Windows-Setup-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/281164266?v=4",
+    "description": "Andy Android Emulator for Windows 11 and 10: Install and Setup Guide 2026"
+  },
+  {
+    "name": "MEmu-Android-Emulator-Setup-Guide",
+    "slug": "memu-android-emulator-setup-guide",
+    "creator": "design291",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/design291/MEmu-Android-Emulator-Setup-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/273009328?v=4",
+    "description": "MEmu Play Android Emulator for Windows 11 and 10: 2026 Setup Guide and Install Steps"
+  },
+  {
+    "name": "psp-web-recomp",
+    "slug": "psp-web-recomp",
+    "creator": "snuri00",
+    "version": "...",
+    "console": "PlayStation Portable",
+    "url": "https://github.com/snuri00/psp-web-recomp",
+    "cover": "https://avatars.githubusercontent.com/u/142660054?v=4",
+    "description": "PSP games in the browser without an emulator: static recompilation to WebAssembly, an HLE kernel and a WebGL2 renderer"
+  },
+  {
+    "name": "ps5-romm",
+    "slug": "ps5-romm",
+    "creator": "s0liton",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/s0liton/ps5-romm",
+    "cover": "https://avatars.githubusercontent.com/u/8346634?v=4",
+    "description": "A RomM server client for jailbroken PS5s. Download games from your server, full bi-directional save sync support, and extensible emulator profiles to quickly support new emulators as they release on the console."
+  },
+  {
+    "name": "berrry-wine",
+    "slug": "berrry-wine",
+    "creator": "vgrichina",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vgrichina/berrry-wine",
+    "cover": "https://avatars.githubusercontent.com/u/126710?v=4",
+    "description": "Run real Windows 98 apps and games in your browser. An x86 emulator and Win32 layer written directly in WebAssembly Text, no OS image, no source ports."
+  },
+  {
+    "name": "LaunchBox-Full",
+    "slug": "launchbox-full",
+    "creator": "PolygonGatorMonitor",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PolygonGatorMonitor/LaunchBox-Full",
+    "cover": "https://avatars.githubusercontent.com/u/332484206?v=4",
+    "description": "LaunchBox Full for Windows — complete game library frontend with emulator hooks and box art."
+  },
+  {
+    "name": "dos-boxer",
+    "slug": "dos-boxer",
+    "creator": "cantcodewontcode",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/cantcodewontcode/dos-boxer",
+    "cover": "https://avatars.githubusercontent.com/u/24608183?v=4",
+    "description": "Your DOS games, optimized for Apple Silicon."
   }
 ]
