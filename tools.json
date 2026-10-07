@@ -40218,5 +40218,65 @@
     "url": "https://github.com/johansolve/signalk-navico-autopilot-bridge",
     "cover": "https://avatars.githubusercontent.com/u/562428?v=4",
     "description": "Emulate a Simrad AC autopilot computer so a Navico MFD drives the SignalK Autopilot V2 API — steer any V2-backed pilot (e.g. Raymarine EV-200) from a B&G/Simrad/Lowrance autopilot control view."
+  },
+  {
+    "name": "orca-netplay",
+    "slug": "orca-netplay",
+    "creator": "Lrosias",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Lrosias/orca-netplay",
+    "cover": "https://avatars.githubusercontent.com/u/1192132?v=4",
+    "description": "Orca: GameCube/Wii rollback netplay, a fork of the Dolphin emulator. Powers Brawl and Project+ online on YouGame."
+  },
+  {
+    "name": "dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "SpiritIdolize",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SpiritIdolize/dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/319249251?v=4",
+    "description": "Dolphin — GameCube and Wii emulator with enhancements"
+  },
+  {
+    "name": "Dolphin-quickmatch",
+    "slug": "dolphin-quickmatch",
+    "creator": "superclearice97-droid",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/superclearice97-droid/Dolphin-quickmatch",
+    "cover": "https://avatars.githubusercontent.com/u/239508797?v=4",
+    "description": "Quick play for dolphin emulator "
+  },
+  {
+    "name": "dolphin-crt",
+    "slug": "dolphin-crt",
+    "creator": "freakinfrick",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/freakinfrick/dolphin-crt",
+    "cover": "https://avatars.githubusercontent.com/u/332653888?v=4",
+    "description": "Single-pass CRT post-processing shader for the Dolphin emulator (scanlines, curvature, mask, bloom). CC0."
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "CounselorContract",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CounselorContract/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/319250191?v=4",
+    "description": "PCSX2 — PlayStation 2 emulator with full HD support"
+  },
+  {
+    "name": "ps1-2-emulator",
+    "slug": "ps1-2-emulator",
+    "creator": "rafaelferreiram",
+    "version": "...",
+    "console": "PlayStation",
+    "url": "https://github.com/rafaelferreiram/ps1-2-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/33552692?v=4",
+    "description": "Central pessoal para DuckStation (PS1) e PCSX2 (PS2) no macOS, em SwiftUI."
   }
 ]
