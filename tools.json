@@ -40388,5 +40388,15 @@
     "url": "https://github.com/cantcodewontcode/dos-boxer",
     "cover": "https://avatars.githubusercontent.com/u/24608183?v=4",
     "description": "Your DOS games, optimized for Apple Silicon."
+  },
+  {
+    "name": "galaxy-ps2-integration-renew",
+    "slug": "galaxy-ps2-integration-renew",
+    "creator": "Notimagination",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/Notimagination/galaxy-ps2-integration-renew",
+    "cover": "https://avatars.githubusercontent.com/u/68918458?v=4",
+    "description": "Complete and fully functional modification of the PS2 integration plugin for GOG Galaxy 2.0"
   }
 ]
