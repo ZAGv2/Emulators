@@ -40408,5 +40408,45 @@
     "url": "https://github.com/Odrannnn/MetroidPrimePort",
     "cover": "https://avatars.githubusercontent.com/u/116312962?v=4",
     "description": "Native port of Metroid Prime (GameCube) for Linux, Windows and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image."
+  },
+  {
+    "name": "FusionCMS",
+    "slug": "fusioncms",
+    "creator": "FusionWowCMS",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/FusionWowCMS/FusionCMS",
+    "cover": "https://avatars.githubusercontent.com/u/135007438?v=4",
+    "description": "FusionCMS is a free and open-source CMS designed for managing World of Warcraft server websites, with support for emulators such as TrinityCore, AzerothCore, and SkyFire."
+  },
+  {
+    "name": "RommPS",
+    "slug": "rommps",
+    "creator": "s0liton",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/s0liton/RommPS",
+    "cover": "https://avatars.githubusercontent.com/u/8346634?v=4",
+    "description": "A RomM server client for jailbroken PS5s. Download games from your server, full bi-directional save sync support, and extensible emulator profiles to quickly support new emulators as they release on the console."
+  },
+  {
+    "name": "Buildo-Server",
+    "slug": "buildo-server",
+    "creator": "XColdV",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/XColdV/Buildo-Server",
+    "cover": "https://avatars.githubusercontent.com/u/62787162?v=4",
+    "description": "Server emulator for Buildo (Growtopia v0.01 prototype from 2012)"
+  },
+  {
+    "name": "Bitfields-CSharp",
+    "slug": "bitfields-csharp",
+    "creator": "gregorygaines",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gregorygaines/Bitfields-CSharp",
+    "cover": "https://avatars.githubusercontent.com/u/24306432?v=4",
+    "description": "C# source generator for generating flexible bitfields for classes and structs, useful for low-level code (embedded or emulators)."
   }
 ]
