@@ -40448,5 +40448,25 @@
     "url": "https://github.com/gregorygaines/Bitfields-CSharp",
     "cover": "https://avatars.githubusercontent.com/u/24306432?v=4",
     "description": "C# source generator for generating flexible bitfields for classes and structs, useful for low-level code (embedded or emulators)."
+  },
+  {
+    "name": "orca-netplay",
+    "slug": "orca-netplay",
+    "creator": "yougame-co",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yougame-co/orca-netplay",
+    "cover": "https://avatars.githubusercontent.com/u/340046281?v=4",
+    "description": "Orca: GameCube/Wii rollback netplay, a fork of the Dolphin emulator. Powers Brawl and Project+ online on YouGame."
+  },
+  {
+    "name": "dolphin_web",
+    "slug": "dolphin-web",
+    "creator": "Shubin123",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Shubin123/dolphin_web",
+    "cover": "https://avatars.githubusercontent.com/u/44554264?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
   }
 ]
