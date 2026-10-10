@@ -40488,5 +40488,15 @@
     "url": "https://github.com/faligame/Parasite-Eve-HD-Remaster",
     "cover": "https://avatars.githubusercontent.com/u/45312219?v=4",
     "description": "Native PC port of PARASITE EVE via static recompilation — true 4K rendering, 60 fps, HD Remaster Not an emulator. Work in progress."
+  },
+  {
+    "name": "CasioEmuMsvc",
+    "slug": "casioemumsvc",
+    "creator": "telecomadm1145",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/telecomadm1145/CasioEmuMsvc",
+    "cover": "https://avatars.githubusercontent.com/u/47657299?v=4",
+    "description": "A nx-u8 emulator"
   }
 ]
