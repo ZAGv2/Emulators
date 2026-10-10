@@ -40498,5 +40498,25 @@
     "url": "https://github.com/telecomadm1145/CasioEmuMsvc",
     "cover": "https://avatars.githubusercontent.com/u/47657299?v=4",
     "description": "A nx-u8 emulator"
+  },
+  {
+    "name": "h700-dolphin-vvmimo-standalone-muos_Mark1-",
+    "slug": "h700-dolphin-vvmimo-standalone-muos-mark1",
+    "creator": "VVmImo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/VVmImo/h700-dolphin-vvmimo-standalone-muos_Mark1-",
+    "cover": "https://avatars.githubusercontent.com/u/320099124?v=4",
+    "description": "Standalone Dolphin emulator for H700 devices running muOS, featuring V.V.mImo performance optimizations, frame generation, per-game settings and custom patches. Experimental beta. Original games required."
+  },
+  {
+    "name": "ARMSX2-iOS-Emulator",
+    "slug": "armsx2-ios-emulator",
+    "creator": "laurenlindsay813-cell",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/laurenlindsay813-cell/ARMSX2-iOS-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/337972100?v=4",
+    "description": "An iOS emulator project exploring PlayStation 2 emulation using an ARMSX2/PCSX2-based core."
   }
 ]
