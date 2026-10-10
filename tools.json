@@ -40468,5 +40468,25 @@
     "url": "https://github.com/Shubin123/dolphin_web",
     "cover": "https://avatars.githubusercontent.com/u/44554264?v=4",
     "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "romm-ios-app",
+    "slug": "romm-ios-app",
+    "creator": "ilyas-hallak",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/ilyas-hallak/romm-ios-app",
+    "cover": "https://avatars.githubusercontent.com/u/1866584?v=4",
+    "description": "Native iOS client for RomM: browse, play and sync your self-hosted retro library"
+  },
+  {
+    "name": "Parasite-Eve-HD-Remaster",
+    "slug": "parasite-eve-hd-remaster",
+    "creator": "faligame",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/faligame/Parasite-Eve-HD-Remaster",
+    "cover": "https://avatars.githubusercontent.com/u/45312219?v=4",
+    "description": "Native PC port of PARASITE EVE via static recompilation — true 4K rendering, 60 fps, HD Remaster Not an emulator. Work in progress."
   }
 ]
