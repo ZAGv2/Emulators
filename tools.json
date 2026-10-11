@@ -40578,5 +40578,15 @@
     "url": "https://github.com/HelloClyde/BBK9588-gba",
     "cover": "https://avatars.githubusercontent.com/u/12826558?v=4",
     "description": "GBA emulator for BBK 9588, ported from gpSP"
+  },
+  {
+    "name": "dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "masonk3093",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/masonk3093/dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/340238176?v=4",
+    "description": "A local helper for Dolphin Emulator save-state folders, config and BIOS-path files, and photo albums on Windows and macOS."
   }
 ]
