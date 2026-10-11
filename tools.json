@@ -40518,5 +40518,65 @@
     "url": "https://github.com/laurenlindsay813-cell/ARMSX2-iOS-Emulator",
     "cover": "https://avatars.githubusercontent.com/u/337972100?v=4",
     "description": "An iOS emulator project exploring PlayStation 2 emulation using an ARMSX2/PCSX2-based core."
+  },
+  {
+    "name": "PSXS5",
+    "slug": "psxs5",
+    "creator": "SynoPiia",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SynoPiia/PSXS5",
+    "cover": "https://avatars.githubusercontent.com/u/13609993?v=4",
+    "description": "PSXS5 (PlayStation X Super 5): a PlayStation 1 emulator running natively on jailbroken PS5, based on PCSX-ReARMed. Cover-flow shelf, xBR upscaling, RetroAchievements, cheats."
+  },
+  {
+    "name": "af-emulator",
+    "slug": "af-emulator",
+    "creator": "armangido",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/armangido/af-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/42208098?v=4",
+    "description": "Unofficial Assault Fire PH preservation and server-emulation project with local VERSION/AUTH/DIR/ROLE/ZONE services, UE3 PvE research, tools, and documentation."
+  },
+  {
+    "name": "YukiOS",
+    "slug": "yukios",
+    "creator": "Reeyuki",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/Reeyuki/YukiOS",
+    "cover": "https://avatars.githubusercontent.com/u/160347604?v=4",
+    "description": "A complete desktop environment built from scratch with JS, HTML5, and CSS3. Bundles to single html file. Pls star 🥺"
+  },
+  {
+    "name": "macosBeebEmu",
+    "slug": "macosbeebemu",
+    "creator": "guruchill",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/guruchill/macosBeebEmu",
+    "cover": "https://avatars.githubusercontent.com/u/65343951?v=4",
+    "description": "BBC Micro emulator for macOS in Swift — Model B and Master 128, all screen modes incl. teletext, discs, sound, second processors; runs Elite"
+  },
+  {
+    "name": "Brawl-Busters-Emulator",
+    "slug": "brawl-busters-emulator",
+    "creator": "brawlbusters",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/brawlbusters/Brawl-Busters-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/339447311?v=4",
+    "description": "Brawl Busters Emulator serves as the central public repository"
+  },
+  {
+    "name": "BBK9588-gba",
+    "slug": "bbk9588-gba",
+    "creator": "HelloClyde",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/HelloClyde/BBK9588-gba",
+    "cover": "https://avatars.githubusercontent.com/u/12826558?v=4",
+    "description": "GBA emulator for BBK 9588, ported from gpSP"
   }
 ]
