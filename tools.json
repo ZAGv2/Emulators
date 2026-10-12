@@ -40598,5 +40598,25 @@
     "url": "https://github.com/ZiZc3/XPSemu",
     "cover": "https://avatars.githubusercontent.com/u/60833584?v=4",
     "description": "Original Xbox emulator (Xemu) port for the PS5"
+  },
+  {
+    "name": "maclator",
+    "slug": "maclator",
+    "creator": "linuxkid473",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/linuxkid473/maclator",
+    "cover": "https://avatars.githubusercontent.com/u/207131026?v=4",
+    "description": "Run arm64 macOS apps on Intel Macs: a reverse-Rosetta emulator (interpreter + x86-64 JIT + AOT cache) with a Metal bridge to the host GPU"
+  },
+  {
+    "name": "libvtty",
+    "slug": "libvtty",
+    "creator": "TragicWarrior",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TragicWarrior/libvtty",
+    "cover": "https://avatars.githubusercontent.com/u/8481559?v=4",
+    "description": "libvtty (formerly libvterm) is a color terminal emulator library based on libROTE. It mimics vt100, rxvt, xterm, and xterm 256 color mode."
   }
 ]
