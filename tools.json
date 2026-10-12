@@ -40588,5 +40588,15 @@
     "url": "https://github.com/masonk3093/dolphin-emulator",
     "cover": "https://avatars.githubusercontent.com/u/340238176?v=4",
     "description": "A local helper for Dolphin Emulator save-state folders, config and BIOS-path files, and photo albums on Windows and macOS."
+  },
+  {
+    "name": "XPSemu",
+    "slug": "xpsemu",
+    "creator": "ZiZc3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ZiZc3/XPSemu",
+    "cover": "https://avatars.githubusercontent.com/u/60833584?v=4",
+    "description": "Original Xbox emulator (Xemu) port for the PS5"
   }
 ]
