@@ -40688,5 +40688,15 @@
     "url": "https://github.com/shoui520/pcsx2-headless-trace",
     "cover": "https://avatars.githubusercontent.com/u/77593657?v=4",
     "description": "headless trace tool for PS2 emulator development."
+  },
+  {
+    "name": "goldeneye-pc-port",
+    "slug": "goldeneye-pc-port",
+    "creator": "jkdansereau",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jkdansereau/goldeneye-pc-port",
+    "cover": "https://avatars.githubusercontent.com/u/106631954?v=4",
+    "description": "GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, up to 240 fps, mouse and keyboard or controller, and split-screen. Not an emulator."
   }
 ]
