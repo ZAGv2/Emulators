@@ -40698,5 +40698,55 @@
     "url": "https://github.com/jkdansereau/goldeneye-pc-port",
     "cover": "https://avatars.githubusercontent.com/u/106631954?v=4",
     "description": "GoldenEye 007 (N64, 1997) as a native PC game for Windows, Linux, Steam Deck and macOS. Built from the open decompilation, with widescreen, up to 240 fps, mouse and keyboard or controller, and split-screen. Not an emulator."
+  },
+  {
+    "name": "lost-odyssey-hd-remaster",
+    "slug": "lost-odyssey-hd-remaster",
+    "creator": "faligame",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/faligame/lost-odyssey-hd-remaster",
+    "cover": "https://avatars.githubusercontent.com/u/45312219?v=4",
+    "description": "Lost Odyssey HD Remaster: a native PC build of Lost Odyssey (Xbox 360) via static recompilation. 720p to 4K with an exact interface, 60 fps, Direct3D 12 and Vulkan, texture replacement. Not an emulator. Work in progress."
+  },
+  {
+    "name": "digiemu",
+    "slug": "digiemu",
+    "creator": "irpina",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/irpina/digiemu",
+    "cover": "https://avatars.githubusercontent.com/u/264014615?v=4",
+    "description": "Elektron Digitakt, Digitone (mk1), Model:Cycles and Model:Samples emulator: runs their own firmware behind a clickable front panel, with live audio and MIDI. Apps for Windows and Apple silicon Macs; bring your own .syx. Unofficial."
+  },
+  {
+    "name": "oh-my-android",
+    "slug": "oh-my-android",
+    "creator": "ateymoori",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/ateymoori/oh-my-android",
+    "cover": "https://avatars.githubusercontent.com/u/34753150?v=4",
+    "description": "Android emulator & ADB GUI for Mac: dark mode, font size, RTL, TalkBack, network, GPS, Layout Inspector in dp. Built-in MCP server lets Claude Code, Codex and Cursor drive the emulator."
+  },
+  {
+    "name": "bitborn",
+    "slug": "bitborn",
+    "creator": "OthmaneBlial",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/OthmaneBlial/bitborn",
+    "cover": "https://avatars.githubusercontent.com/u/26414042?v=4",
+    "description": "A bootable x86 system built from handwritten binary machine code. No Assembly. No compiler. Just 0s and 1s."
+  },
+  {
+    "name": "BMC64-NG",
+    "slug": "bmc64-ng",
+    "creator": "lroby74",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lroby74/BMC64-NG",
+    "cover": "https://avatars.githubusercontent.com/u/9693306?v=4",
+    "description": "Bare-metal Commodore emulator for the Raspberry Pi 4, 400, 5 and 500, built on VICE 3.10: cycle-exact C64, C128 on two HDMI screens, stereo SID player up to 8 SIDs, reSIDfp, network and NAS"
   }
 ]
