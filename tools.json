@@ -40618,5 +40618,75 @@
     "url": "https://github.com/TragicWarrior/libvtty",
     "cover": "https://avatars.githubusercontent.com/u/8481559?v=4",
     "description": "libvtty (formerly libvterm) is a color terminal emulator library based on libROTE. It mimics vt100, rxvt, xterm, and xterm 256 color mode."
+  },
+  {
+    "name": "CVX60---60fps-Patch-for-Resident-Evil-CODE-Veronica-PS2-and-GC",
+    "slug": "cvx60-60fps-patch-for-resident-evil-code-veronica-ps2-and-gc",
+    "creator": "NobodyCatchMe-AZ92",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/NobodyCatchMe-AZ92/CVX60---60fps-Patch-for-Resident-Evil-CODE-Veronica-PS2-and-GC",
+    "cover": "https://avatars.githubusercontent.com/u/337590079?v=4",
+    "description": "An action replay code for Code Veronica emulated via Dolphin that enables 60fps interpolation while maintaining the original 30fps game logic."
+  },
+  {
+    "name": "dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "leo4078-ux",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/leo4078-ux/dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/332813217?v=4",
+    "description": "A local helper for Dolphin Emulator save-state folders, config and BIOS-path files, and photo albums on Windows and macOS."
+  },
+  {
+    "name": "dolphin-emulator",
+    "slug": "dolphin-emulator",
+    "creator": "rbennett-1291",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rbennett-1291/dolphin-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/341290293?v=4",
+    "description": "A local helper for Dolphin Emulator save-state folders, config and BIOS-path files, and photo albums on Windows and macOS."
+  },
+  {
+    "name": "iridia",
+    "slug": "iridia",
+    "creator": "zaptrem4",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zaptrem4/iridia",
+    "cover": "https://avatars.githubusercontent.com/u/243357431?v=4",
+    "description": "Iridia: a JIT-less GameCube emulator for iPhone and iPad, based on Dolphin. GPL-2.0-or-later."
+  },
+  {
+    "name": "PS4SX2",
+    "slug": "ps4sx2",
+    "creator": "iHaiDeeZ",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iHaiDeeZ/PS4SX2",
+    "cover": "https://avatars.githubusercontent.com/u/23220202?v=4",
+    "description": "PCSX2, the PS2 emulator, running natively on a jailbroken PS4 (built on PS5SX2)"
+  },
+  {
+    "name": "Pcsx2-Emulator",
+    "slug": "pcsx2-emulator",
+    "creator": "sophiablack04",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sophiablack04/Pcsx2-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/339843692?v=4",
+    "description": "🎮 PCSX2 Emulator Download for Windows 10 and 11. PlayStation 2 emulator with resolution upscaling, save states, controller mapping, widescreen patches, Vulkan rendering, plus setup notes and a short install walkthrough."
+  },
+  {
+    "name": "pcsx2-headless-trace",
+    "slug": "pcsx2-headless-trace",
+    "creator": "shoui520",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shoui520/pcsx2-headless-trace",
+    "cover": "https://avatars.githubusercontent.com/u/77593657?v=4",
+    "description": "headless trace tool for PS2 emulator development."
   }
 ]
