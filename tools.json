@@ -40748,5 +40748,15 @@
     "url": "https://github.com/lroby74/BMC64-NG",
     "cover": "https://avatars.githubusercontent.com/u/9693306?v=4",
     "description": "Bare-metal Commodore emulator for the Raspberry Pi 4, 400, 5 and 500, built on VICE 3.10: cycle-exact C64, C128 on two HDMI screens, stereo SID player up to 8 SIDs, reSIDfp, network and NAS"
+  },
+  {
+    "name": "LightTouchMac",
+    "slug": "lighttouchmac",
+    "creator": "samhenrigold",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/samhenrigold/LightTouchMac",
+    "cover": "https://avatars.githubusercontent.com/u/49251320?v=4",
+    "description": "Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)"
   }
 ]
