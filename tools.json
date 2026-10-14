@@ -40758,5 +40758,25 @@
     "url": "https://github.com/samhenrigold/LightTouchMac",
     "cover": "https://avatars.githubusercontent.com/u/49251320?v=4",
     "description": "Run classic iPhone, iPod touch and iPad apps on your Mac (iOS 1–7)"
+  },
+  {
+    "name": "RackNES",
+    "slug": "racknes",
+    "creator": "Arhythmetic-Units",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/Arhythmetic-Units/RackNES",
+    "cover": "https://avatars.githubusercontent.com/u/341738806?v=4",
+    "description": "A voltage-controlled NES emulator for VCV Rack 2 by Arhythmetic Units. Turn games into musical instruments with gate-driven controllers, five audio voices, save-state recall, and the CV Genie memory expander."
+  },
+  {
+    "name": "battle-cats-complete",
+    "slug": "battle-cats-complete",
+    "creator": "omochikaeri15",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/omochikaeri15/battle-cats-complete",
+    "cover": "https://avatars.githubusercontent.com/u/251449262?v=4",
+    "description": "An all-in-one desktop toolkit for The Battle Cats. Load raw game data, load modded data, accurately render in-game animations, and export animations to formats like MP4, AVIF, WebP, and GIF."
   }
 ]
