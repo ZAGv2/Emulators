@@ -40808,5 +40808,35 @@
     "url": "https://github.com/Ghael-V/Lemon-Project",
     "cover": "https://avatars.githubusercontent.com/u/244540579?v=4",
     "description": "Android-only Nintendo Switch emulator for Adreno GPUs: new interface, Lemon Cheater memory editor, savestates and NSZ/XCZ support. Mirror of git.lemon-emu.org/lemon/Lemon-Project"
+  },
+  {
+    "name": "Core2Again",
+    "slug": "core2again",
+    "creator": "jerrybeomsoo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jerrybeomsoo/Core2Again",
+    "cover": "https://avatars.githubusercontent.com/u/18094442?v=4",
+    "description": "Run Windows 11 24H2+ on Intel Core 2 CPUs by emulating SSE4.2/POPCNT instructions in UEFI VMX hypervisor"
+  },
+  {
+    "name": "FFTARecomp",
+    "slug": "fftarecomp",
+    "creator": "Jorge262007",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Jorge262007/FFTARecomp",
+    "cover": "https://avatars.githubusercontent.com/u/219474459?v=4",
+    "description": "Native Windows port of Final Fantasy Tactics Advance with widescreen, video/audio options and a one-click installer."
+  },
+  {
+    "name": "bob16",
+    "slug": "bob16",
+    "creator": "misterbob360",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/misterbob360/bob16",
+    "cover": "https://avatars.githubusercontent.com/u/84521318?v=4",
+    "description": "extremely simple custom 16 bit cpu emulator and assembler as seen on youtube"
   }
 ]
