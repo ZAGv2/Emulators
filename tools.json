@@ -40778,5 +40778,25 @@
     "url": "https://github.com/omochikaeri15/battle-cats-complete",
     "cover": "https://avatars.githubusercontent.com/u/251449262?v=4",
     "description": "An all-in-one desktop toolkit for The Battle Cats. Load raw game data, load modded data, accurately render in-game animations, and export animations to formats like MP4, AVIF, WebP, and GIF."
+  },
+  {
+    "name": "dolphin-emu",
+    "slug": "dolphin-emu",
+    "creator": "norakim6327",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/norakim6327/dolphin-emu",
+    "cover": "https://avatars.githubusercontent.com/u/342339987?v=4",
+    "description": "A local helper for Dolphin Emu save-state folders, config and BIOS-path files, and photo albums on Windows and macOS."
+  },
+  {
+    "name": "readers",
+    "slug": "readers",
+    "creator": "sommepo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sommepo/readers",
+    "cover": "https://avatars.githubusercontent.com/u/130929826?v=4",
+    "description": "Reader emulators for Japanese games (PS2, PSP, Dreamcast): one page for PCSX2, ARMSX2, PPSSPP and Flycast Reader, their games and game scripts"
   }
 ]
