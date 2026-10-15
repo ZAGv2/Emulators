@@ -40798,5 +40798,15 @@
     "url": "https://github.com/sommepo/readers",
     "cover": "https://avatars.githubusercontent.com/u/130929826?v=4",
     "description": "Reader emulators for Japanese games (PS2, PSP, Dreamcast): one page for PCSX2, ARMSX2, PPSSPP and Flycast Reader, their games and game scripts"
+  },
+  {
+    "name": "Lemon-Project",
+    "slug": "lemon-project",
+    "creator": "Ghael-V",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ghael-V/Lemon-Project",
+    "cover": "https://avatars.githubusercontent.com/u/244540579?v=4",
+    "description": "Android-only Nintendo Switch emulator for Adreno GPUs: new interface, Lemon Cheater memory editor, savestates and NSZ/XCZ support. Mirror of git.lemon-emu.org/lemon/Lemon-Project"
   }
 ]
