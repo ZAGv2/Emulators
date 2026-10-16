@@ -40848,5 +40848,25 @@
     "url": "https://github.com/marinenzo-code/PCSX2-Guide-",
     "cover": "https://avatars.githubusercontent.com/u/323596134?v=4",
     "description": "In this repository, I will show you how to install, configure, and get the most out of the best PlayStation 2 emulator: PCSX2."
+  },
+  {
+    "name": "LinPad",
+    "slug": "linpad",
+    "creator": "fspecii",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/fspecii/LinPad",
+    "cover": "https://avatars.githubusercontent.com/u/4722521?v=4",
+    "description": "LinPad — Linux for iPad. A real Linux desktop on the iPad: native windowed desktop with tiling and workspaces, real Linux apps (Firefox, VS Code, Thunar, VLC) as native windows, ARM64 JIT, GPU via Venus/Metal, keyboard + trackpad + touch."
+  },
+  {
+    "name": "bebox",
+    "slug": "bebox",
+    "creator": "johnrash",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/johnrash/bebox",
+    "cover": "https://avatars.githubusercontent.com/u/141453924?v=4",
+    "description": "Haiku native PowerPC and Hobbit BeBox Emulator"
   }
 ]
