@@ -40938,5 +40938,15 @@
     "url": "https://github.com/google/betosim",
     "cover": "https://avatars.githubusercontent.com/u/1342004?v=4",
     "description": "Simulate multi-radio network environments with a single tool."
+  },
+  {
+    "name": "dolphin-memory-engine",
+    "slug": "dolphin-memory-engine",
+    "creator": "smashslayerfence",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/smashslayerfence/dolphin-memory-engine",
+    "cover": "https://avatars.githubusercontent.com/u/337935077?v=4",
+    "description": "Real-time memory scanner and editor for Dolphin emulator"
   }
 ]
