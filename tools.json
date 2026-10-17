@@ -40868,5 +40868,25 @@
     "url": "https://github.com/johnrash/bebox",
     "cover": "https://avatars.githubusercontent.com/u/141453924?v=4",
     "description": "Haiku native PowerPC and Hobbit BeBox Emulator"
+  },
+  {
+    "name": "PCSX2",
+    "slug": "pcsx2",
+    "creator": "Emulator-PCSX2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Emulator-PCSX2/PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/343641017?v=4",
+    "description": "Emulator PCSX2 is the PCSX2 PlayStation 2 emulator for Windows, Linux, and macOS. pcsx2 for pc and pcsx2 linux share the Qt app, and pcsx2 portable runs from a folder you extract. Vulkan and DirectX 12 scale the image."
+  },
+  {
+    "name": "AuloPS2",
+    "slug": "aulops2",
+    "creator": "rafijordan4",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/rafijordan4/AuloPS2",
+    "cover": "https://avatars.githubusercontent.com/u/237281322?v=4",
+    "description": "AuloPS2: PlayStation 2 emulator for Android (ARM64), landscape-first. A rebranded fork of ARMSX2/PCSX2. GPL-3.0."
   }
 ]
