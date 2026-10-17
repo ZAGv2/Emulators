@@ -40888,5 +40888,55 @@
     "url": "https://github.com/rafijordan4/AuloPS2",
     "cover": "https://avatars.githubusercontent.com/u/237281322?v=4",
     "description": "AuloPS2: PlayStation 2 emulator for Android (ARM64), landscape-first. A rebranded fork of ARMSX2/PCSX2. GPL-3.0."
+  },
+  {
+    "name": "sly",
+    "slug": "sly",
+    "creator": "ioncodes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ioncodes/sly",
+    "cover": "https://avatars.githubusercontent.com/u/18533297?v=4",
+    "description": "A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browsers and mobile phones!"
+  },
+  {
+    "name": "afterhours-2015",
+    "slug": "afterhours-2015",
+    "creator": "afterhours-crew",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/afterhours-crew/afterhours-2015",
+    "cover": "https://avatars.githubusercontent.com/u/339535007?v=4",
+    "description": "Server emulator for Need for Speed 2015 allowing for custom servers and offline play"
+  },
+  {
+    "name": "retromulator",
+    "slug": "retromulator",
+    "creator": "reales",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/reales/retromulator",
+    "cover": "https://avatars.githubusercontent.com/u/13709183?v=4",
+    "description": "A standalone app and DAW plugin (AAX / VST3 / AU) that emulates classic hardware synthesizers, samplers, and keyboards by running their original firmware on cycle-accurate CPU and DSP emulators."
+  },
+  {
+    "name": "VerseBoy",
+    "slug": "verseboy",
+    "creator": "Ep8Script",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Ep8Script/VerseBoy",
+    "cover": "https://avatars.githubusercontent.com/u/27195853?v=4",
+    "description": "Accurate Game Boy (DMG) emulator written in Verse, for both standalone and UEFN."
+  },
+  {
+    "name": "betosim",
+    "slug": "betosim",
+    "creator": "google",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/google/betosim",
+    "cover": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "description": "Simulate multi-radio network environments with a single tool."
   }
 ]
