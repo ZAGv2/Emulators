@@ -40958,5 +40958,15 @@
     "url": "https://github.com/mikroverk/esp32sim",
     "cover": "https://avatars.githubusercontent.com/u/335213518?v=4",
     "description": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription."
+  },
+  {
+    "name": "OpenPS2BIOS",
+    "slug": "openps2bios",
+    "creator": "TamaribaEmu",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/TamaribaEmu/OpenPS2BIOS",
+    "cover": "https://avatars.githubusercontent.com/u/338912349?v=4",
+    "description": "Experimental open-source replacement PlayStation 2 BIOS for emulators. MIT licensed."
   }
 ]
