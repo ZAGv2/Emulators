@@ -40968,5 +40968,25 @@
     "url": "https://github.com/TamaribaEmu/OpenPS2BIOS",
     "cover": "https://avatars.githubusercontent.com/u/338912349?v=4",
     "description": "Experimental open-source replacement PlayStation 2 BIOS for emulators. MIT licensed."
+  },
+  {
+    "name": "re4-wii-zapper-remap",
+    "slug": "re4-wii-zapper-remap",
+    "creator": "H4D33D",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/H4D33D/re4-wii-zapper-remap",
+    "cover": "https://avatars.githubusercontent.com/u/319980794?v=4",
+    "description": "A custom Dolphin Emulator control configuration for Resident Evil 4: Wii Edition, remapped for a more intuitive and immersive Wii Zapper experience."
+  },
+  {
+    "name": "portalsync",
+    "slug": "portalsync",
+    "creator": "rhsts",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rhsts/portalsync",
+    "cover": "https://avatars.githubusercontent.com/u/105507456?v=4",
+    "description": "PortalSync: use one real Skylanders Portal of Power with Cemu, RPCS3, Dolphin and shadPS4 on Windows. Play real figures and .sky figures at the same time. Figure write-back, backups, repair, teams, Trap Team portal sound."
   }
 ]
