@@ -40948,5 +40948,15 @@
     "url": "https://github.com/smashslayerfence/dolphin-memory-engine",
     "cover": "https://avatars.githubusercontent.com/u/337935077?v=4",
     "description": "Real-time memory scanner and editor for Dolphin emulator"
+  },
+  {
+    "name": "esp32sim",
+    "slug": "esp32sim",
+    "creator": "mikroverk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mikroverk/esp32sim",
+    "cover": "https://avatars.githubusercontent.com/u/335213518?v=4",
+    "description": "Open-source ESP32 emulator. Run real firmware locally or in your browser — no hardware, no cloud, no subscription."
   }
 ]
