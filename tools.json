@@ -41018,5 +41018,15 @@
     "url": "https://github.com/charlesvestal/fm1-base",
     "cover": "https://avatars.githubusercontent.com/u/1034155?v=4",
     "description": "An MPL-2.0 base and template for M-VAVE FM-1 firmware, on felucca-bsp: platform, host simulator, browser emulator, Bluetooth MIDI, WiFi, USB audio"
+  },
+  {
+    "name": "PS2-cloud-launcher",
+    "slug": "ps2-cloud-launcher",
+    "creator": "KeRas1n",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/KeRas1n/PS2-cloud-launcher",
+    "cover": "https://avatars.githubusercontent.com/u/80959420?v=4",
+    "description": "Game launcher above ps2 emulator PCSX2 with cloud saves"
   }
 ]
