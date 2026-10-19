@@ -40988,5 +40988,35 @@
     "url": "https://github.com/rhsts/portalsync",
     "cover": "https://avatars.githubusercontent.com/u/105507456?v=4",
     "description": "PortalSync: use one real Skylanders Portal of Power with Cemu, RPCS3, Dolphin and shadPS4 on Windows. Play real figures and .sky figures at the same time. Figure write-back, backups, repair, teams, Trap Team portal sound."
+  },
+  {
+    "name": "KB-RPCS3",
+    "slug": "kb-rpcs3",
+    "creator": "kamb205",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kamb205/KB-RPCS3",
+    "cover": "https://avatars.githubusercontent.com/u/105952297?v=4",
+    "description": "Unofficial RPCS3 port for PlayStation 5 — run PS3 games as a native PS5 homebrew title. Alpha 0.1.0 source release."
+  },
+  {
+    "name": "SwanStationPS5",
+    "slug": "swanstationps5",
+    "creator": "darkxex",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/darkxex/SwanStationPS5",
+    "cover": "https://avatars.githubusercontent.com/u/17991404?v=4",
+    "description": "SwanStationPS5 (PSXS5 Fork to work with the SwanStation core): a PlayStation 1 emulator running natively on jailbroken PS5, based on SwanStation.  https://discord.gg/Drx8tsqq3B"
+  },
+  {
+    "name": "fm1-base",
+    "slug": "fm1-base",
+    "creator": "charlesvestal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/charlesvestal/fm1-base",
+    "cover": "https://avatars.githubusercontent.com/u/1034155?v=4",
+    "description": "An MPL-2.0 base and template for M-VAVE FM-1 firmware, on felucca-bsp: platform, host simulator, browser emulator, Bluetooth MIDI, WiFi, USB audio"
   }
 ]
