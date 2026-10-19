@@ -41028,5 +41028,15 @@
     "url": "https://github.com/KeRas1n/PS2-cloud-launcher",
     "cover": "https://avatars.githubusercontent.com/u/80959420?v=4",
     "description": "Game launcher above ps2 emulator PCSX2 with cloud saves"
+  },
+  {
+    "name": "esp-emulator",
+    "slug": "esp-emulator",
+    "creator": "espressif",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/espressif/esp-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/9460735?v=4",
+    "description": "Emulator for ESP32 Series SoCs"
   }
 ]
