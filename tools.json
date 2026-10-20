@@ -41038,5 +41038,55 @@
     "url": "https://github.com/espressif/esp-emulator",
     "cover": "https://avatars.githubusercontent.com/u/9460735?v=4",
     "description": "Emulator for ESP32 Series SoCs"
+  },
+  {
+    "name": "OpenNR-ReShade",
+    "slug": "opennr-reshade",
+    "creator": "zmodelerlover",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zmodelerlover/OpenNR-ReShade",
+    "cover": "https://avatars.githubusercontent.com/u/171363449?v=4",
+    "description": "AMD Neural Rendering: a ReShade add-on that runs neural rendering on Radeon. RDNA3/RDNA4, Direct3D 11 and emulators. Vulkan, OpenGL and 32-bit games experimental."
+  },
+  {
+    "name": "GBAdhoc",
+    "slug": "gbadhoc",
+    "creator": "ShoshinFauteux",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/ShoshinFauteux/GBAdhoc",
+    "cover": "https://avatars.githubusercontent.com/u/134168577?v=4",
+    "description": "A GBA emulator for the PSP: renderer on the second CPU, Wireless Adapter multiplayer over ad-hoc WiFi."
+  },
+  {
+    "name": "sly2-bevy-of-thieves",
+    "slug": "sly2-bevy-of-thieves",
+    "creator": "Campfirecrucifix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Campfirecrucifix/sly2-bevy-of-thieves",
+    "cover": "https://avatars.githubusercontent.com/u/65754334?v=4",
+    "description": "🦝 Sly 2: Bevy of Thieves — Sly, Rewritten. A from-scratch Rust + Bevy rewrite of Sly 2: Band of Thieves (not an emulator, not a recomp). Early access · bring your own disc · ray-traced GI · 32:9 ultrawide · easy mods"
+  },
+  {
+    "name": "btmux",
+    "slug": "btmux",
+    "creator": "buntec",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/buntec/btmux",
+    "cover": "https://avatars.githubusercontent.com/u/28229664?v=4",
+    "description": "A terminal emulator with tmux-style UX"
+  },
+  {
+    "name": "Battery-Emulator-Wiki",
+    "slug": "battery-emulator-wiki",
+    "creator": "dalathegreat",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dalathegreat/Battery-Emulator-Wiki",
+    "cover": "https://avatars.githubusercontent.com/u/26695010?v=4",
+    "description": "Wiki for the Battery-Emulator"
   }
 ]
