@@ -41088,5 +41088,15 @@
     "url": "https://github.com/dalathegreat/Battery-Emulator-Wiki",
     "cover": "https://avatars.githubusercontent.com/u/26695010?v=4",
     "description": "Wiki for the Battery-Emulator"
+  },
+  {
+    "name": "CDCemu",
+    "slug": "cdcemu",
+    "creator": "andreacolma",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/andreacolma/CDCemu",
+    "cover": "https://avatars.githubusercontent.com/u/777694?v=4",
+    "description": "Blaupunkt CD changer emulator for Fiat cars after 2001"
   }
 ]
