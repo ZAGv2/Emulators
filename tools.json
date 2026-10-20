@@ -41098,5 +41098,25 @@
     "url": "https://github.com/andreacolma/CDCemu",
     "cover": "https://avatars.githubusercontent.com/u/777694?v=4",
     "description": "Blaupunkt CD changer emulator for Fiat cars after 2001"
+  },
+  {
+    "name": "rpocket-team-Dolphin",
+    "slug": "rpocket-team-dolphin",
+    "creator": "ApothecaryDirect53",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ApothecaryDirect53/rpocket-team-Dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/338022002?v=4",
+    "description": "Get Dolphin — the ultimate console emulator for Windows offering a free download to relive the magic of GameCube and Wii classics. Experience customizable controls and automatic game optimization for a nostalgic adventure. Download the latest release."
+  },
+  {
+    "name": "iridia",
+    "slug": "iridia",
+    "creator": "IridiaEmu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/IridiaEmu/iridia",
+    "cover": "https://avatars.githubusercontent.com/u/345055951?v=4",
+    "description": "Iridia: a JIT-less GameCube emulator for iPhone and iPad, based on Dolphin. GPL-2.0-or-later."
   }
 ]
