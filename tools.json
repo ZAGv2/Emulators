@@ -41148,5 +41148,35 @@
     "url": "https://github.com/Dylics/BolidEmulator",
     "cover": "https://avatars.githubusercontent.com/u/76555907?v=4",
     "description": "Профессиональный эмулятор пульта С2000/С2000М для управления устройствами ОПС по RS-485/RS-232. Поддержка Modbus RTU, сканирование сети, управление шлейфами и реле, АЦП, детекция датчиков. Реальное время, логирование, многопоточность. .NET Framework 4.7.2, Windows. Лицензия MIT."
+  },
+  {
+    "name": "game-controller",
+    "slug": "game-controller",
+    "creator": "emilyahmad",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/emilyahmad/game-controller",
+    "cover": "https://avatars.githubusercontent.com/u/126031180?v=4",
+    "description": "for dolphin emulator?"
+  },
+  {
+    "name": "RE2DS",
+    "slug": "re2ds",
+    "creator": "mesho3d",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mesho3d/RE2DS",
+    "cover": "https://avatars.githubusercontent.com/u/85383877?v=4",
+    "description": "A modified Dolphin emulator for Resident Evil 2 USA (GHAE08) on AYN Thor, with a live map and inventory on the second screen."
+  },
+  {
+    "name": "TabStationToo",
+    "slug": "tabstationtoo",
+    "creator": "TabStationToo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TabStationToo/TabStationToo",
+    "cover": "https://avatars.githubusercontent.com/u/343695590?v=4",
+    "description": "PlayStation 2 emulation in the browser: PCSX2 compiled to WebAssembly. Bring your own BIOS; nothing is uploaded. Not affiliated with Sony or the PCSX2 project."
   }
 ]
