@@ -41118,5 +41118,35 @@
     "url": "https://github.com/IridiaEmu/iridia",
     "cover": "https://avatars.githubusercontent.com/u/345055951?v=4",
     "description": "Iridia: a JIT-less GameCube emulator for iPhone and iPad, based on Dolphin. GPL-2.0-or-later."
+  },
+  {
+    "name": "bmapple2",
+    "slug": "bmapple2",
+    "creator": "jhonnaker1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jhonnaker1/bmapple2",
+    "cover": "https://avatars.githubusercontent.com/u/182670055?v=4",
+    "description": "Bare metal Apple IIgs and IIe emulator for the Raspberry Pi, using KEGS (based on BMCoco, BMA800XL and BMC64)"
+  },
+  {
+    "name": "BekenEmulator",
+    "slug": "bekenemulator",
+    "creator": "openshwprojects",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/openshwprojects/BekenEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/85486843?v=4",
+    "description": "Complete Beken emulator, which can even run Tuya firmware that connects to the cloud and still can be controlled via Tuya app."
+  },
+  {
+    "name": "BolidEmulator",
+    "slug": "bolidemulator",
+    "creator": "Dylics",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Dylics/BolidEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/76555907?v=4",
+    "description": "Профессиональный эмулятор пульта С2000/С2000М для управления устройствами ОПС по RS-485/RS-232. Поддержка Modbus RTU, сканирование сети, управление шлейфами и реле, АЦП, детекция датчиков. Реальное время, логирование, многопоточность. .NET Framework 4.7.2, Windows. Лицензия MIT."
   }
 ]
