@@ -41178,5 +41178,15 @@
     "url": "https://github.com/TabStationToo/TabStationToo",
     "cover": "https://avatars.githubusercontent.com/u/343695590?v=4",
     "description": "PlayStation 2 emulation in the browser: PCSX2 compiled to WebAssembly. Bring your own BIOS; nothing is uploaded. Not affiliated with Sony or the PCSX2 project."
+  },
+  {
+    "name": "rosemary",
+    "slug": "rosemary",
+    "creator": "microlift",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/microlift/rosemary",
+    "cover": "https://avatars.githubusercontent.com/u/293662977?v=4",
+    "description": "Compatibility layer and high level emulator hybrid for running macOS applications across operating systems and architectures"
   }
 ]
