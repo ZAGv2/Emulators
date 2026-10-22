@@ -41228,5 +41228,35 @@
     "url": "https://github.com/dafugg/86box-mcp",
     "cover": "https://avatars.githubusercontent.com/u/5621217?v=4",
     "description": "MCP server that drives an 86Box PC at the hardware level, with held emulated time"
+  },
+  {
+    "name": "wiimotecast",
+    "slug": "wiimotecast",
+    "creator": "foralexandru",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/foralexandru/wiimotecast",
+    "cover": "https://avatars.githubusercontent.com/u/181274806?v=4",
+    "description": "WiimoteCast is an Android application and companion Python server that enables you to use a Nintendo Wiimote as a controller universally (over ViGEmBus [vgamepad] as an XBOX360 controller) for your PC, including support for Dolphin Emulator and for any game with controller support in general."
+  },
+  {
+    "name": "Dolphin-Emulator---Xbox-Series-S-X-Controller-Profile-for-Debian-13",
+    "slug": "dolphin-emulator-xbox-series-s-x-controller-profile-for-debian-13",
+    "creator": "JonaDev2026",
+    "version": "...",
+    "console": "Xbox",
+    "url": "https://github.com/JonaDev2026/Dolphin-Emulator---Xbox-Series-S-X-Controller-Profile-for-Debian-13",
+    "cover": "https://avatars.githubusercontent.com/u/322450647?v=4",
+    "description": "..."
+  },
+  {
+    "name": "memcard",
+    "slug": "memcard",
+    "creator": "PedroSmaxY",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PedroSmaxY/memcard",
+    "cover": "https://avatars.githubusercontent.com/u/127573080?v=4",
+    "description": "⚡ Zero-loss game save synchronization and versioning for retro emulators and PC ports."
   }
 ]
