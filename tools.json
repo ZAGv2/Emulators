@@ -41188,5 +41188,45 @@
     "url": "https://github.com/microlift/rosemary",
     "cover": "https://avatars.githubusercontent.com/u/293662977?v=4",
     "description": "Compatibility layer and high level emulator hybrid for running macOS applications across operating systems and architectures"
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "DLSS-5-Swapper-Update-Download",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DLSS-5-Swapper-Update-Download/.github",
+    "cover": "https://avatars.githubusercontent.com/u/346015843?v=4",
+    "description": "DLSS 5 Swapper is a Windows utility designed to help users install and manage DLSS 5 neural-rendering components in compatible games and supported emulators."
+  },
+  {
+    "name": "BubbleFighter.Fantasy",
+    "slug": "bubblefighter-fantasy",
+    "creator": "Wasabi-FantasyTaleDev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Wasabi-FantasyTaleDev/BubbleFighter.Fantasy",
+    "cover": "https://avatars.githubusercontent.com/u/111537697?v=4",
+    "description": "An open-source .NET server emulator for Bubble Fighter with support for multiple client versions, maintained by Fantasy Tale Studio and the community. Everything is a plugin."
+  },
+  {
+    "name": "alexa-skill-mcp-bridge",
+    "slug": "alexa-skill-mcp-bridge",
+    "creator": "KayLerch",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/KayLerch/alexa-skill-mcp-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/3472176?v=4",
+    "description": "Test an MCP server on a physical Alexa+ device today. An Alexa Skill stands in for an Alexa+ add-on, and a Strands agent on Amazon Bedrock AgentCore Runtime emulates the Alexa+ orchestrator: it picks your tools, handles elicitation, and speaks the results. TypeScript, one config file, one CDK stack."
+  },
+  {
+    "name": "86box-mcp",
+    "slug": "86box-mcp",
+    "creator": "dafugg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dafugg/86box-mcp",
+    "cover": "https://avatars.githubusercontent.com/u/5621217?v=4",
+    "description": "MCP server that drives an 86Box PC at the hardware level, with held emulated time"
   }
 ]
