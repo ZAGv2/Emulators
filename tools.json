@@ -41258,5 +41258,35 @@
     "url": "https://github.com/PedroSmaxY/memcard",
     "cover": "https://avatars.githubusercontent.com/u/127573080?v=4",
     "description": "⚡ Zero-loss game save synchronization and versioning for retro emulators and PC ports."
+  },
+  {
+    "name": "Resonance",
+    "slug": "resonance",
+    "creator": "iHaiDeeZ",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iHaiDeeZ/Resonance",
+    "cover": "https://avatars.githubusercontent.com/u/23220202?v=4",
+    "description": "Resonance: a Dreamcast emulator for jailbroken PS4, based on Flycast"
+  },
+  {
+    "name": "S3NTRY",
+    "slug": "s3ntry",
+    "creator": "MarcoRR",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MarcoRR/S3NTRY",
+    "cover": "https://avatars.githubusercontent.com/u/28611344?v=4",
+    "description": "A feature-rich smartwatch firmware for the Waveshare ESP32-S3 Touch AMOLED 2.06\" board. Combines BLE phone connectivity, media playback, notifications, productivity apps, GB emulator."
+  },
+  {
+    "name": "BananaLinux",
+    "slug": "bananalinux",
+    "creator": "JorreFog",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/JorreFog/BananaLinux",
+    "cover": "https://avatars.githubusercontent.com/u/305496122?v=4",
+    "description": "A light Linux for the Anbernic RG DS and RG DS Plus: boots to its own menu in seconds, two DS emulators straight onto both screens, RetroArch, and an App Store."
   }
 ]
