@@ -41288,5 +41288,25 @@
     "url": "https://github.com/JorreFog/BananaLinux",
     "cover": "https://avatars.githubusercontent.com/u/305496122?v=4",
     "description": "A light Linux for the Anbernic RG DS and RG DS Plus: boots to its own menu in seconds, two DS emulators straight onto both screens, RetroArch, and an App Store."
+  },
+  {
+    "name": "HandheldGyroDSU",
+    "slug": "handheldgyrodsu",
+    "creator": "brktlhylmz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/brktlhylmz/HandheldGyroDSU",
+    "cover": "https://avatars.githubusercontent.com/u/97908674?v=4",
+    "description": "Lightweight, zero-config Cemuhook DSU gyro & motion server for Dolphin, Cemu, and Switch emulators on Windows handhelds (ASUS ROG Ally, Legion Go) — with zero virtual controller conflicts."
+  },
+  {
+    "name": "browser-emu-netplay",
+    "slug": "browser-emu-netplay",
+    "creator": "rtonf",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rtonf/browser-emu-netplay",
+    "cover": "https://avatars.githubusercontent.com/u/262965679?v=4",
+    "description": "Play emulators with friends who only open a URL: host-streamed WebRTC netplay for EmulatorJS (SNES) and native Dolphin (DSU input), serverless encrypted PHP signaling, measured low-latency tuning."
   }
 ]
