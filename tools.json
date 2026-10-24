@@ -41378,5 +41378,15 @@
     "url": "https://github.com/PCSX2-Per-Game-Settings-Backup/.github",
     "cover": "https://avatars.githubusercontent.com/u/347099083?v=4",
     "description": "PCSX2 Per-Game Settings Backup tool keeps your emulator profiles safe and easy to browse. Use PCSX2 Per-Game Settings Backup manager to save, review, and switch PCSX2 Per-Game Settings Backup presets for every title. Quick PCSX2 Per-Game Settings Backup preview helps you confirm profiles before play."
+  },
+  {
+    "name": "tekken-tag-tournament-2-pc",
+    "slug": "tekken-tag-tournament-2-pc",
+    "creator": "shihabal3amri",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc",
+    "cover": "https://avatars.githubusercontent.com/u/42039842?v=4",
+    "description": "Native Windows port of Tekken Tag Tournament 2 (Xbox 360) by static recompilation. Not an emulator. Ships no game data - the installer builds the game from your own disc image and Title Update 3."
   }
 ]
