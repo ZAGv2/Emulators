@@ -41338,5 +41338,45 @@
     "url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
     "cover": "https://avatars.githubusercontent.com/u/133174859?v=4",
     "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages"
+  },
+  {
+    "name": "Dolphin-emu-snap-unofficial",
+    "slug": "dolphin-emu-snap-unofficial",
+    "creator": "iampopovich",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iampopovich/Dolphin-emu-snap-unofficial",
+    "cover": "https://avatars.githubusercontent.com/u/23129441?v=4",
+    "description": "Unofficial daily builds of Dolphin emulator for Snap "
+  },
+  {
+    "name": "marina",
+    "slug": "marina",
+    "creator": "openpak",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/openpak/marina",
+    "cover": "https://avatars.githubusercontent.com/u/294273025?v=4",
+    "description": "OpenPak's firmware-first Wii emulator, built on Dolphin"
+  },
+  {
+    "name": "PCSX2-emu-snap-unofficial",
+    "slug": "pcsx2-emu-snap-unofficial",
+    "creator": "iampopovich",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iampopovich/PCSX2-emu-snap-unofficial",
+    "cover": "https://avatars.githubusercontent.com/u/23129441?v=4",
+    "description": "Unofficial daily builds of PCSX2 emu for Snap"
+  },
+  {
+    "name": ".github",
+    "slug": "github",
+    "creator": "PCSX2-Per-Game-Settings-Backup",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/PCSX2-Per-Game-Settings-Backup/.github",
+    "cover": "https://avatars.githubusercontent.com/u/347099083?v=4",
+    "description": "PCSX2 Per-Game Settings Backup tool keeps your emulator profiles safe and easy to browse. Use PCSX2 Per-Game Settings Backup manager to save, review, and switch PCSX2 Per-Game Settings Backup presets for every title. Quick PCSX2 Per-Game Settings Backup preview helps you confirm profiles before play."
   }
 ]
