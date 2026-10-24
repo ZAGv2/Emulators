@@ -41308,5 +41308,35 @@
     "url": "https://github.com/rtonf/browser-emu-netplay",
     "cover": "https://avatars.githubusercontent.com/u/262965679?v=4",
     "description": "Play emulators with friends who only open a URL: host-streamed WebRTC netplay for EmulatorJS (SNES) and native Dolphin (DSU input), serverless encrypted PHP signaling, measured low-latency tuning."
+  },
+  {
+    "name": "L2Solo",
+    "slug": "l2solo",
+    "creator": "pmbstyle",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pmbstyle/L2Solo",
+    "cover": "https://avatars.githubusercontent.com/u/26082149?v=4",
+    "description": "Lineage II Chronicle 4 server emulator tuned for a solo MMO experience. Smart bots, aiming to a complete offline simulation."
+  },
+  {
+    "name": "NucleoOs",
+    "slug": "nucleoos",
+    "creator": "indecenti",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/indecenti/NucleoOs",
+    "cover": "https://avatars.githubusercontent.com/u/17745382?v=4",
+    "description": "Web-native OS for the M5Stack Cardputer (ESP32-S3): native firmware + a desktop-class browser shell, offline AI assistant (ANIMA), bilingual voice, games, a security lab, OTA."
+  },
+  {
+    "name": "Taiga-Launcher-for-Steam",
+    "slug": "taiga-launcher-for-steam",
+    "creator": "GabrielTaiga",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GabrielTaiga/Taiga-Launcher-for-Steam",
+    "cover": "https://avatars.githubusercontent.com/u/133174859?v=4",
+    "description": "Turn your entire game library into a native Steam experience. Emulator, PC, Epic, GOG, Xbox, and other store games appear in Steam just like real Steam titles with covers, full game pages, native achievement pop-ups, and playtime tracking. Windows · 5 languages"
   }
 ]
