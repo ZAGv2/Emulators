@@ -41408,5 +41408,25 @@
     "url": "https://github.com/pld-linux/pcsx2",
     "cover": "https://avatars.githubusercontent.com/u/599313?v=4",
     "description": "Free and open-source PlayStation 2 (PS2) emulator"
+  },
+  {
+    "name": "GoodBoy",
+    "slug": "goodboy",
+    "creator": "TheDrudgerist",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheDrudgerist/GoodBoy",
+    "cover": "https://avatars.githubusercontent.com/u/331205362?v=4",
+    "description": "Game Boy emulator from my YouTube series."
+  },
+  {
+    "name": "Vectras-Box-Android",
+    "slug": "vectras-box-android",
+    "creator": "xoureldeen",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/xoureldeen/Vectras-Box-Android",
+    "cover": "https://avatars.githubusercontent.com/u/79816069?v=4",
+    "description": "Retro PC Emulator based on PC-Box and 86-Box"
   }
 ]
