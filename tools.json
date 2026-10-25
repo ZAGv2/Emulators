@@ -41428,5 +41428,15 @@
     "url": "https://github.com/xoureldeen/Vectras-Box-Android",
     "cover": "https://avatars.githubusercontent.com/u/79816069?v=4",
     "description": "Retro PC Emulator based on PC-Box and 86-Box"
+  },
+  {
+    "name": "pcsx2-phone-buzzers",
+    "slug": "pcsx2-phone-buzzers",
+    "creator": "sgassner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sgassner/pcsx2-phone-buzzers",
+    "cover": "https://avatars.githubusercontent.com/u/75689383?v=4",
+    "description": "Use phones as Buzz! buzzers for the PS2 emulator PCSX2 – macOS & Windows, no app needed"
   }
 ]
