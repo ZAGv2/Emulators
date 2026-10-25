@@ -41388,5 +41388,25 @@
     "url": "https://github.com/shihabal3amri/tekken-tag-tournament-2-pc",
     "cover": "https://avatars.githubusercontent.com/u/42039842?v=4",
     "description": "Native Windows port of Tekken Tag Tournament 2 (Xbox 360) by static recompilation. Not an emulator. Ships no game data - the installer builds the game from your own disc image and Title Update 3."
+  },
+  {
+    "name": "yg-dolphin",
+    "slug": "yg-dolphin",
+    "creator": "yougame-co",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yougame-co/yg-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/340046281?v=4",
+    "description": "Orca: GameCube/Wii rollback netplay, a fork of the Dolphin emulator. Powers Brawl and Project+ online on YouGame."
+  },
+  {
+    "name": "pcsx2",
+    "slug": "pcsx2",
+    "creator": "pld-linux",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pld-linux/pcsx2",
+    "cover": "https://avatars.githubusercontent.com/u/599313?v=4",
+    "description": "Free and open-source PlayStation 2 (PS2) emulator"
   }
 ]
