@@ -41438,5 +41438,35 @@
     "url": "https://github.com/sgassner/pcsx2-phone-buzzers",
     "cover": "https://avatars.githubusercontent.com/u/75689383?v=4",
     "description": "Use phones as Buzz! buzzers for the PS2 emulator PCSX2 – macOS & Windows, no app needed"
+  },
+  {
+    "name": "MacNativeGames",
+    "slug": "macnativegames",
+    "creator": "ly05010419",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ly05010419/MacNativeGames",
+    "cover": "https://avatars.githubusercontent.com/u/1425386?v=4",
+    "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game."
+  },
+  {
+    "name": "pcsx-redux",
+    "slug": "pcsx-redux",
+    "creator": "pcsx-redux",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pcsx-redux/pcsx-redux",
+    "cover": "https://avatars.githubusercontent.com/u/50713103?v=4",
+    "description": "The PCSX-Redux project is a collection of tools, research, hardware design, and libraries aiming at development and reverse engineering on the PlayStation 1. The core product itself, PCSX-Redux, is yet another fork of the Playstation emulator, PCSX."
+  },
+  {
+    "name": "quadplay",
+    "slug": "quadplay",
+    "creator": "factory797",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/factory797/quadplay",
+    "cover": "https://avatars.githubusercontent.com/u/233625853?v=4",
+    "description": "The quadplay✜ fantasy console"
   }
 ]
