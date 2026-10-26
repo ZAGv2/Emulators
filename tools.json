@@ -41468,5 +41468,275 @@
     "url": "https://github.com/factory797/quadplay",
     "cover": "https://avatars.githubusercontent.com/u/233625853?v=4",
     "description": "The quadplay✜ fantasy console"
+  },
+  {
+    "name": "16Bit-CPU-Emulator",
+    "slug": "16bit-cpu-emulator",
+    "creator": "RazvanSpataru05",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RazvanSpataru05/16Bit-CPU-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/236526590?v=4",
+    "description": "A 16-bit CPU Emulator with built with C++ and ImGui-SFML. Features a custom ISA and menus which feature visualization of memory unit, CPU state, instructions executed and an auto mode."
+  },
+  {
+    "name": "MyWhoosh_BLE_Keypad",
+    "slug": "mywhoosh-ble-keypad",
+    "creator": "MKO1640",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MKO1640/MyWhoosh_BLE_Keypad",
+    "cover": "https://avatars.githubusercontent.com/u/12893197?v=4",
+    "description": "ESP Tastatur emulator zur Steuerung von MyWhoosch (Schalten/Steuerung)"
+  },
+  {
+    "name": "game-boy-color",
+    "slug": "game-boy-color",
+    "creator": "mitchivin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mitchivin/game-boy-color",
+    "cover": "https://avatars.githubusercontent.com/u/207781802?v=4",
+    "description": "Game Boy Color emulator for the browser, with a Windows desktop widget. Built in DoodleDev."
+  },
+  {
+    "name": "bitty",
+    "slug": "bitty",
+    "creator": "bitty-terminal",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bitty-terminal/bitty",
+    "cover": "https://avatars.githubusercontent.com/u/320926462?v=4",
+    "description": "GPU terminal emulator with a microkernel core: sandboxed Lua plugins and native extensions, capability-based and fail-closed by design."
+  },
+  {
+    "name": "Hydra-Rune-Achievement-Bridge",
+    "slug": "hydra-rune-achievement-bridge",
+    "creator": "cyberps96",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/cyberps96/Hydra-Rune-Achievement-Bridge",
+    "cover": "https://avatars.githubusercontent.com/u/289804579?v=4",
+    "description": "A lightweight C# background utility to sync RUNE emulator achievements into Goldberg format for real-time Hydra Launcher tracking"
+  },
+  {
+    "name": "blockchain-fundamentals",
+    "slug": "blockchain-fundamentals",
+    "creator": "anubhavparas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/anubhavparas/blockchain-fundamentals",
+    "cover": "https://avatars.githubusercontent.com/u/32901101?v=4",
+    "description": "Creating dummy blockchains in JAVA, Python and C++  to emulate how transactions are made, validated through Proof-of-Work, and added as a block in a blockchain accessible in a p2p network."
+  },
+  {
+    "name": "Android-Pattern-Bruteforce",
+    "slug": "android-pattern-bruteforce",
+    "creator": "Magpol",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Magpol/Android-Pattern-Bruteforce",
+    "cover": "https://avatars.githubusercontent.com/u/34923554?v=4",
+    "description": "Bruteforce pattern lockscreen on Android emulating a mouse via RPI Zero OTG."
+  },
+  {
+    "name": "xBowTerminal",
+    "slug": "xbowterminal",
+    "creator": "Parsaaaw",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Parsaaaw/xBowTerminal",
+    "cover": "https://avatars.githubusercontent.com/u/115087768?v=4",
+    "description": "A fast, lightweight, native terminal emulator for Windows, built with Tauri + Rust instead of Electron — for a fraction of the memory and startup time of most Electron-based terminals."
+  },
+  {
+    "name": "virtual-bms",
+    "slug": "virtual-bms",
+    "creator": "d4rkmen",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/d4rkmen/virtual-bms",
+    "cover": "https://avatars.githubusercontent.com/u/59083978?v=4",
+    "description": "ESP32 device connects to multiple BMS units by BLE or RS485, emulates BMS for Deye inverters"
+  },
+  {
+    "name": "esphome-opendtu-meter-bridge",
+    "slug": "esphome-opendtu-meter-bridge",
+    "creator": "Lewa-Reka",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Lewa-Reka/esphome-opendtu-meter-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/206756268?v=4",
+    "description": "ESPHome component to emulate an Eastron SDM630 or CHINT DTSU666 smart meter using solar data from Hoymiles microinverters via OpenDTU."
+  },
+  {
+    "name": "0AD-City-Builder",
+    "slug": "0ad-city-builder",
+    "creator": "azayrahmad",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/azayrahmad/0AD-City-Builder",
+    "cover": "https://avatars.githubusercontent.com/u/10110227?v=4",
+    "description": "This mod attempts to emulate city-building elements as in Caesar or SimCity games into 0 A.D., which emphasize building placements."
+  },
+  {
+    "name": "raylib-backends",
+    "slug": "raylib-backends",
+    "creator": "raythings",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/raythings/raylib-backends",
+    "cover": "https://avatars.githubusercontent.com/u/296329352?v=4",
+    "description": "Attach Vulkan (rlvk), Metal (rlmt), or WebGPU (rlwg) rendering backends to a raylib build you own. Each emulates the OpenGL 3.3/rlgl API 1:1."
+  },
+  {
+    "name": "valvra",
+    "slug": "valvra",
+    "creator": "hwangtab",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hwangtab/valvra",
+    "cover": "https://avatars.githubusercontent.com/u/115469809?v=4",
+    "description": "Living tube amp colour — VST3 / AU / Standalone plugin modelling 12 hidden-physics mechanisms most analog emulators miss (grid conduction, dielectric absorption, shared-PSU stereo coupling, microphonics, B+ ripple IM, plate thermal drift, and more). GPL-3, JUCE 8."
+  },
+  {
+    "name": "Patina",
+    "slug": "patina",
+    "creator": "ShmKnd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ShmKnd/Patina",
+    "cover": "https://avatars.githubusercontent.com/u/228416552?v=4",
+    "description": "Patina is a general-purpose analog-modeling DSP library that emulates BBD delays, companders, tone circuits, tube amplifiers, and more — using **only the C++17 standard library**. No JUCE, no Boost, no external dependencies.Showcase:https://payhip.com/b/DNMHg"
+  },
+  {
+    "name": "ComfyUI-Boogu",
+    "slug": "comfyui-boogu",
+    "creator": "tysto1727",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tysto1727/ComfyUI-Boogu",
+    "cover": "https://avatars.githubusercontent.com/u/278273613?v=4",
+    "description": "Integrate Boogu-Image pipelines into ComfyUI with custom nodes for text-to-image, image editing, and fast inference."
+  },
+  {
+    "name": "bgd",
+    "slug": "bgd",
+    "creator": "arkup",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/arkup/bgd",
+    "cover": "https://avatars.githubusercontent.com/u/36083957?v=4",
+    "description": "Windows x64 debugger that captures a live process and replays it offline in an emulator"
+  },
+  {
+    "name": "Umamusume-Emulator-Eden-Bot",
+    "slug": "umamusume-emulator-eden-bot",
+    "creator": "Remezzo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Remezzo/Umamusume-Emulator-Eden-Bot",
+    "cover": "https://avatars.githubusercontent.com/u/226228405?v=4",
+    "description": "We don't use this anymore because API botting is just better (download in discord)"
+  },
+  {
+    "name": "BetterACE",
+    "slug": "betterace",
+    "creator": "CrimsonMage",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CrimsonMage/BetterACE",
+    "cover": "https://avatars.githubusercontent.com/u/32439087?v=4",
+    "description": "🚀 BetterACEmulator: an Asheron's Call emulator in Rust. Currently under development."
+  },
+  {
+    "name": "phoenix-pubg-bypass",
+    "slug": "phoenix-pubg-bypass",
+    "creator": "mizhstreet",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mizhstreet/phoenix-pubg-bypass",
+    "cover": "https://avatars.githubusercontent.com/u/30038330?v=4",
+    "description": "not working anymore !!! Bypass pubg mobile emulator detection on phoenix os (org,roc-lite, roc se is not supported)"
+  },
+  {
+    "name": "Bafang-CAN-Battery-Emulator",
+    "slug": "bafang-can-battery-emulator",
+    "creator": "kezcelm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kezcelm/Bafang-CAN-Battery-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/145965489?v=4",
+    "description": "Bafang battery CAN emulator"
+  },
+  {
+    "name": "bthmsdevemul",
+    "slug": "bthmsdevemul",
+    "creator": "ten0s",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ten0s/bthmsdevemul",
+    "cover": "https://avatars.githubusercontent.com/u/1344415?v=4",
+    "description": "Bluetooth for Microsoft Device Emulator"
+  },
+  {
+    "name": "Gray-Brick",
+    "slug": "gray-brick",
+    "creator": "scoland",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/scoland/Gray-Brick",
+    "cover": "https://avatars.githubusercontent.com/u/1489946?v=4",
+    "description": "In progress Nintendo Gameboy Emulator"
+  },
+  {
+    "name": "OwlBlock",
+    "slug": "owlblock",
+    "creator": "sonphoenix",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sonphoenix/OwlBlock",
+    "cover": "https://avatars.githubusercontent.com/u/76972842?v=4",
+    "description": "a gba emulator under development"
+  },
+  {
+    "name": "NesBahen",
+    "slug": "nesbahen",
+    "creator": "Macdeini",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/Macdeini/NesBahen",
+    "cover": "https://avatars.githubusercontent.com/u/84424393?v=4",
+    "description": "Nes emulator written in C++"
+  },
+  {
+    "name": "BBK9288-emulator",
+    "slug": "bbk9288-emulator",
+    "creator": "HelloClyde",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HelloClyde/BBK9288-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/12826558?v=4",
+    "description": "BBK 9288 hardware emulator based on QEMU and Epson S1C33L05"
+  },
+  {
+    "name": "bk0010-emulator",
+    "slug": "bk0010-emulator",
+    "creator": "prcoder-1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/prcoder-1/bk0010-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/66671740?v=4",
+    "description": "Эмулятор советского персонального компьютера БК-0010-01 (процессор К1801ВМ1, клон PDP-11) на C++17 / Qt6 / OpenGL с отладчиком  и профилятором."
+  },
+  {
+    "name": "GameBoy-Revolution",
+    "slug": "gameboy-revolution",
+    "creator": "hatori",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/hatori/GameBoy-Revolution",
+    "cover": "https://avatars.githubusercontent.com/u/653475?v=4",
+    "description": "Gameboy emulator written in c#."
   }
 ]
