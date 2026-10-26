@@ -41738,5 +41738,25 @@
     "url": "https://github.com/hatori/GameBoy-Revolution",
     "cover": "https://avatars.githubusercontent.com/u/653475?v=4",
     "description": "Gameboy emulator written in c#."
+  },
+  {
+    "name": "Porpoise-Dolphin-Emulator-for-PS5",
+    "slug": "porpoise-dolphin-emulator-for-ps5",
+    "creator": "Vivian1987",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Vivian1987/Porpoise-Dolphin-Emulator-for-PS5",
+    "cover": "https://avatars.githubusercontent.com/u/75226269?v=4",
+    "description": "..."
+  },
+  {
+    "name": "Skies-of-Arcadia-Legends-HD-Textures-Pack",
+    "slug": "skies-of-arcadia-legends-hd-textures-pack",
+    "creator": "shoopkid",
+    "version": "...",
+    "console": "Nintendo DS",
+    "url": "https://github.com/shoopkid/Skies-of-Arcadia-Legends-HD-Textures-Pack",
+    "cover": "https://avatars.githubusercontent.com/u/348220502?v=4",
+    "description": "HD textures for Skies of Arcadia Legends. A continuation, expansion, and modernisation of the original HD work from BigHead and FrozenWings on the Dolphin Emulator Forums. This project uses both digitally redrawn and AI upscaled assets."
   }
 ]
