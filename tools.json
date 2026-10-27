@@ -41758,5 +41758,15 @@
     "url": "https://github.com/shoopkid/Skies-of-Arcadia-Legends-HD-Textures-Pack",
     "cover": "https://avatars.githubusercontent.com/u/348220502?v=4",
     "description": "HD textures for Skies of Arcadia Legends. A continuation, expansion, and modernisation of the original HD work from BigHead and FrozenWings on the Dolphin Emulator Forums. This project uses both digitally redrawn and AI upscaled assets."
+  },
+  {
+    "name": "RecompStore",
+    "slug": "recompstore",
+    "creator": "elripalda",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/elripalda/RecompStore",
+    "cover": "https://avatars.githubusercontent.com/u/224081549?v=4",
+    "description": "RecompStore: the free homebrew app store for jailbroken PS5. Installs and updates recompiled game ports, emulators, apps and tools from the console. Bring your own disc."
   }
 ]
