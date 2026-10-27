@@ -42028,5 +42028,35 @@
     "url": "https://github.com/KieronJ/rpsx",
     "cover": "https://avatars.githubusercontent.com/u/11843278?v=4",
     "description": "A PlayStation emulator written in Rust."
+  },
+  {
+    "name": "dolphin-emu",
+    "slug": "dolphin-emu",
+    "creator": "krishnans2006",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/krishnans2006/dolphin-emu",
+    "cover": "https://avatars.githubusercontent.com/u/62958782?v=4",
+    "description": "Config files for Dolphin Emulator"
+  },
+  {
+    "name": "dolphin-memory-engine",
+    "slug": "dolphin-memory-engine",
+    "creator": "kzrmjslkfmzl",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kzrmjslkfmzl/dolphin-memory-engine",
+    "cover": "https://avatars.githubusercontent.com/u/346575560?v=4",
+    "description": "Real-time RAM viewer and editor for games running in Dolphin emulator"
+  },
+  {
+    "name": "onimusha2-trainer",
+    "slug": "onimusha2-trainer",
+    "creator": "anvzlslsmqdj",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/anvzlslsmqdj/onimusha2-trainer",
+    "cover": "https://avatars.githubusercontent.com/u/346546800?v=4",
+    "description": "Onimusha 2 trainer: infinite health, infinite souls, max items, one-hit kill, gold and orb cheats for PS2/emulator."
   }
 ]
