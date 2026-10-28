@@ -42068,5 +42068,75 @@
     "url": "https://github.com/luskaner/ageServer",
     "cover": "https://avatars.githubusercontent.com/u/1903842?v=4",
     "description": "Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer, fully cross-platform and portable"
+  },
+  {
+    "name": "Andy-Android-Emulator-Windows-Setup-Guide",
+    "slug": "andy-android-emulator-windows-setup-guide",
+    "creator": "HectoDeputyFringe4",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/HectoDeputyFringe4/Andy-Android-Emulator-Windows-Setup-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/341428644?v=4",
+    "description": "Andy Android Emulator for Windows — step-by-step install and first-run setup on Windows 10 and 11, with download steps in the README."
+  },
+  {
+    "name": "MEmu-Android-Emulator-Windows-Setup-Guide",
+    "slug": "memu-android-emulator-windows-setup-guide",
+    "creator": "BlazeAdministrator",
+    "version": "...",
+    "console": "Windows",
+    "url": "https://github.com/BlazeAdministrator/MEmu-Android-Emulator-Windows-Setup-Guide",
+    "cover": "https://avatars.githubusercontent.com/u/341432347?v=4",
+    "description": "MEmu Android Emulator for Windows — step-by-step install and first-run setup on Windows 10 and 11, with download steps in the README."
+  },
+  {
+    "name": "Hack-Computer",
+    "slug": "hack-computer",
+    "creator": "Beenish-Tasaffar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Beenish-Tasaffar/Hack-Computer",
+    "cover": "https://avatars.githubusercontent.com/u/286936816?v=4",
+    "description": "A ground-up build of the Hack Computer — from NAND gates to a full CPU, Assembler, and VM Translator, following the Nand2Tetris course. Includes the complete Java simulator toolchain (Hardware Simulator, CPU Emulator, VM Emulator) and a sample Jack program."
+  },
+  {
+    "name": "minilake",
+    "slug": "minilake",
+    "creator": "dmux",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dmux/minilake",
+    "cover": "https://avatars.githubusercontent.com/u/2119249?v=4",
+    "description": "Minilake is a free, local Databricks API emulator — a single-developer tool for testing databricks-sdk/Terraform code against real SQL, real Delta Lake, and real Job execution, without paying for cloud compute."
+  },
+  {
+    "name": "PS5EmuShell",
+    "slug": "ps5emushell",
+    "creator": "felipeAguiarCode",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/felipeAguiarCode/PS5EmuShell",
+    "cover": "https://avatars.githubusercontent.com/u/37452836?v=4",
+    "description": "A launcher based on PS5 to play emulators and recomps"
+  },
+  {
+    "name": "HBFSim",
+    "slug": "hbfsim",
+    "creator": "SlugLab",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SlugLab/HBFSim",
+    "cover": "https://avatars.githubusercontent.com/u/92960913?v=4",
+    "description": "HBFSim (HBF Sim): an open-source High-Bandwidth Flash (HBF) simulator. Runs real LLM inference on a real GPU and injects modeled HBF timing, capacity and thermal effects while the workload executes."
+  },
+  {
+    "name": "bf-private-server",
+    "slug": "bf-private-server",
+    "creator": "joppe2001",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joppe2001/bf-private-server",
+    "cover": "https://avatars.githubusercontent.com/u/34985258?v=4",
+    "description": "Unofficial Brave Frontier revival server: C++ game server, Cloudflare CDN workers and tooling (code only)"
   }
 ]
