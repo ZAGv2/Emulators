@@ -42058,5 +42058,15 @@
     "url": "https://github.com/anvzlslsmqdj/onimusha2-trainer",
     "cover": "https://avatars.githubusercontent.com/u/346546800?v=4",
     "description": "Onimusha 2 trainer: infinite health, infinite souls, max items, one-hit kill, gold and orb cheats for PS2/emulator."
+  },
+  {
+    "name": "ageServer",
+    "slug": "ageserver",
+    "creator": "luskaner",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/luskaner/ageServer",
+    "cover": "https://avatars.githubusercontent.com/u/1903842?v=4",
+    "description": "Web Server (and its launcher) for AoE 1, 2, 3 (all DE), AoE 4 and AoM: RT supporting offline multiplayer, fully cross-platform and portable"
   }
 ]
