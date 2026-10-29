@@ -42138,5 +42138,15 @@
     "url": "https://github.com/joppe2001/bf-private-server",
     "cover": "https://avatars.githubusercontent.com/u/34985258?v=4",
     "description": "Unofficial Brave Frontier revival server: C++ game server, Cloudflare CDN workers and tooling (code only)"
+  },
+  {
+    "name": "dolphin-linux-freeze-fixer",
+    "slug": "dolphin-linux-freeze-fixer",
+    "creator": "jpferraz-git",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/jpferraz-git/dolphin-linux-freeze-fixer",
+    "cover": "https://avatars.githubusercontent.com/u/179407958?v=4",
+    "description": "Automated fix and guide for Dolphin Emulator hard freezes on Linux / Ubuntu (Intel Iris Xe i915 & Wayland)"
   }
 ]
