@@ -42148,5 +42148,55 @@
     "url": "https://github.com/jpferraz-git/dolphin-linux-freeze-fixer",
     "cover": "https://avatars.githubusercontent.com/u/179407958?v=4",
     "description": "Automated fix and guide for Dolphin Emulator hard freezes on Linux / Ubuntu (Intel Iris Xe i915 & Wayland)"
+  },
+  {
+    "name": "Venture",
+    "slug": "venture",
+    "creator": "Villagers654",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Villagers654/Venture",
+    "cover": "https://avatars.githubusercontent.com/u/110007851?v=4",
+    "description": "A Meta Quest emulator for PC VR. Play the Quest games you own on Windows and Linux."
+  },
+  {
+    "name": "MostWanted-Android",
+    "slug": "mostwanted-android",
+    "creator": "RanggaCasper",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/RanggaCasper/MostWanted-Android",
+    "cover": "https://avatars.githubusercontent.com/u/76829603?v=4",
+    "description": "Unofficial native Android port of Need for Speed: Most Wanted (Xbox Black Edition). The x86 code is statically recompiled to C++ with XboxXBE-Recomp and built for arm64, with a Vulkan renderer, SDL3, touch/controller/keyboard input, and extended graphics options. No emulator, no game assets included."
+  },
+  {
+    "name": "joycon2android",
+    "slug": "joycon2android",
+    "creator": "JoeGeC",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/JoeGeC/joycon2android",
+    "cover": "https://avatars.githubusercontent.com/u/33871981?v=4",
+    "description": "Use Nintendo Switch 2 Joy-Con 2 controllers as system-wide gamepads on Android — BLE connection, virtual HID gamepads, DSU motion server, and one-tap emulator setup"
+  },
+  {
+    "name": "universe-2026-badge-hacks",
+    "slug": "universe-2026-badge-hacks",
+    "creator": "spf13",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/spf13/universe-2026-badge-hacks",
+    "cover": "https://avatars.githubusercontent.com/u/173412?v=4",
+    "description": "GitHub Universe 2026 ARM Hackable Badge (RP2350) Hacks: 300MHz MicroPython Viper NES Emulator, IR Achievement Unlocker, BLE Contact Radar, Custom 3D P3DM Mesh, and 60FPS IMU Neon Sand Physics Toy"
+  },
+  {
+    "name": "BottomBracketTorquesensorEmulator",
+    "slug": "bottombrackettorquesensoremulator",
+    "creator": "stancecoke",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/stancecoke/BottomBracketTorquesensorEmulator",
+    "cover": "https://avatars.githubusercontent.com/u/31093785?v=4",
+    "description": "..."
   }
 ]
