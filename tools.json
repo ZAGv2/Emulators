@@ -42208,5 +42208,25 @@
     "url": "https://github.com/rzk02/Dolphin-MMJR",
     "cover": "https://avatars.githubusercontent.com/u/90636192?v=4",
     "description": "Dolphin |MMJR| is a Gamecube/Wii Emulator for Android devices; based on Dolphin MMJ source code which is aimed at pure performance."
+  },
+  {
+    "name": "Eglantine",
+    "slug": "eglantine",
+    "creator": "Djihads80",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Djihads80/Eglantine",
+    "cover": "https://avatars.githubusercontent.com/u/76681596?v=4",
+    "description": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "name": "MetroidPrime2Port",
+    "slug": "metroidprime2port",
+    "creator": "Odrannnn",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Odrannnn/MetroidPrime2Port",
+    "cover": "https://avatars.githubusercontent.com/u/116312962?v=4",
+    "description": "Native port of Metroid Prime 2: Echoes (GameCube) for Linux and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image."
   }
 ]
