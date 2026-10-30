@@ -42198,5 +42198,15 @@
     "url": "https://github.com/stancecoke/BottomBracketTorquesensorEmulator",
     "cover": "https://avatars.githubusercontent.com/u/31093785?v=4",
     "description": "..."
+  },
+  {
+    "name": "Dolphin-MMJR",
+    "slug": "dolphin-mmjr",
+    "creator": "rzk02",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rzk02/Dolphin-MMJR",
+    "cover": "https://avatars.githubusercontent.com/u/90636192?v=4",
+    "description": "Dolphin |MMJR| is a Gamecube/Wii Emulator for Android devices; based on Dolphin MMJ source code which is aimed at pure performance."
   }
 ]
