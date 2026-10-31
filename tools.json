@@ -42228,5 +42228,75 @@
     "url": "https://github.com/Odrannnn/MetroidPrime2Port",
     "cover": "https://avatars.githubusercontent.com/u/116312962?v=4",
     "description": "Native port of Metroid Prime 2: Echoes (GameCube) for Linux and Android, built from the PrimeDecomp decompilation. No emulator, no game assets included: bring your own disc image."
+  },
+  {
+    "name": "msr2ds",
+    "slug": "msr2ds",
+    "creator": "gminustwo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gminustwo/msr2ds",
+    "cover": "https://avatars.githubusercontent.com/u/347583672?v=4",
+    "description": "Metroid: Samus Returns as a single-screen PC game, built on the Azahar 3DS emulator. Bring your own dump."
+  },
+  {
+    "name": "bmmacintosh",
+    "slug": "bmmacintosh",
+    "creator": "jhonnaker1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jhonnaker1/bmmacintosh",
+    "cover": "https://avatars.githubusercontent.com/u/182670055?v=4",
+    "description": "Bare metal 68k Macintosh emulator for the Raspberry Pi: Mac II/Quadra (Basilisk II) and Mac Plus (umac)"
+  },
+  {
+    "name": "frida-amiga-bridge",
+    "slug": "frida-amiga-bridge",
+    "creator": "frida-packages",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/frida-packages/frida-amiga-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/350472483?v=4",
+    "description": "Amiga emulator instrumentation using Frida"
+  },
+  {
+    "name": "bmnext",
+    "slug": "bmnext",
+    "creator": "jhonnaker1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jhonnaker1/bmnext",
+    "cover": "https://avatars.githubusercontent.com/u/182670055?v=4",
+    "description": "Bare metal NeXT Computer, NeXTcube and NeXTstation emulator for the Raspberry Pi 4 and 5, using Previous (based on BMAtariST, BMApple2, BMCoco, BMA800XL and BMC64)"
+  },
+  {
+    "name": "Brew2Droid",
+    "slug": "brew2droid",
+    "creator": "samsixx6",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/samsixx6/Brew2Droid",
+    "cover": "https://avatars.githubusercontent.com/u/246085582?v=4",
+    "description": "BREW cellphone and Zeebo emulator for Android"
+  },
+  {
+    "name": "BMW-NBT-Emulator",
+    "slug": "bmw-nbt-emulator",
+    "creator": "DAviS0d",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DAviS0d/BMW-NBT-Emulator",
+    "cover": "https://avatars.githubusercontent.com/u/93316510?v=4",
+    "description": "An independent project bringing the original BMW NBT iDrive experience to Windows, with vehicle simulation and hardware integration. (WIP)"
+  },
+  {
+    "name": "bmatarist",
+    "slug": "bmatarist",
+    "creator": "jhonnaker1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jhonnaker1/bmatarist",
+    "cover": "https://avatars.githubusercontent.com/u/182670055?v=4",
+    "description": "Bare metal Atari ST, STE, TT and Falcon emulator for the Raspberry Pi, using Hatari (based on BMApple2, BMCoco, BMA800XL and BMC64)"
   }
 ]
