@@ -42318,5 +42318,15 @@
     "url": "https://github.com/RetroSanity/Resident-Access-1",
     "cover": "https://avatars.githubusercontent.com/u/84478612?v=4",
     "description": "A blind accessible mod for resident evil 1 for the dolphin emulator"
+  },
+  {
+    "name": "Crema",
+    "slug": "crema",
+    "creator": "iHaiDeeZ",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iHaiDeeZ/Crema",
+    "cover": "https://avatars.githubusercontent.com/u/23220202?v=4",
+    "description": "Crema: Wii U emulator for PS4 (jailbroken, homebrew), based on Cemu"
   }
 ]
