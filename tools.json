@@ -42298,5 +42298,25 @@
     "url": "https://github.com/jhonnaker1/bmatarist",
     "cover": "https://avatars.githubusercontent.com/u/182670055?v=4",
     "description": "Bare metal Atari ST, STE, TT and Falcon emulator for the Raspberry Pi, using Hatari (based on BMApple2, BMCoco, BMA800XL and BMC64)"
+  },
+  {
+    "name": "unified-emu",
+    "slug": "unified-emu",
+    "creator": "aren4sjos3-lab",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aren4sjos3-lab/unified-emu",
+    "cover": "https://avatars.githubusercontent.com/u/296162619?v=4",
+    "description": "An unified emulator, using a fork from project64, dolphin and cemu."
+  },
+  {
+    "name": "Resident-Access-1",
+    "slug": "resident-access-1",
+    "creator": "RetroSanity",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RetroSanity/Resident-Access-1",
+    "cover": "https://avatars.githubusercontent.com/u/84478612?v=4",
+    "description": "A blind accessible mod for resident evil 1 for the dolphin emulator"
   }
 ]
