@@ -42338,5 +42338,25 @@
     "url": "https://github.com/gameblabla/BDMEmu",
     "cover": "https://avatars.githubusercontent.com/u/8717966?v=4",
     "description": "Bandai Design Master emulator, for Windows/Linux/Web"
+  },
+  {
+    "name": "PCSX2",
+    "slug": "pcsx2",
+    "creator": "pcsx2iso",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pcsx2iso/PCSX2",
+    "cover": "https://avatars.githubusercontent.com/u/108598340?v=4",
+    "description": "PCSX2 Emulator v2.8.2 loads pcsx2 bios and download pcsx2. pcsx2 games, ps2 nightly, stable build, iso dump, gs plugin, memory cards, patches, widescreen, renderer, upscale,"
+  },
+  {
+    "name": "trivium-hub",
+    "slug": "trivium-hub",
+    "creator": "snowinglikee",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/snowinglikee/trivium-hub",
+    "cover": "https://avatars.githubusercontent.com/u/350873787?v=4",
+    "description": "Seus jogos de PS2, PS3 e PS4 em um só launcher | PS2, PS3 and PS4 games in one launcher"
   }
 ]
