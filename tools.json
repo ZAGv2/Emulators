@@ -42328,5 +42328,15 @@
     "url": "https://github.com/iHaiDeeZ/Crema",
     "cover": "https://avatars.githubusercontent.com/u/23220202?v=4",
     "description": "Crema: Wii U emulator for PS4 (jailbroken, homebrew), based on Cemu"
+  },
+  {
+    "name": "BDMEmu",
+    "slug": "bdmemu",
+    "creator": "gameblabla",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gameblabla/BDMEmu",
+    "cover": "https://avatars.githubusercontent.com/u/8717966?v=4",
+    "description": "Bandai Design Master emulator, for Windows/Linux/Web"
   }
 ]
