@@ -42368,5 +42368,25 @@
     "url": "https://github.com/zortos293/Eglantine",
     "cover": "https://avatars.githubusercontent.com/u/65777760?v=4",
     "description": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "name": "NSP-Box",
+    "slug": "nsp-box",
+    "creator": "smarkyie",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/smarkyie/NSP-Box",
+    "cover": "https://avatars.githubusercontent.com/u/68492368?v=4",
+    "description": "NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots and extracted DLC, with reversible emulator patching."
+  },
+  {
+    "name": "menu-bar-emulator",
+    "slug": "menu-bar-emulator",
+    "creator": "Kiasora",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Kiasora/menu-bar-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/350091105?v=4",
+    "description": "Game Boy, Game Boy Color, Game Boy Advance and Nintendo DS games in your Mac's menu bar"
   }
 ]
