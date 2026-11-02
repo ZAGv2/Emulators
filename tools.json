@@ -42358,5 +42358,15 @@
     "url": "https://github.com/snowinglikee/trivium-hub",
     "cover": "https://avatars.githubusercontent.com/u/350873787?v=4",
     "description": "Seus jogos de PS2, PS3 e PS4 em um só launcher | PS2, PS3 and PS4 games in one launcher"
+  },
+  {
+    "name": "Eglantine",
+    "slug": "eglantine",
+    "creator": "zortos293",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zortos293/Eglantine",
+    "cover": "https://avatars.githubusercontent.com/u/65777760?v=4",
+    "description": "VERY experimental Nintendo Switch 2 emulator"
   }
 ]
