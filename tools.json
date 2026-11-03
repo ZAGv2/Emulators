@@ -42398,5 +42398,35 @@
     "url": "https://github.com/dylanr4j/mpWinProb",
     "cover": "https://avatars.githubusercontent.com/u/351307597?v=4",
     "description": "Win Probability tool for the video game Mario Party that allows live overlay on Dolphin Emulator"
+  },
+  {
+    "name": "Lichii",
+    "slug": "lichii",
+    "creator": "zortos293",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zortos293/Lichii",
+    "cover": "https://avatars.githubusercontent.com/u/65777760?v=4",
+    "description": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "name": "Frida-Multiple-Bypass",
+    "slug": "frida-multiple-bypass",
+    "creator": "taqiin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/taqiin/Frida-Multiple-Bypass",
+    "cover": "https://avatars.githubusercontent.com/u/31664438?v=4",
+    "description": "Frida Multiple Bypass (SSL Pinning + Root Detection + Emulator Detection + Frida Detection + Flutter tls)"
+  },
+  {
+    "name": "device-hub-pro",
+    "slug": "device-hub-pro",
+    "creator": "gitemre",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/gitemre/device-hub-pro",
+    "cover": "https://avatars.githubusercontent.com/u/71561095?v=4",
+    "description": "Android and iOS devices, side by side on your Mac. Mirror, control, change settings and capture — free and open source."
   }
 ]
