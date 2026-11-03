@@ -42388,5 +42388,15 @@
     "url": "https://github.com/Kiasora/menu-bar-emulator",
     "cover": "https://avatars.githubusercontent.com/u/350091105?v=4",
     "description": "Game Boy, Game Boy Color, Game Boy Advance and Nintendo DS games in your Mac's menu bar"
+  },
+  {
+    "name": "mpWinProb",
+    "slug": "mpwinprob",
+    "creator": "dylanr4j",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/dylanr4j/mpWinProb",
+    "cover": "https://avatars.githubusercontent.com/u/351307597?v=4",
+    "description": "Win Probability tool for the video game Mario Party that allows live overlay on Dolphin Emulator"
   }
 ]
