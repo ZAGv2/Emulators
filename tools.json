@@ -42428,5 +42428,35 @@
     "url": "https://github.com/gitemre/device-hub-pro",
     "cover": "https://avatars.githubusercontent.com/u/71561095?v=4",
     "description": "Android and iOS devices, side by side on your Mac. Mirror, control, change settings and capture — free and open source."
+  },
+  {
+    "name": "Model-3-Vulkan",
+    "slug": "model-3-vulkan",
+    "creator": "Igloo-Garage",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Igloo-Garage/Model-3-Vulkan",
+    "cover": "https://avatars.githubusercontent.com/u/257155603?v=4",
+    "description": "Model-3-Vulkan, Standalone Vulkan Rewrite,（formerly Supermodel-VK) a fork of Supermodel, the open-source Sega Model 3 arcade emulator."
+  },
+  {
+    "name": "webtv-bridge",
+    "slug": "webtv-bridge",
+    "creator": "joebritt",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joebritt/webtv-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/1786935?v=4",
+    "description": "Get a stock WebTV box back online over WiFi, through its printer port: Pico 2 W bridge firmware, the OS patcher, and a WebTV emulator"
+  },
+  {
+    "name": "bluebox",
+    "slug": "bluebox",
+    "creator": "jimbattin",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jimbattin/bluebox",
+    "cover": "https://avatars.githubusercontent.com/u/166262?v=4",
+    "description": "224XL Machine Emulator"
   }
 ]
