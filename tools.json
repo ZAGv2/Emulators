@@ -42468,5 +42468,35 @@
     "url": "https://github.com/shokre/node-escprinter",
     "cover": "https://avatars.githubusercontent.com/u/6144138?v=4",
     "description": "ESC/P2 printer command emulator with SVG output."
+  },
+  {
+    "name": "Dolphin---Guide",
+    "slug": "dolphin-guide",
+    "creator": "marinenzo-code",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/marinenzo-code/Dolphin---Guide",
+    "cover": "https://avatars.githubusercontent.com/u/323596134?v=4",
+    "description": "This repository contains a guide on how to install, configure, and play using Dolphin, an emulator for the Nintendo GameCube and Nintendo Wii."
+  },
+  {
+    "name": "Rift2Wii",
+    "slug": "rift2wii",
+    "creator": "philip0000000",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/philip0000000/Rift2Wii",
+    "cover": "https://avatars.githubusercontent.com/u/92891603?v=4",
+    "description": "Independent Rift S controller bridge and VR window viewer for Dolphin Emulator."
+  },
+  {
+    "name": "rabbitvcs-dolphin",
+    "slug": "rabbitvcs-dolphin",
+    "creator": "hendy643",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hendy643/rabbitvcs-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/62912828?v=4",
+    "description": "KDE Plasma 6.x Dolphin plugin for rabbit VCS. Emulated TortoiseSVN/GIT as available on windows."
   }
 ]
