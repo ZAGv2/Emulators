@@ -42458,5 +42458,15 @@
     "url": "https://github.com/jimbattin/bluebox",
     "cover": "https://avatars.githubusercontent.com/u/166262?v=4",
     "description": "224XL Machine Emulator"
+  },
+  {
+    "name": "node-escprinter",
+    "slug": "node-escprinter",
+    "creator": "shokre",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shokre/node-escprinter",
+    "cover": "https://avatars.githubusercontent.com/u/6144138?v=4",
+    "description": "ESC/P2 printer command emulator with SVG output."
   }
 ]
