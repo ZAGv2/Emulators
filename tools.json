@@ -42498,5 +42498,45 @@
     "url": "https://github.com/hendy643/rabbitvcs-dolphin",
     "cover": "https://avatars.githubusercontent.com/u/62912828?v=4",
     "description": "KDE Plasma 6.x Dolphin plugin for rabbit VCS. Emulated TortoiseSVN/GIT as available on windows."
+  },
+  {
+    "name": "PlayTendoh",
+    "slug": "playtendoh",
+    "creator": "premohq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/premohq/PlayTendoh",
+    "cover": "https://avatars.githubusercontent.com/u/48417750?v=4",
+    "description": "Playtendoh: an all-in-one emulator for PS5 homebrew. Wii U, 3DS, DS, Switch, Switch 2, GameCube, Wii and the classics (Cemu, Azahar, melonDS, Eden, Eglantine, Dolphin, libretro)"
+  },
+  {
+    "name": "EglantinePS5",
+    "slug": "eglantineps5",
+    "creator": "heydemoura",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/heydemoura/EglantinePS5",
+    "cover": "https://avatars.githubusercontent.com/u/5550190?v=4",
+    "description": "VERY experimental Nintendo Switch 2 emulator port for PS5"
+  },
+  {
+    "name": "fujimod",
+    "slug": "fujimod",
+    "creator": "justjake",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/justjake/fujimod",
+    "cover": "https://avatars.githubusercontent.com/u/296279?v=4",
+    "description": "Fujifilm camera modification tools. DO NOT FLASH CUSTOM FIRMWARE TO YOUR CAMERA WITHOUT DUAL BOOTING FIRST"
+  },
+  {
+    "name": "floci-cli",
+    "slug": "floci-cli",
+    "creator": "floci-io",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/floci-io/floci-cli",
+    "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
+    "description": "Any Cloud. Locally. Floci CLI to manage local cloud emulators."
   }
 ]
