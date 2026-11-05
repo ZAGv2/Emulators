@@ -42538,5 +42538,45 @@
     "url": "https://github.com/floci-io/floci-cli",
     "cover": "https://avatars.githubusercontent.com/u/271436837?v=4",
     "description": "Any Cloud. Locally. Floci CLI to manage local cloud emulators."
+  },
+  {
+    "name": "AndroidBox",
+    "slug": "androidbox",
+    "creator": "Wolklaw",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/Wolklaw/AndroidBox",
+    "cover": "https://avatars.githubusercontent.com/u/161792729?v=4",
+    "description": "An ad-free Android emulator for Windows. Google Play, game controls, controllers, macros and multiple instances."
+  },
+  {
+    "name": "DynamicFPS.-DonkeyKong-Bananza-",
+    "slug": "dynamicfps-donkeykong-bananza",
+    "creator": "ZendNevs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ZendNevs/DynamicFPS.-DonkeyKong-Bananza-",
+    "cover": "https://avatars.githubusercontent.com/u/106690999?v=4",
+    "description": "No more slow motion when your emulator runs under 60 fps"
+  },
+  {
+    "name": "bmamiga",
+    "slug": "bmamiga",
+    "creator": "jhonnaker1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/jhonnaker1/bmamiga",
+    "cover": "https://avatars.githubusercontent.com/u/182670055?v=4",
+    "description": "Bare metal Amiga emulator for the Raspberry Pi 4 and 5, running Amiberry"
+  },
+  {
+    "name": "bruce-js-app-emulator",
+    "slug": "bruce-js-app-emulator",
+    "creator": "SasPes",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/SasPes/bruce-js-app-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/2662962?v=4",
+    "description": "Emulator for Bruce JavaScript apps on the LILYGO T-Embed CC1101"
   }
 ]
