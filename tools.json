@@ -42578,5 +42578,25 @@
     "url": "https://github.com/SasPes/bruce-js-app-emulator",
     "cover": "https://avatars.githubusercontent.com/u/2662962?v=4",
     "description": "Emulator for Bruce JavaScript apps on the LILYGO T-Embed CC1101"
+  },
+  {
+    "name": "Porpoise-Dolphin-Emulator-for-PS5",
+    "slug": "porpoise-dolphin-emulator-for-ps5",
+    "creator": "zel-jebr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zel-jebr/Porpoise-Dolphin-Emulator-for-PS5",
+    "cover": "https://avatars.githubusercontent.com/u/197910961?v=4",
+    "description": "Play GameCube and Wii games on jailbroken PS5 with Porpoise, a Dolphin-based emulator."
+  },
+  {
+    "name": "zel-jebr.github.io",
+    "slug": "zel-jebr-github-io",
+    "creator": "zel-jebr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zel-jebr/zel-jebr.github.io",
+    "cover": "https://avatars.githubusercontent.com/u/197910961?v=4",
+    "description": "Play GameCube and Wii games on jailbroken PS5 with Porpoise, a Dolphin-based emulator built for homebrew performance."
   }
 ]
