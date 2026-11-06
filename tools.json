@@ -42598,5 +42598,55 @@
     "url": "https://github.com/zel-jebr/zel-jebr.github.io",
     "cover": "https://avatars.githubusercontent.com/u/197910961?v=4",
     "description": "Play GameCube and Wii games on jailbroken PS5 with Porpoise, a Dolphin-based emulator built for homebrew performance."
+  },
+  {
+    "name": "GNTE",
+    "slug": "gnte",
+    "creator": "CovenantSQL",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CovenantSQL/GNTE",
+    "cover": "https://avatars.githubusercontent.com/u/38064281?v=4",
+    "description": "simple Global Network Topology Emulator"
+  },
+  {
+    "name": "Orchid",
+    "slug": "orchid",
+    "creator": "MythosOfs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MythosOfs/Orchid",
+    "cover": "https://avatars.githubusercontent.com/u/98063411?v=4",
+    "description": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "name": "selevet-eglantine",
+    "slug": "selevet-eglantine",
+    "creator": "sylvieistaken",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sylvieistaken/selevet-eglantine",
+    "cover": "https://avatars.githubusercontent.com/u/343296425?v=4",
+    "description": "Selevet Eglantine: an unofficial Eglantine (Switch 2 emulator) build tuned for Zen 3, with PGO, ThinLTO and faster GPU mapping updates"
+  },
+  {
+    "name": "gow-pc-port",
+    "slug": "gow-pc-port",
+    "creator": "danielalves96",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/danielalves96/gow-pc-port",
+    "cover": "https://avatars.githubusercontent.com/u/62755605?v=4",
+    "description": "Unofficial native PC port of God of War (2005, PS2) for Windows, with experimental Linux support. Statically recompiled to C++, not an emulator. OpenGL renderer, launcher, cheat menu, widescreen, 60 FPS. Bring your own game dump: no game files included."
+  },
+  {
+    "name": "fm1-emu",
+    "slug": "fm1-emu",
+    "creator": "joakimeriksson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/joakimeriksson/fm1-emu",
+    "cover": "https://avatars.githubusercontent.com/u/599447?v=4",
+    "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
   }
 ]
