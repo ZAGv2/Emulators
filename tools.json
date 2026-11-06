@@ -42728,5 +42728,15 @@
     "url": "https://github.com/Bifold-Emu/Bifold",
     "cover": "https://avatars.githubusercontent.com/u/346279899?v=4",
     "description": "iOS frontend for the Azahar 3DS emulator, with multiplayer (GPL-2.0)"
+  },
+  {
+    "name": "lazyusf",
+    "slug": "lazyusf",
+    "creator": "kode54",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kode54/lazyusf",
+    "cover": "https://avatars.githubusercontent.com/u/796316?v=4",
+    "description": "A mirror of my near rewrite of the LazyUSF partial Nintendo (Ultra) 64 emulator, designed as a playback core for USF/MINIUSF sound files, which contain partial ROM images and/or Project 64 save states"
   }
 ]
