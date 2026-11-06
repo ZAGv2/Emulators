@@ -42648,5 +42648,85 @@
     "url": "https://github.com/joakimeriksson/fm1-emu",
     "cover": "https://avatars.githubusercontent.com/u/599447?v=4",
     "description": "Emulator for the M-VAVE FM-1 pocket synth: runs its firmwares unchanged in the browser and natively"
+  },
+  {
+    "name": "boxshelf-beta",
+    "slug": "boxshelf-beta",
+    "creator": "sassiestrhihno",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+    "cover": "https://avatars.githubusercontent.com/u/336298849?v=4",
+    "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps."
+  },
+  {
+    "name": "switch2mac",
+    "slug": "switch2mac",
+    "creator": "azmasm",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/azmasm/switch2mac",
+    "cover": "https://avatars.githubusercontent.com/u/351411859?v=4",
+    "description": "A Mac app that turns your own Nintendo Switch 2 game dumps into native Apple silicon games. It picks the best build for your Mac. Mario Kart World, Donkey Kong Bananza, Pokopia and more. Not an emulator, no keys."
+  },
+  {
+    "name": "irori",
+    "slug": "irori",
+    "creator": "irori-app",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/irori-app/irori",
+    "cover": "https://avatars.githubusercontent.com/u/348909352?v=4",
+    "description": "Every game you own, around one fire. A fast, native game launcher for Linux, macOS and Windows: Epic Games, GOG, Amazon, itch.io, Steam, emulators and your own games in one library."
+  },
+  {
+    "name": "firenook",
+    "slug": "firenook",
+    "creator": "firenook-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/firenook-dev/firenook",
+    "cover": "https://avatars.githubusercontent.com/u/331262767?v=4",
+    "description": "A faster drop-in replacement for the Firebase Local Emulator Suite: keep your firebase.json, SDKs and ports, and get 40× faster writes, 10× less memory, no Java, and data that survives restarts."
+  },
+  {
+    "name": "BnbEmu",
+    "slug": "bnbemu",
+    "creator": "krrr",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/krrr/BnbEmu",
+    "cover": "https://avatars.githubusercontent.com/u/5585684?v=4",
+    "description": "Crazy Arcade Server Emulator"
+  },
+  {
+    "name": "bimmulator",
+    "slug": "bimmulator",
+    "creator": "agent00jackson",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/agent00jackson/bimmulator",
+    "cover": "https://avatars.githubusercontent.com/u/21324200?v=4",
+    "description": "BMW NBT EVO iDrive6 QEMU Emulator"
+  },
+  {
+    "name": "boxshelf-source",
+    "slug": "boxshelf-source",
+    "creator": "sassiestrhihno",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sassiestrhihno/boxshelf-source",
+    "cover": "https://avatars.githubusercontent.com/u/336298849?v=4",
+    "description": "Boxshelf source code (GPL-3.0): a TV-style 3D box-art shelf for emulators, Steam, Epic and PC ports, on Windows, Android and Linux. Downloads are on boxshelf-beta."
+  },
+  {
+    "name": "Bifold",
+    "slug": "bifold",
+    "creator": "Bifold-Emu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Bifold-Emu/Bifold",
+    "cover": "https://avatars.githubusercontent.com/u/346279899?v=4",
+    "description": "iOS frontend for the Azahar 3DS emulator, with multiplayer (GPL-2.0)"
   }
 ]
