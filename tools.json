@@ -42738,5 +42738,25 @@
     "url": "https://github.com/kode54/lazyusf",
     "cover": "https://avatars.githubusercontent.com/u/796316?v=4",
     "description": "A mirror of my near rewrite of the LazyUSF partial Nintendo (Ultra) 64 emulator, designed as a playback core for USF/MINIUSF sound files, which contain partial ROM images and/or Project 64 save states"
+  },
+  {
+    "name": "Delphis",
+    "slug": "delphis",
+    "creator": "HiramRG",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/HiramRG/Delphis",
+    "cover": "https://avatars.githubusercontent.com/u/276786912?v=4",
+    "description": "Delphis: automatic controller setup for the Dolphin emulator on dual-screen handhelds like the AYN Thor."
+  },
+  {
+    "name": "multiemu",
+    "slug": "multiemu",
+    "creator": "lordra9-svg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lordra9-svg/multiemu",
+    "cover": "https://avatars.githubusercontent.com/u/342614157?v=4",
+    "description": "MIT-licensed multi-system emulator: reference-parity NES core and Dolphin-inspired desktop shell"
   }
 ]
