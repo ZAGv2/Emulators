@@ -42798,5 +42798,55 @@
     "url": "https://github.com/TalhaMudo/NFSU2Recomp",
     "cover": "https://avatars.githubusercontent.com/u/172612789?v=4",
     "description": "Play Need for Speed: Underground 2 natively on Apple Silicon Macs (M1+). Static recompilation of the PC game (x86, Direct3D 9) to ARM64 + Metal: no Wine, CrossOver or emulator; 119 fps vs 10-15 fps under Wine. Bring your own copy; no game code or assets included."
+  },
+  {
+    "name": "playDB-CNT",
+    "slug": "playdb-cnt",
+    "creator": "sikoGD",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sikoGD/playDB-CNT",
+    "cover": "https://avatars.githubusercontent.com/u/6192207?v=4",
+    "description": "Play The Duskbloods Network Test on Eglantine/Lichii: a launcher with local loopback-only servers for the online checks."
+  },
+  {
+    "name": "Lineage2JS",
+    "slug": "lineage2js",
+    "creator": "realratchet",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/realratchet/Lineage2JS",
+    "cover": "https://avatars.githubusercontent.com/u/25830638?v=4",
+    "description": "A Lineage2 client emulator in a browser"
+  },
+  {
+    "name": "B2HWii-Android",
+    "slug": "b2hwii-android",
+    "creator": "PotatoRecomp",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/PotatoRecomp/B2HWii-Android",
+    "cover": "https://avatars.githubusercontent.com/u/352981382?v=4",
+    "description": "Unofficial Android port of Sengoku Basara 2 Heroes (Wii, RBSJ08): PowerPC statically recompiled to C++, no emulator on the phone. Port made by Xu."
+  },
+  {
+    "name": "AtariBoy",
+    "slug": "atariboy",
+    "creator": "nosty3",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nosty3/AtariBoy",
+    "cover": "https://avatars.githubusercontent.com/u/33236048?v=4",
+    "description": "Atari Boy - Game Boy emulator for Atari XL/XE with A8PicoCart"
+  },
+  {
+    "name": "JavaBS",
+    "slug": "javabs",
+    "creator": "root-7325",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/root-7325/JavaBS",
+    "cover": "https://avatars.githubusercontent.com/u/69764760?v=4",
+    "description": "An experimental Brawl Stars (v12.198) server emulator written in Java 17+ with Netty. Mirrored from GitLab"
   }
 ]
