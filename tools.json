@@ -42848,5 +42848,15 @@
     "url": "https://github.com/root-7325/JavaBS",
     "cover": "https://avatars.githubusercontent.com/u/69764760?v=4",
     "description": "An experimental Brawl Stars (v12.198) server emulator written in Java 17+ with Netty. Mirrored from GitLab"
+  },
+  {
+    "name": "nc100em",
+    "slug": "nc100em",
+    "creator": "Nilquader",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Nilquader/nc100em",
+    "cover": "https://avatars.githubusercontent.com/u/586594?v=4",
+    "description": "Emulator for the Amstrad NC100/150/200 Notepad"
   }
 ]
