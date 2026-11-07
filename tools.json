@@ -42758,5 +42758,45 @@
     "url": "https://github.com/lordra9-svg/multiemu",
     "cover": "https://avatars.githubusercontent.com/u/342614157?v=4",
     "description": "MIT-licensed multi-system emulator: reference-parity NES core and Dolphin-inspired desktop shell"
+  },
+  {
+    "name": "Henge",
+    "slug": "henge",
+    "creator": "Leviidev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Leviidev/Henge",
+    "cover": "https://avatars.githubusercontent.com/u/281482210?v=4",
+    "description": "Emulate macOS on iOS and iPadOS"
+  },
+  {
+    "name": "ocarina-recomp",
+    "slug": "ocarina-recomp",
+    "creator": "sostenesfreitas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+    "cover": "https://avatars.githubusercontent.com/u/13871345?v=4",
+    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included."
+  },
+  {
+    "name": "wichforks",
+    "slug": "wichforks",
+    "creator": "riyadhHDA",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/riyadhHDA/wichforks",
+    "cover": "https://avatars.githubusercontent.com/u/25872060?v=4",
+    "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports."
+  },
+  {
+    "name": "NFSU2Recomp",
+    "slug": "nfsu2recomp",
+    "creator": "TalhaMudo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TalhaMudo/NFSU2Recomp",
+    "cover": "https://avatars.githubusercontent.com/u/172612789?v=4",
+    "description": "Play Need for Speed: Underground 2 natively on Apple Silicon Macs (M1+). Static recompilation of the PC game (x86, Direct3D 9) to ARM64 + Metal: no Wine, CrossOver or emulator; 119 fps vs 10-15 fps under Wine. Bring your own copy; no game code or assets included."
   }
 ]
