@@ -42898,5 +42898,65 @@
     "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port",
     "cover": "https://avatars.githubusercontent.com/u/20863170?v=4",
     "description": "Gears of War 2 native PC port: the Xbox 360 game statically recompiled to x64 (not an emulator). 1440p/4K, FSR, 4K texture packs, keyboard & mouse, Android in progress. Bring your own copy."
+  },
+  {
+    "name": "Lichii-Enhanced",
+    "slug": "lichii-enhanced",
+    "creator": "Manaclenodisconnect",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Manaclenodisconnect/Lichii-Enhanced",
+    "cover": "https://avatars.githubusercontent.com/u/293969389?v=4",
+    "description": "Nintendo Switch emulator with built-in upscalers, a mod & patch manager, a guided first-run wizard and online play via a unified room server with LDN compatibility."
+  },
+  {
+    "name": "Anka",
+    "slug": "anka",
+    "creator": "EddizEge",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EddizEge/Anka",
+    "cover": "https://avatars.githubusercontent.com/u/300900304?v=4",
+    "description": "Anka — Nintendo Switch 2 emulator for Windows, focused on performance"
+  },
+  {
+    "name": "FEFW-Stable-with-60-FPS-Patch",
+    "slug": "fefw-stable-with-60-fps-patch",
+    "creator": "TheSneakyBadger",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheSneakyBadger/FEFW-Stable-with-60-FPS-Patch",
+    "cover": "https://avatars.githubusercontent.com/u/85570123?v=4",
+    "description": "Portable, ready-to-play Windows build of the Eden FE: Fortune’s Weave emulator fork (based on xDarkWindx 1.12 and Duck912's forks). Runs on any x64 CPU, settings pre-tuned for Fortune’s Weave, plus a start-up crash fix. Bring your own keys, firmware and game."
+  },
+  {
+    "name": "nintendo-64-emulator",
+    "slug": "nintendo-64-emulator",
+    "creator": "sutkalarnazs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sutkalarnazs/nintendo-64-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/200058112?v=4",
+    "description": "Nintendo 64 Emulator is a high-performance emulator for running Nintendo 64 games on Windows 10 or newer."
+  },
+  {
+    "name": "bmw-idrive8.5-emulator",
+    "slug": "bmw-idrive8-5-emulator",
+    "creator": "rishik250809",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rishik250809/bmw-idrive8.5-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/50746191?v=4",
+    "description": "Standalone IDrive 8.5 emulator running locally on a ARM based Mac."
+  },
+  {
+    "name": "bayo3-recomp",
+    "slug": "bayo3-recomp",
+    "creator": "aoxzh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aoxzh/bayo3-recomp",
+    "cover": "https://avatars.githubusercontent.com/u/270653043?v=4",
+    "description": "Bayonetta 3 PC, Steam Deck and Android native port: static ARM-to-C++ recompiler, Horizon/NVN runtime and Vulkan backend. No emulator; bring your own 1.2.0 game files."
   }
 ]
