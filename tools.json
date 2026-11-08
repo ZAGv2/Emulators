@@ -42868,5 +42868,35 @@
     "url": "https://github.com/Eglantine-Community/Eglantine",
     "cover": "https://avatars.githubusercontent.com/u/353829115?v=4",
     "description": "VERY experimental Nintendo Switch 2 emulator"
+  },
+  {
+    "name": "ounce-core",
+    "slug": "ounce-core",
+    "creator": "hffgzktbcc-blip",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hffgzktbcc-blip/ounce-core",
+    "cover": "https://avatars.githubusercontent.com/u/316626863?v=4",
+    "description": "Open-source ARM64 execution lab in safe Rust: run programs on three CPU engines and prove the results match real hardware."
+  },
+  {
+    "name": "xbased",
+    "slug": "xbased",
+    "creator": "crazyriddler",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/crazyriddler/xbased",
+    "cover": "https://avatars.githubusercontent.com/u/185976514?v=4",
+    "description": "xbased is an original Xbox emulator for Windows and Linux, developed by crazyriddler. Based on hakuX."
+  },
+  {
+    "name": "gears-of-war-2-pc-port",
+    "slug": "gears-of-war-2-pc-port",
+    "creator": "santiquiroz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/santiquiroz/gears-of-war-2-pc-port",
+    "cover": "https://avatars.githubusercontent.com/u/20863170?v=4",
+    "description": "Gears of War 2 native PC port: the Xbox 360 game statically recompiled to x64 (not an emulator). 1440p/4K, FSR, 4K texture packs, keyboard & mouse, Android in progress. Bring your own copy."
   }
 ]
