@@ -42858,5 +42858,15 @@
     "url": "https://github.com/Nilquader/nc100em",
     "cover": "https://avatars.githubusercontent.com/u/586594?v=4",
     "description": "Emulator for the Amstrad NC100/150/200 Notepad"
+  },
+  {
+    "name": "Eglantine",
+    "slug": "eglantine",
+    "creator": "Eglantine-Community",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Eglantine-Community/Eglantine",
+    "cover": "https://avatars.githubusercontent.com/u/353829115?v=4",
+    "description": "VERY experimental Nintendo Switch 2 emulator"
   }
 ]
