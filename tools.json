@@ -42958,5 +42958,35 @@
     "url": "https://github.com/aoxzh/bayo3-recomp",
     "cover": "https://avatars.githubusercontent.com/u/270653043?v=4",
     "description": "Bayonetta 3 PC, Steam Deck and Android native port: static ARM-to-C++ recompiler, Horizon/NVN runtime and Vulkan backend. No emulator; bring your own 1.2.0 game files."
+  },
+  {
+    "name": "digiemu",
+    "slug": "digiemu",
+    "creator": "elekloader",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/elekloader/digiemu",
+    "cover": "https://avatars.githubusercontent.com/u/349335383?v=4",
+    "description": "Elektron Digitakt, Digitone (mk1), Model:Cycles and Model:Samples emulator: runs their own firmware behind a clickable front panel, with live audio and MIDI. Apps for Windows and Apple silicon Macs; bring your own .syx. Unofficial."
+  },
+  {
+    "name": "Idiot_Box",
+    "slug": "idiot-box",
+    "creator": "TheWonderlandStudio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheWonderlandStudio/Idiot_Box",
+    "cover": "https://avatars.githubusercontent.com/u/319888624?v=4",
+    "description": "Idiot Box: free, open-source desktop IDE. with android and linux emulators and built in browser"
+  },
+  {
+    "name": "enet-bridge",
+    "slug": "enet-bridge",
+    "creator": "engiadina",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/engiadina/enet-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/2302158?v=4",
+    "description": "Gira/Jung eNet radio devices in Home Assistant without the eNet Server – ESP32 + CC1101 USB bridge that emulates the server, imports your existing installation (.iex) and keeps all devices paired."
   }
 ]
