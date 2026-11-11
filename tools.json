@@ -42988,5 +42988,25 @@
     "url": "https://github.com/engiadina/enet-bridge",
     "cover": "https://avatars.githubusercontent.com/u/2302158?v=4",
     "description": "Gira/Jung eNet radio devices in Home Assistant without the eNet Server – ESP32 + CC1101 USB bridge that emulates the server, imports your existing installation (.iex) and keeps all devices paired."
+  },
+  {
+    "name": "iPSX2",
+    "slug": "ipsx2",
+    "creator": "iPSX2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iPSX2/iPSX2",
+    "cover": "https://avatars.githubusercontent.com/u/354443833?v=4",
+    "description": "PS2 emulator for iPhone and iPad with JIT. Standalone fork of iPSX2 (PCSX2 / ARMSX2 port) focused on performance and accuracy."
+  },
+  {
+    "name": "ps2-memcard-manager",
+    "slug": "ps2-memcard-manager",
+    "creator": "soiderxus",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/soiderxus/ps2-memcard-manager",
+    "cover": "https://avatars.githubusercontent.com/u/273658739?v=4",
+    "description": "A tool for managing PS2 memory card images like the ones the PCSX2 emulator uses (`Mcd001.ps2`). It imports and exports save games, and it can also create, inspect and check card images.  This is a port of Ross Ridge's mymc 2.7 from Python 2 to Python 3, with a working graphical interface on wxPython 4 and a new cross-platform 3D save icon viewer."
   }
 ]
