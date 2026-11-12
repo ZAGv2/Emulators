@@ -43098,5 +43098,25 @@
     "url": "https://github.com/ahkohd/bb-box",
     "cover": "https://avatars.githubusercontent.com/u/13041443?v=4",
     "description": "Computers for BB threads: Linux, Windows, macOS, iOS and Android boxes, shared by you and your agent."
+  },
+  {
+    "name": "MotionRemote",
+    "slug": "motionremote",
+    "creator": "leo100410",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/leo100410/MotionRemote",
+    "cover": "https://avatars.githubusercontent.com/u/171841771?v=4",
+    "description": "Use an iPhone as a motion controller for Dolphin on Mac or iPad, with camera-assisted pointing and game rumble."
+  },
+  {
+    "name": "EmuTune",
+    "slug": "emutune",
+    "creator": "AOJ222",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AOJ222/EmuTune",
+    "cover": "https://avatars.githubusercontent.com/u/182362058?v=4",
+    "description": "Local-first emulator optimisation for Android handhelds."
   }
 ]
