@@ -43018,5 +43018,85 @@
     "url": "https://github.com/imxieyi/Kernarium",
     "cover": "https://avatars.githubusercontent.com/u/20365903?v=4",
     "description": "Run real Linux kernel natively on iOS"
+  },
+  {
+    "name": "aws-emulator",
+    "slug": "aws-emulator",
+    "creator": "aws",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aws/aws-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/2232217?v=4",
+    "description": "AWS Emulator is a local emulator of the AWS APIs."
+  },
+  {
+    "name": "EmuFive",
+    "slug": "emufive",
+    "creator": "blue0x1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/blue0x1/EmuFive",
+    "cover": "https://avatars.githubusercontent.com/u/52697989?v=4",
+    "description": "A PS5 emulator for the PS4. Runs on a jailbroken PS4 with Linux, installed through PS4 Multiboot."
+  },
+  {
+    "name": "AAEmu-10.x",
+    "slug": "aaemu-10-x",
+    "creator": "AAEmu",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/AAEmu/AAEmu-10.x",
+    "cover": "https://avatars.githubusercontent.com/u/65731841?v=4",
+    "description": "AAEmu 10.x: ArcheAge 10.x (zone 10.0.2 r575) server emulator"
+  },
+  {
+    "name": "borer",
+    "slug": "borer",
+    "creator": "imjustprism",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/imjustprism/borer",
+    "cover": "https://avatars.githubusercontent.com/u/69634294?v=4",
+    "description": "Reverse engineering, rebuilt for AI agents. A pure Rust engine your agent drives over MCP."
+  },
+  {
+    "name": "Badanaut",
+    "slug": "badanaut",
+    "creator": "j92580498-max",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/j92580498-max/Badanaut",
+    "cover": "https://avatars.githubusercontent.com/u/252151737?v=4",
+    "description": "Emulator Bada os for Linux, Windows and Android."
+  },
+  {
+    "name": "mgu-browser",
+    "slug": "mgu-browser",
+    "creator": "pllanaio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pllanaio/mgu-browser",
+    "cover": "https://avatars.githubusercontent.com/u/135324050?v=4",
+    "description": "Experimental native BMW MGU / iDrive 7 browser with Chromium, controller navigation, tabs and a local SDK emulator. Source preview, verified status, roadmap and credits."
+  },
+  {
+    "name": "GameBoyGPT",
+    "slug": "gameboygpt",
+    "creator": "YashDThapliyal",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/YashDThapliyal/GameBoyGPT",
+    "cover": "https://avatars.githubusercontent.com/u/123337877?v=4",
+    "description": "A real transformer written in assembly, running on an emulated 1989 Game Boy CPU. It insults you and remembers your name."
+  },
+  {
+    "name": "bb-box",
+    "slug": "bb-box",
+    "creator": "ahkohd",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ahkohd/bb-box",
+    "cover": "https://avatars.githubusercontent.com/u/13041443?v=4",
+    "description": "Computers for BB threads: Linux, Windows, macOS, iOS and Android boxes, shared by you and your agent."
   }
 ]
