@@ -43118,5 +43118,75 @@
     "url": "https://github.com/AOJ222/EmuTune",
     "cover": "https://avatars.githubusercontent.com/u/182362058?v=4",
     "description": "Local-first emulator optimisation for Android handhelds."
+  },
+  {
+    "name": "chomper",
+    "slug": "chomper",
+    "creator": "lycheech33",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lycheech33/chomper",
+    "cover": "https://avatars.githubusercontent.com/u/36655200?v=4",
+    "description": "A lightweight emulation framework for emulating cryptographic algorithms in iOS executables and libraries."
+  },
+  {
+    "name": "apkstart",
+    "slug": "apkstart",
+    "creator": "RoutineMiku",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RoutineMiku/apkstart",
+    "cover": "https://avatars.githubusercontent.com/u/52089759?v=4",
+    "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时"
+  },
+  {
+    "name": "hermit",
+    "slug": "hermit",
+    "creator": "azmasm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/azmasm/hermit",
+    "cover": "https://avatars.githubusercontent.com/u/351411859?v=4",
+    "description": "Hermit (formerly switch2mac): a Mac app that turns your own Nintendo Switch and Switch 2 game dumps into native Apple silicon apps, with the best build for your Mac and a 3D game-case library. Not an emulator."
+  },
+  {
+    "name": "oot-remake-multiplayer",
+    "slug": "oot-remake-multiplayer",
+    "creator": "daurosk",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/daurosk/oot-remake-multiplayer",
+    "cover": "https://avatars.githubusercontent.com/u/354202035?v=4",
+    "description": "Working multiplayer for the Ocarina of Time remake: first on an emulator, then in a native recomp."
+  },
+  {
+    "name": "CheezyEmu",
+    "slug": "cheezyemu",
+    "creator": "CheezerWheezer",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/CheezerWheezer/CheezyEmu",
+    "cover": "https://avatars.githubusercontent.com/u/172987769?v=4",
+    "description": "CheezyEmu: a Nintendo Switch and Switch 2 emulator tuned for AMD GPUs (FSR 4, AMD frame generation, saved shaders)"
+  },
+  {
+    "name": "BreadBox",
+    "slug": "breadbox",
+    "creator": "BreadChaser",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/BreadChaser/BreadBox",
+    "cover": "https://avatars.githubusercontent.com/u/98570233?v=4",
+    "description": "Multi-system emulator for the Nintendo 3DS: PlayStation and Game Boy Advance"
+  },
+  {
+    "name": "beachlife-recomp",
+    "slug": "beachlife-recomp",
+    "creator": "yannicksuter",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yannicksuter/beachlife-recomp",
+    "cover": "https://avatars.githubusercontent.com/u/457904?v=4",
+    "description": "Native Windows, Linux and macOS build of Beach Life / Virtual Resort: Spring Break, recompiled from the reconstructed source of beachlife-decomp. No emulator, no wrapper. No game assets included; an original copy of the game is required."
   }
 ]
