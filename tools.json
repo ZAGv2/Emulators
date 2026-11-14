@@ -43218,5 +43218,25 @@
     "url": "https://github.com/universalone/echoforge",
     "cover": "https://avatars.githubusercontent.com/u/28495597?v=4",
     "description": "A launcher for console emulators. Contains no games, firmware, BIOS files or keys."
+  },
+  {
+    "name": "TrinityCreator",
+    "slug": "trinitycreator",
+    "creator": "NotCoffee418",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NotCoffee418/TrinityCreator",
+    "cover": "https://avatars.githubusercontent.com/u/9306304?v=4",
+    "description": "Database management tool for TrinityCore and other emulators up to 3.3.5a. Create and manage items, creatures and quests and more with ease."
+  },
+  {
+    "name": "stackport",
+    "slug": "stackport",
+    "creator": "DaviReisVieira",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DaviReisVieira/stackport",
+    "cover": "https://avatars.githubusercontent.com/u/36394034?v=4",
+    "description": "Open-source web console and UI for AWS Emulator, MiniStack, Floci, LocalStack, Moto and real AWS: live dashboard, resource browser, API explorer"
   }
 ]
