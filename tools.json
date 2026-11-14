@@ -43188,5 +43188,35 @@
     "url": "https://github.com/yannicksuter/beachlife-recomp",
     "cover": "https://avatars.githubusercontent.com/u/457904?v=4",
     "description": "Native Windows, Linux and macOS build of Beach Life / Virtual Resort: Spring Break, recompiled from the reconstructed source of beachlife-decomp. No emulator, no wrapper. No game assets included; an original copy of the game is required."
+  },
+  {
+    "name": "emulator-configs",
+    "slug": "emulator-configs",
+    "creator": "krishnans2006",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/krishnans2006/emulator-configs",
+    "cover": "https://avatars.githubusercontent.com/u/62958782?v=4",
+    "description": "Keybinds for various games in various emulators (Dolphin, Eden)"
+  },
+  {
+    "name": "PS4-Linux-Desktop",
+    "slug": "ps4-linux-desktop",
+    "creator": "sbshsjh067-tech",
+    "version": "...",
+    "console": "Linux",
+    "url": "https://github.com/sbshsjh067-tech/PS4-Linux-Desktop",
+    "cover": "https://avatars.githubusercontent.com/u/345740766?v=4",
+    "description": "An ambitious project to transform the PlayStation 4 (PS4 Fat) into a fully functional Linux desktop computer powered by KDE Plasma. The goal is to provide a Windows-like desktop experience with support for a web browser, Steam, Dolphin Emulator, VLC, LibreOffice, USB peripherals, and more — while preserving the original PS4 operating syste"
+  },
+  {
+    "name": "echoforge",
+    "slug": "echoforge",
+    "creator": "universalone",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/universalone/echoforge",
+    "cover": "https://avatars.githubusercontent.com/u/28495597?v=4",
+    "description": "A launcher for console emulators. Contains no games, firmware, BIOS files or keys."
   }
 ]
