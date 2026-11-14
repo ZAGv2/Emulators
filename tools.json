@@ -43238,5 +43238,115 @@
     "url": "https://github.com/DaviReisVieira/stackport",
     "cover": "https://avatars.githubusercontent.com/u/36394034?v=4",
     "description": "Open-source web console and UI for AWS Emulator, MiniStack, Floci, LocalStack, Moto and real AWS: live dashboard, resource browser, API explorer"
+  },
+  {
+    "name": "Ascension-R",
+    "slug": "ascension-r",
+    "creator": "rigaz29",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/rigaz29/Ascension-R",
+    "cover": "https://avatars.githubusercontent.com/u/5234767?v=4",
+    "description": "God of War: Ascension PC port: an unofficial, native Windows port of the PS3 game by static recompilation, no emulator. No game files included: you build it from your own copy."
+  },
+  {
+    "name": "macXenos",
+    "slug": "macxenos",
+    "creator": "bourbonicfisky",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bourbonicfisky/macXenos",
+    "cover": "https://avatars.githubusercontent.com/u/2363648?v=4",
+    "description": "A Mac native Xbox 360 emulator, rewrite of Xenia"
+  },
+  {
+    "name": "terminal_gameboy",
+    "slug": "terminal-gameboy",
+    "creator": "dquigles",
+    "version": "...",
+    "console": "Game Boy",
+    "url": "https://github.com/dquigles/terminal_gameboy",
+    "cover": "https://avatars.githubusercontent.com/u/126037949?v=4",
+    "description": "A terminal-based Game Boy and Game Boy Color emulator with ASCII and block rendering modes"
+  },
+  {
+    "name": "pc-nintendo-resp-switch-emulator",
+    "slug": "pc-nintendo-resp-switch-emulator",
+    "creator": "Tayglacierweb99938",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/Tayglacierweb99938/pc-nintendo-resp-switch-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/353565919?v=4",
+    "description": "Pc Nintendo Switch Emulator, a high-performance gaming utility designed to run console titles directly on desktop computers. It provides a seamless user experience to help gamers customize graphics settings, map controls, and enjoy smooth gameplay on PC hardware."
+  },
+  {
+    "name": "Corruption_3-PC",
+    "slug": "corruption-3-pc",
+    "creator": "bonllavier",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bonllavier/Corruption_3-PC",
+    "cover": "https://avatars.githubusercontent.com/u/26979287?v=4",
+    "description": "Native Windows port of Metroid Prime 3: Corruption (Wii, USA) built with static recompilation, no emulator. Play with keyboard and mouse or a gamepad, with PC visual upgrades and RetroAchievements (casual mode). Requires your own disc."
+  },
+  {
+    "name": "floci-dash",
+    "slug": "floci-dash",
+    "creator": "ofsazib",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ofsazib/floci-dash",
+    "cover": "https://avatars.githubusercontent.com/u/11788555?v=4",
+    "description": "A polished, production-grade management dashboard for Floci — the local AWS emulator. Browse, create, and manage 55+ AWS services (S3, DynamoDB, EC2, Lambda, IAM, and more) through an AWS Console-style interface. React + Hono + Docker."
+  },
+  {
+    "name": "btmux",
+    "slug": "btmux",
+    "creator": "btmux-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/btmux-dev/btmux",
+    "cover": "https://avatars.githubusercontent.com/u/356572905?v=4",
+    "description": "A terminal emulator and multiplexer with tmux-style UX"
+  },
+  {
+    "name": "GreenBoy",
+    "slug": "greenboy",
+    "creator": "RufflezAU",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RufflezAU/GreenBoy",
+    "cover": "https://avatars.githubusercontent.com/u/122369732?v=4",
+    "description": "A native PC build of your own copy of the game. No emulator. Tuned and measured on the Steam Deck."
+  },
+  {
+    "name": "Bakugan-Battle-Brawlers-PS3-recomp",
+    "slug": "bakugan-battle-brawlers-ps3-recomp",
+    "creator": "Mauryln",
+    "version": "...",
+    "console": "PlayStation 3",
+    "url": "https://github.com/Mauryln/Bakugan-Battle-Brawlers-PS3-recomp",
+    "cover": "https://avatars.githubusercontent.com/u/96092393?v=4",
+    "description": "Native Windows x64 port of Bakugan: Battle Brawlers (PS3, BLES00758) built by static PPU+SPU recompilation - no emulator. Menus, FMVs and the narrative intro work; 3D models, gameplay and SFX are next."
+  },
+  {
+    "name": "GreenHatBoy",
+    "slug": "greenhatboy",
+    "creator": "Vampinity",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Vampinity/GreenHatBoy",
+    "cover": "https://avatars.githubusercontent.com/u/52834825?v=4",
+    "description": "Emulator test builds, patches and test logs for a jailbroken base PS5. Bring your own game."
+  },
+  {
+    "name": "bredbord",
+    "slug": "bredbord",
+    "creator": "qs-1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/qs-1/bredbord",
+    "cover": "https://avatars.githubusercontent.com/u/96503125?v=4",
+    "description": "browser based 3D breadboard and circuit simulator."
   }
 ]
