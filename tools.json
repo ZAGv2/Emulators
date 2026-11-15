@@ -43348,5 +43348,25 @@
     "url": "https://github.com/qs-1/bredbord",
     "cover": "https://avatars.githubusercontent.com/u/96503125?v=4",
     "description": "browser based 3D breadboard and circuit simulator."
+  },
+  {
+    "name": "dolphin-nx2",
+    "slug": "dolphin-nx2",
+    "creator": "MegaCadeDev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MegaCadeDev/dolphin-nx2",
+    "cover": "https://avatars.githubusercontent.com/u/81448614?v=4",
+    "description": "Dolphin Emulator Ported to NS2"
+  },
+  {
+    "name": "evolution-racing-dolphin",
+    "slug": "evolution-racing-dolphin",
+    "creator": "john230568904534",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/john230568904534/evolution-racing-dolphin",
+    "cover": "https://avatars.githubusercontent.com/u/285871840?v=4",
+    "description": "Dolphin emulator patches behind the Evolution Racing F-Zero GX remaster effects (GPL-2.0+). No game data."
   }
 ]
