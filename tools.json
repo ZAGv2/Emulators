@@ -43368,5 +43368,45 @@
     "url": "https://github.com/john230568904534/evolution-racing-dolphin",
     "cover": "https://avatars.githubusercontent.com/u/285871840?v=4",
     "description": "Dolphin emulator patches behind the Evolution Racing F-Zero GX remaster effects (GPL-2.0+). No game data."
+  },
+  {
+    "name": "MKW-THWOMP",
+    "slug": "mkw-thwomp",
+    "creator": "STS78721",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/STS78721/MKW-THWOMP",
+    "cover": "https://avatars.githubusercontent.com/u/134802927?v=4",
+    "description": "Mario Kart World (Switch 2) running natively on Windows PC: a static recompilation, not an emulator. Races at 60 fps, a Switch-2-style settings menu and a one-step Setup. Built on mkw-recomp. No game files included."
+  },
+  {
+    "name": "android-studio-desktop",
+    "slug": "android-studio-desktop",
+    "creator": "cameronchase-co72",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/cameronchase-co72/android-studio-desktop",
+    "cover": "https://avatars.githubusercontent.com/u/341522248?v=4",
+    "description": "Android Studio 2026 standalone bundle with full plugin suite, bundled SDK tooling, emulator staging and portable mode for Windows 11."
+  },
+  {
+    "name": "steam-library-bridge",
+    "slug": "steam-library-bridge",
+    "creator": "atlas7283",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/atlas7283/steam-library-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/352082222?v=4",
+    "description": "Free Windows app to add emulator, Epic, GOG and PC games to Steam with artwork, achievements and playtime tracking."
+  },
+  {
+    "name": "dsh-opencode-bridge",
+    "slug": "dsh-opencode-bridge",
+    "creator": "Vikrant-Aleph",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Vikrant-Aleph/dsh-opencode-bridge",
+    "cover": "https://avatars.githubusercontent.com/u/97726458?v=4",
+    "description": "通过伪装官方客户端协议，在 DeepSeek Harness 中使用 OpenCode 免费模型。|  Use OpenCode's free models in DeepSeek Harness by emulating the official client protocol."
   }
 ]
