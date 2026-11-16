@@ -43408,5 +43408,25 @@
     "url": "https://github.com/Vikrant-Aleph/dsh-opencode-bridge",
     "cover": "https://avatars.githubusercontent.com/u/97726458?v=4",
     "description": "通过伪装官方客户端协议，在 DeepSeek Harness 中使用 OpenCode 免费模型。|  Use OpenCode's free models in DeepSeek Harness by emulating the official client protocol."
+  },
+  {
+    "name": "cshoal",
+    "slug": "cshoal",
+    "creator": "mcthomas",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/mcthomas/cshoal",
+    "cover": "https://avatars.githubusercontent.com/u/37082732?v=4",
+    "description": "An animated 3d simulation of a shoal and several predators, for your terminal emulator."
+  },
+  {
+    "name": "dolphin-roulette",
+    "slug": "dolphin-roulette",
+    "creator": "Spectratized",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Spectratized/dolphin-roulette",
+    "cover": "https://avatars.githubusercontent.com/u/86799059?v=4",
+    "description": "a timed game switcher for Dolphin Emulator."
   }
 ]
