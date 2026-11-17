@@ -43428,5 +43428,55 @@
     "url": "https://github.com/Spectratized/dolphin-roulette",
     "cover": "https://avatars.githubusercontent.com/u/86799059?v=4",
     "description": "a timed game switcher for Dolphin Emulator."
+  },
+  {
+    "name": "azerothcore-personal-loot-mod",
+    "slug": "azerothcore-personal-loot-mod",
+    "creator": "donsimox0-wq",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/donsimox0-wq/azerothcore-personal-loot-mod",
+    "cover": "https://avatars.githubusercontent.com/u/316698138?v=4",
+    "description": "AzerothCore Loot Mod - Tailored Loot for Every Hero"
+  },
+  {
+    "name": "rps5e",
+    "slug": "rps5e",
+    "creator": "keklick1337",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/keklick1337/rps5e",
+    "cover": "https://avatars.githubusercontent.com/u/86933883?v=4",
+    "description": "A PlayStation 5 emulator written in Rust, for Linux and Windows."
+  },
+  {
+    "name": "bionz-x-research",
+    "slug": "bionz-x-research",
+    "creator": "ivica00",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ivica00/bionz-x-research",
+    "cover": "https://avatars.githubusercontent.com/u/48855554?v=4",
+    "description": "BIONZ X clean-room execution environment, hardware contracts, and firmware research. Project discord:"
+  },
+  {
+    "name": "Bayronik",
+    "slug": "bayronik",
+    "creator": "yuvichh",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/yuvichh/Bayronik",
+    "cover": "https://avatars.githubusercontent.com/u/124506015?v=4",
+    "description": "Field‑level emulator for baryonic effects in weak gravitational lensing"
+  },
+  {
+    "name": "NestBox-An-Android-Emulator-Support-Lineage-OS",
+    "slug": "nestbox-an-android-emulator-support-lineage-os",
+    "creator": "rifatrajbd",
+    "version": "...",
+    "console": "Nintendo Entertainment System",
+    "url": "https://github.com/rifatrajbd/NestBox-An-Android-Emulator-Support-Lineage-OS",
+    "cover": "https://avatars.githubusercontent.com/u/128306864?v=4",
+    "description": "Run a second Android inside your phone, no root. VMOS-style virtual machines with LineageOS 20 (Android 13) + Google apps on the GPU, or Android 8.1. Tuned for Xiaomi HyperOS."
   }
 ]
