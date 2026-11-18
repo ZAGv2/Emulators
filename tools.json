@@ -43528,5 +43528,15 @@
     "url": "https://github.com/Deluxe4arms/gamecubeonline",
     "cover": "https://avatars.githubusercontent.com/u/114636700?v=4",
     "description": "Fan-made browser arcade launcher for playing your own GameCube disc images with a WebAssembly emulator. Unofficial and not affiliated with LEGO, Star Wars, Nintendo, or Dolphin."
+  },
+  {
+    "name": "argent",
+    "slug": "argent",
+    "creator": "software-mansion",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/software-mansion/argent",
+    "cover": "https://avatars.githubusercontent.com/u/56880679?v=4",
+    "description": "MCP server for AI agents to control, debug and profile iOS simulators, Android emulators, MacOS apps and TVs. Made by Software Mansion."
   }
 ]
