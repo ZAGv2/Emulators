@@ -43478,5 +43478,55 @@
     "url": "https://github.com/rifatrajbd/NestBox-An-Android-Emulator-Support-Lineage-OS",
     "cover": "https://avatars.githubusercontent.com/u/128306864?v=4",
     "description": "Run a second Android inside your phone, no root. VMOS-style virtual machines with LineageOS 20 (Android 13) + Google apps on the GPU, or Android 8.1. Tuned for Xiaomi HyperOS."
+  },
+  {
+    "name": "Dolphin-Emulator_Controllers",
+    "slug": "dolphin-emulator-controllers",
+    "creator": "0kagna2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/0kagna2/Dolphin-Emulator_Controllers",
+    "cover": "https://avatars.githubusercontent.com/u/352133897?v=4",
+    "description": "Configuraciones de mandos para Dolphin Emulator en Windows. Incluye perfiles `.ini` para Xbox Series X|S, Razer Raiju, PlayStation 4 DualShock 4 y PlayStation 5 DualSense, con controles adaptados para jugar a juegos de Wii como Super Smash Bros. Brawl."
+  },
+  {
+    "name": "DolphinPhoneAssist",
+    "slug": "dolphinphoneassist",
+    "creator": "shunoni",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/shunoni/DolphinPhoneAssist",
+    "cover": "https://avatars.githubusercontent.com/u/175977905?v=4",
+    "description": "Turn your iPhone into a Wiimote controller for the Dolphin Emulator 🎮🐬"
+  },
+  {
+    "name": "Burger-Boomer",
+    "slug": "burger-boomer",
+    "creator": "Zachbier07",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Zachbier07/Burger-Boomer",
+    "cover": "https://avatars.githubusercontent.com/u/182142863?v=4",
+    "description": "Boomer shooter created for dolphin emulator using DevKitPro"
+  },
+  {
+    "name": "EmuClean",
+    "slug": "emuclean",
+    "creator": "adityagg13",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/adityagg13/EmuClean",
+    "cover": "https://avatars.githubusercontent.com/u/283971246?v=4",
+    "description": "Emulator Debloater & Optimizer — auto-detect 25 emulators (BlueStacks, Dolphin, PCSX2, Yuzu...), clean junk safely to the Recycle Bin, ADB deep clean + tweaks"
+  },
+  {
+    "name": "gamecubeonline",
+    "slug": "gamecubeonline",
+    "creator": "Deluxe4arms",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Deluxe4arms/gamecubeonline",
+    "cover": "https://avatars.githubusercontent.com/u/114636700?v=4",
+    "description": "Fan-made browser arcade launcher for playing your own GameCube disc images with a WebAssembly emulator. Unofficial and not affiliated with LEGO, Star Wars, Nintendo, or Dolphin."
   }
 ]
