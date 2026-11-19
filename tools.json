@@ -43538,5 +43538,25 @@
     "url": "https://github.com/software-mansion/argent",
     "cover": "https://avatars.githubusercontent.com/u/56880679?v=4",
     "description": "MCP server for AI agents to control, debug and profile iOS simulators, Android emulators, MacOS apps and TVs. Made by Software Mansion."
+  },
+  {
+    "name": "malisx2",
+    "slug": "malisx2",
+    "creator": "bmdhacks",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/bmdhacks/malisx2",
+    "cover": "https://avatars.githubusercontent.com/u/1010987?v=4",
+    "description": "Vulkan driver for Arm Mali v7, v9 and v11 on the stock kbase kernel driver, built for the ARMSX2 PS2 emulator"
+  },
+  {
+    "name": "ro3emu-server",
+    "slug": "ro3emu-server",
+    "creator": "aethai",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aethai/ro3emu-server",
+    "cover": "https://avatars.githubusercontent.com/u/16802497?v=4",
+    "description": "Play Ragnarok Online 3 on your own server. Open-source RO3 server emulator: one click on Windows, host for friends on Windows or Linux. C# / .NET 10."
   }
 ]
