@@ -43558,5 +43558,35 @@
     "url": "https://github.com/aethai/ro3emu-server",
     "cover": "https://avatars.githubusercontent.com/u/16802497?v=4",
     "description": "Play Ragnarok Online 3 on your own server. Open-source RO3 server emulator: one click on Windows, host for friends on Windows or Linux. C# / .NET 10."
+  },
+  {
+    "name": "NetherSX2",
+    "slug": "nethersx2",
+    "creator": "nethersx2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nethersx2/NetherSX2",
+    "cover": "https://avatars.githubusercontent.com/u/229425720?v=4",
+    "description": "NetherSX2 is a PlayStation emulator created for the Android operating system. It lets people play games on their smartphones or tablets that are using PS2 ..."
+  },
+  {
+    "name": "BotW-SheikahVision",
+    "slug": "botw-sheikahvision",
+    "creator": "zlinoliver",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zlinoliver/BotW-SheikahVision",
+    "cover": "https://avatars.githubusercontent.com/u/907831?v=4",
+    "description": "A project aimed at providing a native VR mode for BotW on Apple Vision Pro, using static recompilation — no PC, no streaming, no emulator."
+  },
+  {
+    "name": "PeepeeBox",
+    "slug": "peepeebox",
+    "creator": "Xeon3D",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Xeon3D/PeepeeBox",
+    "cover": "https://avatars.githubusercontent.com/u/596627?v=4",
+    "description": "A vibe-coded thinned down fork of 86box made to just emulate funworld Photoplay machines."
   }
 ]
