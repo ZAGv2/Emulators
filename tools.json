@@ -43588,5 +43588,15 @@
     "url": "https://github.com/Xeon3D/PeepeeBox",
     "cover": "https://avatars.githubusercontent.com/u/596627?v=4",
     "description": "A vibe-coded thinned down fork of 86box made to just emulate funworld Photoplay machines."
+  },
+  {
+    "name": "SW2PS2",
+    "slug": "sw2ps2",
+    "creator": "Rodpad",
+    "version": "...",
+    "console": "PlayStation 2",
+    "url": "https://github.com/Rodpad/SW2PS2",
+    "cover": "https://avatars.githubusercontent.com/u/29373311?v=4",
+    "description": "PlayStation 2 emulator for the Nintendo Switch 2 (hbmenu / kaiHEN)"
   }
 ]
