@@ -43598,5 +43598,15 @@
     "url": "https://github.com/Rodpad/SW2PS2",
     "cover": "https://avatars.githubusercontent.com/u/29373311?v=4",
     "description": "PlayStation 2 emulator for the Nintendo Switch 2 (hbmenu / kaiHEN)"
+  },
+  {
+    "name": "baguette",
+    "slug": "baguette",
+    "creator": "tddworks",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/tddworks/baguette",
+    "cover": "https://avatars.githubusercontent.com/u/154110414?v=4",
+    "description": "Headless control for iOS simulators, real iPhones and Android emulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm"
   }
 ]
