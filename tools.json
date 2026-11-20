@@ -43618,5 +43618,65 @@
     "url": "https://github.com/EnamelSlugAcclaim/GTA6-KytyPS5-GTA-6",
     "cover": "https://avatars.githubusercontent.com/u/342535572?v=4",
     "description": "GTA6 PS5 emulator based on KytyPS5 with a focus on playable GTA VI: performance work, per-game profiles, shader cache and compatibility fixes. Windows. Bring GTA 6 on your PC now."
+  },
+  {
+    "name": "alacritty-alrira",
+    "slug": "alacritty-alrira",
+    "creator": "iftikharcoder2023",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/iftikharcoder2023/alacritty-alrira",
+    "cover": "https://avatars.githubusercontent.com/u/327080177?v=4",
+    "description": "GPU-accelerated terminal emulator configuration layer for Alacritty, managing settings and profiles."
+  },
+  {
+    "name": "asura-wrath-pc",
+    "slug": "asura-wrath-pc",
+    "creator": "RecompPort",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/RecompPort/asura-wrath-pc",
+    "cover": "https://avatars.githubusercontent.com/u/339557587?v=4",
+    "description": "Unofficial native PC port of Asura’s Wrath (PS3) via static recompilation. No emulator or PS3 firmware: build it from your own EU copy (BLES01227). Any resolution up to 4K, 30-120 fps, gamepad or keyboard, update + DLC, trophies, launcher. Windows; Linux and Steam Deck experimental. No game files include"
+  },
+  {
+    "name": "blackwall",
+    "slug": "blackwall",
+    "creator": "hmmhmmhm",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/hmmhmmhm/blackwall",
+    "cover": "https://avatars.githubusercontent.com/u/38493722?v=4",
+    "description": "Even Realities G2 firmware emulator for inspecting virtual boot, hardware events, and display output."
+  },
+  {
+    "name": "TomBox",
+    "slug": "tombox",
+    "creator": "drycheetah84",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/drycheetah84/TomBox",
+    "cover": "https://avatars.githubusercontent.com/u/273218975?v=4",
+    "description": "A Xbox Series X|S Emulator Designed to map and shim system apis to run games seamlessly"
+  },
+  {
+    "name": "php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "slug": "php2shell-cve-2026-109618-cve-2026-109619-poc",
+    "creator": "EngOREOO",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EngOREOO/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+    "cover": "https://avatars.githubusercontent.com/u/96397011?v=4",
+    "description": "Working local PoC for the php2shell PHP RCE pair (CVE-2026-109618, CVE-2026-109619): unauthenticated remote code execution via session.upload_progress multipart OOM in Apache mod_php. Docker A/B lab (8.4.26 vs 8.4.27), exploit patch for emulated x86-64, and patch-verification methodology."
+  },
+  {
+    "name": "maibot-body-emulator",
+    "slug": "maibot-body-emulator",
+    "creator": "ShuangziG",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ShuangziG/maibot-body-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/79075530?v=4",
+    "description": "给 MaiBot 加一副会饿、会困、会生病的身体。11 个生理系统耦合积分，心率血压血糖胃排空全实时，纯离线零 token。"
   }
 ]
