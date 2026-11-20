@@ -43608,5 +43608,15 @@
     "url": "https://github.com/tddworks/baguette",
     "cover": "https://avatars.githubusercontent.com/u/154110414?v=4",
     "description": "Headless control for iOS simulators, real iPhones and Android emulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm"
+  },
+  {
+    "name": "GTA6-KytyPS5-GTA-6",
+    "slug": "gta6-kytyps5-gta-6",
+    "creator": "EnamelSlugAcclaim",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/EnamelSlugAcclaim/GTA6-KytyPS5-GTA-6",
+    "cover": "https://avatars.githubusercontent.com/u/342535572?v=4",
+    "description": "GTA6 PS5 emulator based on KytyPS5 with a focus on playable GTA VI: performance work, per-game profiles, shader cache and compatibility fixes. Windows. Bring GTA 6 on your PC now."
   }
 ]
