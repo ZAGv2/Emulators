@@ -43678,5 +43678,25 @@
     "url": "https://github.com/ShuangziG/maibot-body-emulator",
     "cover": "https://avatars.githubusercontent.com/u/79075530?v=4",
     "description": "给 MaiBot 加一副会饿、会困、会生病的身体。11 个生理系统耦合积分，心率血压血糖胃排空全实时，纯离线零 token。"
+  },
+  {
+    "name": "dolphin-stream",
+    "slug": "dolphin-stream",
+    "creator": "NedjmeEddine",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/NedjmeEddine/dolphin-stream",
+    "cover": "https://avatars.githubusercontent.com/u/123811099?v=4",
+    "description": "Instant-play GameCube & Wii emulator for the web. Stream multi-GB ISOs on-demand inside a 64 MB RAM cache using WebAssembly, WebGPU, and predictive block streaming."
+  },
+  {
+    "name": "Controle-celular-web",
+    "slug": "controle-celular-web",
+    "creator": "Rafaellc2",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Rafaellc2/Controle-celular-web",
+    "cover": "https://avatars.githubusercontent.com/u/198794295?v=4",
+    "description": "Turn phones into virtual Xbox 360 gamepads over Wi-Fi (browser-based, no app). Multi-player, customizable HUD, gyroscope, rumble, live PC screen. Windows & Linux."
   }
 ]
