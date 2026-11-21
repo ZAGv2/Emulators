@@ -43698,5 +43698,15 @@
     "url": "https://github.com/Rafaellc2/Controle-celular-web",
     "cover": "https://avatars.githubusercontent.com/u/198794295?v=4",
     "description": "Turn phones into virtual Xbox 360 gamepads over Wi-Fi (browser-based, no app). Multi-player, customizable HUD, gyroscope, rumble, live PC screen. Windows & Linux."
+  },
+  {
+    "name": "xbox-emulator",
+    "slug": "xbox-emulator",
+    "creator": "omonkeyz",
+    "version": "...",
+    "console": "Xbox",
+    "url": "https://github.com/omonkeyz/xbox-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/246595960?v=4",
+    "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
   }
 ]
