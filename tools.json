@@ -43728,5 +43728,55 @@
     "url": "https://github.com/alexpetrovx1903z9/switch-firmware-19-keys-pack",
     "cover": "https://avatars.githubusercontent.com/u/278297865?v=4",
     "description": "Switch Emulator Firmware 19.0.1 + Keys Installer for Sudachi, Citron, Suyu & NSP-Box: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release."
+  },
+  {
+    "name": "PSX3IOS",
+    "slug": "psx3ios",
+    "creator": "xmiguel911x",
+    "version": "...",
+    "console": "iOS",
+    "url": "https://github.com/xmiguel911x/PSX3IOS",
+    "cover": "https://avatars.githubusercontent.com/u/76200412?v=4",
+    "description": "A PlayStation 3 emulator for iPhone and iPad, built on RPCS3. Beta."
+  },
+  {
+    "name": "Blitz-TheLeague-Recomp",
+    "slug": "blitz-theleague-recomp",
+    "creator": "nacholuver1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nacholuver1/Blitz-TheLeague-Recomp",
+    "cover": "https://avatars.githubusercontent.com/u/189543944?v=4",
+    "description": "Native Windows & Linux port of Blitz: The League (Xbox 360) via static recompilation with the ReXGlue SDK. No emulator, no game data included: bring your own disc dump."
+  },
+  {
+    "name": "ps5-backup-center",
+    "slug": "ps5-backup-center",
+    "creator": "consolecenterstudio",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/consolecenterstudio/ps5-backup-center",
+    "cover": "https://avatars.githubusercontent.com/u/355927560?v=4",
+    "description": "Back up, compare and sync PS5 games, saves, apps and DLC between two PS5s, USB drives, a NAS, and Switch / Switch 2 emulators — from the TV or any browser. Free, GPL-3.0, 19 languages."
+  },
+  {
+    "name": "bc250-emulators",
+    "slug": "bc250-emulators",
+    "creator": "MastaG",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MastaG/bc250-emulators",
+    "cover": "https://avatars.githubusercontent.com/u/15012115?v=4",
+    "description": "Emulator packages built for the AMD BC-250 (CachyOS/Arch pacman repository). Packaging only: no keys, firmware or games."
+  },
+  {
+    "name": "Blitz-TheLeague-II-Recomp",
+    "slug": "blitz-theleague-ii-recomp",
+    "creator": "nacholuver1",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nacholuver1/Blitz-TheLeague-II-Recomp",
+    "cover": "https://avatars.githubusercontent.com/u/189543944?v=4",
+    "description": "Native Windows & Linux port of Blitz: The League II (Xbox 360) via static recompilation with the ReXGlue SDK. No emulator, no game data included: bring your own disc dump."
   }
 ]
