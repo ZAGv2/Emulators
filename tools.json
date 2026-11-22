@@ -43708,5 +43708,25 @@
     "url": "https://github.com/omonkeyz/xbox-emulator",
     "cover": "https://avatars.githubusercontent.com/u/246595960?v=4",
     "description": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)"
+  },
+  {
+    "name": "switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
+    "slug": "switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
+    "creator": "nikita-deveng1999g0",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/nikita-deveng1999g0/switch-emulator-keys-firmware-nsp-box-xci-nsp-portable-x64",
+    "cover": "https://avatars.githubusercontent.com/u/278203424?v=4",
+    "description": "Switch Emulator Keys & Firmware NSP-Box Switch 2 XCI/NSP Decryption & Merge Toolkit: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release."
+  },
+  {
+    "name": "switch-firmware-19-keys-pack",
+    "slug": "switch-firmware-19-keys-pack",
+    "creator": "alexpetrovx1903z9",
+    "version": "...",
+    "console": "Nintendo Switch",
+    "url": "https://github.com/alexpetrovx1903z9/switch-firmware-19-keys-pack",
+    "cover": "https://avatars.githubusercontent.com/u/278297865?v=4",
+    "description": "Switch Emulator Firmware 19.0.1 + Keys Installer for Sudachi, Citron, Suyu & NSP-Box: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release."
   }
 ]
