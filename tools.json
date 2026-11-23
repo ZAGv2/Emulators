@@ -43788,5 +43788,15 @@
     "url": "https://github.com/pierridotite/mobile-agent-testers",
     "cover": "https://avatars.githubusercontent.com/u/132000863?v=4",
     "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs"
+  },
+  {
+    "name": "gta6-preload-emulator",
+    "slug": "gta6-preload-emulator",
+    "creator": "DanielrubioDominguez",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/DanielrubioDominguez/gta6-preload-emulator",
+    "cover": "https://avatars.githubusercontent.com/u/31328690?v=4",
+    "description": "Preload simulation environment for testing region-locked release workflows."
   }
 ]
