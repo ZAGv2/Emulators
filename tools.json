@@ -43778,5 +43778,15 @@
     "url": "https://github.com/nacholuver1/Blitz-TheLeague-II-Recomp",
     "cover": "https://avatars.githubusercontent.com/u/189543944?v=4",
     "description": "Native Windows & Linux port of Blitz: The League II (Xbox 360) via static recompilation with the ReXGlue SDK. No emulator, no game data included: bring your own disc dump."
+  },
+  {
+    "name": "mobile-agent-testers",
+    "slug": "mobile-agent-testers",
+    "creator": "pierridotite",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/pierridotite/mobile-agent-testers",
+    "cover": "https://avatars.githubusercontent.com/u/132000863?v=4",
+    "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs"
   }
 ]
