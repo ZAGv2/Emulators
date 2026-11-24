@@ -43888,5 +43888,25 @@
     "url": "https://github.com/kromych/BK-0011M",
     "cover": "https://avatars.githubusercontent.com/u/745493?v=4",
     "description": "An emulator of the Elektronika BK-0010, BK-0010.01 and BK-0011M computers, with guides from the original manuals"
+  },
+  {
+    "name": "Tandem",
+    "slug": "tandem",
+    "creator": "YoruDev-Ryland",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/YoruDev-Ryland/Tandem",
+    "cover": "https://avatars.githubusercontent.com/u/159859604?v=4",
+    "description": "Self-hosted save, state and config sync for emulators on Android handhelds: a Docker server, a web UI and an Android app."
+  },
+  {
+    "name": "orca-core-",
+    "slug": "orca-core",
+    "creator": "nelsonh612-dev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/nelsonh612-dev/orca-core-",
+    "cover": "https://avatars.githubusercontent.com/u/355471133?v=4",
+    "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
   }
 ]
