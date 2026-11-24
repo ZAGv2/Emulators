@@ -43798,5 +43798,95 @@
     "url": "https://github.com/DanielrubioDominguez/gta6-preload-emulator",
     "cover": "https://avatars.githubusercontent.com/u/31328690?v=4",
     "description": "Preload simulation environment for testing region-locked release workflows."
+  },
+  {
+    "name": "psEmuShell",
+    "slug": "psemushell",
+    "creator": "felipeAguiarCode",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/felipeAguiarCode/psEmuShell",
+    "cover": "https://avatars.githubusercontent.com/u/37452836?v=4",
+    "description": "A launcher based on PS5 to play emulators and recomps"
+  },
+  {
+    "name": "AnyXboxX",
+    "slug": "anyxboxx",
+    "creator": "LooperSalty",
+    "version": "...",
+    "console": "Xbox",
+    "url": "https://github.com/LooperSalty/AnyXboxX",
+    "cover": "https://avatars.githubusercontent.com/u/106304476?v=4",
+    "description": "AnyXboxX — prototype d'émulateur Xbox Series X (HLE du GDK sur Unicorn)"
+  },
+  {
+    "name": "gba-duo",
+    "slug": "gba-duo",
+    "creator": "khumam",
+    "version": "...",
+    "console": "Game Boy Advance",
+    "url": "https://github.com/khumam/gba-duo",
+    "cover": "https://avatars.githubusercontent.com/u/43531752?v=4",
+    "description": "GBADuo is a Game Boy Advance, Game Boy Color and Game Boy player for dual-screen Android handhelds."
+  },
+  {
+    "name": "eden-nx2-android",
+    "slug": "eden-nx2-android",
+    "creator": "JaviiDeveloper",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/JaviiDeveloper/eden-nx2-android",
+    "cover": "https://avatars.githubusercontent.com/u/342561275?v=4",
+    "description": "VERY Experimental Nintendo Switch 2 Emulator for Android"
+  },
+  {
+    "name": "tg-bot-sdk",
+    "slug": "tg-bot-sdk",
+    "creator": "kondaurovDev",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kondaurovDev/tg-bot-sdk",
+    "cover": "https://avatars.githubusercontent.com/u/13052743?v=4",
+    "description": "Type-safe Telegram Bot SDK for TypeScript: generated Bot API types, a zero-dependency fetch client, a bot framework and an in-memory emulator for tests"
+  },
+  {
+    "name": "77U-BETA",
+    "slug": "77u-beta",
+    "creator": "77emul",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/77emul/77U-BETA",
+    "cover": "https://avatars.githubusercontent.com/u/344503752?v=4",
+    "description": "Wii U emulator for iPhone and iPad, based on Cemu."
+  },
+  {
+    "name": "BSXbox",
+    "slug": "bsxbox",
+    "creator": "BSXbox",
+    "version": "...",
+    "console": "Xbox",
+    "url": "https://github.com/BSXbox/BSXbox",
+    "cover": "https://avatars.githubusercontent.com/u/359819892?v=4",
+    "description": "A Xbox Series X/S emulator*"
+  },
+  {
+    "name": "MizuBox",
+    "slug": "mizubox",
+    "creator": "Mizushi148",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Mizushi148/MizuBox",
+    "cover": "https://avatars.githubusercontent.com/u/359934668?v=4",
+    "description": "Xbox Series X|S (Scarlett) Pure Direct3D 12 SM 6.6 + DXR Tier 1.1 compatibility layer for Windows x64 — Enhanced Fork of AnyXboxSeries (CPAL-1.0)"
+  },
+  {
+    "name": "BK-0011M",
+    "slug": "bk-0011m",
+    "creator": "kromych",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kromych/BK-0011M",
+    "cover": "https://avatars.githubusercontent.com/u/745493?v=4",
+    "description": "An emulator of the Elektronika BK-0010, BK-0010.01 and BK-0011M computers, with guides from the original manuals"
   }
 ]
