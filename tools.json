@@ -43908,5 +43908,15 @@
     "url": "https://github.com/nelsonh612-dev/orca-core-",
     "cover": "https://avatars.githubusercontent.com/u/355471133?v=4",
     "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements."
+  },
+  {
+    "name": "emulate",
+    "slug": "emulate",
+    "creator": "vercel-labs",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/vercel-labs/emulate",
+    "cover": "https://avatars.githubusercontent.com/u/108547162?v=4",
+    "description": "API emulators for local dev, CI and sandboxes"
   }
 ]
