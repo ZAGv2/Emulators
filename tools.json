@@ -43918,5 +43918,35 @@
     "url": "https://github.com/vercel-labs/emulate",
     "cover": "https://avatars.githubusercontent.com/u/108547162?v=4",
     "description": "API emulators for local dev, CI and sandboxes"
+  },
+  {
+    "name": "pico-386",
+    "slug": "pico-386",
+    "creator": "xrip",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/xrip/pico-386",
+    "cover": "https://avatars.githubusercontent.com/u/420432?v=4",
+    "description": "386SX PC Emulator for RP2350 with VGA/EGA and Sound Blaster/MIDI and many other devices"
+  },
+  {
+    "name": "xvalkyrie",
+    "slug": "xvalkyrie",
+    "creator": "sammwyy",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/sammwyy/xvalkyrie",
+    "cover": "https://avatars.githubusercontent.com/u/44925968?v=4",
+    "description": "Experimental Xbox One (Durango) & Series X|S (Scarlett) compatibility layer for Windows"
+  },
+  {
+    "name": "Reach-Project-Emulator-For-GTA-6",
+    "slug": "reach-project-emulator-for-gta-6",
+    "creator": "ReachProject-Git",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ReachProject-Git/Reach-Project-Emulator-For-GTA-6",
+    "cover": "https://avatars.githubusercontent.com/u/361068444?v=4",
+    "description": "For GTA 6 files are not yet released but you can check for updates here : https://x.com/RainReachDetail"
   }
 ]
