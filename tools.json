@@ -44008,5 +44008,55 @@
     "url": "https://github.com/aquaplatinumberlitz/boom-kr-server",
     "cover": "https://avatars.githubusercontent.com/u/239736888?v=4",
     "description": "Rust server emulator for lastest Crazy Arcade KR 00967 client before end of service (8/2026)"
+  },
+  {
+    "name": "pcsx2-2-9-shadps4-vulkan-emulator-suite-tr",
+    "slug": "pcsx2-2-9-shadps4-vulkan-emulator-suite-tr",
+    "creator": "MarcosDupont37",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/MarcosDupont37/pcsx2-2-9-shadps4-vulkan-emulator-suite-tr",
+    "cover": "https://avatars.githubusercontent.com/u/299264726?v=4",
+    "description": "PCSX2 2.9 & shadPS4 0.21 — Portable Vulkan Konsol Emülatör Paketi x64 v1.9.7: Native Windows 10/11 (x64) studio environment with."
+  },
+  {
+    "name": "pcsx2-2-9-shadps4-vulkan-emulator-suite-tr",
+    "slug": "pcsx2-2-9-shadps4-vulkan-emulator-suite-tr",
+    "creator": "kimberlypolyakov93",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/kimberlypolyakov93/pcsx2-2-9-shadps4-vulkan-emulator-suite-tr",
+    "cover": "https://avatars.githubusercontent.com/u/331672754?v=4",
+    "description": "PCSX2 2.9 & shadPS4 0.21 — Portable Vulkan Konsol Emülatör Paketi x64 [2026] — Telemetry-free x64 desktop suite featuring isolated profile."
+  },
+  {
+    "name": "eden-emulator-pcsx2-2-9-portable-vulkan-suite-id",
+    "slug": "eden-emulator-pcsx2-2-9-portable-vulkan-suite-id",
+    "creator": "patricialiu33",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/patricialiu33/eden-emulator-pcsx2-2-9-portable-vulkan-suite-id",
+    "cover": "https://avatars.githubusercontent.com/u/331792756?v=4",
+    "description": "Eden Emulator & PCSX2 2.9 Portable Vulkan Suite — Emulator PS2 & Switch PC Ringan Indonesia 2026"
+  },
+  {
+    "name": "BetterAetherSX2",
+    "slug": "betteraethersx2",
+    "creator": "lucaaszsx",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/lucaaszsx/BetterAetherSX2",
+    "cover": "https://avatars.githubusercontent.com/u/117041743?v=4",
+    "description": "Standalone PS2 emulator for Android, built on PCSX2"
+  },
+  {
+    "name": "zeruko",
+    "slug": "zeruko",
+    "creator": "felipebasurto",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/felipebasurto/zeruko",
+    "cover": "https://avatars.githubusercontent.com/u/62935664?v=4",
+    "description": "Couch-friendly PlayStation 2 emulator for jailbroken PlayStation 4 consoles, based on PCSX2."
   }
 ]
