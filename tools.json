@@ -43948,5 +43948,65 @@
     "url": "https://github.com/ReachProject-Git/Reach-Project-Emulator-For-GTA-6",
     "cover": "https://avatars.githubusercontent.com/u/361068444?v=4",
     "description": "For GTA 6 files are not yet released but you can check for updates here : https://x.com/RainReachDetail"
+  },
+  {
+    "name": "google-ai-offer-subscription",
+    "slug": "google-ai-offer-subscription",
+    "creator": "wc4440222",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/wc4440222/google-ai-offer-subscription",
+    "cover": "https://avatars.githubusercontent.com/u/199748891?v=4",
+    "description": "Cross-agent skill: query and subscribe Google AI hidden offers via Play Billing on rooted Android emulator"
+  },
+  {
+    "name": "RE4Wii-Android",
+    "slug": "re4wii-android",
+    "creator": "PotatoRecomp",
+    "version": "...",
+    "console": "Android",
+    "url": "https://github.com/PotatoRecomp/RE4Wii-Android",
+    "cover": "https://avatars.githubusercontent.com/u/352981382?v=4",
+    "description": "Unofficial Android port of Resident Evil 4 Wii edition (RB4E08): PowerPC statically recompiled to C++, no emulator on the phone. Port made by xu@shiinobu."
+  },
+  {
+    "name": "shadps4-emulator-pc-indir-bloodborne-60fps-tr-2026",
+    "slug": "shadps4-emulator-pc-indir-bloodborne-60fps-tr-2026",
+    "creator": "roman6320",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/roman6320/shadps4-emulator-pc-indir-bloodborne-60fps-tr-2026",
+    "cover": "https://avatars.githubusercontent.com/u/323019582?v=4",
+    "description": "Shadps4 Emulator PC Indir Bloodborne 60fps Tr 2026 [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config"
+  },
+  {
+    "name": "shadps4-emulator-ps4-pc-portable-bloodborne-60fps-pl",
+    "slug": "shadps4-emulator-ps4-pc-portable-bloodborne-60fps-pl",
+    "creator": "Chavez46",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Chavez46/shadps4-emulator-ps4-pc-portable-bloodborne-60fps-pl",
+    "cover": "https://avatars.githubusercontent.com/u/293551749?v=4",
+    "description": "Shadps4 Emulator Ps4 PC Portable Bloodborne 60fps Pl [2026] — Standalone Windows 10/11 (x64) Release, Setup & Config"
+  },
+  {
+    "name": "ReBOX",
+    "slug": "rebox",
+    "creator": "Reyanon",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Reyanon/ReBOX",
+    "cover": "https://avatars.githubusercontent.com/u/343892952?v=4",
+    "description": "Multi-Arcade emulator for PS Vita"
+  },
+  {
+    "name": "boom-kr-server",
+    "slug": "boom-kr-server",
+    "creator": "aquaplatinumberlitz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/aquaplatinumberlitz/boom-kr-server",
+    "cover": "https://avatars.githubusercontent.com/u/239736888?v=4",
+    "description": "Rust server emulator for lastest Crazy Arcade KR 00967 client before end of service (8/2026)"
   }
 ]
