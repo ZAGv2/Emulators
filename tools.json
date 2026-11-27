@@ -44078,5 +44078,15 @@
     "url": "https://github.com/zortos293/XSEmu",
     "cover": "https://avatars.githubusercontent.com/u/65777760?v=4",
     "description": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL."
+  },
+  {
+    "name": "claude-p",
+    "slug": "claude-p",
+    "creator": "smithersai",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/smithersai/claude-p",
+    "cover": "https://avatars.githubusercontent.com/u/264758082?v=4",
+    "description": "Emulates claude -p by driving interactive Claude Code inside an in-process zmux PTY session."
   }
 ]
