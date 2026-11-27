@@ -44088,5 +44088,65 @@
     "url": "https://github.com/smithersai/claude-p",
     "cover": "https://avatars.githubusercontent.com/u/264758082?v=4",
     "description": "Emulates claude -p by driving interactive Claude Code inside an in-process zmux PTY session."
+  },
+  {
+    "name": "phone-connector-for-claude",
+    "slug": "phone-connector-for-claude",
+    "creator": "Emirborovac",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Emirborovac/phone-connector-for-claude",
+    "cover": "https://avatars.githubusercontent.com/u/142483523?v=4",
+    "description": "Give your Claude a phone: one-command Android emulator setup and a Claude Code skill to operate any app, with you in control."
+  },
+  {
+    "name": "rust-dos",
+    "slug": "rust-dos",
+    "creator": "dividebysandwich",
+    "version": "...",
+    "console": "DOS",
+    "url": "https://github.com/dividebysandwich/rust-dos",
+    "cover": "https://avatars.githubusercontent.com/u/23048489?v=4",
+    "description": "A fast DOS and Windows 9x Emulator with VR support, comprehensive sound (SB16, GUS, MT32 etc), graphics (Hercules/CGA/EGA/VGA/SVGA/S3/Voodoo etc.) and networking support, written in Rust."
+  },
+  {
+    "name": "rexpocket",
+    "slug": "rexpocket",
+    "creator": "leizhiyuan",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/leizhiyuan/rexpocket",
+    "cover": "https://avatars.githubusercontent.com/u/2684384?v=4",
+    "description": "Android client for Rex, the terminal multiplexer: see every host, session and tab, and open any pane as a full-screen terminal (Ghostty emulator). Made for driving AI coding agents - pi, Claude Code, Codex, Gemini - from your phone, over LAN or a built-in Tailscale node. Rex 的 Android 手机终端客户端。"
+  },
+  {
+    "name": "PS5-MultiBoot",
+    "slug": "ps5-multiboot",
+    "creator": "TheRealRexo",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/TheRealRexo/PS5-MultiBoot",
+    "cover": "https://avatars.githubusercontent.com/u/189953641?v=4",
+    "description": "PS5-MultiBoot boots Linux on a jailbroken PS5 (rest-mode resume) by defeating the hypervisor. Powered by 8 CPU cores (16 threads) at 3.5 GHz and a GPU at 2.23 GHz, it turns your PS5 Phat, Slim or Pro running 13.00, 13.20, 13.40, 13.42, or 13.60 into a capable desktop PC for Steam games and emulators."
+  },
+  {
+    "name": "Bouftou-Dofus-Touch-PC",
+    "slug": "bouftou-dofus-touch-pc",
+    "creator": "Wayomingg",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/Wayomingg/Bouftou-Dofus-Touch-PC",
+    "cover": "https://avatars.githubusercontent.com/u/273439074?v=4",
+    "description": "Play Dofus Touch on PC, Mac and Linux without an Android emulator. Multi-account tabs, split screen, smart forgemaging, autopilot, gear builder, dungeon guides and more. Available in English, French and Spanish."
+  },
+  {
+    "name": "EmuBuddy",
+    "slug": "emubuddy",
+    "creator": "portwally",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/portwally/EmuBuddy",
+    "cover": "https://avatars.githubusercontent.com/u/60068416?v=4",
+    "description": "EmuBuddy: cross-platform Apple IIgs emulator with a GS/OS-style UI"
   }
 ]
