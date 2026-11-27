@@ -44058,5 +44058,25 @@
     "url": "https://github.com/felipebasurto/zeruko",
     "cover": "https://avatars.githubusercontent.com/u/62935664?v=4",
     "description": "Couch-friendly PlayStation 2 emulator for jailbroken PlayStation 4 consoles, based on PCSX2."
+  },
+  {
+    "name": "VIctory-7900XTX",
+    "slug": "victory-7900xtx",
+    "creator": "avatarmanz",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+    "cover": "https://avatars.githubusercontent.com/u/64326402?v=4",
+    "description": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files."
+  },
+  {
+    "name": "XSEmu",
+    "slug": "xsemu",
+    "creator": "zortos293",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/zortos293/XSEmu",
+    "cover": "https://avatars.githubusercontent.com/u/65777760?v=4",
+    "description": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL."
   }
 ]
