@@ -44148,5 +44148,35 @@
     "url": "https://github.com/portwally/EmuBuddy",
     "cover": "https://avatars.githubusercontent.com/u/60068416?v=4",
     "description": "EmuBuddy: cross-platform Apple IIgs emulator with a GS/OS-style UI"
+  },
+  {
+    "name": "dolphin-emulator-pro-patcher-installer",
+    "slug": "dolphin-emulator-pro-patcher-installer",
+    "creator": "GuillaumeOmar",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/GuillaumeOmar/dolphin-emulator-pro-patcher-installer",
+    "cover": "https://avatars.githubusercontent.com/u/299262144?v=4",
+    "description": "Dolphin Emulator — Dolphin Emulator Portable & Windows Setup"
+  },
+  {
+    "name": "emulatorjs-dolphin-port",
+    "slug": "emulatorjs-dolphin-port",
+    "creator": "ReviRevi",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/ReviRevi/emulatorjs-dolphin-port",
+    "cover": "https://avatars.githubusercontent.com/u/47308403?v=4",
+    "description": "..."
+  },
+  {
+    "name": "caliza",
+    "slug": "caliza",
+    "creator": "felipebasurto",
+    "version": "...",
+    "console": "Multi Platform",
+    "url": "https://github.com/felipebasurto/caliza",
+    "cover": "https://avatars.githubusercontent.com/u/62935664?v=4",
+    "description": "Native PlayStation 2 emulator for PS4, ported from PCSX2."
   }
 ]
